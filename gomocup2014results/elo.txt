@@ -1,0 +1,37 @@
+Gomocup 2014 Elo ratings
+Games used: groups 1, 2, 3, fastgame
+Stat  - calculated by EloStat
+Bayes - calculated by BayesElo, probably more accurate
+ 
+        Name            Bayes   Stat    Games
+1       Yixin2014       2038    1740    216
+2       renjusolver     1898    1655     54
+3       hewer2014       1838    1553    216
+4       goro2014        1789    1517    216
+5       Tito2014        1769    1503    216
+6       sWINe2014       1736    1481    216
+7       HGarden07       1692    1453    216
+8       pela            1539    1389    282
+9       gmotor11        1534    1386    282
+10      SlowRenju2014   1457    1344    282
+11      HighFive        1427    1351    312
+12      Kanec           1418    1339    228
+13      amoeba10        1236    1235    228
+14      zetor           1170    1208    312
+15      jude            1164    1195    228
+16      Pecuchet        1118    1168    228
+17      licht14         1061    1159    246
+18      QMENTAT6        1061    1134    227
+19      Noesis          1056    1077     66
+20      Puskvorec       984     1116    246
+21      nabamoku        948     1079    312
+22      PureGM12        932     1086    246
+23      pisq7           913     1075    246
+24      fast-gomoku14   895     1063    246
+25      imro13          805     987      84
+26      Benjamin        749     970     245
+27      valkyrie        733     958     246
+28      fiverow         706     940     246
+29      prolog          642     893     246
+30      Crusher10       604     864     246
+31      mushroom        289     574     246

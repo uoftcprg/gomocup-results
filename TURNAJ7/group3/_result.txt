@@ -1,0 +1,37 @@
+-------------------------------------
+28.4.2006  9:21 - 9:44
+Èas na tah: 30 s,   Èas na partii: 180 s
+Tolerance: 200 ms,   Pamì: 350 MB,   Zahájení: 1
+Poèet her: 90
+-------------------------------------
+
+Goro2005
+vıhry: 29=15+14,  prohry: 1=0+1
+èas/tah: 707 ms (max: 19.5 s),  èas/partii: 10 s
+tahù/partii: 14,  CRC: bc59592a,   pamì: 1.78 MB
+
+Tito
+vıhry: 24=13+11,  prohry: 6=2+3+1
+èas/tah: 2185 ms (max: 26.6 s),  èas/partii: 33 s
+tahù/partii: 15,  CRC: a3482851,   pamì: 1.32 MB
+
+QMENTAT6
+vıhry: 15=9+6,  prohry: 15=6+9
+èas/tah: 1250 ms (max: 8.5 s),  èas/partii: 33 s
+tahù/partii: 26,  CRC: 7825efaf,   pamì: 1.34 MB
+
+LEONARDO
+vıhry: 11=6+5,  prohry: 19=9+10
+èas/tah: 53 ms (max: 0.2 s),  èas/partii: 1 s
+tahù/partii: 25,  CRC: 96a303fe,   pamì: 2.18 MB
+
+Puskvorec
+vıhry: 11=6+4+1,  prohry: 19=8+11
+èas/tah: 599 ms (max: 4.2 s),  èas/partii: 9 s
+tahù/partii: 16,  CRC: b89a06e8,   pamì: 1.88 MB
+
+CURNPIS
+vıhry: 0=0+0,  prohry: 30=15+15
+èas/tah: 62 ms (max: 0.4 s),  èas/partii: 1 s
+tahù/partii: 22,  CRC: f2623dd9,   pamì: 2.22 MB
+

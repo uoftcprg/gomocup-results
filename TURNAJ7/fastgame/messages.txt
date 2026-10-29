@@ -1,0 +1,4418 @@
+______________________________
+QMENTAT6 x swine
+ 5) swine.exe:   5.[ 9, 8]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 7, 9]  3422 ms...Val=   233 (1/14/20)
+ 9) swine.exe:   9.[10,10]  1312 ms...Val=   275 (1/2/4)
+11) swine.exe:  11.[ 5,10]     0 ms...Nedráždi svini bosou nohou.
+13) swine.exe:  13.[ 4, 8]  2500 ms...Val=   288 (1/3/20)
+15) swine.exe:  15.[ 9,13]  1375 ms...Val=   540 (1/1/20)
+17) swine.exe:  17.[ 7, 7]  1469 ms...Val=   718 (1/1/20)
+19) swine.exe:  19.[ 6, 7]   797 ms...Val=   901 (1/2/20)
+21) swine.exe:  21.[ 6,12]     0 ms...Kolik jich tam ještì máš?
+23) swine.exe:  23.[ 4, 7]  3172 ms...Val=  1688 (1/5/14)
+25) swine.exe:  25.[11, 7]   359 ms...Val=  1983 (1/1/20)
+27) swine.exe:  27.[ 4, 6]    16 ms...WIN PN1 4068/1361 Vypadá to výbornì.
+29) swine.exe:  29.[ 4, 5]    16 ms...WIN PN1 1951/644 To snad pude.
+31) swine.exe:  31.[ 5, 6]     0 ms...WIN PN1 1446/467 To snad pude.
+33) swine.exe:  33.[ 3, 4]     0 ms...WIN PN1 1128/368 Že by?.
+35) swine.exe:  35.[ 3, 6]     0 ms...WIN PN1 790/260 Držte si klobouky...
+37) swine.exe:  37.[ 1, 6]     0 ms...WIN PN1 159/51 To snad pude.
+39) swine.exe:  39.[ 2, 5]    15 ms...WIN PN1 128/41 Vypadá to výbornì.
+41) swine.exe:  41.[ 3, 9]     0 ms...Jen si hraj.
+43) swine.exe:  43.[ 9, 6]     0 ms...Baví tì to?
+45) swine.exe:  45.[10, 6]     0 ms...Baví tì to?
+47) swine.exe:  47.[ 4, 3]     0 ms...Juch!
+49) swine.exe:  49.[ 0, 7]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\fastgame\0x1-50(1).rec
+______________________________
+swine x QMENTAT6
+ 6) swine.exe:   6.[11, 6]   906 ms...Val=   730 (1/1/2)
+ 8) swine.exe:   8.[ 6, 8]  2156 ms...Val=   732 (1/1/20)
+10) swine.exe:  10.[ 5, 7]  1703 ms...Val=  1142 (1/6/20)
+12) swine.exe:  12.[ 7, 9]    94 ms...WIN PN1 918/303 Chro chro.
+14) swine.exe:  14.[ 8,10]     0 ms...WIN PN1 429/143 Snad jsem nic nepøehlídla..
+16) swine.exe:  16.[ 6,10]     0 ms...WIN PN1 166/53 To snad pude.
+18) swine.exe:  18.[ 6, 9]     0 ms...WIN PN1 163/52 Je to na dobré cestì.!
+20) swine.exe:  20.[ 6,11]    16 ms...WIN PN1 124/40 Snad jsem nic nepøehlídla..
+22) swine.exe:  22.[ 8, 9]     0 ms...WIN PN1 106/35 Tøi èuníci jdou...
+24) swine.exe:  24.[ 8,11]     0 ms...Ale to je mi líto.
+26) swine.exe:  26.[ 8, 7]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\1x0-27(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\fastgame\0x2-34(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\fastgame\2x0-35(1).rec
+______________________________
+QMENTAT6 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\0x4-5(1).rec
+______________________________
+QMENTAT6 x Noesis
+-> H:\gomocup-online\fastgame\0x3-42(1).rec
+______________________________
+bestmove x QMENTAT6
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x0-6(1).rec
+______________________________
+QMENTAT6 x kanec
+-> H:\gomocup-online\fastgame\0x6-30(1).rec
+______________________________
+kanec x QMENTAT6
+-> H:\gomocup-online\fastgame\6x0-21(1).rec
+______________________________
+QMENTAT6 x HGarden
+-> H:\gomocup-online\fastgame\0x5-42(1).rec
+______________________________
+Noesis x QMENTAT6
+-> H:\gomocup-online\fastgame\3x0-25(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\fastgame\0x8-26(1).rec
+______________________________
+HGarden x QMENTAT6
+-> H:\gomocup-online\fastgame\5x0-23(1).rec
+______________________________
+QMENTAT6 x AI1000
+-> H:\gomocup-online\fastgame\0x9-95(1).rec
+______________________________
+QMENTAT6 x Benjamin
+-> H:\gomocup-online\fastgame\0x10-76(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\fastgame\8x0-27(1).rec
+______________________________
+QMENTAT6 x pela
+47) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\0x7-52(1).rec
+______________________________
+QMENTAT6 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\0x11-5(1).rec
+______________________________
+pela x QMENTAT6
+-> H:\gomocup-online\fastgame\7x0-35(1).rec
+______________________________
+AI1000 x QMENTAT6
+-> H:\gomocup-online\fastgame\9x0-143(1).rec
+______________________________
+Benjamin x QMENTAT6
+-> H:\gomocup-online\fastgame\10x0-92(1).rec
+______________________________
+QMENTAT6 x pisq7
+-> H:\gomocup-online\fastgame\0x14-21(1).rec
+______________________________
+BRUTEFOR x QMENTAT6
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x0-6(1).rec
+______________________________
+pisq7 x QMENTAT6
+-> H:\gomocup-online\fastgame\14x0-50(1).rec
+______________________________
+QMENTAT6 x LEONARDO
+-> H:\gomocup-online\fastgame\0x13-29(1).rec
+______________________________
+QMENTAT6 x CURNPIS
+-> H:\gomocup-online\fastgame\0x12-37(1).rec
+______________________________
+LEONARDO x QMENTAT6
+-> H:\gomocup-online\fastgame\13x0-29(1).rec
+______________________________
+QMENTAT6 x trunkat
+-> H:\gomocup-online\fastgame\0x16-33(1).rec
+______________________________
+CURNPIS x QMENTAT6
+-> H:\gomocup-online\fastgame\12x0-74(1).rec
+______________________________
+trunkat x QMENTAT6
+-> H:\gomocup-online\fastgame\16x0-37(1).rec
+______________________________
+QMENTAT6 x Puskvorec
+-> H:\gomocup-online\fastgame\0x15-62(1).rec
+______________________________
+Puskvorec x QMENTAT6
+-> H:\gomocup-online\fastgame\15x0-25(1).rec
+______________________________
+QMENTAT6 x g_motor
+-> H:\gomocup-online\fastgame\0x17-82(1).rec
+______________________________
+swine x Goro2005
+ 6) swine.exe:   6.[ 7,10]  2906 ms...Val=   681 (1/8/20)
+ 8) swine.exe:   8.[ 8,11]  1062 ms...Val=   864 (1/1/3)
+10) swine.exe:  10.[ 7, 8]  1688 ms...Val=  1064 (1/1/4)
+12) swine.exe:  12.[ 7, 7]  3578 ms...Val=   865 (1/1/20)
+14) swine.exe:  14.[ 6, 8]    62 ms...WIN PN1 7014/2471 Snad jsem nic nepøehlídla..
+16) swine.exe:  16.[ 5, 8]    32 ms...WIN PN1 3608/1310 Snad jsem nic nepøehlídla..
+18) swine.exe:  18.[10,10]     0 ms...Dej mi pokoj.
+20) swine.exe:  20.[12,13]     0 ms...Co se dá dìlat?
+22) swine.exe:  22.[ 4,10]     0 ms...WIN fours seq 3 :-)
+24) swine.exe:  24.[ 4, 8]     0 ms...WIN fours seq 2 :-)
+26) swine.exe:  26.[ 4, 7]     0 ms...WIN fours seq 1 Tøi èuníci jdou...
+28) swine.exe:  28.[ 4, 9]     0 ms...Nechceš si o tom promluvit?
+30) swine.exe:  30.[ 4, 6]     0 ms...Zkus to znova
+-> H:\gomocup-online\fastgame\1x2-31(1).rec
+______________________________
+swine x Noesis
+ 6) swine.exe:   6.[11, 6]   938 ms...Val=   730 (1/1/2)
+ 8) swine.exe:   8.[ 9, 8]  1766 ms...Val=   895 (1/9/20)
+10) swine.exe:  10.[11, 8]  1203 ms...Val=   895 (1/1/20)
+12) swine.exe:  12.[10, 9]   750 ms...Val=  1015 (1/1/4)
+14) swine.exe:  14.[10, 5]     0 ms...Tohle mì nebaví.
+16) swine.exe:  16.[ 7, 7]    63 ms...WIN AB 1 :-)
+18) swine.exe:  18.[12, 2]     0 ms...Jen si hraj.
+20) swine.exe:  20.[ 9, 9]    15 ms...WIN fours seq 2 Vypadá to výbornì.
+22) swine.exe:  22.[ 9,10]    15 ms...WIN fours seq 1 Tøi èuníci jdou...
+24) swine.exe:  24.[12, 7]     0 ms...Juch!
+26) swine.exe:  26.[13, 6]     0 ms...Zkus trochu víc trénovat.
+-> H:\gomocup-online\fastgame\1x3-27(1).rec
+______________________________
+swine x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\1x4-5(1).rec
+______________________________
+g_motor x QMENTAT6
+-> H:\gomocup-online\fastgame\17x0-27(1).rec
+______________________________
+bestmove x swine
+ 5) swine.exe:   5.[ 7, 9]    78 ms...Val= 19540 (1/0/0)
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x1-6(1).rec
+______________________________
+swine x HGarden
+ 6) swine.exe:   6.[ 9, 9]  3063 ms...Val=   601 (1/1/20)
+ 8) swine.exe:   8.[ 9, 8]   109 ms...WIN PN1 2538/866 Že by?.
+10) swine.exe:  10.[14, 4]     0 ms...No jo.
+12) swine.exe:  12.[ 9,10]    78 ms...WIN PN1 757/262 Chro chro.
+14) swine.exe:  14.[10, 9]     0 ms...WIN PN1 638/223 Tøi èuníci jdou...
+16) swine.exe:  16.[12, 9]     0 ms...WIN PN1 88/31 :-))
+18) swine.exe:  18.[12,11]     0 ms...WIN PN1 118/42 Je to na dobré cestì.!
+20) swine.exe:  20.[13, 8]     0 ms...Dej mi pokoj.
+22) swine.exe:  22.[10, 6]     0 ms...Kolik jich tam ještì máš?
+24) swine.exe:  24.[12,10]     0 ms...Zkus trochu víc trénovat.
+26) swine.exe:  26.[12,12]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\1x5-27(1).rec
+______________________________
+HGarden x swine
+ 5) swine.exe:   5.[ 8,10]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9,10]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 8, 9]   984 ms...Val=   659 (1/1/3)
+11) swine.exe:  11.[ 8, 8]   938 ms...Val=   212 (1/2/20)
+13) swine.exe:  13.[10,11]  1172 ms...Val=   178 (1/1/20)
+15) swine.exe:  15.[ 7, 6]  1093 ms...Val=   242 (1/1/20)
+17) swine.exe:  17.[10, 5]  1172 ms...Val=   283 (1/1/20)
+19) swine.exe:  19.[11,12]   110 ms...Val=     9 (1/1/20)
+21) swine.exe:  21.[ 9, 4]    32 ms...Kví kví!
+23) swine.exe:  23.[10, 6]     0 ms...No jo.
+25) swine.exe:  25.[ 6, 9]     0 ms...No to je zábava.
+27) swine.exe:  27.[11, 8]     0 ms...Aj vaj
+29) swine.exe:  29.[ 0, 0]     0 ms...To se budu muset taky nauèit.
+-> H:\gomocup-online\fastgame\5x1-31(1).rec
+______________________________
+swine x kanec
+ 6) swine.exe:   6.[12, 9]  4172 ms...Val=   681 (1/7/14)
+ 8) swine.exe:   8.[13,11]  3297 ms...Val=   724 (1/5/20)
+10) swine.exe:  10.[ 9,13]  2281 ms...Val=   763 (1/1/4)
+12) swine.exe:  12.[11,10]  1984 ms...Val=   754 (1/1/5)
+14) swine.exe:  14.[ 8,11]  1750 ms...Val=  1028 (1/1/20)
+16) swine.exe:  16.[14, 8]   297 ms...Kví kví!
+18) swine.exe:  18.[13, 6]     0 ms...No to je zábava.
+20) swine.exe:  20.[14, 9]    94 ms...Kví kví!
+22) swine.exe:  22.[11, 5]     0 ms...No jo.
+24) swine.exe:  24.[10, 7]    15 ms...Tohle zkonèí špatnì
+26) swine.exe:  26.[ 8, 6]    16 ms...Dej mi pokoj.
+28) swine.exe:  28.[12, 6]    15 ms...Tohle zkonèí špatnì
+30) swine.exe:  30.[ 0, 0]    16 ms...To se ti povedlo.
+-> H:\gomocup-online\fastgame\1x6-32(1).rec
+______________________________
+Noesis x swine
+ 5) swine.exe:   5.[ 7,10]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 8,10]    62 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 9,11]    63 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[ 6,13]    78 ms...Val= 17857 (1/0/0)
+13) swine.exe:  13.[11, 8]     0 ms...No to je zábava.
+15) swine.exe:  15.[11,12]     0 ms...Už to nechci.
+17) swine.exe:  17.[10,10]  1500 ms...Val=   691 (1/1/20)
+19) swine.exe:  19.[ 9,14]  1062 ms...Val=   264 (1/1/20)
+21) swine.exe:  21.[ 7,14]   703 ms...Val=   558 (1/1/20)
+23) swine.exe:  23.[12,10]   516 ms...Val=   653 (1/13/20)
+25) swine.exe:  25.[ 6,12]     0 ms...No to je zábava.
+27) swine.exe:  27.[12, 9]     0 ms...Jen si hraj.
+29) swine.exe:  29.[13,12]   734 ms...Val=  1403 (1/2/20)
+31) swine.exe:  31.[ 8, 7]     0 ms...Dej mi pokoj.
+33) swine.exe:  33.[ 8,15]   172 ms...Val=  2087 (1/15/20)
+35) swine.exe:  35.[12,15]     0 ms...Co se dá dìlat?
+37) swine.exe:  37.[10,14]     0 ms...No to je zábava.
+39) swine.exe:  39.[ 8,17]   469 ms...Val=  2406 (1/1/20)
+41) swine.exe:  41.[ 7,15]  1469 ms...Val=  2354 (1/5/20)
+43) swine.exe:  43.[ 9,13]   671 ms...Val=  2520 (1/1/20)
+45) swine.exe:  45.[ 8, 8]   766 ms...Val=  2511 (1/1/20)
+47) swine.exe:  47.[13,11]     0 ms...Jen si hraj.
+49) swine.exe:  49.[11, 9]    16 ms...WIN PN1 794/284 Že by?.
+51) swine.exe:  51.[ 5,11]     0 ms...Jen si hraj.
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x1-52(1).rec
+______________________________
+Goro2005 x swine
+ 5) swine.exe:   5.[ 8,10]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 8,11]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 7,12]    62 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[ 5, 9]    78 ms...Val= 17857 (1/0/0)
+13) swine.exe:  13.[ 6,14]  2391 ms...Val=   331 (1/8/20)
+15) swine.exe:  15.[10,14]     0 ms...No to je zábava.
+17) swine.exe:  17.[ 7,13]  1328 ms...Val=   526 (1/1/20)
+19) swine.exe:  19.[ 9,12]  1953 ms...Val=   576 (1/2/20)
+21) swine.exe:  21.[ 5,12]  1844 ms...Val=   653 (2/1/20)
+23) swine.exe:  23.[ 8,16]     0 ms...Dej mi pokoj.
+25) swine.exe:  25.[ 6,16]  2109 ms...Val=    66 (1/2/20)
+27) swine.exe:  27.[10,15]  1313 ms...Val=   134 (1/2/20)
+29) swine.exe:  29.[ 9,14]  1984 ms...Val=  -177 (1/7/20)
+31) swine.exe:  31.[11,11]     0 ms...Nedráždi svini bosou nohou.
+33) swine.exe:  33.[10,11]     0 ms...Baví tì to?
+35) swine.exe:  35.[ 4,12]  1750 ms...Val=   516 (1/2/20)
+37) swine.exe:  37.[ 5,15]     0 ms...No to je zábava.
+39) swine.exe:  39.[ 4,17]     0 ms...Kolik jich tam ještì máš?
+41) swine.exe:  41.[12,13]     0 ms...Co se dá dìlat?
+43) swine.exe:  43.[13,15]     0 ms...No to je zábava.
+45) swine.exe:  45.[10,17]     0 ms...Nedráždi svini bosou nohou.
+47) swine.exe:  47.[ 8, 8]     0 ms...Necht toho.
+49) swine.exe:  49.[ 8, 9]     0 ms...WIN PN1 559/199 Vypadá to výbornì.
+51) swine.exe:  51.[11,12]     0 ms...WIN PN1 540/190 Chro chro.
+53) swine.exe:  53.[13,14]     0 ms...WIN PN1 492/173 Je to na dobré cestì.!
+55) swine.exe:  55.[ 6,12]    16 ms...WIN PN1 396/139 Tøi èuníci jdou...
+57) swine.exe:  57.[10,16]     0 ms...WIN PN1 316/113 To snad pude.
+59) swine.exe:  59.[13,16]     0 ms...WIN PN1 337/122 Chro chro.
+61) swine.exe:  61.[13,12]    16 ms...WIN fours seq 8 Že by?.
+63) swine.exe:  63.[14,11]     0 ms...WIN fours seq 7 Držte si klobouky...
+65) swine.exe:  65.[15,10]     0 ms...WIN fours seq 6 Tøi èuníci jdou...
+67) swine.exe:  67.[12,11]     0 ms...WIN fours seq 6 To snad pude.
+69) swine.exe:  69.[11,10]     0 ms...WIN fours seq 5 :-)
+71) swine.exe:  71.[14,13]     0 ms...WIN fours seq 4 Že by?.
+73) swine.exe:  73.[12,15]     0 ms...WIN fours seq 3 Je to na dobré cestì.!
+75) swine.exe:  75.[16,11]    16 ms...WIN fours seq 2 Je to na dobré cestì.!
+77) swine.exe:  77.[13, 8]     0 ms...WIN fours seq 1 To snad pude.
+79) swine.exe:  79.[14, 9]     0 ms...Tak snad nìkdy pøíštì.
+Goro2005.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\2x1-80(1).rec
+______________________________
+swine x Tito
+ 6) swine.exe:   6.[13,11]  3547 ms...Val=   803 (1/9/20)
+ 8) swine.exe:   8.[ 9,14]   828 ms...Val=   793 (1/1/4)
+10) swine.exe:  10.[14,11]   328 ms...WIN PN1 31567/11071 Tøi èuníci jdou...
+12) swine.exe:  12.[ 9, 9]     0 ms...Dej mi pokoj.
+14) swine.exe:  14.[13,12]    16 ms...WIN PN1 2601/904 To by mìlo vyjít.
+16) swine.exe:  16.[13,14]     0 ms...WIN PN1 727/267 Snad jsem nic nepøehlídla..
+18) swine.exe:  18.[11,14]    15 ms...WIN PN1 661/243 Snad jsem nic nepøehlídla..
+20) swine.exe:  20.[12,10]     0 ms...Dej mi pokoj.
+22) swine.exe:  22.[ 7,10]     0 ms...Dej mi pokoj.
+24) swine.exe:  24.[12,14]     0 ms...WIN fours seq 4 Chro chro.
+26) swine.exe:  26.[14,14]     0 ms...WIN fours seq 3 Je to na dobré cestì.!
+28) swine.exe:  28.[12,12]     0 ms...WIN fours seq 2 To snad pude.
+30) swine.exe:  30.[14,12]     0 ms...WIN fours seq 1 Chro chro.
+32) swine.exe:  32.[11, 9]    15 ms...Tøeba se to nìkdy nauèíš
+34) swine.exe:  34.[15,13]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\fastgame\1x8-35(1).rec
+______________________________
+swine x AI1000
+ 6) swine.exe:   6.[13, 8]  2812 ms...Val=   603 (1/1/20)
+ 8) swine.exe:   8.[14, 7]  3985 ms...Val=   773 (1/6/20)
+10) swine.exe:  10.[12, 5]   421 ms...WIN PN1 34152/13215 Vypadá to výbornì.
+12) swine.exe:  12.[13, 5]    94 ms...WIN PN1 1878/643 Je to na dobré cestì.!
+14) swine.exe:  14.[14, 5]     0 ms...WIN PN1 1196/423 Držte si klobouky...
+16) swine.exe:  16.[16, 5]     0 ms...WIN PN1 91/32 Držte si klobouky...
+18) swine.exe:  18.[15, 6]     0 ms...WIN PN1 80/28 Držte si klobouky...
+20) swine.exe:  20.[14, 6]     0 ms...WIN PN1 113/40 Je to na dobré cestì.!
+22) swine.exe:  22.[16, 6]     0 ms...Zkus trochu víc trénovat.
+24) swine.exe:  24.[12, 6]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\1x9-25(1).rec
+______________________________
+swine x pela
+ 6) swine.exe:   6.[12,11]  3016 ms...Val=   680 (1/8/20)
+ 8) swine.exe:   8.[13,12]  1907 ms...Val=   477 (1/15/20)
+10) swine.exe:  10.[14, 8]  1515 ms...Val=   571 (1/1/4)
+12) swine.exe:  12.[13,10]  1219 ms...Val=   575 (1/3/20)
+14) swine.exe:  14.[15,12]  2656 ms...Val=   966 (1/18/20)
+16) swine.exe:  16.[ 9,13]    15 ms...No jo.
+18) swine.exe:  18.[13,13]    15 ms...WIN PN1 2654/941 Držte si klobouky...
+20) swine.exe:  20.[14,12]     0 ms...WIN PN1 1872/676 Chro chro.
+22) swine.exe:  22.[16,12]    15 ms...WIN PN1 1207/433 Držte si klobouky...
+24) swine.exe:  24.[15,11]    16 ms...WIN PN1 843/303 Tøi èuníci jdou...
+26) swine.exe:  26.[15,13]     0 ms...WIN PN1 247/90 Tøi èuníci jdou...
+28) swine.exe:  28.[12,14]     0 ms...WIN PN1 232/81 :-)
+30) swine.exe:  30.[16,14]    16 ms...WIN PN1 112/37 Držte si klobouky...
+32) swine.exe:  32.[16,13]     0 ms...WIN PN1 115/39 Snad jsem nic nepøehlídla..
+34) swine.exe:  34.[14,13]     0 ms...Zkus to znova
+36) swine.exe:  36.[12,13]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\1x7-37(1).rec
+______________________________
+AI1000 x swine
+ 5) swine.exe:   5.[10,10]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9,12]  3344 ms...Val=   233 (1/12/20)
+ 9) swine.exe:   9.[ 8, 9]  1344 ms...Val=   275 (1/2/4)
+11) swine.exe:  11.[ 8,14]     0 ms...Tohle mì nebaví.
+13) swine.exe:  13.[11,12]  4172 ms...Val=   444 (1/11/14)
+15) swine.exe:  15.[10,13]  3515 ms...Val=   382 (1/1/13)
+17) swine.exe:  17.[12,10]  1750 ms...Val=   770 (1/4/20)
+19) swine.exe:  19.[13,10]   110 ms...WIN PN1 11875/4073 Je to na dobré cestì.!
+21) swine.exe:  21.[12,11]    47 ms...WIN PN1 4562/1591 :-))
+23) swine.exe:  23.[12, 8]    47 ms...WIN PN1 4432/1546 To by mìlo vyjít.
+25) swine.exe:  25.[11, 9]    31 ms...WIN PN1 3185/1124 :-))
+27) swine.exe:  27.[10, 8]    31 ms...WIN PN1 3177/1121 Tøi èuníci jdou...
+29) swine.exe:  29.[10, 7]    16 ms...WIN PN1 2000/721 To by mìlo vyjít.
+31) swine.exe:  31.[ 9, 8]     0 ms...WIN PN1 78/27 Chro chro.
+33) swine.exe:  33.[ 7,10]     0 ms...Nic si z toho nedìlej.
+35) swine.exe:  35.[11, 6]     0 ms...Tak snad nìkdy pøíštì.
+-> H:\gomocup-online\fastgame\9x1-36(1).rec
+______________________________
+swine x Benjamin
+ 6) swine.exe:   6.[10, 8]  2578 ms...Val=   601 (1/1/20)
+ 8) swine.exe:   8.[ 9, 9]  1422 ms...Val=   560 (1/3/20)
+10) swine.exe:  10.[11, 7]   203 ms...WIN PN1 15023/5263 To by mìlo vyjít.
+12) swine.exe:  12.[ 8, 8]   156 ms...WIN PN1 11565/4093 Je to na dobré cestì.!
+14) swine.exe:  14.[10, 6]    47 ms...WIN PN1 8480/3070 :-)
+16) swine.exe:  16.[ 9, 7]    31 ms...WIN PN1 4503/1641 To snad pude.
+18) swine.exe:  18.[ 8,10]     0 ms...WIN PN1 333/115 To snad pude.
+20) swine.exe:  20.[ 9,10]     0 ms...WIN PN1 206/71 Tøi èuníci jdou...
+22) swine.exe:  22.[ 7,10]     0 ms...Ale to je mi líto.
+24) swine.exe:  24.[11,10]     0 ms...Prohrál jste, saláte!
+-> H:\gomocup-online\fastgame\1x10-25(1).rec
+______________________________
+kanec x swine
+ 5) swine.exe:   5.[ 8,12]   110 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 8,11]   125 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 7,10]  1266 ms...Val=   600 (1/1/4)
+11) swine.exe:  11.[ 9,14]  4172 ms...Val=   559 (1/6/10)
+13) swine.exe:  13.[ 7,15]    15 ms...Tohle mì nebaví.
+15) swine.exe:  15.[ 6,15]  1859 ms...Val=   772 (1/1/20)
+17) swine.exe:  17.[11,10]  3750 ms...Val=   835 (1/5/6)
+19) swine.exe:  19.[ 5,13]  3109 ms...Val=   995 (1/4/7)
+21) swine.exe:  21.[ 5,12]  2594 ms...Val=  1105 (1/6/7)
+23) swine.exe:  23.[13,12]     0 ms...Už to nechci.
+25) swine.exe:  25.[ 6,12]   156 ms...Val=  1511 (1/1/20)
+27) swine.exe:  27.[10,16]   218 ms...Val=  1466 (1/14/20)
+29) swine.exe:  29.[ 8, 9]  1203 ms...Val=  1268 (1/2/20)
+31) swine.exe:  31.[ 3,16]     0 ms...No jo.
+33) swine.exe:  33.[10, 9]    47 ms...WIN PN1 3547/1258 To snad pude.
+35) swine.exe:  35.[ 8,17]     0 ms...Kolik jich tam ještì máš?
+37) swine.exe:  37.[ 9,16]     0 ms...Co se dá dìlat?
+39) swine.exe:  39.[ 9, 9]     0 ms...WIN PN1 1078/381 To snad pude.
+41) swine.exe:  41.[ 7, 9]    16 ms...WIN PN1 734/257 To snad pude.
+43) swine.exe:  43.[ 8, 8]    16 ms...WIN PN1 598/205 To by mìlo vyjít.
+45) swine.exe:  45.[ 7, 7]    16 ms...WIN PN1 589/202 Tøi èuníci jdou...
+47) swine.exe:  47.[ 7, 6]    16 ms...WIN fours seq 4 :-))
+49) swine.exe:  49.[ 8, 7]    15 ms...WIN fours seq 3 Chro chro.
+51) swine.exe:  51.[ 8, 6]     0 ms...WIN fours seq 2 Držte si klobouky...
+53) swine.exe:  53.[ 6, 6]     0 ms...WIN fours seq 1 Je to na dobré cestì.!
+55) swine.exe:  55.[ 9, 6]     0 ms...Zkus to znova
+57) swine.exe:  57.[10, 6]     0 ms...Zkus trochu víc trénovat.
+-> H:\gomocup-online\fastgame\6x1-58(1).rec
+______________________________
+swine x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\1x11-5(1).rec
+______________________________
+pela x swine
+ 5) swine.exe:   5.[12,10]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[12, 7]  4172 ms...Val=   357 (1/9/10)
+ 9) swine.exe:   9.[10, 8]  3485 ms...Val=   334 (1/3/20)
+11) swine.exe:  11.[12,11]  3641 ms...Val=   487 (1/9/20)
+13) swine.exe:  13.[15,10]  2656 ms...Val=   658 (1/18/20)
+15) swine.exe:  15.[15,11]  2203 ms...Val=   627 (1/2/20)
+17) swine.exe:  17.[11, 7]     0 ms...Baví tì to?
+19) swine.exe:  19.[ 8, 8]   282 ms...Val=   626 (1/1/20)
+21) swine.exe:  21.[ 8,10]    32 ms...Val= -1840 (1/9/20)
+23) swine.exe:  23.[14,12]    31 ms...Val= -2008 (1/8/20)
+25) swine.exe:  25.[14, 8]     0 ms...Hmm, to není dobrý
+26) pbrain-pela.exe:  I win !
+27) swine.exe:  27.[13,10]     0 ms...Jen si hraj.
+29) swine.exe:  29.[13, 5]     0 ms...Co se dá dìlat?
+31) swine.exe:  31.[ 0,19]     0 ms...Hmmmmm, dost dobrý.
+-> H:\gomocup-online\fastgame\7x1-33(1).rec
+______________________________
+BRUTEFOR x swine
+ 5) swine.exe:   5.[10,12]    94 ms...Val= 19540 (1/0/0)
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x1-6(1).rec
+______________________________
+Tito x swine
+ 5) swine.exe:   5.[ 9, 7]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9, 8]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 8, 9]    63 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[ 7, 7]  2968 ms...Val=   323 (1/4/20)
+13) swine.exe:  13.[11, 4]  1891 ms...Val=   501 (1/1/6)
+15) swine.exe:  15.[ 9, 4]  2563 ms...Val=   665 (1/5/20)
+17) swine.exe:  17.[12, 5]  1063 ms...Val=   382 (1/4/20)
+19) swine.exe:  19.[11, 8]  1312 ms...Val=   120 (1/1/20)
+21) swine.exe:  21.[ 6, 3]   813 ms...Val=   310 (1/1/20)
+23) swine.exe:  23.[ 8, 4]  2219 ms...Val=   852 (1/4/20)
+25) swine.exe:  25.[13, 7]  1000 ms...Val=   913 (1/1/20)
+27) swine.exe:  27.[ 6, 7]  1328 ms...WIN AB 3 To by mìlo vyjít.
+29) swine.exe:  29.[ 7,10]   297 ms...Val=  2318 (1/5/20)
+31) swine.exe:  31.[ 9, 2]   203 ms...Val=  2391 (1/2/20)
+33) swine.exe:  33.[ 6, 9]     0 ms...Kolik jich tam ještì máš?
+35) swine.exe:  35.[ 9, 3]    78 ms...WIN AB 1 Tøi èuníci jdou...
+37) swine.exe:  37.[ 9, 5]     0 ms...No to je zábava.
+39) swine.exe:  39.[ 7, 3]   188 ms...Val=   652 (1/1/20)
+41) swine.exe:  41.[ 5, 3]   141 ms...Val=   840 (1/3/20)
+43) swine.exe:  43.[ 4, 7]   140 ms...Val=   799 (1/1/20)
+45) swine.exe:  45.[12, 4]   187 ms...Val=   736 (1/1/20)
+47) swine.exe:  47.[ 8,10]   359 ms...Val=   645 (1/12/20)
+49) swine.exe:  49.[ 5, 5]   203 ms...Val=   587 (1/2/20)
+51) swine.exe:  51.[ 5,10]    47 ms...Val=  1015 (1/1/20)
+53) swine.exe:  53.[ 6, 8]     0 ms...Jen si hraj.
+55) swine.exe:  55.[ 3, 7]   266 ms...Val=   410 (1/2/20)
+57) swine.exe:  57.[14, 9]     0 ms...Už to nechci.
+59) swine.exe:  59.[ 5,11]   250 ms...Val=   628 (1/18/20)
+61) swine.exe:  61.[ 5,13]   422 ms...Val=   705 (1/18/20)
+63) swine.exe:  63.[ 7,11]     0 ms...Jen si hraj.
+65) swine.exe:  65.[ 6,13]     0 ms...No to je zábava.
+67) swine.exe:  67.[12, 9]   125 ms...Val=   677 (1/1/20)
+69) swine.exe:  69.[ 9,11]   297 ms...Val=   721 (1/1/20)
+71) swine.exe:  71.[ 5,12]   110 ms...WIN AB 1 :-)
+73) swine.exe:  73.[ 5, 4]   235 ms...WIN AB -1 Vypadá to výbornì.
+75) swine.exe:  75.[ 7,12]     0 ms...Tohle mì nebaví.
+77) swine.exe:  77.[ 3, 9]     0 ms...Jen si hraj.
+79) swine.exe:  79.[ 7, 6]     0 ms...Baví tì to?
+81) swine.exe:  81.[11,12]     0 ms...Co se dá dìlat?
+83) swine.exe:  83.[ 5,15]     0 ms...Nedráždi svini bosou nohou.
+85) swine.exe:  85.[17, 4]     0 ms...Co se dá dìlat?
+87) swine.exe:  87.[10, 1]     0 ms...Kolik jich tam ještì máš?
+89) swine.exe:  89.[10,10]     0 ms...No jo.
+91) swine.exe:  91.[ 4, 6]     0 ms...WIN fours seq 3 Tøi èuníci jdou...
+93) swine.exe:  93.[ 4, 3]     0 ms...WIN fours seq 2 Držte si klobouky...
+95) swine.exe:  95.[ 4, 5]     0 ms...WIN fours seq 1 Je to na dobré cestì.!
+97) swine.exe:  97.[ 3, 6]     0 ms...Ale to je mi líto.
+99) swine.exe:  99.[ 2, 7]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\8x1-100(1).rec
+______________________________
+Benjamin x swine
+ 5) swine.exe:   5.[ 7,10]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 8, 8]  3359 ms...Val=   233 (1/9/20)
+ 9) swine.exe:   9.[ 9,11]  1297 ms...Val=   275 (1/2/4)
+11) swine.exe:  11.[ 8, 6]  1469 ms...Val=   401 (1/2/20)
+13) swine.exe:  13.[ 9, 6]  1047 ms...Val=   260 (1/1/20)
+15) swine.exe:  15.[ 6, 6]  3797 ms...Val=   465 (1/12/16)
+17) swine.exe:  17.[ 7, 5]  3125 ms...Val=   648 (1/9/20)
+19) swine.exe:  19.[ 6, 7]   391 ms...Val=   848 (1/2/20)
+21) swine.exe:  21.[10, 7]   593 ms...Val=   861 (1/2/20)
+23) swine.exe:  23.[ 7, 4]    78 ms...Val=   896 (1/1/20)
+25) swine.exe:  25.[ 7, 3]    63 ms...Val=   785 (1/3/20)
+27) swine.exe:  27.[ 5, 4]    62 ms...Val=   633 (1/4/20)
+29) swine.exe:  29.[ 5,10]   203 ms...Val=   769 (1/11/20)
+31) swine.exe:  31.[ 5,12]   219 ms...Val=   960 (1/9/20)
+33) swine.exe:  33.[ 7,13]   640 ms...Val=   911 (1/20/20)
+35) swine.exe:  35.[ 8,13]   344 ms...Val=   951 (1/5/20)
+37) swine.exe:  37.[ 6,13]    78 ms...Val=   854 (1/2/20)
+39) swine.exe:  39.[ 4,11]     0 ms...WIN PN1 671/225 Je to na dobré cestì.!
+41) swine.exe:  41.[ 3,10]     0 ms...WIN fours seq 3 Že by?.
+43) swine.exe:  43.[ 4,13]     0 ms...WIN fours seq 2 Tøi èuníci jdou...
+45) swine.exe:  45.[ 4,10]     0 ms...WIN fours seq 1 Chro chro.
+47) swine.exe:  47.[ 4,12]     0 ms...Hmm, to máš blbý.
+49) swine.exe:  49.[ 4,14]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\10x1-50(1).rec
+______________________________
+swine x pisq7
+ 6) swine.exe:   6.[ 7,11]  3079 ms...Val=   601 (1/1/20)
+ 8) swine.exe:   8.[ 8,11]  1281 ms...Val=   619 (1/4/20)
+10) swine.exe:  10.[10,11]   109 ms...WIN PN1 253/91 Držte si klobouky...
+12) swine.exe:  12.[ 7,10]    93 ms...WIN PN1 234/84 To snad pude.
+14) swine.exe:  14.[10,13]     0 ms...WIN PN1 108/40 :-))
+16) swine.exe:  16.[10,12]    15 ms...Zkus trochu víc trénovat.
+18) swine.exe:  18.[10, 9]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\1x14-19(1).rec
+______________________________
+swine x CURNPIS
+ 6) swine.exe:   6.[ 7,10]  3078 ms...Val=   601 (1/1/20)
+ 8) swine.exe:   8.[ 6, 9]  1625 ms...Val=   595 (1/4/20)
+10) swine.exe:  10.[ 8,10]   906 ms...Val=   575 (1/1/20)
+12) swine.exe:  12.[10,10]  1453 ms...Val=   630 (1/3/20)
+14) swine.exe:  14.[11, 7]  2125 ms...Val=   618 (1/13/20)
+16) swine.exe:  16.[12, 8]   797 ms...Val=   558 (1/1/20)
+18) swine.exe:  18.[ 9, 7]    62 ms...Val=  1348 (1/1/20)
+20) swine.exe:  20.[11, 9]     0 ms...WIN PN1 193/70 To by mìlo vyjít.
+22) swine.exe:  22.[13, 7]     0 ms...WIN PN1 83/28 Chro chro.
+24) swine.exe:  24.[13, 9]     0 ms...WIN PN1 96/33 :-))
+26) swine.exe:  26.[10, 6]     0 ms...Juch!
+28) swine.exe:  28.[14,10]     0 ms...Tak snad nìkdy pøíštì.
+-> H:\gomocup-online\fastgame\1x12-29(1).rec
+______________________________
+swine x Puskvorec
+ 6) swine.exe:   6.[10,11]  2875 ms...Val=   681 (1/7/20)
+ 8) swine.exe:   8.[ 9,10]   766 ms...Val=   920 (1/1/20)
+10) swine.exe:  10.[ 9,12]  1797 ms...Val=  1178 (1/4/20)
+12) swine.exe:  12.[ 8,12]   984 ms...Val=  1258 (1/1/20)
+14) swine.exe:  14.[ 7,11]    15 ms...WIN PN1 1126/395 Snad jsem nic nepøehlídla..
+16) swine.exe:  16.[ 9,13]    16 ms...WIN PN1 560/200 Snad jsem nic nepøehlídla..
+18) swine.exe:  18.[ 7,14]     0 ms...WIN PN1 387/136 Vypadá to výbornì.
+20) swine.exe:  20.[ 7,12]     0 ms...WIN PN1 53/19 :-)
+22) swine.exe:  22.[ 7,13]     0 ms...Tak snad nìkdy pøíštì.
+24) swine.exe:  24.[ 7,10]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\1x15-25(1).rec
+______________________________
+pisq7 x swine
+ 5) swine.exe:   5.[ 9,10]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[10,10]    62 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 8,12]  1750 ms...Val=   644 (1/1/20)
+11) swine.exe:  11.[ 9, 8]  3313 ms...Val=   455 (1/4/20)
+13) swine.exe:  13.[ 9, 9]   125 ms...WIN PN1 5868/2086 Tøi èuníci jdou...
+15) swine.exe:  15.[11,11]    16 ms...WIN PN1 1354/468 Tøi èuníci jdou...
+17) swine.exe:  17.[ 8, 8]     0 ms...WIN PN1 322/116 Snad jsem nic nepøehlídla..
+19) swine.exe:  19.[11, 8]    16 ms...WIN PN1 379/135 To by mìlo vyjít.
+21) swine.exe:  21.[11, 9]     0 ms...WIN PN1 72/25 :-)
+23) swine.exe:  23.[ 9,11]     0 ms...Juch!
+25) swine.exe:  25.[12, 8]    15 ms...Juch!
+-> H:\gomocup-online\fastgame\14x1-26(1).rec
+______________________________
+swine x LEONARDO
+ 6) swine.exe:   6.[ 9,12]  4172 ms...Val=   601 (1/1/16)
+ 8) swine.exe:   8.[10,11]  2640 ms...Val=   560 (1/3/20)
+10) swine.exe:  10.[ 8,13]  3860 ms...Val=   545 (1/2/16)
+12) swine.exe:  12.[ 9,14]  1032 ms...WIN PN1 23112/8291 Chro chro.
+14) swine.exe:  14.[ 7,14]   641 ms...WIN PN1 16157/6062 :-))
+16) swine.exe:  16.[ 8,14]   640 ms...WIN PN1 17406/6524 Tøi èuníci jdou...
+18) swine.exe:  18.[ 8,15]   125 ms...WIN PN1 9723/3701 Chro chro.
+20) swine.exe:  20.[ 6,12]     0 ms...Nedráždi svini bosou nohou.
+22) swine.exe:  22.[11,14]     0 ms...WIN fours seq 3 Držte si klobouky...
+24) swine.exe:  24.[10,15]     0 ms...WIN fours seq 2 To by mìlo vyjít.
+26) swine.exe:  26.[ 8,17]     0 ms...WIN fours seq 1 Snad jsem nic nepøehlídla..
+28) swine.exe:  28.[ 9,16]     0 ms...Nechceš si o tom promluvit?
+30) swine.exe:  30.[ 7,18]     0 ms...Tak snad nìkdy pøíštì.
+-> H:\gomocup-online\fastgame\1x13-31(1).rec
+______________________________
+swine x trunkat
+ 6) swine.exe:   6.[11, 8]  2594 ms...Val=   830 (1/12/20)
+ 8) swine.exe:   8.[11, 9]   125 ms...WIN PN1 4033/1367 Že by?.
+10) swine.exe:  10.[12, 8]   109 ms...WIN PN1 2097/733 Vypadá to výbornì.
+12) swine.exe:  12.[10,10]   125 ms...WIN PN1 3827/1408 Že by?.
+14) swine.exe:  14.[11,11]     0 ms...WIN PN1 918/329 Že by?.
+16) swine.exe:  16.[14, 6]    16 ms...WIN PN1 946/314 Tøi èuníci jdou...
+18) swine.exe:  18.[14, 8]    15 ms...WIN PN1 686/232 To by mìlo vyjít.
+20) swine.exe:  20.[12,12]     0 ms...WIN PN1 164/70 To snad pude.
+22) swine.exe:  22.[12,10]     0 ms...WIN fours seq 1 :-)
+24) swine.exe:  24.[13, 9]    16 ms...Nic si z toho nedìlej.
+26) swine.exe:  26.[15, 7]    15 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\1x16-27(1).rec
+______________________________
+Puskvorec x swine
+ 5) swine.exe:   5.[10, 9]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[11, 5]  2391 ms...Val=   340 (2/5/20)
+ 9) swine.exe:   9.[ 9, 7]  1015 ms...Val=   189 (1/3/20)
+11) swine.exe:  11.[12, 7]   125 ms...WIN PN1 5220/1885 Chro chro.
+13) swine.exe:  13.[13, 6]    78 ms...WIN PN1 1068/367 To by mìlo vyjít.
+15) swine.exe:  15.[12, 6]     0 ms...WIN PN1 1018/354 :-))
+17) swine.exe:  17.[14, 6]     0 ms...WIN PN1 710/246 Vypadá to výbornì.
+19) swine.exe:  19.[12, 8]    16 ms...WIN PN1 1600/574 Je to na dobré cestì.!
+21) swine.exe:  21.[13, 8]     0 ms...WIN PN1 189/65 Že by?.
+23) swine.exe:  23.[10, 5]     0 ms...Zkus trochu víc trénovat.
+25) swine.exe:  25.[ 9, 4]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\15x1-26(1).rec
+______________________________
+LEONARDO x swine
+ 5) swine.exe:   5.[ 8, 9]   110 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9, 9]    94 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[10,10]    94 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[12,11]     0 ms...Už to nechci.
+13) swine.exe:  13.[11, 8]  1328 ms...Val=   569 (1/1/4)
+15) swine.exe:  15.[ 6,13]     0 ms...Co se dá dìlat?
+17) swine.exe:  17.[ 9,12]   891 ms...Val=  1085 (1/2/20)
+19) swine.exe:  19.[ 4, 7]     0 ms...Dej mi pokoj.
+21) swine.exe:  21.[12,12]  1063 ms...WIN PN1 62470/22108 Tøi èuníci jdou...
+23) swine.exe:  23.[11,12]   859 ms...WIN PN1 60002/21319 :-))
+25) swine.exe:  25.[13,10]     0 ms...WIN PN1 393/141 Že by?.
+27) swine.exe:  27.[14, 9]     0 ms...WIN PN1 62/22 Je to na dobré cestì.!
+29) swine.exe:  29.[12, 9]     0 ms...WIN PN1 51/18 To by mìlo vyjít.
+31) swine.exe:  31.[10, 7]     0 ms...Hmm, to máš blbý.
+33) swine.exe:  33.[14,11]    16 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\13x1-34(1).rec
+______________________________
+trunkat x swine
+ 5) swine.exe:   5.[ 9,10]    78 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 7, 8]   516 ms...WIN PN1 23879/9481 Vypadá to výbornì.
+ 9) swine.exe:   9.[ 6, 7]    93 ms...WIN PN1 2714/896 Chro chro.
+11) swine.exe:  11.[ 7, 7]    93 ms...WIN PN1 2330/773 To snad pude.
+13) swine.exe:  13.[ 5, 7]    78 ms...WIN PN1 265/90 Vypadá to výbornì.
+15) swine.exe:  15.[ 7, 6]    16 ms...WIN PN1 611/209 :-))
+17) swine.exe:  17.[ 7,10]     0 ms...WIN PN1 223/81 Že by?.
+19) swine.exe:  19.[ 6, 9]    16 ms...WIN PN1 394/132 Snad jsem nic nepøehlídla..
+21) swine.exe:  21.[ 5,10]     0 ms...WIN fours seq 2 :-)
+23) swine.exe:  23.[ 6,10]    16 ms...WIN fours seq 1 Že by?.
+25) swine.exe:  25.[ 6, 8]    16 ms...Zkus trochu víc trénovat.
+27) swine.exe:  27.[ 6, 6]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\16x1-28(1).rec
+______________________________
+Goro2005 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\2x4-5(1).rec
+______________________________
+Goro2005 x HGarden
+-> H:\gomocup-online\fastgame\2x5-21(1).rec
+______________________________
+Goro2005 x Noesis
+-> H:\gomocup-online\fastgame\2x3-27(1).rec
+______________________________
+CURNPIS x swine
+ 5) swine.exe:   5.[ 9,11]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[10,13]  2781 ms...Val=   233 (1/10/20)
+ 9) swine.exe:   9.[11,10]  1297 ms...Val=   275 (1/2/4)
+11) swine.exe:  11.[11,15]  2296 ms...Val=   394 (1/1/20)
+13) swine.exe:  13.[ 6,10]  3922 ms...Val=   775 (1/2/7)
+15) swine.exe:  15.[ 8,11]  3281 ms...Val=   810 (1/8/14)
+17) swine.exe:  17.[ 6,11]  2734 ms...Val=   892 (1/1/9)
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x1-18(1).rec
+______________________________
+bestmove x Goro2005
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x2-6(1).rec
+______________________________
+Noesis x Goro2005
+-> H:\gomocup-online\fastgame\3x2-22(1).rec
+______________________________
+swine x g_motor
+ 6) swine.exe:   6.[10, 6]  2563 ms...Val=   601 (1/1/20)
+ 8) swine.exe:   8.[12,11]  1218 ms...Val=   733 (1/1/3)
+10) swine.exe:  10.[ 9, 7]  2110 ms...Val=   652 (1/3/20)
+12) swine.exe:  12.[11, 8]  1469 ms...Val=   779 (1/1/5)
+14) swine.exe:  14.[13, 6]  3781 ms...Val=   819 (1/5/7)
+16) swine.exe:  16.[11, 5]  3141 ms...Val=   844 (1/15/16)
+18) swine.exe:  18.[14, 7]    16 ms...Jen si hraj.
+20) swine.exe:  20.[13, 4]  1313 ms...Val=   774 (1/18/20)
+22) swine.exe:  22.[11, 2]   422 ms...Val=   780 (1/14/20)
+24) swine.exe:  24.[15, 5]     0 ms...Kolik jich tam ještì máš?
+26) swine.exe:  26.[ 8, 6]    16 ms...WIN PN1 3420/1140 Že by?.
+28) swine.exe:  28.[11, 3]    16 ms...WIN PN1 2962/988 Držte si klobouky...
+30) swine.exe:  30.[10, 4]    16 ms...WIN PN1 420/146 Držte si klobouky...
+32) swine.exe:  32.[ 9, 3]     0 ms...WIN PN1 86/30 Že by?.
+34) swine.exe:  34.[12, 3]     0 ms...WIN PN1 71/25 Držte si klobouky...
+36) swine.exe:  36.[14, 5]     0 ms...Tøeba se to nìkdy nauèíš
+38) swine.exe:  38.[10, 1]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\1x17-39(1).rec
+______________________________
+Goro2005 x kanec
+-> H:\gomocup-online\fastgame\2x6-37(1).rec
+______________________________
+g_motor x swine
+ 5) swine.exe:   5.[10,10]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9,10]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 8,11]   750 ms...Val=   588 (1/1/4)
+11) swine.exe:  11.[12, 8]  1859 ms...Val=   667 (1/5/20)
+13) swine.exe:  13.[13,11]     0 ms...Nedráždi svini bosou nohou.
+15) swine.exe:  15.[13, 7]     0 ms...WIN PN1 1571/556 To snad pude.
+17) swine.exe:  17.[13, 9]     0 ms...WIN PN1 1201/431 Snad jsem nic nepøehlídla..
+19) swine.exe:  19.[ 7,11]     0 ms...Tohle mì nebaví.
+21) swine.exe:  21.[13, 8]     0 ms...WIN PN1 544/189 :-))
+23) swine.exe:  23.[10, 6]     0 ms...WIN PN1 408/146 :-))
+25) swine.exe:  25.[13, 6]     0 ms...WIN PN1 377/135 Tøi èuníci jdou...
+27) swine.exe:  27.[12, 7]    16 ms...WIN PN1 349/126 Že by?.
+29) swine.exe:  29.[12, 9]     0 ms...WIN PN3 47/19 To by mìlo vyjít.
+31) swine.exe:  31.[12, 6]     0 ms...Tøeba se to nìkdy nauèíš
+33) swine.exe:  33.[12, 5]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\17x1-34(1).rec
+______________________________
+HGarden x Goro2005
+-> H:\gomocup-online\fastgame\5x2-47(1).rec
+______________________________
+Goro2005 x Benjamin
+-> H:\gomocup-online\fastgame\2x10-23(1).rec
+______________________________
+Goro2005 x AI1000
+-> H:\gomocup-online\fastgame\2x9-25(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\fastgame\2x8-61(1).rec
+______________________________
+AI1000 x Goro2005
+-> H:\gomocup-online\fastgame\9x2-22(1).rec
+______________________________
+Benjamin x Goro2005
+-> H:\gomocup-online\fastgame\10x2-28(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\fastgame\8x2-24(1).rec
+______________________________
+Goro2005 x LEONARDO
+-> H:\gomocup-online\fastgame\2x13-21(1).rec
+______________________________
+Goro2005 x pela
+49) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\2x7-54(1).rec
+______________________________
+Goro2005 x CURNPIS
+-> H:\gomocup-online\fastgame\2x12-27(1).rec
+______________________________
+Goro2005 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\2x11-7(1).rec
+______________________________
+LEONARDO x Goro2005
+-> H:\gomocup-online\fastgame\13x2-28(1).rec
+______________________________
+BRUTEFOR x Goro2005
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x2-6(1).rec
+______________________________
+kanec x Goro2005
+-> H:\gomocup-online\fastgame\6x2-50(1).rec
+______________________________
+CURNPIS x Goro2005
+-> H:\gomocup-online\fastgame\12x2-26(1).rec
+______________________________
+Goro2005 x pisq7
+-> H:\gomocup-online\fastgame\2x14-19(1).rec
+______________________________
+Goro2005 x trunkat
+-> H:\gomocup-online\fastgame\2x16-19(1).rec
+______________________________
+pisq7 x Goro2005
+-> H:\gomocup-online\fastgame\14x2-18(1).rec
+______________________________
+trunkat x Goro2005
+-> H:\gomocup-online\fastgame\16x2-22(1).rec
+______________________________
+Goro2005 x Puskvorec
+-> H:\gomocup-online\fastgame\2x15-23(1).rec
+______________________________
+Puskvorec x Goro2005
+-> H:\gomocup-online\fastgame\15x2-20(1).rec
+______________________________
+Noesis x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x4-5(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\fastgame\3x5-19(1).rec
+______________________________
+bestmove x Noesis
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x3-6(1).rec
+______________________________
+Noesis x kanec
+-> H:\gomocup-online\fastgame\3x6-24(1).rec
+______________________________
+Goro2005 x g_motor
+-> H:\gomocup-online\fastgame\2x17-37(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\fastgame\5x3-19(1).rec
+______________________________
+kanec x Noesis
+-> H:\gomocup-online\fastgame\6x3-27(1).rec
+______________________________
+Noesis x Tito
+-> H:\gomocup-online\fastgame\3x8-24(1).rec
+______________________________
+g_motor x Goro2005
+-> H:\gomocup-online\fastgame\17x2-20(1).rec
+______________________________
+pela x Goro2005
+Goro2005.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x2-53(1).rec
+______________________________
+Tito x Noesis
+-> H:\gomocup-online\fastgame\8x3-29(1).rec
+______________________________
+Noesis x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\3x11-5(1).rec
+______________________________
+Noesis x Benjamin
+-> H:\gomocup-online\fastgame\3x10-29(1).rec
+______________________________
+Noesis x AI1000
+-> H:\gomocup-online\fastgame\3x9-25(1).rec
+______________________________
+BRUTEFOR x Noesis
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x3-6(1).rec
+______________________________
+Noesis x pela
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x7-20(1).rec
+______________________________
+Noesis x LEONARDO
+-> H:\gomocup-online\fastgame\3x13-23(1).rec
+______________________________
+Benjamin x Noesis
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x3-23(1).rec
+______________________________
+Noesis x CURNPIS
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x12-48(1).rec
+______________________________
+AI1000 x Noesis
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\9x3-35(1).rec
+______________________________
+pela x Noesis
+28) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x3-39(1).rec
+______________________________
+Noesis x pisq7
+-> H:\gomocup-online\fastgame\3x14-19(1).rec
+______________________________
+Noesis x Puskvorec
+-> H:\gomocup-online\fastgame\3x15-23(1).rec
+______________________________
+Noesis x trunkat
+-> H:\gomocup-online\fastgame\3x16-19(1).rec
+______________________________
+LEONARDO x Noesis
+-> H:\gomocup-online\fastgame\13x3-32(1).rec
+______________________________
+CURNPIS x Noesis
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x3-14(1).rec
+______________________________
+Puskvorec x Noesis
+-> H:\gomocup-online\fastgame\15x3-31(1).rec
+______________________________
+bestmove x HGarden
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x5-6(1).rec
+______________________________
+bestmove x kanec
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x6-6(1).rec
+______________________________
+HGarden x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\5x4-5(1).rec
+______________________________
+pisq7 x Noesis
+-> H:\gomocup-online\fastgame\14x3-39(1).rec
+______________________________
+trunkat x Noesis
+-> H:\gomocup-online\fastgame\16x3-27(1).rec
+______________________________
+kanec x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x4-5(1).rec
+______________________________
+Noesis x g_motor
+-> H:\gomocup-online\fastgame\3x17-19(1).rec
+______________________________
+bestmove x Tito
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x8-6(1).rec
+______________________________
+bestmove x AI1000
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x9-6(1).rec
+______________________________
+bestmove x pela
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x7-6(1).rec
+______________________________
+bestmove x Benjamin
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x10-6(1).rec
+______________________________
+Tito x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\8x4-5(1).rec
+______________________________
+AI1000 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\9x4-5(1).rec
+______________________________
+pela x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x4-5(1).rec
+______________________________
+Benjamin x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x4-5(1).rec
+______________________________
+bestmove x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\4x11-5(1).rec
+______________________________
+bestmove x CURNPIS
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x12-6(1).rec
+______________________________
+bestmove x LEONARDO
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x13-6(1).rec
+______________________________
+bestmove x pisq7
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x14-6(1).rec
+______________________________
+BRUTEFOR x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\11x4-5(1).rec
+______________________________
+CURNPIS x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\12x4-5(1).rec
+______________________________
+LEONARDO x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\13x4-5(1).rec
+______________________________
+pisq7 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\14x4-5(1).rec
+______________________________
+bestmove x Puskvorec
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x15-6(1).rec
+______________________________
+g_motor x Noesis
+-> H:\gomocup-online\fastgame\17x3-26(1).rec
+______________________________
+bestmove x trunkat
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x16-6(1).rec
+______________________________
+bestmove x g_motor
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x17-6(1).rec
+______________________________
+Puskvorec x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\15x4-5(1).rec
+______________________________
+trunkat x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\16x4-5(1).rec
+______________________________
+g_motor x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\17x4-5(1).rec
+______________________________
+HGarden x AI1000
+-> H:\gomocup-online\fastgame\5x9-23(1).rec
+______________________________
+HGarden x kanec
+-> H:\gomocup-online\fastgame\5x6-52(1).rec
+______________________________
+HGarden x Benjamin
+-> H:\gomocup-online\fastgame\5x10-31(1).rec
+______________________________
+AI1000 x HGarden
+-> H:\gomocup-online\fastgame\9x5-26(1).rec
+______________________________
+kanec x HGarden
+-> H:\gomocup-online\fastgame\6x5-25(1).rec
+______________________________
+HGarden x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\5x11-5(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\fastgame\5x7-31(1).rec
+______________________________
+Benjamin x HGarden
+-> H:\gomocup-online\fastgame\10x5-30(1).rec
+______________________________
+BRUTEFOR x HGarden
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x5-6(1).rec
+______________________________
+HGarden x pisq7
+-> H:\gomocup-online\fastgame\5x14-19(1).rec
+______________________________
+HGarden x Tito
+-> H:\gomocup-online\fastgame\5x8-57(1).rec
+______________________________
+HGarden x CURNPIS
+-> H:\gomocup-online\fastgame\5x12-41(1).rec
+______________________________
+pisq7 x HGarden
+-> H:\gomocup-online\fastgame\14x5-22(1).rec
+______________________________
+Tito x HGarden
+-> H:\gomocup-online\fastgame\8x5-23(1).rec
+______________________________
+HGarden x LEONARDO
+-> H:\gomocup-online\fastgame\5x13-43(1).rec
+______________________________
+HGarden x trunkat
+-> H:\gomocup-online\fastgame\5x16-23(1).rec
+______________________________
+HGarden x Puskvorec
+-> H:\gomocup-online\fastgame\5x15-23(1).rec
+______________________________
+CURNPIS x HGarden
+-> H:\gomocup-online\fastgame\12x5-26(1).rec
+______________________________
+Puskvorec x HGarden
+-> H:\gomocup-online\fastgame\15x5-18(1).rec
+______________________________
+LEONARDO x HGarden
+-> H:\gomocup-online\fastgame\13x5-20(1).rec
+______________________________
+trunkat x HGarden
+-> H:\gomocup-online\fastgame\16x5-28(1).rec
+______________________________
+kanec x Tito
+-> H:\gomocup-online\fastgame\6x8-29(1).rec
+______________________________
+HGarden x g_motor
+-> H:\gomocup-online\fastgame\5x17-29(1).rec
+______________________________
+kanec x AI1000
+-> H:\gomocup-online\fastgame\6x9-29(1).rec
+______________________________
+AI1000 x kanec
+-> H:\gomocup-online\fastgame\9x6-26(1).rec
+______________________________
+pela x HGarden
+pbrain-HGarden.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x5-49(1).rec
+______________________________
+g_motor x HGarden
+-> H:\gomocup-online\fastgame\17x5-21(1).rec
+______________________________
+kanec x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\6x11-5(1).rec
+______________________________
+kanec x Benjamin
+-> H:\gomocup-online\fastgame\6x10-35(1).rec
+______________________________
+kanec x CURNPIS
+-> H:\gomocup-online\fastgame\6x12-25(1).rec
+______________________________
+Tito x kanec
+-> H:\gomocup-online\fastgame\8x6-60(1).rec
+______________________________
+BRUTEFOR x kanec
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x6-6(1).rec
+______________________________
+Benjamin x kanec
+-> H:\gomocup-online\fastgame\10x6-32(1).rec
+______________________________
+kanec x pela
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x7-22(1).rec
+______________________________
+CURNPIS x kanec
+-> H:\gomocup-online\fastgame\12x6-26(1).rec
+______________________________
+kanec x Puskvorec
+-> H:\gomocup-online\fastgame\6x15-23(1).rec
+______________________________
+kanec x pisq7
+-> H:\gomocup-online\fastgame\6x14-19(1).rec
+______________________________
+kanec x LEONARDO
+-> H:\gomocup-online\fastgame\6x13-29(1).rec
+______________________________
+kanec x trunkat
+-> H:\gomocup-online\fastgame\6x16-21(1).rec
+______________________________
+Puskvorec x kanec
+-> H:\gomocup-online\fastgame\15x6-20(1).rec
+______________________________
+pisq7 x kanec
+-> H:\gomocup-online\fastgame\14x6-20(1).rec
+______________________________
+trunkat x kanec
+-> H:\gomocup-online\fastgame\16x6-22(1).rec
+______________________________
+kanec x g_motor
+-> H:\gomocup-online\fastgame\6x17-29(1).rec
+______________________________
+LEONARDO x kanec
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\13x6-31(1).rec
+______________________________
+pela x AI1000
+-> H:\gomocup-online\fastgame\7x9-35(1).rec
+______________________________
+pela x Benjamin
+-> H:\gomocup-online\fastgame\7x10-33(1).rec
+______________________________
+g_motor x kanec
+-> H:\gomocup-online\fastgame\17x6-24(1).rec
+______________________________
+pela x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\7x11-7(1).rec
+______________________________
+pela x kanec
+58) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x6-63(1).rec
+______________________________
+AI1000 x pela
+47) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\9x7-52(1).rec
+______________________________
+Benjamin x pela
+-> H:\gomocup-online\fastgame\10x7-60(1).rec
+______________________________
+pela x Tito
+-> H:\gomocup-online\fastgame\7x8-106(1).rec
+______________________________
+BRUTEFOR x pela
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x7-8(1).rec
+______________________________
+pela x LEONARDO
+-> H:\gomocup-online\fastgame\7x13-29(1).rec
+______________________________
+pela x pisq7
+-> H:\gomocup-online\fastgame\7x14-31(1).rec
+______________________________
+pela x CURNPIS
+38) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x12-43(1).rec
+______________________________
+pisq7 x pela
+-> H:\gomocup-online\fastgame\14x7-29(1).rec
+______________________________
+pela x trunkat
+24) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x16-29(1).rec
+______________________________
+pela x Puskvorec
+-> H:\gomocup-online\fastgame\7x15-37(1).rec
+______________________________
+LEONARDO x pela
+-> H:\gomocup-online\fastgame\13x7-42(1).rec
+______________________________
+Tito x pela
+-> H:\gomocup-online\fastgame\8x7-37(1).rec
+______________________________
+Tito x AI1000
+-> H:\gomocup-online\fastgame\8x9-21(1).rec
+______________________________
+CURNPIS x pela
+57) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\12x7-62(1).rec
+______________________________
+trunkat x pela
+-> H:\gomocup-online\fastgame\16x7-22(1).rec
+______________________________
+AI1000 x Tito
+-> H:\gomocup-online\fastgame\9x8-30(1).rec
+______________________________
+Tito x Benjamin
+-> H:\gomocup-online\fastgame\8x10-25(1).rec
+______________________________
+Tito x CURNPIS
+-> H:\gomocup-online\fastgame\8x12-27(1).rec
+______________________________
+CURNPIS x Tito
+-> H:\gomocup-online\fastgame\12x8-30(1).rec
+______________________________
+Benjamin x Tito
+-> H:\gomocup-online\fastgame\10x8-34(1).rec
+______________________________
+Tito x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\8x11-7(1).rec
+______________________________
+Tito x LEONARDO
+-> H:\gomocup-online\fastgame\8x13-21(1).rec
+______________________________
+Tito x pisq7
+-> H:\gomocup-online\fastgame\8x14-19(1).rec
+______________________________
+pisq7 x Tito
+-> H:\gomocup-online\fastgame\14x8-18(1).rec
+______________________________
+BRUTEFOR x Tito
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x8-6(1).rec
+______________________________
+LEONARDO x Tito
+-> H:\gomocup-online\fastgame\13x8-24(1).rec
+______________________________
+pela x g_motor
+-> H:\gomocup-online\fastgame\7x17-37(1).rec
+______________________________
+Tito x trunkat
+-> H:\gomocup-online\fastgame\8x16-21(1).rec
+______________________________
+Tito x Puskvorec
+-> H:\gomocup-online\fastgame\8x15-23(1).rec
+______________________________
+trunkat x Tito
+-> H:\gomocup-online\fastgame\16x8-22(1).rec
+______________________________
+Puskvorec x Tito
+-> H:\gomocup-online\fastgame\15x8-24(1).rec
+______________________________
+AI1000 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\9x11-5(1).rec
+______________________________
+Tito x g_motor
+-> H:\gomocup-online\fastgame\8x17-29(1).rec
+______________________________
+BRUTEFOR x AI1000
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x9-6(1).rec
+______________________________
+AI1000 x CURNPIS
+-> H:\gomocup-online\fastgame\9x12-30(1).rec
+______________________________
+Puskvorec x pela
+47) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\15x7-52(1).rec
+______________________________
+AI1000 x LEONARDO
+-> H:\gomocup-online\fastgame\9x13-41(1).rec
+______________________________
+g_motor x Tito
+-> H:\gomocup-online\fastgame\17x8-22(1).rec
+______________________________
+CURNPIS x AI1000
+-> H:\gomocup-online\fastgame\12x9-112(1).rec
+______________________________
+LEONARDO x AI1000
+-> H:\gomocup-online\fastgame\13x9-28(1).rec
+______________________________
+AI1000 x pisq7
+-> H:\gomocup-online\fastgame\9x14-48(1).rec
+______________________________
+pisq7 x AI1000
+-> H:\gomocup-online\fastgame\14x9-32(1).rec
+______________________________
+AI1000 x trunkat
+-> H:\gomocup-online\fastgame\9x16-30(1).rec
+______________________________
+AI1000 x Benjamin
+AI1000.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\9x10-280(1).rec
+______________________________
+g_motor x pela
+27) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\17x7-34(1).rec
+______________________________
+AI1000 x Puskvorec
+-> H:\gomocup-online\fastgame\9x15-26(1).rec
+______________________________
+trunkat x AI1000
+-> H:\gomocup-online\fastgame\16x9-31(1).rec
+______________________________
+AI1000 x g_motor
+-> H:\gomocup-online\fastgame\9x17-26(1).rec
+______________________________
+Puskvorec x AI1000
+-> H:\gomocup-online\fastgame\15x9-19(1).rec
+______________________________
+Benjamin x AI1000
+-> H:\gomocup-online\fastgame\10x9-69(1).rec
+______________________________
+Benjamin x pisq7
+-> H:\gomocup-online\fastgame\10x14-122(1).rec
+______________________________
+g_motor x AI1000
+-> H:\gomocup-online\fastgame\17x9-25(1).rec
+______________________________
+Benjamin x LEONARDO
+-> H:\gomocup-online\fastgame\10x13-178(1).rec
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\10x11-7(1).rec
+______________________________
+LEONARDO x Benjamin
+-> H:\gomocup-online\fastgame\13x10-40(1).rec
+______________________________
+pisq7 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\fastgame\14x10-397(1).rec
+______________________________
+BRUTEFOR x Benjamin
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x10-6(1).rec
+______________________________
+Benjamin x CURNPIS
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\10x12-297(1).rec
+______________________________
+Benjamin x trunkat
+-> H:\gomocup-online\fastgame\10x16-42(1).rec
+______________________________
+BRUTEFOR x CURNPIS
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x12-6(1).rec
+______________________________
+CURNPIS x Benjamin
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x10-58(1).rec
+______________________________
+trunkat x Benjamin
+-> H:\gomocup-online\fastgame\16x10-29(1).rec
+______________________________
+CURNPIS x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x11-5(1).rec
+______________________________
+BRUTEFOR x LEONARDO
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x13-6(1).rec
+______________________________
+BRUTEFOR x pisq7
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x14-6(1).rec
+______________________________
+BRUTEFOR x Puskvorec
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x15-6(1).rec
+______________________________
+LEONARDO x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\13x11-5(1).rec
+______________________________
+pisq7 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\14x11-5(1).rec
+______________________________
+Benjamin x Puskvorec
+Puskvorec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x15-45(1).rec
+______________________________
+Puskvorec x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\15x11-5(1).rec
+______________________________
+Benjamin x g_motor
+-> H:\gomocup-online\fastgame\10x17-137(1).rec
+______________________________
+BRUTEFOR x trunkat
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x16-6(1).rec
+______________________________
+BRUTEFOR x g_motor
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x17-6(1).rec
+______________________________
+Puskvorec x Benjamin
+-> H:\gomocup-online\fastgame\15x10-29(1).rec
+______________________________
+CURNPIS x LEONARDO
+-> H:\gomocup-online\fastgame\12x13-118(1).rec
+______________________________
+CURNPIS x pisq7
+-> H:\gomocup-online\fastgame\12x14-56(1).rec
+______________________________
+trunkat x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\16x11-5(1).rec
+______________________________
+pisq7 x CURNPIS
+-> H:\gomocup-online\fastgame\14x12-23(1).rec
+______________________________
+g_motor x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\17x11-5(1).rec
+______________________________
+LEONARDO x CURNPIS
+-> H:\gomocup-online\fastgame\13x12-64(1).rec
+______________________________
+LEONARDO x pisq7
+-> H:\gomocup-online\fastgame\13x14-19(1).rec
+______________________________
+CURNPIS x trunkat
+-> H:\gomocup-online\fastgame\12x16-26(1).rec
+______________________________
+CURNPIS x Puskvorec
+-> H:\gomocup-online\fastgame\12x15-28(1).rec
+______________________________
+pisq7 x LEONARDO
+-> H:\gomocup-online\fastgame\14x13-36(1).rec
+______________________________
+g_motor x Benjamin
+-> H:\gomocup-online\fastgame\17x10-34(1).rec
+______________________________
+Puskvorec x CURNPIS
+-> H:\gomocup-online\fastgame\15x12-27(1).rec
+______________________________
+trunkat x CURNPIS
+-> H:\gomocup-online\fastgame\16x12-43(1).rec
+______________________________
+LEONARDO x trunkat
+-> H:\gomocup-online\fastgame\13x16-35(1).rec
+______________________________
+CURNPIS x g_motor
+-> H:\gomocup-online\fastgame\12x17-32(1).rec
+______________________________
+LEONARDO x g_motor
+-> H:\gomocup-online\fastgame\13x17-26(1).rec
+______________________________
+trunkat x LEONARDO
+-> H:\gomocup-online\fastgame\16x13-24(1).rec
+______________________________
+pisq7 x Puskvorec
+-> H:\gomocup-online\fastgame\14x15-22(1).rec
+______________________________
+pisq7 x trunkat
+-> H:\gomocup-online\fastgame\14x16-24(1).rec
+______________________________
+g_motor x CURNPIS
+-> H:\gomocup-online\fastgame\17x12-30(1).rec
+______________________________
+LEONARDO x Puskvorec
+-> H:\gomocup-online\fastgame\13x15-62(1).rec
+______________________________
+trunkat x pisq7
+-> H:\gomocup-online\fastgame\16x14-27(1).rec
+______________________________
+Puskvorec x LEONARDO
+-> H:\gomocup-online\fastgame\15x13-33(1).rec
+______________________________
+g_motor x LEONARDO
+-> H:\gomocup-online\fastgame\17x13-49(1).rec
+______________________________
+Puskvorec x trunkat
+-> H:\gomocup-online\fastgame\15x16-22(1).rec
+______________________________
+pisq7 x g_motor
+-> H:\gomocup-online\fastgame\14x17-46(1).rec
+______________________________
+Puskvorec x pisq7
+-> H:\gomocup-online\fastgame\15x14-40(1).rec
+______________________________
+Puskvorec x g_motor
+-> H:\gomocup-online\fastgame\15x17-21(1).rec
+______________________________
+swine x QMENTAT6
+ 4) swine.exe:   4.[ 9,10]   125 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10,10]   125 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[10,13]   281 ms...WIN PN3 13382/4632 Tøi èuníci jdou...
+10) swine.exe:  10.[11,12]   266 ms...WIN PN1 12371/4292 :-)
+12) swine.exe:  12.[12,10]   157 ms...WIN PN1 3219/1136 Tøi èuníci jdou...
+14) swine.exe:  14.[ 8, 9]     0 ms...WIN PN1 1561/545 To by mìlo vyjít.
+16) swine.exe:  16.[11, 9]    31 ms...WIN PN1 2424/885 Chro chro.
+18) swine.exe:  18.[ 8,10]    16 ms...WIN PN1 184/63 To by mìlo vyjít.
+20) swine.exe:  20.[10, 8]    16 ms...WIN PN1 146/50 :-))
+22) swine.exe:  22.[ 5, 8]     0 ms...Co se dá dìlat?
+24) swine.exe:  24.[10, 9]     0 ms...WIN fours seq 1 Chro chro.
+26) swine.exe:  26.[ 9, 9]    16 ms...Ale to je mi líto.
+28) swine.exe:  28.[12, 9]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\1x0-29(1).rec
+______________________________
+trunkat x Puskvorec
+-> H:\gomocup-online\fastgame\16x15-21(1).rec
+______________________________
+g_motor x pisq7
+-> H:\gomocup-online\fastgame\17x14-21(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\fastgame\2x0-23(1).rec
+______________________________
+g_motor x Puskvorec
+-> H:\gomocup-online\fastgame\17x15-27(1).rec
+______________________________
+Noesis x QMENTAT6
+-> H:\gomocup-online\fastgame\3x0-23(1).rec
+______________________________
+trunkat x g_motor
+-> H:\gomocup-online\fastgame\16x17-61(1).rec
+______________________________
+QMENTAT6 x swine
+ 5) swine.exe:   5.[ 9, 9]  3110 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 8,12]  2719 ms...Val=   149 (1/1/4)
+ 9) swine.exe:   9.[13, 7]     0 ms...Necht toho.
+11) swine.exe:  11.[ 8,11]  2593 ms...Val=   475 (1/1/20)
+13) swine.exe:  13.[ 7, 8]  3593 ms...Val=   520 (1/3/15)
+15) swine.exe:  15.[10, 8]  3000 ms...Val=   559 (1/1/4)
+17) swine.exe:  17.[12, 7]   265 ms...Val=   661 (1/4/20)
+19) swine.exe:  19.[14, 7]   578 ms...WIN PN1 12688/4515 :-))
+21) swine.exe:  21.[13, 8]    16 ms...WIN PN1 1545/521 Je to na dobré cestì.!
+23) swine.exe:  23.[10, 7]     0 ms...WIN PN1 103/34 Snad jsem nic nepøehlídla..
+25) swine.exe:  25.[10, 5]     0 ms...WIN PN1 88/29 Že by?.
+27) swine.exe:  27.[10, 6]     0 ms...Tøeba se to nìkdy nauèíš
+29) swine.exe:  29.[10, 4]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\0x1-30(1).rec
+______________________________
+bestmove x QMENTAT6
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x0-4(1).rec
+______________________________
+g_motor x trunkat
+-> H:\gomocup-online\fastgame\17x16-23(1).rec
+______________________________
+QMENTAT6 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\0x4-5(2).rec
+______________________________
+kanec x QMENTAT6
+-> H:\gomocup-online\fastgame\6x0-23(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\fastgame\0x2-44(1).rec
+______________________________
+QMENTAT6 x Noesis
+-> H:\gomocup-online\fastgame\0x3-28(1).rec
+______________________________
+HGarden x QMENTAT6
+-> H:\gomocup-online\fastgame\5x0-27(1).rec
+______________________________
+AI1000 x QMENTAT6
+-> H:\gomocup-online\fastgame\9x0-56(1).rec
+______________________________
+QMENTAT6 x AI1000
+-> H:\gomocup-online\fastgame\0x9-49(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\fastgame\8x0-25(1).rec
+______________________________
+Benjamin x QMENTAT6
+-> H:\gomocup-online\fastgame\10x0-100(1).rec
+______________________________
+pela x QMENTAT6
+32) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x0-45(1).rec
+______________________________
+QMENTAT6 x kanec
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\0x6-23(1).rec
+______________________________
+QMENTAT6 x Benjamin
+-> H:\gomocup-online\fastgame\0x10-237(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\fastgame\0x8-36(1).rec
+______________________________
+CURNPIS x QMENTAT6
+-> H:\gomocup-online\fastgame\12x0-63(1).rec
+______________________________
+LEONARDO x QMENTAT6
+-> H:\gomocup-online\fastgame\13x0-46(1).rec
+______________________________
+QMENTAT6 x HGarden
+-> H:\gomocup-online\fastgame\0x5-42(2).rec
+______________________________
+pisq7 x QMENTAT6
+-> H:\gomocup-online\fastgame\14x0-73(1).rec
+______________________________
+QMENTAT6 x CURNPIS
+-> H:\gomocup-online\fastgame\0x12-121(1).rec
+______________________________
+BRUTEFOR x QMENTAT6
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x0-6(2).rec
+______________________________
+QMENTAT6 x pisq7
+-> H:\gomocup-online\fastgame\0x14-78(1).rec
+______________________________
+QMENTAT6 x pela
+-> H:\gomocup-online\fastgame\0x7-44(1).rec
+______________________________
+QMENTAT6 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\0x11-5(2).rec
+______________________________
+QMENTAT6 x LEONARDO
+-> H:\gomocup-online\fastgame\0x13-119(1).rec
+______________________________
+trunkat x QMENTAT6
+-> H:\gomocup-online\fastgame\16x0-57(1).rec
+______________________________
+Puskvorec x QMENTAT6
+-> H:\gomocup-online\fastgame\15x0-35(1).rec
+______________________________
+g_motor x QMENTAT6
+-> H:\gomocup-online\fastgame\17x0-31(1).rec
+______________________________
+QMENTAT6 x trunkat
+-> H:\gomocup-online\fastgame\0x16-26(1).rec
+______________________________
+QMENTAT6 x g_motor
+-> H:\gomocup-online\fastgame\0x17-26(1).rec
+______________________________
+bestmove x swine
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x1-4(1).rec
+______________________________
+swine x bestmove
+ 4) swine.exe:   4.[10, 9]   140 ms...Val= 20000 (4/0/0)
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\1x4-5(2).rec
+______________________________
+QMENTAT6 x Puskvorec
+Puskvorec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\0x15-59(1).rec
+______________________________
+Goro2005 x swine
+ 5) swine.exe:   5.[ 9,10]  1843 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 8,13]  1609 ms...Val=   149 (1/1/4)
+ 9) swine.exe:   9.[10,10]  2234 ms...Val=     9 (1/5/20)
+11) swine.exe:  11.[11, 9]  1093 ms...Val=  -155 (2/2/20)
+13) swine.exe:  13.[ 7, 9]  1594 ms...Val=   -25 (1/4/20)
+15) swine.exe:  15.[13,12]   954 ms...Val=   206 (1/1/20)
+17) swine.exe:  17.[11, 7]  1079 ms...Val=   162 (1/2/20)
+19) swine.exe:  19.[13, 8]  1141 ms...Val=   567 (1/1/20)
+21) swine.exe:  21.[ 8, 7]  1860 ms...Val=   487 (1/8/20)
+23) swine.exe:  23.[ 9, 6]   546 ms...Val=   -69 (1/19/20)
+25) swine.exe:  25.[ 9, 8]   625 ms...Val=  -242 (1/1/20)
+27) swine.exe:  27.[12, 7]    31 ms...:-(
+29) swine.exe:  29.[14, 6]    31 ms...Aj vaj
+31) swine.exe:  31.[ 7,11]    16 ms...Aj ta krajta.
+33) swine.exe:  33.[10, 6]     0 ms...Kolik jich tam ještì máš?
+35) swine.exe:  35.[19,19]    16 ms...Hmmmmm, dost dobrý.
+-> H:\gomocup-online\fastgame\2x1-37(1).rec
+______________________________
+Noesis x swine
+ 5) swine.exe:   5.[ 7,10]  1922 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 9, 8]  1359 ms...Val=   124 (1/1/20)
+ 9) swine.exe:   9.[ 7,11]   922 ms...Val=   -33 (1/1/5)
+11) swine.exe:  11.[11, 6]   172 ms...Val= -2696 (2/3/6)
+13) swine.exe:  13.[10, 9]   156 ms...Aj ta krajta.
+15) swine.exe:  15.[10,12]    94 ms...Kví kví!
+17) swine.exe:  17.[ 8,13]    47 ms...:-(
+19) swine.exe:  19.[ 6,12]  1219 ms...Val=    49 (1/10/20)
+21) swine.exe:  21.[ 5, 7]     0 ms...No to je zábava.
+23) swine.exe:  23.[ 6, 9]     0 ms...Baví tì to?
+25) swine.exe:  25.[ 8, 8]   500 ms...Val=   297 (1/1/20)
+27) swine.exe:  27.[ 7, 7]     0 ms...Jen si hraj.
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x1-28(1).rec
+______________________________
+kanec x swine
+ 5) swine.exe:   5.[ 8,10]  3203 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[10, 8]  2250 ms...Val=   124 (1/1/20)
+ 9) swine.exe:   9.[ 8,11]  1453 ms...Val=   -33 (1/1/5)
+11) swine.exe:  11.[11, 7]   343 ms...Val= -1690 (2/2/5)
+13) swine.exe:  13.[10,12]   297 ms...Kví kví!
+15) swine.exe:  15.[11, 9]    15 ms...Bojim, bojim.
+17) swine.exe:  17.[ 6,14]     0 ms...Kolik jich tam ještì máš?
+19) swine.exe:  19.[10,14]    15 ms...:-((
+21) swine.exe:  21.[19, 0]    16 ms...Hmmmmm, dost dobrý.
+-> H:\gomocup-online\fastgame\6x1-23(1).rec
+______________________________
+swine x Noesis
+ 4) swine.exe:   4.[ 8,12]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 9,12]    94 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[ 7,12]    94 ms...Val= 19886 (1/0/0)
+10) swine.exe:  10.[ 9, 9]    94 ms...Val= 18452 (1/0/0)
+12) swine.exe:  12.[10,10]    94 ms...WIN PN3 1857/678 Chro chro.
+14) swine.exe:  14.[11, 9]    15 ms...WIN PN1 98/35 Chro chro.
+16) swine.exe:  16.[11,12]     0 ms...WIN PN1 78/26 Že by?.
+18) swine.exe:  18.[11,11]     0 ms...WIN PN1 75/26 Tøi èuníci jdou...
+20) swine.exe:  20.[ 5,10]     0 ms...Už to nechci.
+22) swine.exe:  22.[ 4,14]     0 ms...Dej mi pokoj.
+24) swine.exe:  24.[11,10]     0 ms...Zkus trochu víc trénovat.
+26) swine.exe:  26.[11,13]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\1x3-27(2).rec
+______________________________
+swine x Goro2005
+ 4) swine.exe:   4.[ 9,10]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 9,11]    78 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[ 9, 8]    94 ms...Val= 19886 (2/0/0)
+10) swine.exe:  10.[ 7, 9]    94 ms...Val= 19680 (1/0/0)
+12) swine.exe:  12.[ 8, 8]  2093 ms...Val=   663 (1/4/20)
+14) swine.exe:  14.[ 6, 8]   328 ms...WIN PN1 47858/17966 Tøi èuníci jdou...
+16) swine.exe:  16.[ 6,10]   188 ms...WIN PN1 28151/10584 :-)
+18) swine.exe:  18.[ 5, 8]    46 ms...WIN PN1 7194/2730 Vypadá to výbornì.
+20) swine.exe:  20.[ 9, 7]    15 ms...WIN PN1 2445/937 Chro chro.
+22) swine.exe:  22.[ 6, 7]     0 ms...WIN PN1 2183/848 Vypadá to výbornì.
+24) swine.exe:  24.[ 7, 6]     0 ms...WIN PN1 823/311 Chro chro.
+26) swine.exe:  26.[ 4,13]     0 ms...No to je zábava.
+28) swine.exe:  28.[ 3,11]     0 ms...Jen si hraj.
+30) swine.exe:  30.[ 4, 9]     0 ms...Prohrál jste, saláte!
+32) swine.exe:  32.[ 8, 5]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\fastgame\1x2-33(1).rec
+______________________________
+HGarden x swine
+ 5) swine.exe:   5.[ 9, 9]  1922 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 6,10]  2297 ms...Val=    89 (2/2/20)
+ 9) swine.exe:   9.[ 9, 8]  1985 ms...Val=     9 (1/3/20)
+11) swine.exe:  11.[10, 7]  1063 ms...Val=  -155 (2/2/20)
+13) swine.exe:  13.[10,11]  1375 ms...Val=   -25 (1/4/20)
+15) swine.exe:  15.[12, 7]   610 ms...Val=    93 (1/2/20)
+17) swine.exe:  17.[12,10]  1656 ms...Val=    35 (1/1/20)
+19) swine.exe:  19.[10, 6]   750 ms...Val=  -343 (1/9/20)
+21) swine.exe:  21.[11, 7]   250 ms...Val=   -58 (1/1/20)
+23) swine.exe:  23.[13, 8]     0 ms...Kolik jich tam ještì máš?
+25) swine.exe:  25.[14, 6]   735 ms...Val=   -26 (1/1/20)
+27) swine.exe:  27.[16,10]  1844 ms...Val=   101 (1/2/20)
+29) swine.exe:  29.[14, 9]  1594 ms...Val=   166 (1/4/20)
+31) swine.exe:  31.[16,11]   296 ms...Val=   275 (1/2/20)
+33) swine.exe:  33.[15, 8]   266 ms...Val=  -195 (1/2/20)
+35) swine.exe:  35.[13, 9]     0 ms...Necht toho.
+37) swine.exe:  37.[15,12]    15 ms...Jen si hraj.
+39) swine.exe:  39.[16,13]    78 ms...Val=  -123 (1/15/20)
+41) swine.exe:  41.[12,11]    16 ms...To už asi nedoženu.
+43) swine.exe:  43.[14,12]     0 ms...Už to nechci.
+45) swine.exe:  45.[ 0,19]     0 ms...Tak kdo je tady vlastnì svinì?
+-> H:\gomocup-online\fastgame\5x1-47(1).rec
+______________________________
+AI1000 x swine
+ 5) swine.exe:   5.[ 7,12]  1938 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 6, 9]  1594 ms...Val=   149 (1/1/4)
+ 9) swine.exe:   9.[11,14]     0 ms...Dej mi pokoj.
+11) swine.exe:  11.[ 8,12]  2203 ms...Val=   299 (1/6/20)
+13) swine.exe:  13.[ 9,13]   688 ms...Val=   243 (1/1/3)
+15) swine.exe:  15.[10,11]  1844 ms...Val=   226 (1/5/20)
+17) swine.exe:  17.[ 8,10]   140 ms...Aj ta krajta.
+19) swine.exe:  19.[ 4,13]     0 ms...Nedráždi svini bosou nohou.
+21) swine.exe:  21.[ 3,15]     0 ms...Dej mi pokoj.
+23) swine.exe:  23.[10,14]  2078 ms...Val=   798 (1/11/20)
+25) swine.exe:  25.[ 7, 7]     0 ms...Nedráždi svini bosou nohou.
+27) swine.exe:  27.[12,14]     0 ms...WIN PN1 369/137 Je to na dobré cestì.!
+29) swine.exe:  29.[11,13]     0 ms...WIN PN1 286/108 To by mìlo vyjít.
+31) swine.exe:  31.[12,12]     0 ms...WIN PN1 377/139 Tøi èuníci jdou...
+33) swine.exe:  33.[13,11]     0 ms...WIN fours seq 2 :-))
+35) swine.exe:  35.[12,11]     0 ms...WIN fours seq 1 Chro chro.
+37) swine.exe:  37.[12,13]     0 ms...Tak snad nìkdy pøíštì.
+39) swine.exe:  39.[12,10]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\fastgame\9x1-40(1).rec
+______________________________
+swine x AI1000
+ 4) swine.exe:   4.[ 9, 8]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 8, 8]    94 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[ 8,11]   453 ms...WIN PN3 35926/13256 Je to na dobré cestì.!
+10) swine.exe:  10.[ 7,10]   422 ms...WIN PN1 32414/12074 Vypadá to výbornì.
+12) swine.exe:  12.[ 6,11]   156 ms...WIN PN1 9842/3401 Držte si klobouky...
+14) swine.exe:  14.[ 6, 8]    63 ms...WIN PN1 7767/2674 Že by?.
+16) swine.exe:  16.[ 6, 9]     0 ms...WIN PN1 73/24 To snad pude.
+18) swine.exe:  18.[ 6,10]     0 ms...Zkus trochu víc trénovat.
+20) swine.exe:  20.[ 6, 7]     0 ms...Tak snad nìkdy pøíštì.
+-> H:\gomocup-online\fastgame\1x9-21(1).rec
+______________________________
+Tito x swine
+ 5) swine.exe:   5.[12,11]  1953 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[12,12]  2250 ms...Val=   101 (2/2/20)
+ 9) swine.exe:   9.[13,14]  1969 ms...Val=    73 (1/2/4)
+11) swine.exe:  11.[10,12]  1438 ms...Val=   -96 (1/1/20)
+13) swine.exe:  13.[10,15]   875 ms...Val=   107 (1/1/6)
+15) swine.exe:  15.[13,15]  3297 ms...Val=   158 (1/1/20)
+17) swine.exe:  17.[ 9,14]  3032 ms...Val=    42 (1/5/12)
+19) swine.exe:  19.[ 8,11]  2172 ms...Val=    28 (1/9/20)
+21) swine.exe:  21.[ 8, 9]    78 ms...Val=  -133 (1/10/20)
+23) swine.exe:  23.[ 7, 9]    16 ms...:-(
+25) swine.exe:  25.[ 9,13]     0 ms...:-(
+27) swine.exe:  27.[ 5,13]     0 ms...Aj ta krajta.
+29) swine.exe:  29.[ 0, 0]     0 ms...To se budu muset taky nauèit.
+-> H:\gomocup-online\fastgame\8x1-31(1).rec
+______________________________
+swine x kanec
+ 4) swine.exe:   4.[ 9,10]   141 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 8, 9]   125 ms...Val= 20206 (1/0/0)
+ 8) swine.exe:   8.[11,10]  1500 ms...Val=   484 (1/1/20)
+10) swine.exe:  10.[13, 9]  2750 ms...Val=   592 (1/2/8)
+12) swine.exe:  12.[ 8,12]   859 ms...Val=   601 (1/1/10)
+14) swine.exe:  14.[ 9,11]  3032 ms...Val=   546 (2/1/20)
+16) swine.exe:  16.[ 7,13]  3594 ms...Val=   559 (1/2/6)
+18) swine.exe:  18.[13,12]  3000 ms...Val=   450 (1/5/14)
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\1x6-19(1).rec
+______________________________
+Benjamin x swine
+ 5) swine.exe:   5.[ 9,12]  1938 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[10,13]   891 ms...Val=   247 (1/1/20)
+ 9) swine.exe:   9.[ 8,10]  1766 ms...Val=   213 (1/6/20)
+11) swine.exe:  11.[ 7, 8]   954 ms...Val=   127 (1/2/6)
+13) swine.exe:  13.[ 9, 8]  1578 ms...Val=   263 (1/3/20)
+15) swine.exe:  15.[12,13]  2046 ms...Val=   339 (1/2/20)
+17) swine.exe:  17.[11,15]  2843 ms...Val=   410 (1/4/20)
+19) swine.exe:  19.[13,15]     0 ms...Jen si hraj.
+21) swine.exe:  21.[ 9,14]  2985 ms...Val=   739 (1/4/5)
+23) swine.exe:  23.[14,14]   110 ms...Val=   916 (1/1/20)
+25) swine.exe:  25.[ 9, 6]   313 ms...Val=   851 (1/11/20)
+27) swine.exe:  27.[ 8, 5]   235 ms...Val=   764 (1/6/20)
+29) swine.exe:  29.[ 9, 5]    31 ms...WIN PN1 4112/1427 Snad jsem nic nepøehlídla..
+31) swine.exe:  31.[ 7, 5]    16 ms...WIN PN1 2397/844 :-))
+33) swine.exe:  33.[ 6, 5]     0 ms...WIN PN1 1082/386 Tøi èuníci jdou...
+35) swine.exe:  35.[ 7, 6]     0 ms...WIN PN1 711/243 Chro chro.
+37) swine.exe:  37.[10, 7]    15 ms...:-(
+39) swine.exe:  39.[ 6, 6]    31 ms...Val=   894 (1/1/20)
+41) swine.exe:  41.[ 6, 7]     0 ms...WIN PN1 42/18 Snad jsem nic nepøehlídla..
+43) swine.exe:  43.[ 6, 4]    16 ms...Zkus trochu víc trénovat.
+45) swine.exe:  45.[ 6, 3]     0 ms...Tak snad nìkdy pøíštì.
+-> H:\gomocup-online\fastgame\10x1-46(1).rec
+______________________________
+pela x swine
+ 5) swine.exe:   5.[ 8,10]  2563 ms...Val=   148 (1/3/20)
+ 7) swine.exe:   7.[ 9,12]  4172 ms...Val=    57 (1/1/19)
+ 9) swine.exe:   9.[ 6,10]  3891 ms...Val=   149 (1/13/13)
+11) swine.exe:  11.[ 7,13]  3234 ms...Val=   -24 (1/5/7)
+13) swine.exe:  13.[ 6,12]  2688 ms...Val=    75 (1/3/9)
+15) swine.exe:  15.[ 8,15]   703 ms...Val=   141 (1/7/20)
+17) swine.exe:  17.[ 5,12]   297 ms...Val=   450 (1/4/20)
+19) swine.exe:  19.[10, 9]   250 ms...Val=   181 (1/8/20)
+21) swine.exe:  21.[ 5,14]    78 ms...Val=     8 (1/1/20)
+23) swine.exe:  23.[ 9,15]   797 ms...Val=   144 (1/15/20)
+25) swine.exe:  25.[ 9,10]    16 ms...Už to nechci.
+27) swine.exe:  27.[ 8, 9]   360 ms...Val=   -27 (1/1/20)
+29) swine.exe:  29.[ 7, 8]   172 ms...Val=   220 (1/5/20)
+31) swine.exe:  31.[ 8, 7]     0 ms...Baví tì to?
+33) swine.exe:  33.[10,10]    78 ms...Val=   551 (1/1/20)
+35) swine.exe:  35.[ 5, 5]     0 ms...Jen si hraj.
+37) swine.exe:  37.[ 9, 5]     0 ms...Tohle mì nebaví.
+39) swine.exe:  39.[ 8, 5]   922 ms...Val=   258 (1/14/20)
+41) swine.exe:  41.[12,10]    32 ms...Val= -1363 (1/10/20)
+43) swine.exe:  43.[ 8,14]    16 ms...Val= -1622 (1/8/20)
+45) swine.exe:  45.[ 7, 6]    31 ms...Aj vaj
+47) swine.exe:  47.[ 7, 5]     0 ms...Tohle zkonèí špatnì
+49) swine.exe:  49.[ 0, 0]     0 ms...Gratuluju
+-> H:\gomocup-online\fastgame\7x1-51(1).rec
+______________________________
+swine x Benjamin
+ 4) swine.exe:   4.[12,10]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[12, 9]    94 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[12,12]    94 ms...Val= 19886 (2/0/0)
+10) swine.exe:  10.[10,11]    94 ms...Val= 19680 (1/0/0)
+12) swine.exe:  12.[13, 8]    94 ms...WIN PN1 861/307 To by mìlo vyjít.
+14) swine.exe:  14.[13,11]     0 ms...WIN PN1 623/217 Držte si klobouky...
+16) swine.exe:  16.[14,10]    16 ms...WIN PN1 187/68 :-))
+18) swine.exe:  18.[13,10]     0 ms...WIN fours seq 1 To by mìlo vyjít.
+20) swine.exe:  20.[13, 9]     0 ms...Tøeba se to nìkdy nauèíš
+22) swine.exe:  22.[13,12]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\fastgame\1x10-23(1).rec
+______________________________
+BRUTEFOR x swine
+ 5) swine.exe:   5.[ 8,11]  3125 ms...Val=   194 (1/1/19)
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x1-6(2).rec
+______________________________
+swine x Tito
+ 4) swine.exe:   4.[10,11]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[11,12]    94 ms...Val= 20206 (1/0/0)
+ 8) swine.exe:   8.[ 8,11]   890 ms...Val=   484 (1/1/20)
+10) swine.exe:  10.[ 6,12]  1766 ms...Val=   592 (1/2/8)
+12) swine.exe:  12.[11, 9]   531 ms...Val=   601 (1/1/10)
+14) swine.exe:  14.[10,10]  1516 ms...Val=   546 (2/1/20)
+16) swine.exe:  16.[11, 7]  3063 ms...Val=   602 (1/6/20)
+18) swine.exe:  18.[ 5, 9]   906 ms...Val=   617 (1/2/20)
+20) swine.exe:  20.[ 6, 9]     0 ms...Nedráždi svini bosou nohou.
+22) swine.exe:  22.[13, 7]   203 ms...Val=   608 (1/9/20)
+24) swine.exe:  24.[13,14]   109 ms...Val=   405 (1/8/20)
+26) swine.exe:  26.[10,14]    31 ms...To vypadá zle.
+28) swine.exe:  28.[ 8, 6]     0 ms...No to je zábava.
+30) swine.exe:  30.[ 0,19]     0 ms...To se budu muset taky nauèit.
+-> H:\gomocup-online\fastgame\1x8-32(1).rec
+______________________________
+swine x HGarden
+ 4) swine.exe:   4.[11, 8]    93 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10, 8]    94 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[13, 8]  1031 ms...Val=   480 (1/5/20)
+10) swine.exe:  10.[12,10]   688 ms...Val=   374 (1/1/20)
+12) swine.exe:  12.[ 9, 8]   922 ms...Val=   628 (1/1/5)
+14) swine.exe:  14.[13, 9]  1406 ms...Val=   790 (1/4/20)
+16) swine.exe:  16.[11, 6]  1937 ms...Val=   728 (1/15/20)
+18) swine.exe:  18.[ 7,10]  3969 ms...Val=   601 (1/9/10)
+20) swine.exe:  20.[13,11]  1312 ms...Val=   650 (1/20/20)
+22) swine.exe:  22.[11,11]  1312 ms...Val=   650 (1/2/20)
+24) swine.exe:  24.[13,12]    94 ms...WIN PN1 12391/5065 Je to na dobré cestì.!
+26) swine.exe:  26.[14,11]    78 ms...WIN PN1 11170/4523 :-))
+28) swine.exe:  28.[15,10]    46 ms...WIN PN1 6888/2870 Chro chro.
+30) swine.exe:  30.[14, 8]   156 ms...WIN PN1 18888/7849 :-))
+32) swine.exe:  32.[14, 9]   125 ms...WIN PN1 16865/6934 To by mìlo vyjít.
+34) swine.exe:  34.[14, 7]   187 ms...Val=   210 (1/1/20)
+36) swine.exe:  36.[10, 7]     0 ms...WIN PN1 188/78 :-)
+38) swine.exe:  38.[12, 5]     0 ms...WIN PN1 212/87 Je to na dobré cestì.!
+40) swine.exe:  40.[14, 6]     0 ms...WIN PN1 136/56 :-))
+42) swine.exe:  42.[13, 6]     0 ms...WIN PN1 139/59 :-))
+44) swine.exe:  44.[11, 4]     0 ms...Juch!
+46) swine.exe:  46.[15, 8]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\1x5-47(1).rec
+______________________________
+swine x BRUTEFOR
+ 4) swine.exe:   4.[ 9, 8]   156 ms...Val= 20000 (4/0/0)
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\1x11-5(2).rec
+______________________________
+CURNPIS x swine
+ 5) swine.exe:   5.[10,10]  1937 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 9, 7]  1594 ms...Val=   149 (1/1/4)
+ 9) swine.exe:   9.[ 8, 8]  1000 ms...Val=   229 (1/1/20)
+11) swine.exe:  11.[10, 6]  1954 ms...WIN AB 0 Je to na dobré cestì.!
+13) swine.exe:  13.[ 7, 7]   109 ms...WIN PN1 3986/1494 Že by?.
+15) swine.exe:  15.[ 8, 7]    32 ms...WIN PN1 3982/1492 Vypadá to výbornì.
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x1-16(1).rec
+______________________________
+swine x CURNPIS
+ 4) swine.exe:   4.[ 8,11]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 9,11]    93 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[ 9, 8]   453 ms...WIN PN3 31625/11738 :-))
+10) swine.exe:  10.[10, 9]   422 ms...WIN PN1 30997/11526 Že by?.
+12) swine.exe:  12.[11, 8]   156 ms...WIN PN1 9698/3346 Vypadá to výbornì.
+14) swine.exe:  14.[11,11]    63 ms...WIN PN1 9404/3223 :-))
+16) swine.exe:  16.[11,10]     0 ms...WIN PN1 116/39 Chro chro.
+18) swine.exe:  18.[12,11]     0 ms...Tak snad nìkdy pøíštì.
+20) swine.exe:  20.[13,12]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\fastgame\1x12-21(1).rec
+______________________________
+LEONARDO x swine
+ 5) swine.exe:   5.[ 9,10]  1922 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 8, 7]  1578 ms...Val=   149 (1/1/4)
+ 9) swine.exe:   9.[13,12]     0 ms...Tohle mì nebaví.
+11) swine.exe:  11.[10,10]  2203 ms...Val=   299 (1/6/20)
+13) swine.exe:  13.[11,11]   687 ms...Val=   243 (1/1/3)
+15) swine.exe:  15.[13, 8]  1313 ms...Val=   397 (1/1/20)
+17) swine.exe:  17.[ 8,13]     0 ms...No jo.
+19) swine.exe:  19.[12, 8]  1016 ms...Val=   950 (2/1/20)
+21) swine.exe:  21.[12,13]     0 ms...Necht toho.
+23) swine.exe:  23.[11, 7]  3531 ms...Val=  1573 (1/14/20)
+25) swine.exe:  25.[14, 8]     0 ms...WIN PN1 1268/432 :-))
+27) swine.exe:  27.[14,11]     0 ms...WIN PN1 326/114 Tøi èuníci jdou...
+29) swine.exe:  29.[16, 8]     0 ms...WIN PN1 103/35 To snad pude.
+31) swine.exe:  31.[14,10]     0 ms...WIN PN1 95/33 Vypadá to výbornì.
+33) swine.exe:  33.[13, 9]     0 ms...Zkus to znova
+35) swine.exe:  35.[10, 6]     0 ms...Prohrál jste, saláte!
+-> H:\gomocup-online\fastgame\13x1-36(1).rec
+______________________________
+Puskvorec x swine
+ 5) swine.exe:   5.[10,11]  2797 ms...Val=   300 (1/1/19)
+ 7) swine.exe:   7.[ 8, 8]  2562 ms...Val=   151 (1/10/20)
+ 9) swine.exe:   9.[10,10]   859 ms...Val=   189 (1/1/20)
+11) swine.exe:  11.[ 8,13]   344 ms...WIN AB 0 Tøi èuníci jdou...
+13) swine.exe:  13.[11,10]   109 ms...WIN PN1 380/131 Je to na dobré cestì.!
+15) swine.exe:  15.[11,11]     0 ms...WIN PN1 308/105 :-)
+17) swine.exe:  17.[10,12]     0 ms...WIN PN1 322/110 To by mìlo vyjít.
+19) swine.exe:  19.[10,13]     0 ms...WIN PN1 93/32 Je to na dobré cestì.!
+21) swine.exe:  21.[ 9,13]     0 ms...WIN PN1 89/30 Držte si klobouky...
+23) swine.exe:  23.[12,10]     0 ms...Zkus to znova
+25) swine.exe:  25.[13, 9]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\fastgame\15x1-26(2).rec
+______________________________
+swine x LEONARDO
+ 4) swine.exe:   4.[11, 9]    93 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[12, 9]    94 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[12, 6]   438 ms...WIN PN3 31151/11542 Tøi èuníci jdou...
+10) swine.exe:  10.[13, 7]   407 ms...WIN PN1 30523/11330 To snad pude.
+12) swine.exe:  12.[14, 6]   141 ms...WIN PN1 9698/3346 Že by?.
+14) swine.exe:  14.[14, 9]    63 ms...WIN PN1 9404/3223 Chro chro.
+16) swine.exe:  16.[14, 8]     0 ms...WIN PN1 116/39 :-))
+18) swine.exe:  18.[15, 9]     0 ms...Zkus trochu víc trénovat.
+20) swine.exe:  20.[16,10]     0 ms...Tak snad nìkdy pøíštì.
+-> H:\gomocup-online\fastgame\1x13-21(1).rec
+______________________________
+trunkat x swine
+ 5) swine.exe:   5.[ 7,11]  1922 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 6,12]   890 ms...Val=   247 (1/1/20)
+ 9) swine.exe:   9.[ 6,13]  1359 ms...Val=   329 (1/2/20)
+11) swine.exe:  11.[ 6,14]   609 ms...Val=   213 (1/1/6)
+13) swine.exe:  13.[ 4,11]  1750 ms...Val=   338 (1/12/20)
+15) swine.exe:  15.[ 6,11]    16 ms...WIN fours seq 3 To by mìlo vyjít.
+17) swine.exe:  17.[ 5,13]    16 ms...WIN fours seq 2 To snad pude.
+19) swine.exe:  19.[ 3,11]     0 ms...WIN fours seq 1 Vypadá to výbornì.
+21) swine.exe:  21.[ 4,12]     0 ms...Juch!
+23) swine.exe:  23.[ 2,10]    15 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\16x1-24(1).rec
+______________________________
+swine x Puskvorec
+ 4) swine.exe:   4.[ 8, 9]   156 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10, 9]   171 ms...WIN PN1 4638/1738 :-))
+ 8) swine.exe:   8.[ 6, 9]   141 ms...WIN PN1 626/220 Snad jsem nic nepøehlídla..
+10) swine.exe:  10.[ 8,11]   125 ms...WIN PN1 502/177 Tøi èuníci jdou...
+12) swine.exe:  12.[ 7,12]   125 ms...WIN PN1 175/62 Že by?.
+14) swine.exe:  14.[ 7,10]    16 ms...WIN PN1 147/52 Tøi èuníci jdou...
+16) swine.exe:  16.[ 8,10]    16 ms...WIN PN1 69/24 To by mìlo vyjít.
+18) swine.exe:  18.[ 6,10]     0 ms...Juch!
+20) swine.exe:  20.[ 5,10]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\1x15-21(1).rec
+______________________________
+swine x pela
+ 4) swine.exe:   4.[10,10]   141 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[11,10]   125 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[12,11]  1672 ms...Val=   544 (1/6/20)
+10) swine.exe:  10.[ 9,10]   156 ms...Val=    90 (1/1/5)
+12) swine.exe:  12.[13,10]   547 ms...Val=   491 (1/3/8)
+14) swine.exe:  14.[11, 7]    46 ms...Val=   235 (1/1/20)
+16) swine.exe:  16.[ 8, 8]  1031 ms...Val=   314 (1/2/20)
+18) swine.exe:  18.[10,12]  4172 ms...Val=   317 (1/4/12)
+20) swine.exe:  20.[ 7,11]  3688 ms...Val=   752 (1/5/5)
+22) swine.exe:  22.[10,13]     0 ms...Val= -1920 (1/6/20)
+24) swine.exe:  24.[13,12]     0 ms...Val= -2067 (1/3/20)
+26) swine.exe:  26.[12, 5]     0 ms...Aj vaj
+27) pbrain-pela.exe:  I win !
+28) swine.exe:  28.[13, 8]     0 ms...Co se dá dìlat?
+30) swine.exe:  30.[ 8, 5]     0 ms...Kolik jich tam ještì máš?
+32) swine.exe:  32.[12, 7]     0 ms...No jo.
+34) swine.exe:  34.[ 0, 0]     0 ms...Ty to asi nehraješ prvnì.
+-> H:\gomocup-online\fastgame\1x7-36(1).rec
+______________________________
+pisq7 x swine
+ 5) swine.exe:   5.[10, 9]  1438 ms...Val=   148 (1/5/20)
+ 7) swine.exe:   7.[12,10]  2750 ms...Val=    57 (1/1/20)
+ 9) swine.exe:   9.[ 9,12]  1797 ms...Val=     6 (1/1/20)
+11) swine.exe:  11.[10, 7]  3765 ms...Val=   203 (1/9/20)
+13) swine.exe:  13.[12, 9]  3375 ms...Val=   119 (1/4/5)
+15) swine.exe:  15.[11, 6]  1484 ms...Val=   184 (1/3/20)
+17) swine.exe:  17.[ 9, 7]  2562 ms...Val=   161 (1/3/17)
+19) swine.exe:  19.[10, 6]   484 ms...Val=   526 (1/4/20)
+21) swine.exe:  21.[11, 5]   469 ms...Val=   472 (1/3/20)
+23) swine.exe:  23.[10, 4]   969 ms...Val=   356 (1/20/20)
+25) swine.exe:  25.[11, 7]     0 ms...WIN PN1 359/128 Je to na dobré cestì.!
+27) swine.exe:  27.[ 7, 7]     0 ms...WIN PN1 103/40 Chro chro.
+29) swine.exe:  29.[10, 5]    16 ms...WIN PN3 58/23 Držte si klobouky...
+31) swine.exe:  31.[ 9, 5]     0 ms...WIN PN1 302/111 Tøi èuníci jdou...
+33) swine.exe:  33.[12, 5]     0 ms...Zkus to znova
+35) swine.exe:  35.[ 8, 5]     0 ms...Zkus to znova
+-> H:\gomocup-online\fastgame\14x1-36(1).rec
+______________________________
+swine x pisq7
+ 4) swine.exe:   4.[ 8, 9]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 8, 7]    94 ms...Val= 20003 (1/0/0)
+ 8) swine.exe:   8.[ 6, 9]    93 ms...Val= 19866 (1/0/0)
+10) swine.exe:  10.[ 8,10]   109 ms...WIN PN1 1177/432 To snad pude.
+12) swine.exe:  12.[ 7, 9]    94 ms...WIN PN1 564/215 :-))
+14) swine.exe:  14.[ 7, 7]     0 ms...WIN PN3 223/81 Že by?.
+16) swine.exe:  16.[ 9, 9]     0 ms...WIN fours seq 1 :-))
+18) swine.exe:  18.[10,10]    15 ms...Hmm, to máš blbý.
+20) swine.exe:  20.[11,11]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\fastgame\1x14-21(1).rec
+______________________________
+bestmove x Goro2005
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x2-4(1).rec
+______________________________
+swine x trunkat
+ 4) swine.exe:   4.[10, 7]   109 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10, 9]  1922 ms...Val=   808 (1/2/18)
+ 8) swine.exe:   8.[ 9, 5]  1922 ms...Val=   822 (1/2/6)
+10) swine.exe:  10.[ 9,10]   219 ms...WIN PN1 18776/6808 :-)
+12) swine.exe:  12.[12, 9]   156 ms...WIN PN1 6976/2462 Vypadá to výbornì.
+14) swine.exe:  14.[10,11]    47 ms...WIN PN1 4591/1673 :-)
+16) swine.exe:  16.[ 8, 9]    31 ms...WIN PN1 3263/1193 :-)
+18) swine.exe:  18.[ 9, 9]     0 ms...WIN fours seq 4 Snad jsem nic nepøehlídla..
+20) swine.exe:  20.[ 9, 6]    16 ms...WIN fours seq 3 Vypadá to výbornì.
+22) swine.exe:  22.[ 7, 8]    16 ms...WIN fours seq 2 Chro chro.
+24) swine.exe:  24.[ 6, 9]    16 ms...WIN fours seq 1 Je to na dobré cestì.!
+26) swine.exe:  26.[ 8, 7]    16 ms...Nechceš si o tom promluvit?
+28) swine.exe:  28.[10, 5]     0 ms...Zkus trochu víc trénovat.
+-> H:\gomocup-online\fastgame\1x16-29(1).rec
+______________________________
+Goro2005 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\2x4-5(2).rec
+______________________________
+g_motor x swine
+ 5) swine.exe:   5.[10,10]  1922 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[13, 9]  1469 ms...Val=   149 (1/1/4)
+ 9) swine.exe:   9.[ 8,14]     0 ms...Už to nechci.
+11) swine.exe:  11.[10,11]  2250 ms...Val=   299 (1/6/20)
+13) swine.exe:  13.[11,13]  1610 ms...Val=   421 (1/1/4)
+15) swine.exe:  15.[ 9,12]   406 ms...Val=   370 (1/1/20)
+17) swine.exe:  17.[ 9, 8]   954 ms...Val=   172 (1/5/20)
+19) swine.exe:  19.[ 7,12]   532 ms...Kví kví!
+21) swine.exe:  21.[ 8,12]   156 ms...Tohle zkonèí špatnì
+23) swine.exe:  23.[ 6,11]     0 ms...Už to nechci.
+25) swine.exe:  25.[11, 8]     0 ms...Baví tì to?
+27) swine.exe:  27.[ 6, 8]     0 ms...No to je zábava.
+29) swine.exe:  29.[ 9, 9]     0 ms...Hmm, to není dobrý
+31) swine.exe:  31.[ 4,14]     0 ms...Baví tì to?
+33) swine.exe:  33.[ 3, 9]    16 ms...To vypadá zle.
+35) swine.exe:  35.[ 4,12]    16 ms...Tohle zkonèí špatnì
+37) swine.exe:  37.[ 7,10]     0 ms...Kolik jich tam ještì máš?
+39) swine.exe:  39.[19, 0]     0 ms...Dobrá práce.
+-> H:\gomocup-online\fastgame\17x1-41(1).rec
+______________________________
+kanec x Goro2005
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x2-18(1).rec
+______________________________
+Noesis x Goro2005
+-> H:\gomocup-online\fastgame\3x2-38(1).rec
+______________________________
+swine x g_motor
+ 4) swine.exe:   4.[10, 9]    94 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[11, 9]    94 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[11,12]   187 ms...WIN PN3 13382/4632 :-))
+10) swine.exe:  10.[ 7, 8]     0 ms...No jo.
+12) swine.exe:  12.[12,11]   172 ms...WIN PN1 14526/5031 To by mìlo vyjít.
+14) swine.exe:  14.[12, 8]    31 ms...WIN PN1 4148/1450 To snad pude.
+16) swine.exe:  16.[ 9, 8]     0 ms...WIN PN1 1045/383 Je to na dobré cestì.!
+18) swine.exe:  18.[10, 8]     0 ms...WIN PN1 816/298 Že by?.
+20) swine.exe:  20.[11, 8]     0 ms...WIN fours seq 3 :-)
+22) swine.exe:  22.[11, 7]     0 ms...WIN fours seq 2 To by mìlo vyjít.
+24) swine.exe:  24.[10, 6]    16 ms...WIN fours seq 1 To by mìlo vyjít.
+26) swine.exe:  26.[13, 9]     0 ms...Ale to je mi líto.
+28) swine.exe:  28.[ 9, 5]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\1x17-29(1).rec
+______________________________
+Goro2005 x Noesis
+-> H:\gomocup-online\fastgame\2x3-19(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\fastgame\8x2-35(1).rec
+______________________________
+AI1000 x Goro2005
+-> H:\gomocup-online\fastgame\9x2-46(1).rec
+______________________________
+HGarden x Goro2005
+-> H:\gomocup-online\fastgame\5x2-53(1).rec
+______________________________
+Goro2005 x AI1000
+-> H:\gomocup-online\fastgame\2x9-21(1).rec
+______________________________
+pela x Goro2005
+48) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x2-53(2).rec
+______________________________
+Goro2005 x HGarden
+-> H:\gomocup-online\fastgame\2x5-27(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\fastgame\2x8-33(1).rec
+______________________________
+BRUTEFOR x Goro2005
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x2-6(2).rec
+______________________________
+CURNPIS x Goro2005
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x2-18(1).rec
+______________________________
+Goro2005 x kanec
+-> H:\gomocup-online\fastgame\2x6-64(1).rec
+______________________________
+Goro2005 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\2x11-5(1).rec
+______________________________
+Goro2005 x CURNPIS
+-> H:\gomocup-online\fastgame\2x12-19(1).rec
+______________________________
+pisq7 x Goro2005
+-> H:\gomocup-online\fastgame\14x2-28(1).rec
+______________________________
+Benjamin x Goro2005
+Goro2005.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x2-55(1).rec
+______________________________
+Puskvorec x Goro2005
+-> H:\gomocup-online\fastgame\15x2-26(1).rec
+______________________________
+Goro2005 x pisq7
+-> H:\gomocup-online\fastgame\2x14-19(2).rec
+______________________________
+Goro2005 x Puskvorec
+-> H:\gomocup-online\fastgame\2x15-15(1).rec
+______________________________
+Goro2005 x Benjamin
+-> H:\gomocup-online\fastgame\2x10-25(1).rec
+______________________________
+trunkat x Goro2005
+-> H:\gomocup-online\fastgame\16x2-28(1).rec
+______________________________
+bestmove x Noesis
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x3-4(1).rec
+______________________________
+LEONARDO x Goro2005
+-> H:\gomocup-online\fastgame\13x2-46(1).rec
+______________________________
+Goro2005 x trunkat
+-> H:\gomocup-online\fastgame\2x16-19(2).rec
+______________________________
+Goro2005 x LEONARDO
+-> H:\gomocup-online\fastgame\2x13-21(2).rec
+______________________________
+g_motor x Goro2005
+pbrain-g_motor.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\17x2-14(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\fastgame\5x3-17(1).rec
+______________________________
+Noesis x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x4-5(2).rec
+______________________________
+Goro2005 x pela
+49) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\2x7-62(1).rec
+______________________________
+kanec x Noesis
+-> H:\gomocup-online\fastgame\6x3-27(2).rec
+______________________________
+Tito x Noesis
+-> H:\gomocup-online\fastgame\8x3-27(1).rec
+______________________________
+Goro2005 x g_motor
+-> H:\gomocup-online\fastgame\2x17-27(1).rec
+______________________________
+AI1000 x Noesis
+-> H:\gomocup-online\fastgame\9x3-24(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\fastgame\3x5-35(1).rec
+______________________________
+Noesis x Tito
+-> H:\gomocup-online\fastgame\3x8-44(1).rec
+______________________________
+Noesis x kanec
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x6-22(1).rec
+______________________________
+pela x Noesis
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x3-19(1).rec
+______________________________
+Benjamin x Noesis
+-> H:\gomocup-online\fastgame\10x3-32(1).rec
+______________________________
+BRUTEFOR x Noesis
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x3-6(2).rec
+______________________________
+CURNPIS x Noesis
+-> H:\gomocup-online\fastgame\12x3-41(1).rec
+______________________________
+Noesis x AI1000
+-> H:\gomocup-online\fastgame\3x9-61(1).rec
+______________________________
+Noesis x Benjamin
+-> H:\gomocup-online\fastgame\3x10-21(1).rec
+______________________________
+LEONARDO x Noesis
+-> H:\gomocup-online\fastgame\13x3-21(1).rec
+______________________________
+Noesis x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\3x11-5(2).rec
+______________________________
+Noesis x CURNPIS
+-> H:\gomocup-online\fastgame\3x12-36(1).rec
+______________________________
+Noesis x LEONARDO
+-> H:\gomocup-online\fastgame\3x13-19(1).rec
+______________________________
+trunkat x Noesis
+-> H:\gomocup-online\fastgame\16x3-24(1).rec
+______________________________
+pisq7 x Noesis
+-> H:\gomocup-online\fastgame\14x3-24(1).rec
+______________________________
+Puskvorec x Noesis
+-> H:\gomocup-online\fastgame\15x3-24(1).rec
+______________________________
+g_motor x Noesis
+-> H:\gomocup-online\fastgame\17x3-21(1).rec
+______________________________
+Noesis x pisq7
+-> H:\gomocup-online\fastgame\3x14-19(2).rec
+______________________________
+Noesis x trunkat
+-> H:\gomocup-online\fastgame\3x16-19(2).rec
+______________________________
+Noesis x pela
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x7-24(1).rec
+______________________________
+Noesis x Puskvorec
+-> H:\gomocup-online\fastgame\3x15-15(1).rec
+______________________________
+HGarden x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\5x4-5(2).rec
+______________________________
+pela x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x4-5(2).rec
+______________________________
+kanec x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x4-5(2).rec
+______________________________
+Tito x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\8x4-5(2).rec
+______________________________
+bestmove x HGarden
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x5-4(1).rec
+______________________________
+bestmove x pela
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x7-4(1).rec
+______________________________
+bestmove x kanec
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x6-4(1).rec
+______________________________
+bestmove x Tito
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x8-4(1).rec
+______________________________
+AI1000 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\9x4-5(2).rec
+______________________________
+Benjamin x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x4-5(2).rec
+______________________________
+CURNPIS x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\12x4-5(2).rec
+______________________________
+Noesis x g_motor
+-> H:\gomocup-online\fastgame\3x17-25(1).rec
+______________________________
+BRUTEFOR x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\11x4-5(2).rec
+______________________________
+bestmove x AI1000
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x9-4(1).rec
+______________________________
+bestmove x Benjamin
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x10-4(1).rec
+______________________________
+bestmove x CURNPIS
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x12-4(1).rec
+______________________________
+LEONARDO x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\13x4-5(2).rec
+______________________________
+bestmove x BRUTEFOR
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x11-4(1).rec
+______________________________
+pisq7 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\14x4-5(2).rec
+______________________________
+Puskvorec x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\15x4-5(2).rec
+______________________________
+trunkat x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\16x4-5(2).rec
+______________________________
+bestmove x LEONARDO
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x13-4(1).rec
+______________________________
+bestmove x pisq7
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x14-4(1).rec
+______________________________
+g_motor x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\17x4-5(2).rec
+______________________________
+bestmove x Puskvorec
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x15-4(1).rec
+______________________________
+bestmove x trunkat
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x16-4(1).rec
+______________________________
+bestmove x g_motor
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x17-4(1).rec
+______________________________
+kanec x HGarden
+-> H:\gomocup-online\fastgame\6x5-31(1).rec
+______________________________
+AI1000 x HGarden
+-> H:\gomocup-online\fastgame\9x5-34(1).rec
+______________________________
+HGarden x AI1000
+-> H:\gomocup-online\fastgame\5x9-21(1).rec
+______________________________
+Tito x HGarden
+-> H:\gomocup-online\fastgame\8x5-35(1).rec
+______________________________
+Benjamin x HGarden
+-> H:\gomocup-online\fastgame\10x5-42(1).rec
+______________________________
+pela x HGarden
+-> H:\gomocup-online\fastgame\7x5-41(1).rec
+______________________________
+HGarden x kanec
+-> H:\gomocup-online\fastgame\5x6-27(1).rec
+______________________________
+BRUTEFOR x HGarden
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x5-6(2).rec
+______________________________
+HGarden x Benjamin
+-> H:\gomocup-online\fastgame\5x10-27(1).rec
+______________________________
+HGarden x Tito
+-> H:\gomocup-online\fastgame\5x8-31(1).rec
+______________________________
+HGarden x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\5x11-5(2).rec
+______________________________
+pisq7 x HGarden
+-> H:\gomocup-online\fastgame\14x5-22(2).rec
+______________________________
+CURNPIS x HGarden
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x5-18(1).rec
+______________________________
+HGarden x pisq7
+-> H:\gomocup-online\fastgame\5x14-19(2).rec
+______________________________
+HGarden x CURNPIS
+-> H:\gomocup-online\fastgame\5x12-17(1).rec
+______________________________
+Puskvorec x HGarden
+-> H:\gomocup-online\fastgame\15x5-24(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\fastgame\5x7-33(1).rec
+______________________________
+HGarden x Puskvorec
+-> H:\gomocup-online\fastgame\5x15-15(1).rec
+______________________________
+LEONARDO x HGarden
+-> H:\gomocup-online\fastgame\13x5-56(1).rec
+______________________________
+trunkat x HGarden
+-> H:\gomocup-online\fastgame\16x5-30(1).rec
+______________________________
+g_motor x HGarden
+-> H:\gomocup-online\fastgame\17x5-29(1).rec
+______________________________
+HGarden x trunkat
+-> H:\gomocup-online\fastgame\5x16-21(1).rec
+______________________________
+HGarden x LEONARDO
+-> H:\gomocup-online\fastgame\5x13-29(1).rec
+______________________________
+AI1000 x kanec
+-> H:\gomocup-online\fastgame\9x6-40(1).rec
+______________________________
+HGarden x g_motor
+-> H:\gomocup-online\fastgame\5x17-19(1).rec
+______________________________
+Benjamin x kanec
+-> H:\gomocup-online\fastgame\10x6-30(1).rec
+______________________________
+kanec x AI1000
+-> H:\gomocup-online\fastgame\6x9-21(1).rec
+______________________________
+kanec x Benjamin
+-> H:\gomocup-online\fastgame\6x10-35(2).rec
+______________________________
+BRUTEFOR x kanec
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x6-6(2).rec
+______________________________
+Tito x kanec
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\8x6-21(1).rec
+______________________________
+CURNPIS x kanec
+-> H:\gomocup-online\fastgame\12x6-30(1).rec
+______________________________
+kanec x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\6x11-5(2).rec
+______________________________
+LEONARDO x kanec
+-> H:\gomocup-online\fastgame\13x6-44(1).rec
+______________________________
+pela x kanec
+72) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x6-77(1).rec
+______________________________
+kanec x LEONARDO
+-> H:\gomocup-online\fastgame\6x13-21(1).rec
+______________________________
+kanec x CURNPIS
+-> H:\gomocup-online\fastgame\6x12-21(1).rec
+______________________________
+Puskvorec x kanec
+-> H:\gomocup-online\fastgame\15x6-24(1).rec
+______________________________
+kanec x Puskvorec
+-> H:\gomocup-online\fastgame\6x15-19(1).rec
+______________________________
+kanec x Tito
+-> H:\gomocup-online\fastgame\6x8-37(1).rec
+______________________________
+trunkat x kanec
+-> H:\gomocup-online\fastgame\16x6-28(1).rec
+______________________________
+kanec x pela
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x7-10(1).rec
+______________________________
+pisq7 x kanec
+-> H:\gomocup-online\fastgame\14x6-80(1).rec
+______________________________
+g_motor x kanec
+-> H:\gomocup-online\fastgame\17x6-30(1).rec
+______________________________
+kanec x pisq7
+-> H:\gomocup-online\fastgame\6x14-15(1).rec
+______________________________
+kanec x trunkat
+-> H:\gomocup-online\fastgame\6x16-19(1).rec
+______________________________
+BRUTEFOR x pela
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x7-6(1).rec
+______________________________
+kanec x g_motor
+-> H:\gomocup-online\fastgame\6x17-23(1).rec
+______________________________
+AI1000 x pela
+51) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\9x7-58(1).rec
+______________________________
+pela x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\7x11-5(1).rec
+______________________________
+Benjamin x pela
+55) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\10x7-60(2).rec
+______________________________
+pela x AI1000
+-> H:\gomocup-online\fastgame\7x9-31(1).rec
+______________________________
+Tito x pela
+-> H:\gomocup-online\fastgame\8x7-53(1).rec
+______________________________
+pela x Benjamin
+-> H:\gomocup-online\fastgame\7x10-25(1).rec
+______________________________
+CURNPIS x pela
+31) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\12x7-40(1).rec
+______________________________
+LEONARDO x pela
+41) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\13x7-48(1).rec
+______________________________
+pela x CURNPIS
+30) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x12-37(1).rec
+______________________________
+pisq7 x pela
+-> H:\gomocup-online\fastgame\14x7-66(1).rec
+______________________________
+pela x LEONARDO
+48) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x13-53(1).rec
+______________________________
+pela x pisq7
+-> H:\gomocup-online\fastgame\7x14-21(1).rec
+______________________________
+Puskvorec x pela
+31) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\15x7-40(1).rec
+______________________________
+pela x Tito
+50) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x8-57(1).rec
+______________________________
+AI1000 x Tito
+-> H:\gomocup-online\fastgame\9x8-40(1).rec
+______________________________
+Benjamin x Tito
+-> H:\gomocup-online\fastgame\10x8-46(1).rec
+______________________________
+trunkat x pela
+-> H:\gomocup-online\fastgame\16x7-40(1).rec
+______________________________
+Tito x AI1000
+-> H:\gomocup-online\fastgame\8x9-23(1).rec
+______________________________
+Tito x Benjamin
+-> H:\gomocup-online\fastgame\8x10-19(1).rec
+______________________________
+CURNPIS x Tito
+-> H:\gomocup-online\fastgame\12x8-30(2).rec
+______________________________
+BRUTEFOR x Tito
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x8-6(2).rec
+______________________________
+pela x trunkat
+22) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x16-29(2).rec
+______________________________
+Tito x CURNPIS
+-> H:\gomocup-online\fastgame\8x12-21(1).rec
+______________________________
+g_motor x pela
+-> H:\gomocup-online\fastgame\17x7-46(1).rec
+______________________________
+pela x Puskvorec
+-> H:\gomocup-online\fastgame\7x15-47(1).rec
+______________________________
+Tito x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\8x11-5(1).rec
+______________________________
+pisq7 x Tito
+-> H:\gomocup-online\fastgame\14x8-22(1).rec
+______________________________
+Puskvorec x Tito
+-> H:\gomocup-online\fastgame\15x8-24(2).rec
+______________________________
+Tito x pisq7
+-> H:\gomocup-online\fastgame\8x14-19(2).rec
+______________________________
+Tito x Puskvorec
+-> H:\gomocup-online\fastgame\8x15-19(1).rec
+______________________________
+LEONARDO x Tito
+-> H:\gomocup-online\fastgame\13x8-60(1).rec
+______________________________
+trunkat x Tito
+-> H:\gomocup-online\fastgame\16x8-32(1).rec
+______________________________
+Tito x LEONARDO
+-> H:\gomocup-online\fastgame\8x13-27(1).rec
+______________________________
+Tito x trunkat
+-> H:\gomocup-online\fastgame\8x16-21(2).rec
+______________________________
+BRUTEFOR x AI1000
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x9-6(2).rec
+______________________________
+CURNPIS x AI1000
+-> H:\gomocup-online\fastgame\12x9-147(1).rec
+______________________________
+pela x g_motor
+-> H:\gomocup-online\fastgame\7x17-31(1).rec
+______________________________
+g_motor x Tito
+-> H:\gomocup-online\fastgame\17x8-38(1).rec
+______________________________
+LEONARDO x AI1000
+-> H:\gomocup-online\fastgame\13x9-51(1).rec
+______________________________
+AI1000 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\9x11-5(2).rec
+______________________________
+pisq7 x AI1000
+-> H:\gomocup-online\fastgame\14x9-24(1).rec
+______________________________
+AI1000 x CURNPIS
+-> H:\gomocup-online\fastgame\9x12-127(1).rec
+______________________________
+AI1000 x pisq7
+-> H:\gomocup-online\fastgame\9x14-22(1).rec
+______________________________
+AI1000 x LEONARDO
+-> H:\gomocup-online\fastgame\9x13-100(1).rec
+______________________________
+trunkat x AI1000
+-> H:\gomocup-online\fastgame\16x9-27(1).rec
+______________________________
+Puskvorec x AI1000
+-> H:\gomocup-online\fastgame\15x9-25(1).rec
+______________________________
+Tito x g_motor
+-> H:\gomocup-online\fastgame\8x17-21(1).rec
+______________________________
+AI1000 x trunkat
+-> H:\gomocup-online\fastgame\9x16-36(1).rec
+______________________________
+Benjamin x AI1000
+AI1000.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\10x9-59(1).rec
+______________________________
+AI1000 x Puskvorec
+-> H:\gomocup-online\fastgame\9x15-36(1).rec
+______________________________
+CURNPIS x Benjamin
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x10-42(1).rec
+______________________________
+LEONARDO x Benjamin
+-> H:\gomocup-online\fastgame\13x10-50(1).rec
+______________________________
+g_motor x AI1000
+-> H:\gomocup-online\fastgame\17x9-33(1).rec
+______________________________
+BRUTEFOR x Benjamin
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x10-6(2).rec
+______________________________
+Benjamin x CURNPIS
+-> H:\gomocup-online\fastgame\10x12-67(1).rec
+______________________________
+Benjamin x LEONARDO
+-> H:\gomocup-online\fastgame\10x13-91(1).rec
+______________________________
+AI1000 x Benjamin
+-> H:\gomocup-online\fastgame\9x10-112(1).rec
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\10x11-5(1).rec
+______________________________
+pisq7 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\fastgame\14x10-395(1).rec
+______________________________
+Benjamin x pisq7
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\fastgame\10x14-396(1).rec
+______________________________
+Puskvorec x Benjamin
+-> H:\gomocup-online\fastgame\15x10-39(1).rec
+______________________________
+CURNPIS x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x11-5(2).rec
+______________________________
+g_motor x Benjamin
+-> H:\gomocup-online\fastgame\17x10-39(1).rec
+______________________________
+AI1000 x g_motor
+-> H:\gomocup-online\fastgame\9x17-56(1).rec
+______________________________
+LEONARDO x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\13x11-5(2).rec
+______________________________
+BRUTEFOR x CURNPIS
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x12-6(2).rec
+______________________________
+trunkat x Benjamin
+-> H:\gomocup-online\fastgame\16x10-71(1).rec
+______________________________
+pisq7 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\14x11-5(2).rec
+______________________________
+BRUTEFOR x LEONARDO
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x13-6(2).rec
+______________________________
+Benjamin x trunkat
+-> H:\gomocup-online\fastgame\10x16-44(1).rec
+______________________________
+Benjamin x g_motor
+pbrain-g_motor.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x17-53(1).rec
+______________________________
+trunkat x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\16x11-5(2).rec
+______________________________
+BRUTEFOR x pisq7
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x14-6(2).rec
+______________________________
+Puskvorec x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\15x11-5(2).rec
+______________________________
+Benjamin x Puskvorec
+Puskvorec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x15-57(1).rec
+______________________________
+LEONARDO x CURNPIS
+-> H:\gomocup-online\fastgame\13x12-53(1).rec
+______________________________
+pisq7 x CURNPIS
+-> H:\gomocup-online\fastgame\14x12-61(1).rec
+______________________________
+g_motor x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\17x11-5(2).rec
+______________________________
+CURNPIS x pisq7
+-> H:\gomocup-online\fastgame\12x14-19(1).rec
+______________________________
+CURNPIS x LEONARDO
+-> H:\gomocup-online\fastgame\12x13-92(1).rec
+______________________________
+BRUTEFOR x trunkat
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x16-6(2).rec
+______________________________
+Puskvorec x CURNPIS
+-> H:\gomocup-online\fastgame\15x12-21(1).rec
+______________________________
+BRUTEFOR x Puskvorec
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x15-6(2).rec
+______________________________
+trunkat x CURNPIS
+-> H:\gomocup-online\fastgame\16x12-25(1).rec
+______________________________
+pisq7 x LEONARDO
+-> H:\gomocup-online\fastgame\14x13-48(1).rec
+______________________________
+LEONARDO x pisq7
+-> H:\gomocup-online\fastgame\13x14-25(1).rec
+______________________________
+BRUTEFOR x g_motor
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x17-6(2).rec
+______________________________
+CURNPIS x Puskvorec
+-> H:\gomocup-online\fastgame\12x15-42(1).rec
+______________________________
+g_motor x CURNPIS
+-> H:\gomocup-online\fastgame\17x12-27(1).rec
+______________________________
+CURNPIS x trunkat
+-> H:\gomocup-online\fastgame\12x16-30(1).rec
+______________________________
+trunkat x LEONARDO
+-> H:\gomocup-online\fastgame\16x13-28(1).rec
+______________________________
+Puskvorec x LEONARDO
+-> H:\gomocup-online\fastgame\15x13-25(1).rec
+______________________________
+LEONARDO x trunkat
+-> H:\gomocup-online\fastgame\13x16-38(1).rec
+______________________________
+Puskvorec x pisq7
+-> H:\gomocup-online\fastgame\15x14-17(1).rec
+______________________________
+LEONARDO x Puskvorec
+-> H:\gomocup-online\fastgame\13x15-27(1).rec
+______________________________
+trunkat x pisq7
+-> H:\gomocup-online\fastgame\16x14-15(1).rec
+______________________________
+pisq7 x Puskvorec
+-> H:\gomocup-online\fastgame\14x15-24(1).rec
+______________________________
+g_motor x LEONARDO
+-> H:\gomocup-online\fastgame\17x13-35(1).rec
+______________________________
+CURNPIS x g_motor
+-> H:\gomocup-online\fastgame\12x17-38(1).rec
+______________________________
+g_motor x pisq7
+-> H:\gomocup-online\fastgame\17x14-21(2).rec
+______________________________
+pisq7 x trunkat
+-> H:\gomocup-online\fastgame\14x16-38(1).rec
+______________________________
+g_motor x Puskvorec
+-> H:\gomocup-online\fastgame\17x15-23(1).rec
+______________________________
+trunkat x Puskvorec
+-> H:\gomocup-online\fastgame\16x15-21(2).rec
+______________________________
+g_motor x trunkat
+-> H:\gomocup-online\fastgame\17x16-25(1).rec
+______________________________
+LEONARDO x g_motor
+-> H:\gomocup-online\fastgame\13x17-27(1).rec
+______________________________
+pisq7 x g_motor
+-> H:\gomocup-online\fastgame\14x17-34(1).rec
+______________________________
+QMENTAT6 x swine
+ 5) swine.exe:   5.[ 9,12]  2985 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[11,11]    63 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[11,13]    62 ms...Val= 19189 (1/0/0)
+11) swine.exe:  11.[10, 9]    62 ms...Val= 17742 (1/0/0)
+13) swine.exe:  13.[10,13]    15 ms...No jo.
+15) swine.exe:  15.[11, 9]  1563 ms...Val=   569 (1/1/20)
+17) swine.exe:  17.[ 6,14]     0 ms...Necht toho.
+19) swine.exe:  19.[ 8,10]   969 ms...Val=  1350 (1/1/20)
+21) swine.exe:  21.[10, 7]   969 ms...Val=  1691 (1/2/20)
+23) swine.exe:  23.[ 5,12]     0 ms...Jen si hraj.
+25) swine.exe:  25.[ 6,12]    16 ms...WIN PN1 661/224 Vypadá to výbornì.
+27) swine.exe:  27.[ 9, 9]     0 ms...WIN PN1 464/159 Držte si klobouky...
+29) swine.exe:  29.[12, 9]     0 ms...WIN PN1 380/131 :-)
+31) swine.exe:  31.[11, 8]     0 ms...WIN PN1 359/124 :-))
+33) swine.exe:  33.[12, 7]     0 ms...WIN fours seq 2 Držte si klobouky...
+35) swine.exe:  35.[11, 7]     0 ms...WIN fours seq 1 Vypadá to výbornì.
+37) swine.exe:  37.[13, 7]     0 ms...Nic si z toho nedìlej.
+39) swine.exe:  39.[ 9, 7]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\0x1-40(1).rec
+______________________________
+Puskvorec x trunkat
+-> H:\gomocup-online\fastgame\15x16-35(1).rec
+______________________________
+trunkat x g_motor
+-> H:\gomocup-online\fastgame\16x17-23(1).rec
+______________________________
+swine x QMENTAT6
+ 6) swine.exe:   6.[ 9,11]    93 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[10,10]    93 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[ 6,10]    94 ms...Val= 20092 (1/0/0)
+12) swine.exe:  12.[10, 8]  1891 ms...Val=   395 (1/7/20)
+14) swine.exe:  14.[ 8,13]  1219 ms...Val=   484 (1/1/20)
+16) swine.exe:  16.[ 8, 9]     0 ms...No to je zábava.
+18) swine.exe:  18.[10,14]   453 ms...Val=   782 (1/1/20)
+20) swine.exe:  20.[ 7,14]  3703 ms...Val=   860 (1/6/20)
+22) swine.exe:  22.[ 9,14]    32 ms...WIN PN1 4412/1495 Tøi èuníci jdou...
+24) swine.exe:  24.[10,15]     0 ms...WIN PN1 1849/616 Že by?.
+26) swine.exe:  26.[11,16]     0 ms...WIN PN1 392/139 Tøi èuníci jdou...
+28) swine.exe:  28.[10,16]     0 ms...WIN PN1 349/122 Vypadá to výbornì.
+30) swine.exe:  30.[ 9,16]     0 ms...WIN PN1 219/79 Že by?.
+32) swine.exe:  32.[13,16]     0 ms...WIN fours seq 3 Držte si klobouky...
+34) swine.exe:  34.[10,13]     0 ms...WIN fours seq 2 Tøi èuníci jdou...
+36) swine.exe:  36.[11,14]     0 ms...WIN fours seq 1 Držte si klobouky...
+38) swine.exe:  38.[12,13]    15 ms...Nic si z toho nedìlej.
+40) swine.exe:  40.[ 8,17]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\1x0-41(1).rec
+______________________________
+Puskvorec x g_motor
+-> H:\gomocup-online\fastgame\15x17-37(1).rec
+______________________________
+QMENTAT6 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\0x4-5(3).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\fastgame\0x2-38(1).rec
+______________________________
+QMENTAT6 x kanec
+-> H:\gomocup-online\fastgame\0x6-32(1).rec
+______________________________
+bestmove x QMENTAT6
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x0-6(2).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\fastgame\2x0-31(1).rec
+______________________________
+kanec x QMENTAT6
+-> H:\gomocup-online\fastgame\6x0-41(1).rec
+______________________________
+QMENTAT6 x HGarden
+-> H:\gomocup-online\fastgame\0x5-60(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\fastgame\0x8-46(1).rec
+______________________________
+QMENTAT6 x Noesis
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\0x3-45(1).rec
+______________________________
+QMENTAT6 x pela
+-> H:\gomocup-online\fastgame\0x7-24(1).rec
+______________________________
+QMENTAT6 x AI1000
+-> H:\gomocup-online\fastgame\0x9-170(1).rec
+______________________________
+HGarden x QMENTAT6
+-> H:\gomocup-online\fastgame\5x0-29(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\fastgame\8x0-35(1).rec
+______________________________
+AI1000 x QMENTAT6
+-> H:\gomocup-online\fastgame\9x0-52(1).rec
+______________________________
+QMENTAT6 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\0x11-5(3).rec
+______________________________
+pela x QMENTAT6
+44) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x0-51(1).rec
+______________________________
+BRUTEFOR x QMENTAT6
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x0-6(3).rec
+______________________________
+QMENTAT6 x pisq7
+-> H:\gomocup-online\fastgame\0x14-76(1).rec
+______________________________
+QMENTAT6 x CURNPIS
+-> H:\gomocup-online\fastgame\0x12-159(1).rec
+______________________________
+pisq7 x QMENTAT6
+-> H:\gomocup-online\fastgame\14x0-54(1).rec
+______________________________
+QMENTAT6 x LEONARDO
+-> H:\gomocup-online\fastgame\0x13-132(1).rec
+______________________________
+QMENTAT6 x Puskvorec
+-> H:\gomocup-online\fastgame\0x15-27(1).rec
+______________________________
+LEONARDO x QMENTAT6
+-> H:\gomocup-online\fastgame\13x0-123(1).rec
+______________________________
+CURNPIS x QMENTAT6
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x0-6(1).rec
+______________________________
+QMENTAT6 x trunkat
+-> H:\gomocup-online\fastgame\0x16-25(1).rec
+______________________________
+Noesis x QMENTAT6
+-> H:\gomocup-online\fastgame\3x0-37(1).rec
+______________________________
+QMENTAT6 x Benjamin
+-> H:\gomocup-online\fastgame\0x10-400(1).rec
+______________________________
+trunkat x QMENTAT6
+-> H:\gomocup-online\fastgame\16x0-29(1).rec
+______________________________
+Puskvorec x QMENTAT6
+-> H:\gomocup-online\fastgame\15x0-31(1).rec
+______________________________
+Benjamin x QMENTAT6
+-> H:\gomocup-online\fastgame\10x0-212(1).rec
+______________________________
+swine x Goro2005
+ 6) swine.exe:   6.[10, 8]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 9, 9]    93 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[11, 9]   484 ms...Val=   457 (1/1/20)
+12) swine.exe:  12.[ 8, 6]   672 ms...Val=   589 (1/1/20)
+14) swine.exe:  14.[ 7, 9]  1407 ms...Val=   503 (1/2/20)
+16) swine.exe:  16.[ 9, 5]  1391 ms...Val=   417 (1/1/20)
+18) swine.exe:  18.[12, 4]   937 ms...Val=   497 (1/1/20)
+20) swine.exe:  20.[13, 5]    47 ms...:-((
+22) swine.exe:  22.[11, 4]    16 ms...No jo.
+24) swine.exe:  24.[ 0,19]     0 ms...To se budu muset taky nauèit.
+-> H:\gomocup-online\fastgame\1x2-26(1).rec
+______________________________
+swine x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\1x4-5(3).rec
+______________________________
+QMENTAT6 x g_motor
+-> H:\gomocup-online\fastgame\0x17-52(1).rec
+______________________________
+g_motor x QMENTAT6
+-> H:\gomocup-online\fastgame\17x0-12(1).rec
+______________________________
+bestmove x swine
+ 5) swine.exe:   5.[ 7,10]  3359 ms...Val=   179 (1/1/19)
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x1-6(2).rec
+______________________________
+Goro2005 x swine
+ 5) swine.exe:   5.[ 7,12]  3016 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 5,11]    63 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 8,12]   969 ms...Val=   352 (1/1/20)
+11) swine.exe:  11.[ 5,13]  1235 ms...Val=   332 (1/1/4)
+13) swine.exe:  13.[ 6,10]  1890 ms...:-(
+15) swine.exe:  15.[ 8,13]    15 ms...Tohle zkonèí špatnì
+17) swine.exe:  17.[10, 8]     0 ms...No jo.
+19) swine.exe:  19.[19,19]     0 ms...Ty to asi nehraješ prvnì.
+-> H:\gomocup-online\fastgame\2x1-21(1).rec
+______________________________
+swine x HGarden
+ 6) swine.exe:   6.[11, 8]    93 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[10, 9]    94 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[12, 9]   485 ms...Val=   457 (1/1/20)
+12) swine.exe:  12.[ 9, 6]  1328 ms...Val=   375 (1/2/20)
+14) swine.exe:  14.[10, 5]   907 ms...Val=   626 (1/5/20)
+16) swine.exe:  16.[ 8, 5]    16 ms...WIN PN1 2314/773 Vypadá to výbornì.
+18) swine.exe:  18.[ 9, 5]    15 ms...WIN PN1 2011/669 Tøi èuníci jdou...
+20) swine.exe:  20.[13, 8]     0 ms...Jen si hraj.
+22) swine.exe:  22.[12,10]     0 ms...No jo.
+24) swine.exe:  24.[ 9, 4]     0 ms...WIN PN1 1423/483 To snad pude.
+26) swine.exe:  26.[ 9, 8]     0 ms...WIN fours seq 3 To by mìlo vyjít.
+28) swine.exe:  28.[ 6, 5]     0 ms...WIN fours seq 2 :-)
+30) swine.exe:  30.[ 8, 7]     0 ms...WIN fours seq 1 :-))
+32) swine.exe:  32.[ 7, 8]     0 ms...Ale to je mi líto.
+34) swine.exe:  34.[ 6, 9]     0 ms...Zkus to znova
+-> H:\gomocup-online\fastgame\1x5-35(1).rec
+______________________________
+HGarden x swine
+ 5) swine.exe:   5.[12, 9]  1890 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[12, 8]  1109 ms...Val=   358 (1/1/20)
+ 9) swine.exe:   9.[10,10]  1312 ms...Val=   132 (1/2/20)
+11) swine.exe:  11.[11,11]  1532 ms...Val=    25 (1/6/20)
+13) swine.exe:  13.[13,11]  2484 ms...Val=    18 (1/6/20)
+15) swine.exe:  15.[13,13]  3609 ms...Val=    63 (1/13/18)
+17) swine.exe:  17.[12,12]    16 ms...Val= -1581 (1/3/20)
+19) swine.exe:  19.[ 9,10]    16 ms...To vypadá zle.
+21) swine.exe:  21.[11, 6]     0 ms...To vypadá zle.
+23) swine.exe:  23.[ 8, 8]     0 ms...Kví kví!
+25) swine.exe:  25.[ 6,11]     0 ms...Tohle zkonèí špatnì
+27) swine.exe:  27.[ 0,19]     0 ms...To èumim.
+-> H:\gomocup-online\fastgame\5x1-29(1).rec
+______________________________
+swine x Tito
+ 6) swine.exe:   6.[ 8, 7]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 7, 8]    94 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[ 9, 6]   391 ms...Val=   399 (1/1/20)
+12) swine.exe:  12.[ 5,10]  2235 ms...Val=   291 (1/5/20)
+14) swine.exe:  14.[ 7,10]  2078 ms...Val=   524 (1/1/20)
+16) swine.exe:  16.[ 6, 8]  1469 ms...Val=   491 (1/3/20)
+18) swine.exe:  18.[ 4, 9]  2016 ms...Val=   319 (2/3/20)
+20) swine.exe:  20.[ 3,10]  1547 ms...Val=   150 (1/14/20)
+22) swine.exe:  22.[ 2,11]   985 ms...Val=    -8 (1/9/20)
+24) swine.exe:  24.[ 1,12]   610 ms...Val=  -112 (1/8/20)
+26) swine.exe:  26.[ 6, 6]   438 ms...Val=  -506 (1/1/20)
+28) swine.exe:  28.[ 9, 4]  1563 ms...Val=  -617 (1/5/20)
+30) swine.exe:  30.[ 5, 6]   594 ms...Val=  -452 (1/1/20)
+32) swine.exe:  32.[ 2, 6]   235 ms...Hmm, to není dobrý
+34) swine.exe:  34.[ 6, 7]    47 ms...To vypadá zle.
+36) swine.exe:  36.[ 3, 4]    16 ms...Val= -2366 (1/3/20)
+38) swine.exe:  38.[ 4, 6]     0 ms...Tady to smrdí.
+40) swine.exe:  40.[ 1, 8]     0 ms...Aj vaj
+42) swine.exe:  42.[19, 0]     0 ms...To èumim.
+-> H:\gomocup-online\fastgame\1x8-44(1).rec
+______________________________
+swine x Noesis
+ 6) swine.exe:   6.[ 8,13]  4188 ms...Val=   679 (1/5/11)
+ 8) swine.exe:   8.[ 6,11]  4172 ms...Val=   665 (2/2/4)
+10) swine.exe:  10.[ 6,12]  3610 ms...Val=   634 (1/4/9)
+12) swine.exe:  12.[ 8, 8]  3016 ms...Val=   612 (1/5/13)
+14) swine.exe:  14.[ 7,10]   797 ms...Val=   678 (1/1/20)
+16) swine.exe:  16.[ 5,13]   125 ms...Val=   678 (1/1/20)
+18) swine.exe:  18.[ 4,14]   703 ms...Val=   834 (1/6/20)
+20) swine.exe:  20.[ 9, 9]   656 ms...Val=   588 (1/4/20)
+22) swine.exe:  22.[ 2,10]     0 ms...No jo.
+24) swine.exe:  24.[12,12]    32 ms...Val=   664 (1/9/20)
+26) swine.exe:  26.[ 7,14]    16 ms...Tohle zkonèí špatnì
+28) swine.exe:  28.[ 5, 8]     0 ms...Co se dá dìlat?
+30) swine.exe:  30.[ 0, 0]     0 ms...Smekám klobouk.
+-> H:\gomocup-online\fastgame\1x3-32(1).rec
+______________________________
+swine x kanec
+ 6) swine.exe:   6.[ 8,11]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 9,12]  1812 ms...Val=   737 (1/5/20)
+10) swine.exe:  10.[11,12]  1047 ms...Val=   529 (1/10/20)
+12) swine.exe:  12.[ 6,10]   469 ms...Val=   655 (1/1/8)
+14) swine.exe:  14.[ 9,14]  2031 ms...Val=   644 (1/3/20)
+16) swine.exe:  16.[10,10]     0 ms...Kolik jich tam ještì máš?
+18) swine.exe:  18.[ 5,10]   594 ms...Val=   860 (1/1/20)
+20) swine.exe:  20.[ 4,13]   625 ms...Val=   877 (1/2/20)
+22) swine.exe:  22.[ 9, 8]   391 ms...Val=   903 (1/2/20)
+24) swine.exe:  24.[14,13]   969 ms...Val=  1099 (1/1/20)
+26) swine.exe:  26.[14,11]  1391 ms...Val=  1426 (1/4/20)
+28) swine.exe:  28.[ 9,15]   953 ms...Val=  1465 (1/2/20)
+30) swine.exe:  30.[ 4,12]  1187 ms...Val=  1396 (1/2/20)
+32) swine.exe:  32.[ 2, 9]   375 ms...Val=   629 (1/2/20)
+34) swine.exe:  34.[ 6, 7]   406 ms...Val=   799 (1/2/20)
+36) swine.exe:  36.[14,12]   656 ms...Val=  1373 (1/4/20)
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\1x6-37(1).rec
+______________________________
+swine x AI1000
+ 6) swine.exe:   6.[11, 9]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[12,10]    93 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[10,10]   453 ms...Val=   469 (1/1/20)
+12) swine.exe:  12.[13, 7]  1594 ms...Val=   375 (1/11/20)
+14) swine.exe:  14.[ 8,10]   625 ms...Val=   528 (1/1/20)
+16) swine.exe:  16.[10, 6]  1906 ms...Val=   563 (1/4/20)
+18) swine.exe:  18.[13, 5]   203 ms...Val=   474 (1/1/20)
+20) swine.exe:  20.[12, 7]     0 ms...Co se dá dìlat?
+22) swine.exe:  22.[11, 4]  4110 ms...Val=   723 (1/6/20)
+24) swine.exe:  24.[ 8,12]  2953 ms...Val=   801 (1/11/20)
+26) swine.exe:  26.[ 9,12]  2109 ms...Val=   816 (1/6/20)
+28) swine.exe:  28.[16, 9]     0 ms...Baví tì to?
+30) swine.exe:  30.[ 7,12]   625 ms...Val=  1030 (1/1/20)
+32) swine.exe:  32.[ 6,12]    32 ms...WIN PN1 4147/1427 Že by?.
+34) swine.exe:  34.[ 7,11]    31 ms...WIN PN1 4139/1424 Držte si klobouky...
+36) swine.exe:  36.[ 7,13]     0 ms...WIN PN1 1165/392 Snad jsem nic nepøehlídla..
+38) swine.exe:  38.[ 7, 9]     0 ms...WIN PN1 530/182 Tøi èuníci jdou...
+40) swine.exe:  40.[ 5,11]   125 ms...WIN PN1 4355/1798 Vypadá to výbornì.
+42) swine.exe:  42.[ 6,10]    15 ms...WIN PN1 2008/864 Je to na dobré cestì.!
+44) swine.exe:  44.[ 9,13]     0 ms...Ale to je mi líto.
+46) swine.exe:  46.[ 5, 9]     0 ms...Prohrál jste, saláte!
+-> H:\gomocup-online\fastgame\1x9-47(1).rec
+______________________________
+kanec x swine
+ 5) swine.exe:   5.[10,10]  2968 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[12, 9]    63 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 9,10]  1094 ms...Val=   355 (1/2/20)
+11) swine.exe:  11.[12,11]  1125 ms...Val=   333 (1/1/4)
+13) swine.exe:  13.[ 7, 6]     0 ms...Kolik jich tam ještì máš?
+15) swine.exe:  15.[11,12]  1579 ms...Val=   644 (1/1/20)
+17) swine.exe:  17.[ 9, 5]    15 ms...Dej mi pokoj.
+19) swine.exe:  19.[12,13]    16 ms...Val= -1869 (1/4/20)
+21) swine.exe:  21.[12,12]    15 ms...Val= -1843 (1/4/20)
+23) swine.exe:  23.[12,15]     0 ms...Val= -2068 (1/10/20)
+25) swine.exe:  25.[ 6, 9]    16 ms...Tady to smrdí.
+27) swine.exe:  27.[10, 7]     0 ms...:-((
+29) swine.exe:  29.[ 0,19]     0 ms...Vzdávám se.
+-> H:\gomocup-online\fastgame\6x1-31(1).rec
+______________________________
+AI1000 x swine
+ 5) swine.exe:   5.[ 9, 7]  2110 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[10, 5]    62 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[11, 6]  3829 ms...Val=   280 (1/4/20)
+11) swine.exe:  11.[14,12]     0 ms...Nedráždi svini bosou nohou.
+13) swine.exe:  13.[11, 4]   406 ms...WIN PN1 37309/15191 Držte si klobouky...
+15) swine.exe:  15.[ 9, 6]   313 ms...WIN PN1 35141/14420 Chro chro.
+17) swine.exe:  17.[ 9, 4]   297 ms...WIN PN1 34968/14359 :-))
+19) swine.exe:  19.[10, 4]    78 ms...WIN PN1 8552/3324 Tøi èuníci jdou...
+21) swine.exe:  21.[ 8, 3]    78 ms...WIN PN1 8382/3241 To snad pude.
+23) swine.exe:  23.[12, 3]    78 ms...WIN PN1 6248/2440 Je to na dobré cestì.!
+25) swine.exe:  25.[12, 4]    31 ms...WIN PN1 3433/1340 Tøi èuníci jdou...
+27) swine.exe:  27.[12, 2]     0 ms...WIN PN1 713/276 Vypadá to výbornì.
+29) swine.exe:  29.[12, 1]     0 ms...WIN PN1 186/75 Je to na dobré cestì.!
+31) swine.exe:  31.[10, 3]     0 ms...WIN PN1 170/70 Držte si klobouky...
+33) swine.exe:  33.[11, 3]     0 ms...WIN fours seq 2 :-)
+35) swine.exe:  35.[10, 2]     0 ms...WIN fours seq 1 :-))
+37) swine.exe:  37.[13, 5]    16 ms...Hmm, to máš blbý.
+39) swine.exe:  39.[ 9, 1]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\9x1-40(2).rec
+______________________________
+Noesis x swine
+ 5) swine.exe:   5.[ 9, 9]  3094 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 8,11]    94 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 9, 8]  1751 ms...Val=   355 (1/2/20)
+11) swine.exe:  11.[10,11]  1953 ms...Val=   333 (1/1/4)
+13) swine.exe:  13.[ 7,10]  3188 ms...:-(
+15) swine.exe:  15.[ 7,14]    62 ms...:-((
+17) swine.exe:  17.[ 5, 6]     0 ms...Tohle mì nebaví.
+19) swine.exe:  19.[19,19]     0 ms...Smekám klobouk.
+-> H:\gomocup-online\fastgame\3x1-21(1).rec
+______________________________
+swine x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\1x11-5(3).rec
+______________________________
+swine x pela
+ 6) swine.exe:   6.[10, 9]  4172 ms...Val=   679 (1/4/16)
+ 8) swine.exe:   8.[ 6,10]  4172 ms...Val=   659 (1/6/6)
+10) swine.exe:  10.[ 6, 9]  2172 ms...Val=   542 (1/4/20)
+12) swine.exe:  12.[ 5, 8]  3250 ms...Val=   618 (1/7/19)
+14) swine.exe:  14.[ 4,10]  2703 ms...Val=  1008 (1/1/3)
+16) swine.exe:  16.[ 4,11]   188 ms...Val=   785 (1/7/20)
+18) swine.exe:  18.[11, 9]   453 ms...Val=   734 (1/16/20)
+20) swine.exe:  20.[12, 9]   203 ms...Val=  1131 (1/6/20)
+22) swine.exe:  22.[ 8, 9]   453 ms...Val=   969 (1/5/20)
+24) swine.exe:  24.[ 4, 7]   313 ms...Val=   772 (1/1/20)
+26) swine.exe:  26.[11,10]   640 ms...Val=   610 (1/5/20)
+28) swine.exe:  28.[12, 8]   282 ms...Val=   798 (1/11/20)
+30) swine.exe:  30.[12, 6]   453 ms...Val=   673 (1/4/20)
+32) swine.exe:  32.[ 5, 6]  1156 ms...Val=   510 (1/15/20)
+34) swine.exe:  34.[ 6, 7]   719 ms...Val=   849 (1/1/20)
+36) swine.exe:  36.[ 7, 6]   640 ms...Val=   841 (1/1/20)
+38) swine.exe:  38.[ 4,12]  1172 ms...Val=   666 (1/10/20)
+40) swine.exe:  40.[ 4,13]   750 ms...Val=   706 (1/14/20)
+42) swine.exe:  42.[ 3, 8]   625 ms...Val=   570 (1/1/20)
+44) swine.exe:  44.[ 5, 7]   891 ms...Val=   364 (1/1/14)
+46) swine.exe:  46.[ 5,13]    78 ms...Val=   364 (1/16/20)
+48) swine.exe:  48.[ 3,12]    62 ms...Val=   489 (1/13/20)
+50) swine.exe:  50.[ 7, 5]    62 ms...Val=   543 (1/17/20)
+52) swine.exe:  52.[ 6, 4]   110 ms...Val=   651 (1/17/20)
+54) swine.exe:  54.[ 8, 4]    63 ms...Val=   658 (1/13/20)
+56) swine.exe:  56.[ 9, 5]   234 ms...Val=   329 (1/18/20)
+58) swine.exe:  58.[10, 7]    94 ms...Val=   198 (1/16/20)
+60) swine.exe:  60.[ 6, 3]    63 ms...Val=   229 (1/16/20)
+62) swine.exe:  62.[13, 7]    47 ms...Val=    86 (1/9/20)
+64) swine.exe:  64.[10,11]   188 ms...Val=   -94 (1/17/20)
+66) swine.exe:  66.[ 7,12]    93 ms...Val=  -358 (1/12/20)
+68) swine.exe:  68.[14, 6]    15 ms...Val= -1759 (1/10/20)
+70) swine.exe:  70.[ 2, 9]    16 ms...Val= -1938 (1/7/20)
+72) swine.exe:  72.[12,10]     0 ms...Hmm, to není dobrý
+73) pbrain-pela.exe:  I win !
+74) swine.exe:  74.[13,13]     0 ms...Už to nechci.
+76) swine.exe:  76.[ 0,19]     0 ms...To se budu muset taky nauèit.
+-> H:\gomocup-online\fastgame\1x7-78(1).rec
+______________________________
+swine x Benjamin
+ 6) swine.exe:   6.[ 8, 9]    93 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 9, 8]  1187 ms...Val=   701 (1/3/20)
+10) swine.exe:  10.[10, 7]  1766 ms...Val=   609 (1/3/20)
+12) swine.exe:  12.[11, 8]  3688 ms...Val=   645 (1/6/20)
+14) swine.exe:  14.[ 9,12]  3875 ms...Val=   649 (1/12/16)
+16) swine.exe:  16.[12, 7]  3234 ms...Val=   698 (1/7/8)
+18) swine.exe:  18.[13, 7]  2688 ms...Val=   581 (1/4/4)
+20) swine.exe:  20.[13, 5]   188 ms...Val=   686 (1/4/20)
+22) swine.exe:  22.[14, 6]   250 ms...Val=   647 (1/1/20)
+24) swine.exe:  24.[15, 5]   156 ms...Val=   765 (1/1/20)
+26) swine.exe:  26.[14, 5]     0 ms...WIN PN1 538/189 Chro chro.
+28) swine.exe:  28.[16, 4]    16 ms...WIN PN1 609/201 :-))
+30) swine.exe:  30.[16, 5]    15 ms...WIN PN1 376/126 To snad pude.
+32) swine.exe:  32.[16, 6]     0 ms...WIN PN1 419/140 To by mìlo vyjít.
+34) swine.exe:  34.[16, 2]     0 ms...WIN PN1 89/32 To snad pude.
+36) swine.exe:  36.[14, 4]     0 ms...WIN PN1 82/29 Tøi èuníci jdou...
+38) swine.exe:  38.[14, 3]     0 ms...Prohrál jste, saláte!
+40) swine.exe:  40.[14, 2]     0 ms...Prohrál jste, saláte!
+-> H:\gomocup-online\fastgame\1x10-41(1).rec
+______________________________
+Tito x swine
+ 5) swine.exe:   5.[ 9, 8]  3172 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[11, 9]    78 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[11, 7]    78 ms...Val= 19189 (1/0/0)
+11) swine.exe:  11.[ 8,11]  2844 ms...Val=   337 (1/10/20)
+13) swine.exe:  13.[ 6,12]  1703 ms...Val=   404 (1/6/20)
+15) swine.exe:  15.[11, 6]  2312 ms...Val=   353 (1/5/20)
+17) swine.exe:  17.[ 4,10]  3000 ms...Val=   106 (1/6/20)
+19) swine.exe:  19.[ 8,13]  1906 ms...Val=   194 (1/2/20)
+21) swine.exe:  21.[ 5,12]    63 ms...Val=   193 (1/1/20)
+23) swine.exe:  23.[10, 6]    94 ms...Val=   552 (1/1/20)
+25) swine.exe:  25.[12, 9]   203 ms...Val=   621 (1/1/20)
+27) swine.exe:  27.[10,10]   188 ms...Val=   600 (1/1/20)
+29) swine.exe:  29.[ 8, 6]     0 ms...Dej mi pokoj.
+31) swine.exe:  31.[ 6, 7]   219 ms...Val=   600 (1/15/20)
+33) swine.exe:  33.[ 3,11]   610 ms...Val=   897 (1/1/20)
+35) swine.exe:  35.[ 3,12]  1375 ms...Val=   923 (1/4/20)
+37) swine.exe:  37.[ 3,13]   938 ms...Val=  1146 (1/1/20)
+39) swine.exe:  39.[13, 8]  1859 ms...Val=  1028 (1/5/5)
+41) swine.exe:  41.[11, 4]   703 ms...Val=  1476 (1/1/20)
+43) swine.exe:  43.[ 8, 5]   750 ms...Val=  1536 (1/1/20)
+45) swine.exe:  45.[11,10]   109 ms...WIN PN1 10773/4041 To snad pude.
+47) swine.exe:  47.[13,10]    31 ms...WIN PN1 1264/476 Snad jsem nic nepøehlídla..
+49) swine.exe:  49.[13, 9]    16 ms...WIN PN1 1311/493 Vypadá to výbornì.
+51) swine.exe:  51.[14, 7]    16 ms...WIN PN1 1473/552 Že by?.
+53) swine.exe:  53.[14, 9]    16 ms...WIN PN1 1012/389 To by mìlo vyjít.
+55) swine.exe:  55.[15, 8]   125 ms...WIN PN1 12266/4855 :-)
+57) swine.exe:  57.[ 5, 5]     0 ms...Co se dá dìlat?
+59) swine.exe:  59.[ 3, 8]     0 ms...Kolik jich tam ještì máš?
+61) swine.exe:  61.[12, 6]     0 ms...No to je zábava.
+63) swine.exe:  63.[17,11]     0 ms...Dej mi pokoj.
+65) swine.exe:  65.[ 4,13]     0 ms...Co se dá dìlat?
+67) swine.exe:  67.[ 6, 9]     0 ms...Kolik jich tam ještì máš?
+69) swine.exe:  69.[16, 7]     0 ms...Zkus to znova
+71) swine.exe:  71.[12,11]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\8x1-72(1).rec
+______________________________
+swine x CURNPIS
+ 6) swine.exe:   6.[ 9, 7]   125 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[10, 8]   141 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[ 8, 8]   766 ms...Val=   469 (1/1/20)
+12) swine.exe:  12.[11, 5]  3031 ms...Val=   399 (1/11/20)
+14) swine.exe:  14.[ 6, 8]  1172 ms...Val=   509 (1/1/20)
+16) swine.exe:  16.[ 8, 4]  3765 ms...Val=   567 (1/4/20)
+18) swine.exe:  18.[11, 3]   313 ms...Val=   464 (1/1/20)
+20) swine.exe:  20.[10, 3]   891 ms...Val=   664 (1/1/20)
+22) swine.exe:  22.[12, 4]  3297 ms...Val=   781 (1/1/1)
+24) swine.exe:  24.[ 7, 9]  2750 ms...Val=   937 (1/1/1)
+26) swine.exe:  26.[ 6,10]   156 ms...Val=  1042 (1/1/20)
+28) swine.exe:  28.[12, 3]   391 ms...Val=   834 (1/6/20)
+30) swine.exe:  30.[14, 3]   110 ms...WIN PN1 12072/4386 Vypadá to výbornì.
+32) swine.exe:  32.[12, 5]    31 ms...WIN PN1 2544/884 :-))
+34) swine.exe:  34.[12, 7]    16 ms...WIN PN1 1549/576 Snad jsem nic nepøehlídla..
+36) swine.exe:  36.[13, 4]     0 ms...WIN PN1 211/73 To snad pude.
+38) swine.exe:  38.[14, 5]     0 ms...WIN PN1 66/23 Snad jsem nic nepøehlídla..
+40) swine.exe:  40.[13, 5]     0 ms...Tøeba se to nìkdy nauèíš
+42) swine.exe:  42.[15, 5]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\1x12-43(1).rec
+______________________________
+swine x LEONARDO
+ 6) swine.exe:   6.[10,10]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[11, 9]    94 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[ 9,11]   469 ms...Val=   399 (1/1/20)
+12) swine.exe:  12.[13, 7]  2141 ms...Val=   291 (1/4/20)
+14) swine.exe:  14.[11, 7]  2000 ms...Val=   524 (1/1/20)
+16) swine.exe:  16.[12, 7]    16 ms...WIN PN1 2565/890 To snad pude.
+18) swine.exe:  18.[13, 6]     0 ms...WIN PN1 608/220 :-)
+20) swine.exe:  20.[13, 8]     0 ms...WIN PN1 1446/488 Vypadá to výbornì.
+22) swine.exe:  22.[13, 9]     0 ms...WIN fours seq 2 Chro chro.
+24) swine.exe:  24.[14, 9]     0 ms...WIN fours seq 1 Držte si klobouky...
+26) swine.exe:  26.[11, 6]     0 ms...Prohrál jste, saláte!
+28) swine.exe:  28.[15,10]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\fastgame\1x13-29(1).rec
+______________________________
+BRUTEFOR x swine
+ 5) swine.exe:   5.[ 9, 8]  3157 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[10,10]  3484 ms...Val=   263 (1/7/20)
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x1-8(1).rec
+______________________________
+swine x pisq7
+ 6) swine.exe:   6.[ 9,10]   110 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[10,11]  2719 ms...Val=   838 (2/4/20)
+10) swine.exe:  10.[11,12]   141 ms...WIN PN1 5045/1751 To snad pude.
+12) swine.exe:  12.[ 9,12]    94 ms...WIN PN1 454/155 Tøi èuníci jdou...
+14) swine.exe:  14.[11,10]    15 ms...WIN PN1 434/149 To by mìlo vyjít.
+16) swine.exe:  16.[11,11]     0 ms...WIN PN1 81/30 Je to na dobré cestì.!
+18) swine.exe:  18.[11,13]     0 ms...To se musíte víc snažit, pane správce.
+20) swine.exe:  20.[11, 9]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\1x14-21(2).rec
+______________________________
+Benjamin x swine
+ 5) swine.exe:   5.[11, 8]  2140 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[10, 6]    63 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[12, 6]    63 ms...Val= 19189 (1/0/0)
+11) swine.exe:  11.[ 9, 7]  2094 ms...Val=   266 (1/1/20)
+13) swine.exe:  13.[11, 4]  2906 ms...Val=   278 (1/3/20)
+15) swine.exe:  15.[12, 5]  3781 ms...Val=   516 (1/1/14)
+17) swine.exe:  17.[ 7, 9]  2625 ms...Val=   652 (1/13/20)
+19) swine.exe:  19.[ 9,11]  1984 ms...Val=   843 (1/6/20)
+21) swine.exe:  21.[ 6,10]    94 ms...Val=   843 (1/2/20)
+23) swine.exe:  23.[ 7,11]   110 ms...Val=   667 (1/2/20)
+25) swine.exe:  25.[ 8,11]   141 ms...Val=   712 (1/1/20)
+27) swine.exe:  27.[11,11]   328 ms...Val=   664 (1/2/20)
+29) swine.exe:  29.[11,12]   203 ms...Val=   610 (1/6/20)
+31) swine.exe:  31.[12,12]    78 ms...WIN PN1 8693/3117 :-))
+33) swine.exe:  33.[11,10]    16 ms...WIN PN1 2755/983 :-)
+35) swine.exe:  35.[11,13]     0 ms...WIN PN1 2370/841 To by mìlo vyjít.
+37) swine.exe:  37.[13,12]    16 ms...WIN PN1 2678/965 Snad jsem nic nepøehlídla..
+39) swine.exe:  39.[14,12]     0 ms...WIN PN1 1261/447 Držte si klobouky...
+41) swine.exe:  41.[14,10]     0 ms...WIN PN1 1224/434 Snad jsem nic nepøehlídla..
+43) swine.exe:  43.[13,10]     0 ms...WIN PN1 113/41 To by mìlo vyjít.
+45) swine.exe:  45.[14, 9]     0 ms...WIN PN1 71/26 Je to na dobré cestì.!
+47) swine.exe:  47.[14,11]     0 ms...Nechceš si o tom promluvit?
+49) swine.exe:  49.[14, 8]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\10x1-50(2).rec
+______________________________
+LEONARDO x swine
+ 5) swine.exe:   5.[12, 8]  3156 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[14, 9]    63 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[13,10]  4172 ms...Val=   264 (1/3/16)
+11) swine.exe:  11.[ 9,11]     0 ms...No jo.
+13) swine.exe:  13.[15,10]   234 ms...WIN PN1 18985/7169 :-))
+15) swine.exe:  15.[13, 8]   141 ms...WIN PN1 16607/6307 :-))
+17) swine.exe:  17.[15, 8]   140 ms...WIN PN1 16328/6209 :-))
+19) swine.exe:  19.[15, 9]    78 ms...WIN PN1 9848/3823 :-)
+21) swine.exe:  21.[15,11]    94 ms...WIN PN1 9518/3695 :-))
+23) swine.exe:  23.[16, 7]     0 ms...WIN PN1 1163/425 Že by?.
+25) swine.exe:  25.[16,11]     0 ms...WIN PN1 802/298 Chro chro.
+27) swine.exe:  27.[14,11]     0 ms...WIN PN1 1042/378 :-))
+29) swine.exe:  29.[16, 9]     0 ms...WIN PN1 196/75 Vypadá to výbornì.
+31) swine.exe:  31.[17, 9]     0 ms...WIN fours seq 2 Vypadá to výbornì.
+33) swine.exe:  33.[16,10]     0 ms...WIN fours seq 1 Že by?.
+35) swine.exe:  35.[14,12]     0 ms...Prohrál jste, saláte!
+37) swine.exe:  37.[18, 8]     0 ms...Juch!
+-> H:\gomocup-online\fastgame\13x1-38(1).rec
+______________________________
+pisq7 x swine
+ 5) swine.exe:   5.[ 7,11]  1969 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 7,10]   844 ms...Val=   440 (1/4/20)
+ 9) swine.exe:   9.[ 7, 8]   656 ms...Val=   479 (1/2/20)
+11) swine.exe:  11.[ 8, 8]  2984 ms...Val=   435 (1/5/20)
+13) swine.exe:  13.[ 5, 8]   110 ms...WIN PN1 8084/2775 Tøi èuníci jdou...
+15) swine.exe:  15.[ 6, 7]    94 ms...WIN PN1 13008/5073 :-))
+17) swine.exe:  17.[10,11]     0 ms...WIN fours seq 2 Držte si klobouky...
+19) swine.exe:  19.[ 8,11]     0 ms...WIN fours seq 1 Že by?.
+21) swine.exe:  21.[ 6, 9]     0 ms...Nic si z toho nedìlej.
+23) swine.exe:  23.[ 9,12]    16 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\14x1-24(1).rec
+______________________________
+swine x Puskvorec
+ 6) swine.exe:   6.[11, 9]  2125 ms...WIN PN1 53407/21088 :-)
+ 8) swine.exe:   8.[12,10]   656 ms...WIN PN1 21515/8091 Držte si klobouky...
+10) swine.exe:  10.[11,10]    94 ms...WIN PN1 1284/424 :-))
+12) swine.exe:  12.[11, 8]    94 ms...WIN PN1 569/203 Tøi èuníci jdou...
+14) swine.exe:  14.[12, 8]     0 ms...WIN PN1 224/79 Držte si klobouky...
+16) swine.exe:  16.[13, 7]     0 ms...Prohrál jste, saláte!
+18) swine.exe:  18.[14, 6]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\1x15-19(1).rec
+______________________________
+CURNPIS x swine
+ 5) swine.exe:   5.[ 9, 7]  4172 ms...Val=   179 (1/1/12)
+ 7) swine.exe:   7.[11, 8]   109 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 5,11]  4172 ms...Val=   187 (1/1/2)
+11) swine.exe:  11.[ 8, 7]   796 ms...Val=   225 (1/2/20)
+13) swine.exe:  13.[ 7,10]  1016 ms...Val=    27 (1/2/4)
+15) swine.exe:  15.[10, 6]   938 ms...Val=   426 (1/2/20)
+17) swine.exe:  17.[ 5, 9]  3141 ms...Val=   455 (1/2/18)
+19) swine.exe:  19.[ 6,11]  2610 ms...Val=    66 (1/1/1)
+21) swine.exe:  21.[ 9,11]   235 ms...Val=    66 (1/2/20)
+23) swine.exe:  23.[ 4,11]   172 ms...Val=   804 (1/2/20)
+25) swine.exe:  25.[11, 6]   984 ms...Val=   871 (1/1/20)
+27) swine.exe:  27.[11, 7]   485 ms...Val=  1158 (1/3/20)
+29) swine.exe:  29.[12, 8]   235 ms...WIN AB 0 Vypadá to výbornì.
+31) swine.exe:  31.[11, 9]     0 ms...WIN fours seq 1 Držte si klobouky...
+33) swine.exe:  33.[10,10]     0 ms...Hmm, to máš blbý.
+35) swine.exe:  35.[13, 7]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\fastgame\12x1-36(1).rec
+______________________________
+swine x g_motor
+ 6) swine.exe:   6.[11,10]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[10,11]  1235 ms...Val=   701 (1/3/20)
+10) swine.exe:  10.[ 9,10]   359 ms...Val=  1414 (1/1/6)
+12) swine.exe:  12.[13, 6]     0 ms...Dej mi pokoj.
+14) swine.exe:  14.[ 9,11]     0 ms...WIN PN1 168/61 Že by?.
+16) swine.exe:  16.[ 9,12]     0 ms...WIN PN1 82/30 Chro chro.
+18) swine.exe:  18.[ 9,13]     0 ms...Tak snad nìkdy pøíštì.
+20) swine.exe:  20.[ 9, 9]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\fastgame\1x17-21(1).rec
+______________________________
+swine x trunkat
+ 6) swine.exe:   6.[11,10]  2375 ms...Val=   725 (1/18/20)
+ 8) swine.exe:   8.[ 9,11]  4172 ms...Val=   732 (1/12/14)
+10) swine.exe:  10.[11, 8]  1766 ms...Val=   971 (1/3/20)
+12) swine.exe:  12.[11,11]    94 ms...WIN PN1 926/343 Snad jsem nic nepøehlídla..
+14) swine.exe:  14.[11,12]     0 ms...WIN PN1 227/77 Že by?.
+16) swine.exe:  16.[11,13]     0 ms...WIN PN1 168/57 Chro chro.
+18) swine.exe:  18.[10,11]     0 ms...WIN PN1 175/61 To snad pude.
+20) swine.exe:  20.[10,12]     0 ms...WIN fours seq 1 Držte si klobouky...
+22) swine.exe:  22.[10,14]    15 ms...WIN fours seq 1 Je to na dobré cestì.!
+24) swine.exe:  24.[ 8,11]     0 ms...WIN fours seq 1 Držte si klobouky...
+26) swine.exe:  26.[12, 9]     0 ms...WIN PN3 107/45 :-)
+28) swine.exe:  28.[ 8, 9]     0 ms...Co se dá dìlat?
+30) swine.exe:  30.[ 9,12]     0 ms...Prohrál jste, saláte!
+32) swine.exe:  32.[13, 8]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\fastgame\1x16-33(1).rec
+______________________________
+Puskvorec x swine
+ 5) swine.exe:   5.[11, 9]  2141 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[11,10]  3360 ms...Val=   231 (1/7/20)
+ 9) swine.exe:   9.[11,12]  1235 ms...Val=   284 (1/1/20)
+11) swine.exe:  11.[13,12]  3875 ms...Val=   313 (1/15/19)
+13) swine.exe:  13.[ 6,14]     0 ms...Jen si hraj.
+15) swine.exe:  15.[ 9,10]     0 ms...WIN PN1 433/144 To by mìlo vyjít.
+17) swine.exe:  17.[12,13]     0 ms...WIN PN1 299/102 :-))
+19) swine.exe:  19.[12,11]     0 ms...WIN PN1 201/69 Tøi èuníci jdou...
+21) swine.exe:  21.[12,12]     0 ms...WIN PN1 158/52 :-)
+23) swine.exe:  23.[12,14]     0 ms...Nechceš si o tom promluvit?
+25) swine.exe:  25.[12,10]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\fastgame\15x1-26(3).rec
+______________________________
+pela x swine
+ 5) swine.exe:   5.[ 8, 9]  4172 ms...Val=   179 (1/1/12)
+ 7) swine.exe:   7.[ 9, 9]  2062 ms...Val=   358 (1/1/20)
+ 9) swine.exe:   9.[ 5, 7]  3079 ms...Val=   187 (1/12/20)
+11) swine.exe:  11.[ 7, 9]  2516 ms...Val=   439 (1/1/20)
+13) swine.exe:  13.[ 6, 7]  1156 ms...Val=   520 (1/3/20)
+15) swine.exe:  15.[ 6, 8]   562 ms...Val=   467 (1/1/20)
+17) swine.exe:  17.[ 5, 8]  2735 ms...Val=   522 (1/4/4)
+19) swine.exe:  19.[ 6, 6]   250 ms...Val=   563 (1/4/20)
+21) swine.exe:  21.[ 7, 5]    47 ms...Val=   545 (1/1/20)
+23) swine.exe:  23.[ 3, 7]   422 ms...Val=   536 (1/9/20)
+25) swine.exe:  25.[ 3, 5]   266 ms...Val=   666 (1/4/20)
+27) swine.exe:  27.[ 5, 5]   219 ms...Val=   601 (1/2/20)
+29) swine.exe:  29.[ 4, 9]   609 ms...Val=   398 (1/10/20)
+31) swine.exe:  31.[ 3,10]   375 ms...Val=   460 (1/2/20)
+33) swine.exe:  33.[ 4, 4]   968 ms...Val=   296 (1/13/20)
+35) swine.exe:  35.[ 5,10]  1063 ms...Val=   410 (1/13/20)
+37) swine.exe:  37.[ 4,10]  1109 ms...Val=   543 (1/11/20)
+39) swine.exe:  39.[ 2, 9]  1297 ms...Val=   569 (1/7/20)
+41) swine.exe:  41.[ 4,11]    15 ms...WIN PN1 1111/407 To by mìlo vyjít.
+43) swine.exe:  43.[ 1, 8]    16 ms...WIN PN1 900/338 :-)
+45) swine.exe:  45.[ 1, 9]    15 ms...WIN PN1 1185/461 Vypadá to výbornì.
+47) swine.exe:  47.[ 4, 5]     0 ms...WIN fours seq 3 Tøi èuníci jdou...
+49) swine.exe:  49.[ 1, 5]     0 ms...WIN fours seq 2 Je to na dobré cestì.!
+51) swine.exe:  51.[ 1, 7]     0 ms...WIN fours seq 1 :-))
+53) swine.exe:  53.[ 2, 6]    16 ms...Nechceš si o tom promluvit?
+55) swine.exe:  55.[ 0, 8]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\7x1-56(1).rec
+______________________________
+trunkat x swine
+ 5) swine.exe:   5.[10,11]  2984 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 9,11]  1109 ms...Val=   358 (1/1/20)
+ 9) swine.exe:   9.[11,11]  3578 ms...Val=   179 (1/2/20)
+11) swine.exe:  11.[10,12]  2828 ms...WIN AB 0 Chro chro.
+13) swine.exe:  13.[12,10]    78 ms...WIN PN1 677/254 Držte si klobouky...
+15) swine.exe:  15.[ 9,13]     0 ms...WIN PN1 628/221 Snad jsem nic nepøehlídla..
+17) swine.exe:  17.[11,13]     0 ms...WIN PN1 522/180 Je to na dobré cestì.!
+19) swine.exe:  19.[12,11]     0 ms...WIN PN1 654/233 To by mìlo vyjít.
+21) swine.exe:  21.[10,13]     0 ms...WIN PN1 552/199 Že by?.
+23) swine.exe:  23.[12,13]     0 ms...WIN fours seq 5 Snad jsem nic nepøehlídla..
+25) swine.exe:  25.[12,12]     0 ms...WIN fours seq 4 Chro chro.
+27) swine.exe:  27.[10,14]     0 ms...WIN fours seq 3 Tøi èuníci jdou...
+29) swine.exe:  29.[ 9,15]     0 ms...WIN fours seq 2 Vypadá to výbornì.
+31) swine.exe:  31.[ 9,14]     0 ms...WIN fours seq 1 Snad jsem nic nepøehlídla..
+33) swine.exe:  33.[11,12]     0 ms...Hmm, to máš blbý.
+35) swine.exe:  35.[13,10]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\fastgame\16x1-36(1).rec
+______________________________
+g_motor x swine
+ 5) swine.exe:   5.[ 7, 7]  2094 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 7, 8]   828 ms...Val=   440 (1/4/20)
+ 9) swine.exe:   9.[ 8,10]   781 ms...Val=   568 (1/2/4)
+11) swine.exe:  11.[ 7,10]  2562 ms...Val=   587 (1/1/20)
+13) swine.exe:  13.[12, 6]    16 ms...No jo.
+15) swine.exe:  15.[ 5,10]   110 ms...WIN PN1 14874/5149 Že by?.
+17) swine.exe:  17.[ 6, 9]    47 ms...WIN PN1 6824/2481 :-)
+19) swine.exe:  19.[ 4,12]     0 ms...Kolik jich tam ještì máš?
+21) swine.exe:  21.[ 3,12]     0 ms...WIN PN1 86/30 :-))
+23) swine.exe:  23.[ 5,12]     0 ms...WIN PN1 92/32 Snad jsem nic nepøehlídla..
+25) swine.exe:  25.[ 8, 4]     0 ms...Už to nechci.
+27) swine.exe:  27.[ 6,11]     0 ms...Ale to je mi líto.
+29) swine.exe:  29.[ 9, 8]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\fastgame\17x1-30(1).rec
+______________________________
+Goro2005 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\2x4-5(3).rec
+______________________________
+Goro2005 x Noesis
+-> H:\gomocup-online\fastgame\2x3-27(2).rec
+______________________________
+bestmove x Goro2005
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x2-6(2).rec
+______________________________
+Goro2005 x HGarden
+-> H:\gomocup-online\fastgame\2x5-23(1).rec
+______________________________
+Goro2005 x kanec
+-> H:\gomocup-online\fastgame\2x6-39(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\fastgame\2x8-31(1).rec
+______________________________
+Noesis x Goro2005
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x2-30(1).rec
+______________________________
+Goro2005 x AI1000
+-> H:\gomocup-online\fastgame\2x9-37(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\fastgame\8x2-61(1).rec
+______________________________
+kanec x Goro2005
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x2-50(2).rec
+______________________________
+Goro2005 x pela
+Goro2005.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\2x7-52(1).rec
+______________________________
+HGarden x Goro2005
+-> H:\gomocup-online\fastgame\5x2-47(2).rec
+______________________________
+AI1000 x Goro2005
+-> H:\gomocup-online\fastgame\9x2-32(1).rec
+______________________________
+Goro2005 x Benjamin
+-> H:\gomocup-online\fastgame\2x10-35(1).rec
+______________________________
+Goro2005 x LEONARDO
+-> H:\gomocup-online\fastgame\2x13-21(3).rec
+______________________________
+Goro2005 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\2x11-9(1).rec
+______________________________
+Benjamin x Goro2005
+-> H:\gomocup-online\fastgame\10x2-30(1).rec
+______________________________
+LEONARDO x Goro2005
+-> H:\gomocup-online\fastgame\13x2-30(1).rec
+______________________________
+Goro2005 x CURNPIS
+-> H:\gomocup-online\fastgame\2x12-29(1).rec
+______________________________
+Goro2005 x pisq7
+-> H:\gomocup-online\fastgame\2x14-21(1).rec
+______________________________
+Goro2005 x Puskvorec
+-> H:\gomocup-online\fastgame\2x15-21(1).rec
+______________________________
+pisq7 x Goro2005
+-> H:\gomocup-online\fastgame\14x2-22(1).rec
+______________________________
+BRUTEFOR x Goro2005
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x2-8(1).rec
+______________________________
+Puskvorec x Goro2005
+-> H:\gomocup-online\fastgame\15x2-24(1).rec
+______________________________
+CURNPIS x Goro2005
+-> H:\gomocup-online\fastgame\12x2-28(1).rec
+______________________________
+Goro2005 x trunkat
+-> H:\gomocup-online\fastgame\2x16-19(3).rec
+______________________________
+pela x Goro2005
+-> H:\gomocup-online\fastgame\7x2-34(1).rec
+______________________________
+Noesis x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x4-5(3).rec
+______________________________
+Goro2005 x g_motor
+-> H:\gomocup-online\fastgame\2x17-21(1).rec
+______________________________
+trunkat x Goro2005
+-> H:\gomocup-online\fastgame\16x2-26(1).rec
+______________________________
+bestmove x Noesis
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x3-6(2).rec
+______________________________
+g_motor x Goro2005
+-> H:\gomocup-online\fastgame\17x2-28(1).rec
+______________________________
+Noesis x AI1000
+-> H:\gomocup-online\fastgame\3x9-23(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\fastgame\3x5-42(1).rec
+______________________________
+Noesis x kanec
+-> H:\gomocup-online\fastgame\3x6-46(1).rec
+______________________________
+Noesis x Tito
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x8-26(1).rec
+______________________________
+Noesis x pela
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x7-28(1).rec
+______________________________
+AI1000 x Noesis
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\9x3-21(1).rec
+______________________________
+kanec x Noesis
+-> H:\gomocup-online\fastgame\6x3-27(3).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\fastgame\5x3-33(1).rec
+______________________________
+Noesis x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\3x11-5(3).rec
+______________________________
+Noesis x Benjamin
+-> H:\gomocup-online\fastgame\3x10-23(1).rec
+______________________________
+BRUTEFOR x Noesis
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x3-6(3).rec
+______________________________
+Tito x Noesis
+-> H:\gomocup-online\fastgame\8x3-37(1).rec
+______________________________
+Noesis x LEONARDO
+-> H:\gomocup-online\fastgame\3x13-21(1).rec
+______________________________
+pela x Noesis
+26) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x3-41(1).rec
+______________________________
+Noesis x CURNPIS
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\3x12-22(1).rec
+______________________________
+Noesis x Puskvorec
+-> H:\gomocup-online\fastgame\3x15-17(1).rec
+______________________________
+Noesis x pisq7
+-> H:\gomocup-online\fastgame\3x14-21(1).rec
+______________________________
+Benjamin x Noesis
+Noesis.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x3-43(1).rec
+______________________________
+LEONARDO x Noesis
+-> H:\gomocup-online\fastgame\13x3-26(1).rec
+______________________________
+Noesis x trunkat
+-> H:\gomocup-online\fastgame\3x16-17(1).rec
+______________________________
+CURNPIS x Noesis
+-> H:\gomocup-online\fastgame\12x3-26(1).rec
+______________________________
+Noesis x g_motor
+-> H:\gomocup-online\fastgame\3x17-21(1).rec
+______________________________
+bestmove x HGarden
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x5-6(2).rec
+______________________________
+pisq7 x Noesis
+-> H:\gomocup-online\fastgame\14x3-34(1).rec
+______________________________
+HGarden x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\5x4-5(3).rec
+______________________________
+Puskvorec x Noesis
+-> H:\gomocup-online\fastgame\15x3-69(1).rec
+______________________________
+trunkat x Noesis
+-> H:\gomocup-online\fastgame\16x3-36(1).rec
+______________________________
+g_motor x Noesis
+-> H:\gomocup-online\fastgame\17x3-22(1).rec
+______________________________
+bestmove x kanec
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x6-6(2).rec
+______________________________
+bestmove x Tito
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x8-6(2).rec
+______________________________
+bestmove x AI1000
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x9-6(2).rec
+______________________________
+bestmove x Benjamin
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x10-6(2).rec
+______________________________
+kanec x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\6x4-5(3).rec
+______________________________
+bestmove x pela
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x7-6(2).rec
+______________________________
+Tito x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\8x4-5(3).rec
+______________________________
+AI1000 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\9x4-5(3).rec
+______________________________
+Benjamin x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x4-5(3).rec
+______________________________
+bestmove x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\4x11-5(2).rec
+______________________________
+pela x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x4-5(3).rec
+______________________________
+bestmove x CURNPIS
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x12-6(2).rec
+______________________________
+bestmove x LEONARDO
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x13-6(2).rec
+______________________________
+bestmove x pisq7
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x14-6(2).rec
+______________________________
+BRUTEFOR x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\11x4-5(3).rec
+______________________________
+bestmove x Puskvorec
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x15-6(2).rec
+______________________________
+CURNPIS x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\12x4-5(3).rec
+______________________________
+LEONARDO x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\13x4-5(3).rec
+______________________________
+pisq7 x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\14x4-5(3).rec
+______________________________
+bestmove x trunkat
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x16-6(2).rec
+______________________________
+Puskvorec x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\15x4-5(3).rec
+______________________________
+bestmove x g_motor
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\4x17-6(2).rec
+______________________________
+trunkat x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\16x4-5(3).rec
+______________________________
+g_motor x bestmove
+pbrain-bestmove.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\17x4-5(3).rec
+______________________________
+HGarden x AI1000
+-> H:\gomocup-online\fastgame\5x9-29(1).rec
+______________________________
+HGarden x Tito
+-> H:\gomocup-online\fastgame\5x8-30(1).rec
+______________________________
+HGarden x Benjamin
+-> H:\gomocup-online\fastgame\5x10-35(1).rec
+______________________________
+HGarden x kanec
+-> H:\gomocup-online\fastgame\5x6-48(1).rec
+______________________________
+Tito x HGarden
+-> H:\gomocup-online\fastgame\8x5-25(1).rec
+______________________________
+AI1000 x HGarden
+-> H:\gomocup-online\fastgame\9x5-32(1).rec
+______________________________
+HGarden x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\5x11-5(3).rec
+______________________________
+Benjamin x HGarden
+-> H:\gomocup-online\fastgame\10x5-28(1).rec
+______________________________
+HGarden x CURNPIS
+-> H:\gomocup-online\fastgame\5x12-29(1).rec
+______________________________
+BRUTEFOR x HGarden
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x5-6(3).rec
+______________________________
+CURNPIS x HGarden
+-> H:\gomocup-online\fastgame\12x5-34(1).rec
+______________________________
+HGarden x pela
+pbrain-HGarden.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\5x7-48(1).rec
+______________________________
+HGarden x LEONARDO
+-> H:\gomocup-online\fastgame\5x13-43(2).rec
+______________________________
+HGarden x pisq7
+-> H:\gomocup-online\fastgame\5x14-35(1).rec
+______________________________
+HGarden x Puskvorec
+-> H:\gomocup-online\fastgame\5x15-23(2).rec
+______________________________
+LEONARDO x HGarden
+-> H:\gomocup-online\fastgame\13x5-24(1).rec
+______________________________
+pisq7 x HGarden
+-> H:\gomocup-online\fastgame\14x5-28(1).rec
+______________________________
+kanec x HGarden
+-> H:\gomocup-online\fastgame\6x5-50(1).rec
+______________________________
+HGarden x trunkat
+-> H:\gomocup-online\fastgame\5x16-23(2).rec
+______________________________
+trunkat x HGarden
+-> H:\gomocup-online\fastgame\16x5-28(2).rec
+______________________________
+Puskvorec x HGarden
+-> H:\gomocup-online\fastgame\15x5-30(1).rec
+______________________________
+kanec x AI1000
+-> H:\gomocup-online\fastgame\6x9-21(2).rec
+______________________________
+kanec x pela
+-> H:\gomocup-online\fastgame\6x7-33(1).rec
+______________________________
+kanec x Tito
+-> H:\gomocup-online\fastgame\6x8-48(1).rec
+______________________________
+HGarden x g_motor
+-> H:\gomocup-online\fastgame\5x17-39(1).rec
+______________________________
+AI1000 x kanec
+-> H:\gomocup-online\fastgame\9x6-38(1).rec
+______________________________
+pela x HGarden
+pbrain-HGarden.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\7x5-47(1).rec
+______________________________
+kanec x Benjamin
+-> H:\gomocup-online\fastgame\6x10-29(1).rec
+______________________________
+Tito x kanec
+pbrain-kanec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\8x6-27(1).rec
+______________________________
+kanec x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\6x11-7(1).rec
+______________________________
+kanec x CURNPIS
+-> H:\gomocup-online\fastgame\6x12-31(1).rec
+______________________________
+g_motor x HGarden
+-> H:\gomocup-online\fastgame\17x5-28(1).rec
+______________________________
+CURNPIS x kanec
+-> H:\gomocup-online\fastgame\12x6-32(1).rec
+______________________________
+Benjamin x kanec
+-> H:\gomocup-online\fastgame\10x6-48(1).rec
+______________________________
+BRUTEFOR x kanec
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x6-6(3).rec
+______________________________
+kanec x pisq7
+-> H:\gomocup-online\fastgame\6x14-19(2).rec
+______________________________
+kanec x trunkat
+-> H:\gomocup-online\fastgame\6x16-19(2).rec
+______________________________
+kanec x Puskvorec
+-> H:\gomocup-online\fastgame\6x15-19(2).rec
+______________________________
+trunkat x kanec
+-> H:\gomocup-online\fastgame\16x6-24(1).rec
+______________________________
+kanec x LEONARDO
+-> H:\gomocup-online\fastgame\6x13-27(1).rec
+______________________________
+Puskvorec x kanec
+-> H:\gomocup-online\fastgame\15x6-22(1).rec
+______________________________
+pisq7 x kanec
+-> H:\gomocup-online\fastgame\14x6-30(1).rec
+______________________________
+pela x kanec
+76) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x6-87(1).rec
+______________________________
+kanec x g_motor
+-> H:\gomocup-online\fastgame\6x17-21(1).rec
+______________________________
+LEONARDO x kanec
+-> H:\gomocup-online\fastgame\13x6-38(1).rec
+______________________________
+pela x AI1000
+-> H:\gomocup-online\fastgame\7x9-21(1).rec
+______________________________
+g_motor x kanec
+-> H:\gomocup-online\fastgame\17x6-30(2).rec
+______________________________
+pela x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\7x11-5(2).rec
+______________________________
+pela x Benjamin
+34) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x10-39(1).rec
+______________________________
+pela x CURNPIS
+18) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x12-31(1).rec
+______________________________
+BRUTEFOR x pela
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x7-6(2).rec
+______________________________
+AI1000 x pela
+AI1000.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\9x7-26(1).rec
+______________________________
+pela x LEONARDO
+22) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x13-31(1).rec
+______________________________
+CURNPIS x pela
+-> H:\gomocup-online\fastgame\12x7-32(1).rec
+______________________________
+pela x Puskvorec
+18) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x15-31(1).rec
+______________________________
+Benjamin x pela
+53) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\10x7-68(1).rec
+______________________________
+pela x Tito
+-> H:\gomocup-online\fastgame\7x8-82(1).rec
+______________________________
+pela x trunkat
+-> H:\gomocup-online\fastgame\7x16-19(1).rec
+______________________________
+LEONARDO x pela
+-> H:\gomocup-online\fastgame\13x7-30(1).rec
+______________________________
+pela x pisq7
+-> H:\gomocup-online\fastgame\7x14-41(1).rec
+______________________________
+Puskvorec x pela
+27) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\15x7-32(1).rec
+______________________________
+Tito x AI1000
+-> H:\gomocup-online\fastgame\8x9-23(2).rec
+______________________________
+AI1000 x Tito
+-> H:\gomocup-online\fastgame\9x8-28(1).rec
+______________________________
+trunkat x pela
+trunkat.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\16x7-28(1).rec
+______________________________
+pisq7 x pela
+47) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\14x7-54(1).rec
+______________________________
+Tito x Benjamin
+-> H:\gomocup-online\fastgame\8x10-35(1).rec
+______________________________
+Tito x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\8x11-7(2).rec
+______________________________
+Tito x CURNPIS
+-> H:\gomocup-online\fastgame\8x12-25(1).rec
+______________________________
+pela x g_motor
+46) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\7x17-51(1).rec
+______________________________
+Benjamin x Tito
+-> H:\gomocup-online\fastgame\10x8-42(1).rec
+______________________________
+CURNPIS x Tito
+-> H:\gomocup-online\fastgame\12x8-26(1).rec
+______________________________
+Tito x pisq7
+-> H:\gomocup-online\fastgame\8x14-23(1).rec
+______________________________
+Tito x pela
+89) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\8x7-98(1).rec
+______________________________
+BRUTEFOR x Tito
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x8-8(1).rec
+______________________________
+pisq7 x Tito
+-> H:\gomocup-online\fastgame\14x8-24(1).rec
+______________________________
+Tito x trunkat
+-> H:\gomocup-online\fastgame\8x16-25(1).rec
+______________________________
+Tito x Puskvorec
+-> H:\gomocup-online\fastgame\8x15-17(1).rec
+______________________________
+Tito x LEONARDO
+-> H:\gomocup-online\fastgame\8x13-39(1).rec
+______________________________
+Puskvorec x Tito
+-> H:\gomocup-online\fastgame\15x8-22(1).rec
+______________________________
+trunkat x Tito
+-> H:\gomocup-online\fastgame\16x8-28(1).rec
+______________________________
+Tito x g_motor
+-> H:\gomocup-online\fastgame\8x17-23(1).rec
+______________________________
+AI1000 x Benjamin
+-> H:\gomocup-online\fastgame\9x10-106(1).rec
+______________________________
+LEONARDO x Tito
+-> H:\gomocup-online\fastgame\13x8-38(1).rec
+______________________________
+AI1000 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\9x11-5(3).rec
+______________________________
+Benjamin x AI1000
+-> H:\gomocup-online\fastgame\10x9-127(1).rec
+______________________________
+AI1000 x LEONARDO
+-> H:\gomocup-online\fastgame\9x13-56(1).rec
+______________________________
+BRUTEFOR x AI1000
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x9-6(3).rec
+______________________________
+LEONARDO x AI1000
+-> H:\gomocup-online\fastgame\13x9-50(1).rec
+______________________________
+AI1000 x CURNPIS
+-> H:\gomocup-online\fastgame\9x12-129(1).rec
+______________________________
+AI1000 x pisq7
+-> H:\gomocup-online\fastgame\9x14-95(1).rec
+______________________________
+g_motor x pela
+41) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\fastgame\17x7-46(2).rec
+______________________________
+AI1000 x Puskvorec
+-> H:\gomocup-online\fastgame\9x15-25(1).rec
+______________________________
+pisq7 x AI1000
+-> H:\gomocup-online\fastgame\14x9-24(2).rec
+______________________________
+CURNPIS x AI1000
+-> H:\gomocup-online\fastgame\12x9-80(1).rec
+______________________________
+AI1000 x trunkat
+-> H:\gomocup-online\fastgame\9x16-28(1).rec
+______________________________
+g_motor x Tito
+-> H:\gomocup-online\fastgame\17x8-34(1).rec
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\10x11-5(2).rec
+______________________________
+trunkat x AI1000
+-> H:\gomocup-online\fastgame\16x9-25(1).rec
+______________________________
+Puskvorec x AI1000
+-> H:\gomocup-online\fastgame\15x9-23(1).rec
+______________________________
+Benjamin x pisq7
+-> H:\gomocup-online\fastgame\10x14-68(1).rec
+______________________________
+Benjamin x CURNPIS
+CURNPIS.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\10x12-61(1).rec
+______________________________
+BRUTEFOR x Benjamin
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x10-6(3).rec
+______________________________
+pisq7 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\fastgame\14x10-393(1).rec
+______________________________
+AI1000 x g_motor
+-> H:\gomocup-online\fastgame\9x17-50(1).rec
+______________________________
+CURNPIS x Benjamin
+-> H:\gomocup-online\fastgame\12x10-140(1).rec
+______________________________
+Benjamin x LEONARDO
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\fastgame\10x13-388(1).rec
+______________________________
+LEONARDO x Benjamin
+-> H:\gomocup-online\fastgame\13x10-94(1).rec
+______________________________
+Benjamin x trunkat
+-> H:\gomocup-online\fastgame\10x16-40(1).rec
+______________________________
+BRUTEFOR x CURNPIS
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x12-6(3).rec
+______________________________
+g_motor x AI1000
+-> H:\gomocup-online\fastgame\17x9-44(1).rec
+______________________________
+CURNPIS x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\12x11-5(3).rec
+______________________________
+Benjamin x Puskvorec
+Puskvorec.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\10x15-53(1).rec
+______________________________
+BRUTEFOR x pisq7
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x14-6(3).rec
+______________________________
+Benjamin x g_motor
+-> H:\gomocup-online\fastgame\10x17-76(1).rec
+______________________________
+BRUTEFOR x LEONARDO
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x13-8(1).rec
+______________________________
+Puskvorec x Benjamin
+-> H:\gomocup-online\fastgame\15x10-27(1).rec
+______________________________
+pisq7 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\14x11-5(3).rec
+______________________________
+LEONARDO x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\13x11-5(3).rec
+______________________________
+BRUTEFOR x Puskvorec
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x15-6(3).rec
+______________________________
+BRUTEFOR x trunkat
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x16-6(3).rec
+______________________________
+trunkat x Benjamin
+trunkat.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\16x10-78(1).rec
+______________________________
+BRUTEFOR x g_motor
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\11x17-6(3).rec
+______________________________
+Puskvorec x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\15x11-5(3).rec
+______________________________
+CURNPIS x LEONARDO
+-> H:\gomocup-online\fastgame\12x13-101(1).rec
+______________________________
+CURNPIS x pisq7
+-> H:\gomocup-online\fastgame\12x14-66(1).rec
+______________________________
+trunkat x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\16x11-5(3).rec
+______________________________
+pisq7 x CURNPIS
+-> H:\gomocup-online\fastgame\14x12-47(1).rec
+______________________________
+g_motor x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> H:\gomocup-online\fastgame\17x11-5(3).rec
+______________________________
+CURNPIS x Puskvorec
+-> H:\gomocup-online\fastgame\12x15-18(1).rec
+______________________________
+LEONARDO x CURNPIS
+-> H:\gomocup-online\fastgame\13x12-81(1).rec
+______________________________
+CURNPIS x trunkat
+-> H:\gomocup-online\fastgame\12x16-18(1).rec
+______________________________
+LEONARDO x pisq7
+-> H:\gomocup-online\fastgame\13x14-37(1).rec
+______________________________
+pisq7 x LEONARDO
+-> H:\gomocup-online\fastgame\14x13-41(1).rec
+______________________________
+LEONARDO x Puskvorec
+-> H:\gomocup-online\fastgame\13x15-39(1).rec
+______________________________
+g_motor x Benjamin
+-> H:\gomocup-online\fastgame\17x10-115(1).rec
+______________________________
+Puskvorec x CURNPIS
+-> H:\gomocup-online\fastgame\15x12-47(1).rec
+______________________________
+LEONARDO x trunkat
+-> H:\gomocup-online\fastgame\13x16-39(1).rec
+______________________________
+trunkat x CURNPIS
+-> H:\gomocup-online\fastgame\16x12-63(1).rec
+______________________________
+CURNPIS x g_motor
+-> H:\gomocup-online\fastgame\12x17-34(1).rec
+______________________________
+trunkat x LEONARDO
+-> H:\gomocup-online\fastgame\16x13-29(1).rec
+______________________________
+pisq7 x Puskvorec
+-> H:\gomocup-online\fastgame\14x15-32(1).rec
+______________________________
+pisq7 x trunkat
+-> H:\gomocup-online\fastgame\14x16-23(1).rec
+______________________________
+g_motor x CURNPIS
+-> H:\gomocup-online\fastgame\17x12-21(1).rec
+______________________________
+Puskvorec x LEONARDO
+-> H:\gomocup-online\fastgame\15x13-45(1).rec
+______________________________
+LEONARDO x g_motor
+-> H:\gomocup-online\fastgame\13x17-42(1).rec
+______________________________
+Puskvorec x pisq7
+-> H:\gomocup-online\fastgame\15x14-33(1).rec
+______________________________
+pisq7 x g_motor
+-> H:\gomocup-online\fastgame\14x17-28(1).rec
+______________________________
+g_motor x LEONARDO
+-> H:\gomocup-online\fastgame\17x13-12(1).rec
+______________________________
+trunkat x pisq7
+trunkat.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\16x14-36(1).rec
+______________________________
+Puskvorec x g_motor
+-> H:\gomocup-online\fastgame\15x17-21(2).rec
+______________________________
+trunkat x g_motor
+-> H:\gomocup-online\fastgame\16x17-29(1).rec
+______________________________
+g_motor x trunkat
+-> H:\gomocup-online\fastgame\17x16-21(1).rec
+______________________________
+g_motor x pisq7
+-> H:\gomocup-online\fastgame\17x14-62(1).rec
+______________________________
+g_motor x Puskvorec
+-> H:\gomocup-online\fastgame\17x15-26(1).rec
+______________________________
+Puskvorec x trunkat
+trunkat.exe: Èas vypršel
+-> H:\gomocup-online\fastgame\15x16-69(1).rec
+______________________________
+trunkat x Puskvorec
+-> H:\gomocup-online\fastgame\16x15-25(1).rec

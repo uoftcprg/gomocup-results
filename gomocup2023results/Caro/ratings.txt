@@ -1,0 +1,5 @@
+Rank Name                 Elo    +    - games score oppo. draws 
+   1 0#ALPHAGOMOKU.MK23  2007  105   88    72   92%  1464    6% 
+   2 1#EMBRYO23          1863   87   88    72   74%  1512    7% 
+   3 2#LAVENDER          1453  105  111    72   33%  1649    1% 
+   4 3#PELA23            1077  126  209    72    1%  1774    0% 

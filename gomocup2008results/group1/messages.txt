@@ -1,0 +1,977 @@
+______________________________
+Kanec x Goro2007
+Goro2007.exe has not returned coordinates x,y
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x1-13(1).psq
+______________________________
+Goro2007 x Kanec
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x0-18(1).psq
+______________________________
+Kanec x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x2-72(1).psq
+______________________________
+HGarden07 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x0-37(1).psq
+______________________________
+Kanec x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x3-27(1).psq
+______________________________
+Noesis x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x0-24(1).psq
+______________________________
+Kanec x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x4-23(1).psq
+______________________________
+pisq7 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x0-20(1).psq
+______________________________
+Kanec x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x5-19(1).psq
+______________________________
+AI1000 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x0-76(1).psq
+______________________________
+Kanec x hewer
+91) pbrain-hewer.exe: AB :-)
+93) pbrain-hewer.exe: AB :-)
+99) pbrain-hewer.exe: AB :-)
+101) pbrain-hewer.exe: AB :-)
+103) pbrain-hewer.exe: AB :-)
+105) pbrain-hewer.exe: AB :-)
+107) pbrain-hewer.exe: :-)
+109) pbrain-hewer.exe: :-)
+111) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x6-112(1).psq
+______________________________
+hewer x Kanec
+60) pbrain-hewer.exe: AB :-)
+66) pbrain-hewer.exe: AB :-)
+68) pbrain-hewer.exe: AB :-)
+98) pbrain-hewer.exe: AB :-)
+100) pbrain-hewer.exe: AB :-)
+102) pbrain-hewer.exe: AB :-)
+104) pbrain-hewer.exe: AB :-)
+106) pbrain-hewer.exe: AB :-)
+108) pbrain-hewer.exe: AB :-)
+110) pbrain-hewer.exe: :-)
+112) pbrain-hewer.exe: :-)
+114) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x0-115(1).psq
+______________________________
+Kanec x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x7-21(1).psq
+______________________________
+LEONARDO x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x0-28(1).psq
+______________________________
+Kanec x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x8-79(1).psq
+______________________________
+HfM x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x0-49(1).psq
+______________________________
+Goro2007 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x2-41(1).psq
+______________________________
+HGarden07 x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x1-13(1).psq
+______________________________
+Goro2007 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x3-37(1).psq
+______________________________
+Noesis x Goro2007
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x1-34(1).psq
+______________________________
+Goro2007 x pisq7
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x4-14(1).psq
+______________________________
+pisq7 x Goro2007
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x1-20(1).psq
+______________________________
+Goro2007 x AI1000
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x5-10(1).psq
+______________________________
+AI1000 x Goro2007
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x1-20(1).psq
+______________________________
+Goro2007 x hewer
+41) pbrain-hewer.exe: AB :-(
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x6-44(1).psq
+______________________________
+hewer x Goro2007
+24) pbrain-hewer.exe: AB :-(
+26) pbrain-hewer.exe: AB :-(
+28) pbrain-hewer.exe: AB :-(
+30) pbrain-hewer.exe: AB :-(
+34) pbrain-hewer.exe: :-(
+36) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x1-38(1).psq
+______________________________
+Goro2007 x LEONARDO
+Goro2007.exe has not returned coordinates x,y
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x7-26(1).psq
+______________________________
+LEONARDO x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x1-19(1).psq
+______________________________
+Goro2007 x HfM
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x8-6(1).psq
+______________________________
+HfM x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x1-13(1).psq
+______________________________
+HGarden07 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x3-49(1).psq
+______________________________
+Noesis x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x2-32(1).psq
+______________________________
+HGarden07 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x4-29(1).psq
+______________________________
+pisq7 x HGarden07
+______________________________
+pisq7 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x2-20(1).psq
+______________________________
+HGarden07 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x5-35(1).psq
+______________________________
+AI1000 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x2-20(1).psq
+______________________________
+HGarden07 x hewer
+45) pbrain-hewer.exe: AB :-(
+47) pbrain-hewer.exe: AB :-(
+49) pbrain-hewer.exe: AB :-(
+51) pbrain-hewer.exe: AB :-(
+55) pbrain-hewer.exe: :-(
+57) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x6-59(1).psq
+______________________________
+hewer x HGarden07
+36) pbrain-hewer.exe: AB :-)
+38) pbrain-hewer.exe: AB :-)
+46) pbrain-hewer.exe: AB :-)
+48) pbrain-hewer.exe: AB :-)
+50) pbrain-hewer.exe: AB :-)
+52) pbrain-hewer.exe: :-)
+54) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x2-55(1).psq
+______________________________
+HGarden07 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x7-31(1).psq
+______________________________
+LEONARDO x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x2-22(1).psq
+______________________________
+HGarden07 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x8-24(1).psq
+______________________________
+HfM x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x2-36(1).psq
+______________________________
+Noesis x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x4-21(1).psq
+______________________________
+pisq7 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x3-29(1).psq
+______________________________
+Noesis x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x5-79(1).psq
+______________________________
+AI1000 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x3-64(1).psq
+______________________________
+Noesis x hewer
+11) pbrain-hewer.exe: AB :-)
+17) pbrain-hewer.exe: AB :-)
+19) pbrain-hewer.exe: AB :-)
+21) pbrain-hewer.exe: AB :-)
+23) pbrain-hewer.exe: AB :-)
+25) pbrain-hewer.exe: AB :-)
+27) pbrain-hewer.exe: AB :-)
+35) pbrain-hewer.exe: :-)
+37) pbrain-hewer.exe: :-)
+39) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x6-40(1).psq
+______________________________
+hewer x Noesis
+12) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: :-)
+20) pbrain-hewer.exe: :-)
+22) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x3-23(1).psq
+______________________________
+Noesis x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x7-21(1).psq
+______________________________
+LEONARDO x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x3-77(1).psq
+______________________________
+Noesis x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x8-26(1).psq
+______________________________
+HfM x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x3-33(1).psq
+______________________________
+pisq7 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x5-26(1).psq
+______________________________
+AI1000 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x4-37(1).psq
+______________________________
+pisq7 x hewer
+ 9) pbrain-hewer.exe: AB :-)
+11) pbrain-hewer.exe: AB :-)
+13) pbrain-hewer.exe: AB :-)
+15) pbrain-hewer.exe: :-)
+17) pbrain-hewer.exe: :-)
+19) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x6-20(1).psq
+______________________________
+hewer x pisq7
+22) pbrain-hewer.exe: AB :-)
+24) pbrain-hewer.exe: AB :-)
+26) pbrain-hewer.exe: AB :-)
+28) pbrain-hewer.exe: AB :-)
+30) pbrain-hewer.exe: AB :-)
+32) pbrain-hewer.exe: AB :-)
+34) pbrain-hewer.exe: :-)
+36) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x4-37(1).psq
+______________________________
+pisq7 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x7-22(1).psq
+______________________________
+LEONARDO x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x4-39(1).psq
+______________________________
+pisq7 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x8-20(1).psq
+______________________________
+HfM x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x4-23(1).psq
+______________________________
+AI1000 x hewer
+11) pbrain-hewer.exe: AB :-)
+13) pbrain-hewer.exe: AB :-)
+15) pbrain-hewer.exe: AB :-)
+17) pbrain-hewer.exe: AB :-)
+19) pbrain-hewer.exe: AB :-)
+21) pbrain-hewer.exe: AB :-)
+23) pbrain-hewer.exe: :-)
+25) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x6-26(1).psq
+______________________________
+hewer x AI1000
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: AB :-)
+22) pbrain-hewer.exe: AB :-)
+26) pbrain-hewer.exe: :-)
+28) pbrain-hewer.exe: :-)
+30) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x5-31(1).psq
+______________________________
+AI1000 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x7-90(1).psq
+______________________________
+LEONARDO x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x5-101(1).psq
+______________________________
+AI1000 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x8-30(1).psq
+______________________________
+HfM x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x5-19(1).psq
+______________________________
+hewer x LEONARDO
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: :-)
+22) pbrain-hewer.exe: :-)
+24) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x7-25(1).psq
+______________________________
+LEONARDO x hewer
+11) pbrain-hewer.exe: AB :-)
+13) pbrain-hewer.exe: AB :-)
+15) pbrain-hewer.exe: AB :-)
+17) pbrain-hewer.exe: AB :-)
+19) pbrain-hewer.exe: AB :-)
+21) pbrain-hewer.exe: AB :-)
+23) pbrain-hewer.exe: :-)
+25) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x6-26(1).psq
+______________________________
+hewer x HfM
+28) pbrain-hewer.exe: AB :-)
+30) pbrain-hewer.exe: AB :-)
+32) pbrain-hewer.exe: AB :-)
+34) pbrain-hewer.exe: :-)
+36) pbrain-hewer.exe: :-)
+38) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x8-39(1).psq
+______________________________
+HfM x hewer
+17) pbrain-hewer.exe: AB :-)
+19) pbrain-hewer.exe: AB :-)
+23) pbrain-hewer.exe: AB :-)
+25) pbrain-hewer.exe: AB :-)
+27) pbrain-hewer.exe: AB :-)
+29) pbrain-hewer.exe: AB :-)
+31) pbrain-hewer.exe: AB :-)
+33) pbrain-hewer.exe: :-)
+35) pbrain-hewer.exe: :-)
+37) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x6-38(1).psq
+______________________________
+LEONARDO x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x8-22(1).psq
+______________________________
+HfM x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x7-21(1).psq
+______________________________
+Goro2007 x Kanec
+Goro2007.exe has not returned coordinates x,y
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x0-18(2).psq
+______________________________
+Kanec x Goro2007
+Goro2007.exe has not returned coordinates x,y
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x1-13(2).psq
+______________________________
+HGarden07 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x0-41(1).psq
+______________________________
+Kanec x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x2-78(1).psq
+______________________________
+Noesis x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x0-32(1).psq
+______________________________
+Kanec x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x3-31(1).psq
+______________________________
+pisq7 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x0-22(1).psq
+______________________________
+Kanec x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x4-17(1).psq
+______________________________
+AI1000 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x0-44(1).psq
+______________________________
+Kanec x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x5-75(1).psq
+______________________________
+hewer x Kanec
+34) pbrain-hewer.exe: AB :-)
+36) pbrain-hewer.exe: AB :-)
+38) pbrain-hewer.exe: AB :-)
+40) pbrain-hewer.exe: :-)
+42) pbrain-hewer.exe: :-)
+44) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x0-45(1).psq
+______________________________
+Kanec x hewer
+35) pbrain-hewer.exe: AB :-)
+37) pbrain-hewer.exe: AB :-)
+39) pbrain-hewer.exe: AB :-)
+41) pbrain-hewer.exe: AB :-)
+43) pbrain-hewer.exe: :-)
+45) pbrain-hewer.exe: :-)
+47) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x6-48(1).psq
+______________________________
+LEONARDO x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x0-42(1).psq
+______________________________
+Kanec x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x7-25(1).psq
+______________________________
+HfM x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x0-33(1).psq
+______________________________
+Kanec x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x8-53(1).psq
+______________________________
+HGarden07 x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x1-19(1).psq
+______________________________
+Goro2007 x HGarden07
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x2-18(1).psq
+______________________________
+Noesis x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x1-17(1).psq
+______________________________
+Goro2007 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x3-23(1).psq
+______________________________
+pisq7 x Goro2007
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x1-28(1).psq
+______________________________
+Goro2007 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x4-21(1).psq
+______________________________
+AI1000 x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x1-7(1).psq
+______________________________
+Goro2007 x AI1000
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x5-14(1).psq
+______________________________
+hewer x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x1-11(1).psq
+______________________________
+Goro2007 x hewer
+17) pbrain-hewer.exe: AB :-(
+19) pbrain-hewer.exe: AB :-(
+23) pbrain-hewer.exe: :-(
+25) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x6-27(1).psq
+______________________________
+LEONARDO x Goro2007
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x1-26(1).psq
+______________________________
+Goro2007 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x7-27(1).psq
+______________________________
+HfM x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x1-21(1).psq
+______________________________
+Goro2007 x HfM
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x8-14(1).psq
+______________________________
+Noesis x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x2-44(1).psq
+______________________________
+HGarden07 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x3-25(1).psq
+______________________________
+pisq7 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x2-20(2).psq
+______________________________
+HGarden07 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x4-21(1).psq
+______________________________
+AI1000 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x2-20(2).psq
+______________________________
+HGarden07 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x5-23(1).psq
+______________________________
+hewer x HGarden07
+42) pbrain-hewer.exe: AB :-(
+44) pbrain-hewer.exe: AB :-(
+50) pbrain-hewer.exe: :-(
+52) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x2-54(1).psq
+______________________________
+HGarden07 x hewer
+19) pbrain-hewer.exe: AB :-(
+21) pbrain-hewer.exe: AB :-(
+23) pbrain-hewer.exe: AB :-(
+27) pbrain-hewer.exe: AB :-(
+29) pbrain-hewer.exe: :-(
+31) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x6-33(1).psq
+______________________________
+LEONARDO x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x2-24(1).psq
+______________________________
+HGarden07 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x7-25(1).psq
+______________________________
+HfM x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x2-44(1).psq
+______________________________
+HGarden07 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x8-27(1).psq
+______________________________
+pisq7 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x3-22(1).psq
+______________________________
+Noesis x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x4-17(1).psq
+______________________________
+AI1000 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x3-64(2).psq
+______________________________
+Noesis x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x5-29(1).psq
+______________________________
+hewer x Noesis
+10) pbrain-hewer.exe: AB :-)
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+22) pbrain-hewer.exe: :-)
+24) pbrain-hewer.exe: :-)
+26) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x3-27(1).psq
+______________________________
+Noesis x hewer
+71) pbrain-hewer.exe: :-)
+73) pbrain-hewer.exe: :-)
+75) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x6-76(1).psq
+______________________________
+LEONARDO x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x3-67(1).psq
+______________________________
+Noesis x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x7-27(1).psq
+______________________________
+HfM x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x3-25(1).psq
+______________________________
+Noesis x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x8-42(1).psq
+______________________________
+AI1000 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x4-36(1).psq
+______________________________
+pisq7 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x5-53(1).psq
+______________________________
+hewer x pisq7
+ 8) pbrain-hewer.exe: AB :-)
+10) pbrain-hewer.exe: AB :-)
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: :-)
+18) pbrain-hewer.exe: :-)
+20) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x4-21(1).psq
+______________________________
+pisq7 x hewer
+17) pbrain-hewer.exe: AB :-)
+79) pbrain-hewer.exe: AB :-(
+81) pbrain-hewer.exe: AB :-(
+83) pbrain-hewer.exe: AB :-(
+85) pbrain-hewer.exe: AB :-(
+87) pbrain-hewer.exe: AB :-(
+89) pbrain-hewer.exe: AB :-(
+93) pbrain-hewer.exe: :-(
+95) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x6-97(1).psq
+______________________________
+LEONARDO x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x4-82(1).psq
+______________________________
+pisq7 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x7-31(1).psq
+______________________________
+HfM x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x4-15(1).psq
+______________________________
+pisq7 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x8-22(1).psq
+______________________________
+hewer x AI1000
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: AB :-)
+22) pbrain-hewer.exe: AB :-)
+24) pbrain-hewer.exe: :-)
+26) pbrain-hewer.exe: :-)
+28) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x5-29(1).psq
+______________________________
+AI1000 x hewer
+45) pbrain-hewer.exe: :-)
+47) pbrain-hewer.exe: :-)
+49) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x6-50(1).psq
+______________________________
+LEONARDO x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x5-85(1).psq
+______________________________
+AI1000 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x7-66(1).psq
+______________________________
+HfM x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x5-35(1).psq
+______________________________
+AI1000 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x8-28(1).psq
+______________________________
+LEONARDO x hewer
+23) pbrain-hewer.exe: AB :-)
+27) pbrain-hewer.exe: AB :-)
+29) pbrain-hewer.exe: :-)
+31) pbrain-hewer.exe: :-)
+33) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x6-34(1).psq
+______________________________
+hewer x LEONARDO
+10) pbrain-hewer.exe: AB :-)
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: AB :-)
+22) pbrain-hewer.exe: :-)
+24) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x7-25(2).psq
+______________________________
+HfM x hewer
+17) pbrain-hewer.exe: AB :-(
+21) pbrain-hewer.exe: AB :-(
+23) pbrain-hewer.exe: AB :-(
+25) pbrain-hewer.exe: AB :-(
+29) pbrain-hewer.exe: :-(
+31) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x6-33(1).psq
+______________________________
+hewer x HfM
+14) pbrain-hewer.exe: AB :-(
+16) pbrain-hewer.exe: AB :-(
+18) pbrain-hewer.exe: AB :-(
+22) pbrain-hewer.exe: AB :-(
+24) pbrain-hewer.exe: AB :-(
+26) pbrain-hewer.exe: AB :-(
+28) pbrain-hewer.exe: :-(
+30) pbrain-hewer.exe: :-(
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x8-32(1).psq
+______________________________
+HfM x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x7-27(1).psq
+______________________________
+LEONARDO x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x8-28(1).psq
+______________________________
+Kanec x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x1-19(1).psq
+______________________________
+Goro2007 x Kanec
+Goro2007.exe has not returned coordinates x,y
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x0-8(1).psq
+______________________________
+Kanec x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x2-40(1).psq
+______________________________
+HGarden07 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x0-73(1).psq
+______________________________
+Kanec x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x3-33(1).psq
+______________________________
+Noesis x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x0-34(1).psq
+______________________________
+Kanec x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x4-27(1).psq
+______________________________
+pisq7 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x0-65(1).psq
+______________________________
+Kanec x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x5-17(1).psq
+______________________________
+AI1000 x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x0-72(1).psq
+______________________________
+Kanec x hewer
+31) pbrain-hewer.exe: AB :-)
+33) pbrain-hewer.exe: AB :-)
+35) pbrain-hewer.exe: AB :-)
+37) pbrain-hewer.exe: AB :-)
+39) pbrain-hewer.exe: AB :-)
+41) pbrain-hewer.exe: AB :-)
+43) pbrain-hewer.exe: :-)
+45) pbrain-hewer.exe: :-)
+47) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x6-48(2).psq
+______________________________
+hewer x Kanec
+10) pbrain-hewer.exe: AB :-)
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: AB :-)
+22) pbrain-hewer.exe: AB :-)
+78) pbrain-hewer.exe: AB :-)
+80) pbrain-hewer.exe: AB :-)
+82) pbrain-hewer.exe: AB :-)
+84) pbrain-hewer.exe: :-)
+86) pbrain-hewer.exe: :-)
+88) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x0-89(1).psq
+______________________________
+Kanec x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x7-87(1).psq
+______________________________
+LEONARDO x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x0-26(1).psq
+______________________________
+Kanec x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\0x8-77(1).psq
+______________________________
+HfM x Kanec
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x0-68(1).psq
+______________________________
+Goro2007 x HGarden07
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x2-20(1).psq
+______________________________
+HGarden07 x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x1-19(2).psq
+______________________________
+Goro2007 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x3-27(1).psq
+______________________________
+Noesis x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x1-5(1).psq
+______________________________
+Goro2007 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x4-21(2).psq
+______________________________
+pisq7 x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x1-7(1).psq
+______________________________
+Goro2007 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x5-25(1).psq
+______________________________
+AI1000 x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x1-9(1).psq
+______________________________
+Goro2007 x hewer
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x6-28(1).psq
+______________________________
+hewer x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x1-15(1).psq
+______________________________
+Goro2007 x LEONARDO
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x7-14(1).psq
+______________________________
+LEONARDO x Goro2007
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x1-38(1).psq
+______________________________
+Goro2007 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\1x8-31(1).psq
+______________________________
+HfM x Goro2007
+Goro2007.exe: Timeout
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x1-15(1).psq
+______________________________
+HGarden07 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x3-25(2).psq
+______________________________
+Noesis x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x2-44(2).psq
+______________________________
+HGarden07 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x4-23(1).psq
+______________________________
+pisq7 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x2-22(1).psq
+______________________________
+HGarden07 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x5-47(1).psq
+______________________________
+AI1000 x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x2-38(1).psq
+______________________________
+HGarden07 x hewer
+51) pbrain-hewer.exe: AB :-)
+57) pbrain-hewer.exe: :-)
+59) pbrain-hewer.exe: :-)
+61) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x6-62(1).psq
+______________________________
+hewer x HGarden07
+pbrain-HGarden07.exe returned invalid move [-4,-4]
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x2-97(1).psq
+______________________________
+HGarden07 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x7-21(1).psq
+______________________________
+LEONARDO x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x2-28(1).psq
+______________________________
+HGarden07 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\2x8-29(1).psq
+______________________________
+HfM x HGarden07
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x2-44(2).psq
+______________________________
+Noesis x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x4-25(1).psq
+______________________________
+pisq7 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x3-84(1).psq
+______________________________
+Noesis x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x5-80(1).psq
+______________________________
+AI1000 x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x3-30(1).psq
+______________________________
+Noesis x hewer
+29) pbrain-hewer.exe: AB :-)
+31) pbrain-hewer.exe: AB :-)
+33) pbrain-hewer.exe: AB :-)
+35) pbrain-hewer.exe: AB :-)
+41) pbrain-hewer.exe: :-)
+43) pbrain-hewer.exe: :-)
+45) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x6-46(1).psq
+______________________________
+hewer x Noesis
+10) pbrain-hewer.exe: AB :-)
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: AB :-)
+24) pbrain-hewer.exe: :-)
+26) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x3-27(2).psq
+______________________________
+Noesis x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x7-93(1).psq
+______________________________
+LEONARDO x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x3-26(1).psq
+______________________________
+Noesis x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\3x8-40(1).psq
+______________________________
+HfM x Noesis
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x3-25(2).psq
+______________________________
+pisq7 x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x5-32(1).psq
+______________________________
+AI1000 x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x4-87(1).psq
+______________________________
+pisq7 x hewer
+ 9) pbrain-hewer.exe: AB :-)
+11) pbrain-hewer.exe: AB :-)
+13) pbrain-hewer.exe: AB :-)
+15) pbrain-hewer.exe: AB :-)
+17) pbrain-hewer.exe: :-)
+19) pbrain-hewer.exe: :-)
+21) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x6-22(1).psq
+______________________________
+hewer x pisq7
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: :-)
+18) pbrain-hewer.exe: :-)
+20) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x4-21(2).psq
+______________________________
+pisq7 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x7-31(2).psq
+______________________________
+LEONARDO x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x4-55(1).psq
+______________________________
+pisq7 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\4x8-32(1).psq
+______________________________
+HfM x pisq7
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x4-19(1).psq
+______________________________
+AI1000 x hewer
+17) pbrain-hewer.exe: AB :-)
+19) pbrain-hewer.exe: AB :-)
+21) pbrain-hewer.exe: AB :-)
+23) pbrain-hewer.exe: :-)
+25) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x6-26(2).psq
+______________________________
+hewer x AI1000
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: :-)
+20) pbrain-hewer.exe: :-)
+22) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x5-23(1).psq
+______________________________
+AI1000 x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x7-40(1).psq
+______________________________
+LEONARDO x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x5-66(1).psq
+______________________________
+AI1000 x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\5x8-30(2).psq
+______________________________
+HfM x AI1000
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x5-21(1).psq
+______________________________
+hewer x LEONARDO
+14) pbrain-hewer.exe: AB :-)
+16) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: :-)
+20) pbrain-hewer.exe: :-)
+22) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x7-23(1).psq
+______________________________
+LEONARDO x hewer
+17) pbrain-hewer.exe: AB :-)
+19) pbrain-hewer.exe: AB :-)
+21) pbrain-hewer.exe: AB :-)
+23) pbrain-hewer.exe: AB :-)
+25) pbrain-hewer.exe: :-)
+27) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x6-28(1).psq
+______________________________
+hewer x HfM
+10) pbrain-hewer.exe: AB :-)
+12) pbrain-hewer.exe: AB :-)
+14) pbrain-hewer.exe: AB :-)
+18) pbrain-hewer.exe: AB :-)
+20) pbrain-hewer.exe: AB :-)
+24) pbrain-hewer.exe: :-)
+26) pbrain-hewer.exe: :-)
+28) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\6x8-29(1).psq
+______________________________
+HfM x hewer
+37) pbrain-hewer.exe: AB :-)
+39) pbrain-hewer.exe: AB :-)
+41) pbrain-hewer.exe: AB :-)
+43) pbrain-hewer.exe: :-)
+45) pbrain-hewer.exe: :-)
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x6-46(1).psq
+______________________________
+LEONARDO x HfM
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\7x8-38(1).psq
+______________________________
+HfM x LEONARDO
+-> C:\Documents and Settings\havranek\Desktop\gomocup\piskvork\piskvork\zaznamy\group1\8x7-21(2).psq

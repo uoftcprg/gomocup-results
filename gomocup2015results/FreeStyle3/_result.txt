@@ -1,0 +1,80 @@
+-------------------------------------
+1. 5. 2015  22:14 - 23:27
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 4, available 4
+Rule: five or more stones wins
+Opening CRC: 31ed7d22
+Games played: 728
+-------------------------------------
+
+acePela15
+wins: 103=51+52,   losses: 1=1+0
+time/turn: 4736 ms (max: 25.7 s),  time/game: 80 s
+moves/game: 16,  CRC: ff41a44,   memory: 7.69 MB
+
+Puskvorec
+wins: 74=40+34,   losses: 30=12+18
+time/turn: 335 ms (max: 1.9 s),  time/game: 5 s
+moves/game: 16,  CRC: d379c6cb,   memory: 6.14 MB
+
+pisq7
+wins: 70=37+33,   losses: 34=15+19
+time/turn: 35 ms (max: 0.2 s),  time/game: 0 s
+moves/game: 18,  CRC: 2ba6351e,   memory: 3.74 MB
+
+imro15
+wins: 76=36+39+1,   losses: 28=15+13
+time/turn: 8 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 23,  CRC: 8596a63f,   memory: 2.31 MB
+
+PureGM13
+wins: 67=34+33,   losses: 37=16+19+2
+time/turn: 1870 ms (max: 24.0 s),  time/game: 39 s
+moves/game: 20,  CRC: 62bd6c8f,   memory: 7.37 MB
+
+valkyrie
+wins: 55=31+24,   losses: 49=21+28
+time/turn: 273 ms (max: 1.6 s),  time/game: 4 s
+moves/game: 15,  CRC: af41c137,   memory: 2.70 MB
+
+Benjamin
+wins: 52=28+21+3,   losses: 51=23+27+1,  1 errors
+time/turn: 39 ms (max: 0.3 s),  time/game: 1 s
+moves/game: 41,  CRC: ef7f3e72,   memory: 4.01 MB
+
+licht14
+wins: 46=32+14,   losses: 58=17+37+4
+time/turn: 14 s (max: 29.7 s),  time/game: 153 s
+moves/game: 10,  CRC: 883f8da6,   memory: 242.73 MB
+
+XoXo15
+wins: 41=28+13,   losses: 63=24+39
+time/turn: 229 ms (max: 0.8 s),  time/game: 4 s
+moves/game: 21,  CRC: ec5215cb,   memory: 14.94 MB
+
+Crusher10
+wins: 39=24+15,   losses: 65=28+37
+time/turn: 32 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 20,  CRC: f1cd333e,   memory: 6.28 MB
+
+fastgomoku15
+wins: 33=20+12+1,   losses: 70=32+38
+time/turn: 9 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 21,  CRC: fd6e0f35,   memory: 3.98 MB
+
+prolog
+wins: 32=18+13+1,   losses: 72=34+38
+time/turn: 461 ms (max: 2.3 s),  time/game: 9 s
+moves/game: 20,  CRC: 7ed22134,   memory: 11.25 MB
+
+fiverow
+wins: 26=18+8,   losses: 78=34+44
+time/turn: 186 ms (max: 17.2 s),  time/game: 2 s
+moves/game: 12,  CRC: 3dc3d71,   memory: 2.29 MB
+
+mushroom
+wins: 13=12+0+1,   losses: 91=39+52
+time/turn: 581 ms (max: 1.0 s),  time/game: 4 s
+moves/game: 6,  CRC: 254651a3,   memory: 50.42 MB
+

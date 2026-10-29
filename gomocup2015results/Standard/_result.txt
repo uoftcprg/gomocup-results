@@ -1,0 +1,55 @@
+-------------------------------------
+2. 5. 2015  7:25 - 3. 5. 2015  3:27
+Time for turn: 300 s,   Time for match: 1000 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 4, available 4
+Rule: exactly five stones wins
+Opening CRC: daad6bad
+Games played: 287  (99%)
+-------------------------------------
+
+yixin15
+wins: 62=31+31,   losses: 2=1+1
+time/turn: 11 s (max: 62.3 s),  time/game: 238 s
+moves/game: 20,  CRC: b30f3722,   memory: 232.35 MB
+
+Tito2014
+wins: 52=25+27,   losses: 12=5+5+2,  2 errors
+time/turn: 11 s (max: 194.1 s),  time/game: 273 s
+moves/game: 23,  CRC: a8f60969,   memory: 131.07 MB
+
+hewer15
+wins: 49=27+21+1,   losses: 15=5+10
+time/turn: 12 s (max: 61.2 s),  time/game: 303 s
+moves/game: 23,  CRC: 675df893,   memory: 332.05 MB
+
+gmotor2011
+wins: 28=14+14,   losses: 35=17+17+1
+time/turn: 13 s (max: 31.1 s),  time/game: 309 s
+moves/game: 23,  CRC: 56498af1,   memory: 31.44 MB
+
+pela
+wins: 29=12+10+7,   losses: 34=18+16
+time/turn: 21 s (max: 142.9 s),  time/game: 702 s
+moves/game: 32,  CRC: dd888743,   memory: 3.55 MB
+
+acePela15
+wins: 26=11+11+4,   losses: 36=18+16+2,  2 errors
+time/turn: 21 s (max: 142.8 s),  time/game: 656 s
+moves/game: 30,  CRC: ff41a44,   memory: 3.53 MB
+
+SlowRenju15
+wins: 26=12+13+1,   losses: 38=20+18
+time/turn: 10 s (max: 142.9 s),  time/game: 236 s
+moves/game: 22,  CRC: d8de31c0,   memory: 259.04 MB
+
+zetor15
+wins: 14=7+7,   losses: 50=22+24+4,  4 errors
+time/turn: 8875 ms (max: 231.1 s),  time/game: 244 s
+moves/game: 27,  CRC: 54feebc2,   memory: 28.83 MB
+
+valkyrie
+wins: 0=0+0,   losses: 64=28+32+4,  4 errors
+time/turn: 244 ms (max: 0.8 s),  time/game: 2 s
+moves/game: 11,  CRC: af41c137,   memory: 2.37 MB
+

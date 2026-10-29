@@ -1,0 +1,8 @@
+______________________________
+HighFive x RenjuSolver
+pbrain-HighFive.exe has exited unexpectedly !
+-> f:\gomocup2015\renjsuSolverHigh5\0x1-4(1).psq
+______________________________
+RenjuSolver x HighFive
+pbrain-HighFive.exe has exited unexpectedly !
+-> f:\gomocup2015\renjsuSolverHigh5\1x0-3(1).psq

@@ -1,0 +1,55 @@
+-------------------------------------
+6.4.2013  2:42 - 10:03
+Time for turn: 300 s,   Time for match: 1000 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: ee26c8cd
+Games played: 214  (99%)
+-------------------------------------
+
+Yixin13
+wins: 36=19+17,   losses: 11=5+6
+time/turn: 14 s (max: 69.7 s),  time/game: 442 s
+moves/game: 29,  CRC: 132e55b0,   memory: 169.61 MB
+
+Tito2010
+wins: 34=18+16,   losses: 14=6+8
+time/turn: 12 s (max: 196.7 s),  time/game: 312 s
+moves/game: 24,  CRC: 43c2fe4,   memory: 131.66 MB
+
+RenjuSolver
+wins: 32=21+11,   losses: 16=3+13
+time/turn: 8894 ms (max: 31.4 s),  time/game: 234 s
+moves/game: 26,  CRC: 4dab2a2d,   memory: 54.30 MB
+
+hewer12
+wins: 25=11+14,   losses: 22=12+10
+time/turn: 13 s (max: 73.6 s),  time/game: 435 s
+moves/game: 31,  CRC: 1f24b247,   memory: 340.31 MB
+
+goro2013
+wins: 30=14+16,   losses: 18=10+8
+time/turn: 12 s (max: 79.5 s),  time/game: 360 s
+moves/game: 28,  CRC: 8b97f79b,   memory: 4.61 MB
+
+HGarden07
+wins: 21=10+10+1,   losses: 27=13+14
+time/turn: 19 s (max: 62.8 s),  time/game: 500 s
+moves/game: 25,  CRC: 2acc6a95,   memory: 32.05 MB
+
+sWINe13
+wins: 18=8+10,   losses: 29=15+14
+time/turn: 20 s (max: 98.9 s),  time/game: 510 s
+moves/game: 24,  CRC: 2dcebd78,   memory: 300.96 MB
+
+gmotor2011
+wins: 14=6+8,   losses: 34=18+15+1
+time/turn: 17 s (max: 60.1 s),  time/game: 418 s
+moves/game: 23,  CRC: 46cbdb0c,   memory: 66.03 MB
+
+pela
+wins: 4=2+1+1,   losses: 43=21+21+1
+time/turn: 27 s (max: 143.1 s),  time/game: 780 s
+moves/game: 28,  CRC: 8ca722ad,   memory: 3.70 MB
+

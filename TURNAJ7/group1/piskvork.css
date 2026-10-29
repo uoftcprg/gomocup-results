@@ -1,0 +1,26 @@
+.win
+{
+	background-color: #00FF7F;
+}
+
+.loss
+{
+	background-color: #FF4500;
+}
+
+.draw
+{
+	background-color: #B0E0E6;
+}
+
+.dash
+{
+	background-color: black;
+}
+
+body
+{
+	COLOR: #000000;
+	font-family: verdana, arial, sans-serif; 
+
+}

@@ -1,0 +1,53 @@
+-------------------------------------
+4.4.2011  22:08 - 5.4.2011  2:25
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+H6
+wins: 41=22+18+1,   losses: 7=2+5
+time/turn: 1779 ms (max: 8.7 s),  time/game: 36 s
+moves/game: 20,  CRC: 38d6e265,   memory: 53.68 MB
+
+sWINe2011
+wins: 39=23+16,   losses: 9=1+8
+time/turn: 2468 ms (max: 15.8 s),  time/game: 59 s
+moves/game: 24,  CRC: df8ce010,   memory: 242.07 MB
+
+YiXin2011
+wins: 37=21+16,   losses: 11=3+8
+time/turn: 3963 ms (max: 22.4 s),  time/game: 88 s
+moves/game: 22,  CRC: 3911fdbd,   memory: 44.47 MB
+
+gmotor2011
+wins: 26=15+11,   losses: 22=9+13
+time/turn: 2287 ms (max: 8.9 s),  time/game: 53 s
+moves/game: 23,  CRC: 56498af1,   memory: 33.52 MB
+
+Kanec
+wins: 22=14+8,   losses: 26=10+16
+time/turn: 3443 ms (max: 16.6 s),  time/game: 91 s
+moves/game: 26,  CRC: 572ea92,   memory: 248.63 MB
+
+amoeba2010
+wins: 21=13+7+1,   losses: 27=11+16
+time/turn: 2714 ms (max: 13.2 s),  time/game: 63 s
+moves/game: 23,  CRC: 74e05c52,   memory: 334.96 MB
+
+Pecuchet
+wins: 17=10+7,   losses: 31=14+17
+time/turn: 3455 ms (max: 15.1 s),  time/game: 76 s
+moves/game: 22,  CRC: a81e076b,   memory: 200.40 MB
+
+Noesis
+wins: 8=5+2+1,   losses: 40=18+22
+time/turn: 777 ms (max: 7.4 s),  time/game: 15 s
+moves/game: 20,  CRC: 8c55963c,   memory: 8.78 MB
+
+fiverow
+wins: 5=2+3,   losses: 43=20+20+3
+time/turn: 419 ms (max: 17.6 s),  time/game: 8 s
+moves/game: 20,  CRC: 4b2b1e96,   memory: 2.25 MB
+

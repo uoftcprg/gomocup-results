@@ -1,0 +1,655 @@
+______________________________
+CURNPIS x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\0x1-80(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\1x0-59(1).psq
+______________________________
+CURNPIS x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\0x2-26(1).psq
+______________________________
+amoeba x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\2x0-19(1).psq
+______________________________
+CURNPIS x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\0x3-57(1).psq
+______________________________
+fiverow x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\3x0-41(1).psq
+______________________________
+CURNPIS x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\0x4-30(1).psq
+______________________________
+nabamoku x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\4x0-47(1).psq
+______________________________
+CURNPIS x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\0x5-23(1).psq
+______________________________
+PureGM2 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\5x0-42(1).psq
+______________________________
+CURNPIS x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\0x6-106(1).psq
+______________________________
+pisq7 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\6x0-31(1).psq
+______________________________
+CURNPIS x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\0x7-74(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\0x8-25(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\8x0-19(1).psq
+______________________________
+AI1000 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\7x0-400(1).psq
+______________________________
+LEONARDO x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\1x3-24(1).psq
+______________________________
+fiverow x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\3x1-59(1).psq
+______________________________
+LEONARDO x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\1x2-50(1).psq
+______________________________
+LEONARDO x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\1x4-30(1).psq
+______________________________
+amoeba x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\2x1-37(1).psq
+______________________________
+nabamoku x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\4x1-35(1).psq
+______________________________
+LEONARDO x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\1x6-45(1).psq
+______________________________
+pisq7 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\6x1-20(1).psq
+______________________________
+LEONARDO x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\1x7-38(1).psq
+______________________________
+LEONARDO x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\1x5-21(1).psq
+______________________________
+AI1000 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\7x1-101(1).psq
+______________________________
+PureGM2 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\5x1-31(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\1x8-30(1).psq
+______________________________
+amoeba x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\2x3-31(1).psq
+______________________________
+fiverow x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\3x2-31(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\8x1-44(1).psq
+______________________________
+amoeba x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\2x6-25(1).psq
+______________________________
+amoeba x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\2x5-35(1).psq
+______________________________
+pisq7 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\6x2-24(1).psq
+______________________________
+amoeba x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\2x4-29(1).psq
+______________________________
+amoeba x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\2x7-29(1).psq
+______________________________
+PureGM2 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\5x2-28(1).psq
+______________________________
+AI1000 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\7x2-30(1).psq
+______________________________
+nabamoku x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\4x2-28(1).psq
+______________________________
+fiverow x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\3x4-65(1).psq
+______________________________
+amoeba x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\2x8-49(1).psq
+______________________________
+fiverow x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\3x5-30(1).psq
+______________________________
+nabamoku x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\4x3-58(1).psq
+______________________________
+BRUTEFOR x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\8x2-28(1).psq
+______________________________
+fiverow x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\3x7-106(1).psq
+______________________________
+PureGM2 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\5x3-42(1).psq
+______________________________
+fiverow x pisq7
+pbrain-fiverow.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\3x6-64(1).psq
+______________________________
+AI1000 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\7x3-94(1).psq
+______________________________
+pisq7 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\6x3-38(1).psq
+______________________________
+nabamoku x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\4x5-19(1).psq
+______________________________
+nabamoku x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\4x6-25(1).psq
+______________________________
+fiverow x BRUTEFOR
+BRUTEFOR.EXE: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\3x8-51(1).psq
+______________________________
+pisq7 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\6x4-74(1).psq
+______________________________
+BRUTEFOR x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\8x3-26(1).psq
+______________________________
+PureGM2 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\5x4-84(1).psq
+______________________________
+nabamoku x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\4x7-139(1).psq
+______________________________
+AI1000 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\7x4-30(1).psq
+______________________________
+nabamoku x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\4x8-49(1).psq
+______________________________
+PureGM2 x pisq7
+pbrain-PureGM2.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\5x6-38(1).psq
+______________________________
+PureGM2 x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\5x7-70(1).psq
+______________________________
+pisq7 x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\6x5-37(1).psq
+______________________________
+PureGM2 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\5x8-33(1).psq
+______________________________
+AI1000 x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\7x5-63(1).psq
+______________________________
+BRUTEFOR x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\8x4-48(1).psq
+______________________________
+pisq7 x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\6x7-55(1).psq
+______________________________
+AI1000 x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\7x6-25(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\7x8-62(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\6x8-51(1).psq
+______________________________
+BRUTEFOR x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\8x5-41(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\1x0-25(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\0x1-49(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\8x7-31(1).psq
+______________________________
+fiverow x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\3x0-68(1).psq
+______________________________
+CURNPIS x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\0x3-54(1).psq
+______________________________
+amoeba x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\2x0-25(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\8x6-24(1).psq
+______________________________
+nabamoku x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\4x0-21(1).psq
+______________________________
+CURNPIS x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\0x2-26(2).psq
+______________________________
+pisq7 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\6x0-35(1).psq
+______________________________
+CURNPIS x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\0x6-41(1).psq
+______________________________
+AI1000 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\7x0-225(1).psq
+______________________________
+CURNPIS x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\0x7-44(1).psq
+______________________________
+CURNPIS x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\0x4-82(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\8x0-43(1).psq
+______________________________
+amoeba x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\2x1-27(1).psq
+______________________________
+PureGM2 x CURNPIS
+pbrain-PureGM2.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\5x0-88(1).psq
+______________________________
+LEONARDO x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\1x2-26(1).psq
+______________________________
+fiverow x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\3x1-36(1).psq
+______________________________
+LEONARDO x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\1x3-58(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\0x8-46(1).psq
+______________________________
+nabamoku x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\4x1-23(1).psq
+______________________________
+PureGM2 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\5x1-21(1).psq
+______________________________
+LEONARDO x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\1x4-46(1).psq
+______________________________
+CURNPIS x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\0x5-59(1).psq
+______________________________
+pisq7 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\6x1-61(1).psq
+______________________________
+LEONARDO x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\1x6-114(1).psq
+______________________________
+AI1000 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\7x1-100(1).psq
+______________________________
+LEONARDO x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\1x7-32(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\8x1-37(1).psq
+______________________________
+LEONARDO x PureGM2
+pbrain-PureGM2.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\1x5-73(1).psq
+______________________________
+fiverow x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\3x2-43(1).psq
+______________________________
+amoeba x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\2x3-29(1).psq
+______________________________
+PureGM2 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\5x2-28(2).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\1x8-49(1).psq
+______________________________
+pisq7 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\6x2-37(1).psq
+______________________________
+amoeba x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\2x5-23(1).psq
+______________________________
+amoeba x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\2x6-19(1).psq
+______________________________
+nabamoku x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\4x2-72(1).psq
+______________________________
+AI1000 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\7x2-28(1).psq
+______________________________
+amoeba x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\2x7-27(1).psq
+______________________________
+BRUTEFOR x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\8x2-44(1).psq
+______________________________
+nabamoku x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\4x3-27(1).psq
+______________________________
+amoeba x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\2x8-19(1).psq
+______________________________
+amoeba x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\2x4-49(1).psq
+______________________________
+pisq7 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\6x3-48(1).psq
+______________________________
+fiverow x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\3x6-19(1).psq
+______________________________
+AI1000 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\7x3-56(1).psq
+______________________________
+fiverow x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\3x7-49(1).psq
+______________________________
+fiverow x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\3x4-78(1).psq
+______________________________
+PureGM2 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\5x3-52(1).psq
+______________________________
+BRUTEFOR x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\8x3-36(1).psq
+______________________________
+fiverow x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\3x5-47(1).psq
+______________________________
+fiverow x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\3x8-33(1).psq
+______________________________
+pisq7 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\6x4-34(1).psq
+______________________________
+PureGM2 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\5x4-48(1).psq
+______________________________
+nabamoku x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\4x6-31(1).psq
+______________________________
+AI1000 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\7x4-80(1).psq
+______________________________
+nabamoku x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\4x7-23(1).psq
+______________________________
+pisq7 x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\6x5-32(1).psq
+______________________________
+nabamoku x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\4x5-31(1).psq
+______________________________
+BRUTEFOR x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\8x4-54(1).psq
+______________________________
+nabamoku x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\4x8-23(1).psq
+______________________________
+AI1000 x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\7x5-39(1).psq
+______________________________
+PureGM2 x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\5x6-55(1).psq
+______________________________
+AI1000 x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\7x6-25(2).psq
+______________________________
+pisq7 x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\6x7-45(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\8x6-21(1).psq
+______________________________
+PureGM2 x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\5x7-25(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\6x8-22(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\0x1-21(1).psq
+______________________________
+BRUTEFOR x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\8x5-28(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\1x0-101(1).psq
+______________________________
+PureGM2 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\5x8-21(1).psq
+______________________________
+CURNPIS x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\0x3-72(1).psq
+______________________________
+fiverow x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\3x0-68(2).psq
+______________________________
+CURNPIS x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\0x2-34(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\8x7-35(1).psq
+______________________________
+amoeba x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\2x0-23(1).psq
+______________________________
+CURNPIS x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\0x4-44(1).psq
+______________________________
+CURNPIS x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\0x5-34(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\7x8-34(1).psq
+______________________________
+CURNPIS x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\0x6-74(1).psq
+______________________________
+pisq7 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\6x0-24(1).psq
+______________________________
+nabamoku x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\4x0-35(1).psq
+______________________________
+CURNPIS x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\0x7-134(1).psq
+______________________________
+AI1000 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\7x0-28(1).psq
+______________________________
+PureGM2 x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\5x0-78(1).psq
+______________________________
+LEONARDO x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\1x3-31(1).psq
+______________________________
+fiverow x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\3x1-39(1).psq
+______________________________
+LEONARDO x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\1x2-36(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\0x8-56(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> D:\Tom\gomocup2009\servers\freestyle4\8x0-32(1).psq
+______________________________
+amoeba x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\2x1-53(1).psq
+______________________________
+LEONARDO x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\1x6-26(1).psq
+______________________________
+LEONARDO x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\1x4-56(1).psq
+______________________________
+pisq7 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\6x1-51(1).psq
+______________________________
+LEONARDO x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\1x5-36(1).psq
+______________________________
+LEONARDO x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\1x7-144(1).psq
+______________________________
+AI1000 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\7x1-36(1).psq
+______________________________
+nabamoku x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\4x1-29(1).psq
+______________________________
+PureGM2 x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\5x1-37(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\1x8-19(1).psq
+______________________________
+amoeba x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\2x3-34(1).psq
+______________________________
+fiverow x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\3x2-22(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> D:\Tom\gomocup2009\servers\freestyle4\8x1-27(1).psq
+______________________________
+amoeba x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\2x4-29(2).psq
+______________________________
+amoeba x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\2x6-19(2).psq
+______________________________
+amoeba x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\2x5-33(1).psq
+______________________________
+pisq7 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\6x2-22(1).psq
+______________________________
+nabamoku x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\4x2-30(1).psq
+______________________________
+PureGM2 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\5x2-18(1).psq
+______________________________
+amoeba x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\2x7-23(1).psq
+______________________________
+fiverow x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\3x4-39(1).psq
+______________________________
+AI1000 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\7x2-38(1).psq
+______________________________
+amoeba x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\2x8-23(1).psq
+______________________________
+BRUTEFOR x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle4\8x2-20(1).psq
+______________________________
+fiverow x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\3x6-30(1).psq
+______________________________
+pisq7 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\6x3-23(1).psq
+______________________________
+fiverow x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\3x7-47(1).psq
+______________________________
+AI1000 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\7x3-72(1).psq
+______________________________
+nabamoku x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\4x3-65(1).psq
+______________________________
+fiverow x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\3x5-32(1).psq
+______________________________
+fiverow x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\3x8-39(1).psq
+______________________________
+PureGM2 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\5x3-28(1).psq
+______________________________
+BRUTEFOR x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle4\8x3-23(1).psq
+______________________________
+nabamoku x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\4x6-25(2).psq
+______________________________
+pisq7 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\6x4-28(1).psq
+______________________________
+nabamoku x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\4x7-62(1).psq
+______________________________
+nabamoku x PureGM2
+pbrain-PureGM2.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\4x5-41(1).psq
+______________________________
+AI1000 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\7x4-44(1).psq
+______________________________
+PureGM2 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\5x4-25(1).psq
+______________________________
+nabamoku x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\4x8-23(2).psq
+______________________________
+PureGM2 x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\5x6-23(1).psq
+______________________________
+pisq7 x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\6x5-22(1).psq
+______________________________
+PureGM2 x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\5x7-60(1).psq
+______________________________
+PureGM2 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\5x8-26(1).psq
+______________________________
+BRUTEFOR x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle4\8x4-39(1).psq
+______________________________
+pisq7 x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\6x7-43(1).psq
+______________________________
+AI1000 x pisq7
+-> D:\Tom\gomocup2009\servers\freestyle4\7x6-36(1).psq
+______________________________
+AI1000 x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\7x5-40(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\6x8-18(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> D:\Tom\gomocup2009\servers\freestyle4\7x8-65(1).psq
+______________________________
+BRUTEFOR x PureGM2
+-> D:\Tom\gomocup2009\servers\freestyle4\8x5-48(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> D:\Tom\gomocup2009\servers\freestyle4\8x7-27(1).psq
+______________________________
+BRUTEFOR x pisq7
+BRUTEFOR.EXE: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle4\8x6-48(1).psq

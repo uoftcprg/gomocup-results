@@ -1,0 +1,656 @@
+______________________________
+amoeba x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\0x3-39(1).psq
+______________________________
+amoeba x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\0x1-35(1).psq
+______________________________
+trunkat x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\3x0-22(1).psq
+______________________________
+fiverow x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\1x0-47(1).psq
+______________________________
+amoeba x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\0x2-37(1).psq
+______________________________
+amoeba x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\0x4-43(1).psq
+______________________________
+Benjamin x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\4x0-24(1).psq
+______________________________
+nabamoku x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\2x0-24(1).psq
+______________________________
+amoeba x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\0x7-23(1).psq
+______________________________
+Puskvorec x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\7x0-26(1).psq
+______________________________
+amoeba x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\0x6-79(1).psq
+______________________________
+amoeba x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\0x8-29(1).psq
+______________________________
+Noesis x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\6x0-28(1).psq
+______________________________
+QMENTAT6 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\8x0-32(1).psq
+______________________________
+fiverow x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\1x3-31(1).psq
+______________________________
+amoeba x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\0x5-124(1).psq
+______________________________
+trunkat x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\3x1-37(1).psq
+______________________________
+fiverow x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\1x4-96(1).psq
+______________________________
+Benjamin x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\4x1-77(1).psq
+______________________________
+goro2009 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\5x0-23(1).psq
+______________________________
+fiverow x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\1x5-30(1).psq
+______________________________
+fiverow x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\1x6-42(1).psq
+______________________________
+fiverow x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\1x2-81(1).psq
+______________________________
+goro2009 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\5x1-29(1).psq
+______________________________
+Noesis x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\6x1-27(1).psq
+______________________________
+fiverow x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\1x7-25(1).psq
+______________________________
+fiverow x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\1x8-59(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\8x1-24(1).psq
+______________________________
+Puskvorec x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\7x1-32(1).psq
+______________________________
+nabamoku x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\2x1-60(1).psq
+______________________________
+nabamoku x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\2x3-40(1).psq
+______________________________
+nabamoku x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\2x5-20(1).psq
+______________________________
+nabamoku x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\2x4-83(1).psq
+______________________________
+trunkat x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\3x2-39(1).psq
+______________________________
+goro2009 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\5x2-46(1).psq
+______________________________
+Benjamin x nabamoku
+pbrain-nabamoku.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle3\4x2-331(1).psq
+______________________________
+nabamoku x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\2x6-89(1).psq
+______________________________
+nabamoku x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\2x7-25(1).psq
+______________________________
+Puskvorec x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\7x2-20(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\2x8-49(1).psq
+______________________________
+trunkat x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\3x4-53(1).psq
+______________________________
+Benjamin x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\4x3-36(1).psq
+______________________________
+Noesis x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\6x2-67(1).psq
+______________________________
+trunkat x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\3x5-20(1).psq
+______________________________
+trunkat x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\3x6-22(1).psq
+______________________________
+Noesis x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\6x3-27(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\8x2-25(1).psq
+______________________________
+goro2009 x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\5x3-27(1).psq
+______________________________
+trunkat x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\3x7-25(1).psq
+______________________________
+Puskvorec x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\7x3-31(1).psq
+______________________________
+trunkat x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\3x8-33(1).psq
+______________________________
+Benjamin x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\4x6-34(1).psq
+______________________________
+QMENTAT6 x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\8x3-28(1).psq
+______________________________
+Benjamin x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\4x7-30(1).psq
+______________________________
+Puskvorec x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\7x4-25(1).psq
+______________________________
+Noesis x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\6x4-25(1).psq
+______________________________
+goro2009 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\5x6-31(1).psq
+______________________________
+Noesis x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\6x5-28(1).psq
+______________________________
+goro2009 x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\5x7-23(1).psq
+______________________________
+Puskvorec x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\7x5-20(1).psq
+______________________________
+goro2009 x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\5x8-23(1).psq
+______________________________
+QMENTAT6 x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\8x5-24(1).psq
+______________________________
+Noesis x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\6x7-29(1).psq
+______________________________
+Puskvorec x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\7x6-22(1).psq
+______________________________
+Noesis x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\6x8-31(1).psq
+______________________________
+Benjamin x goro2009
+goro2009.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle3\4x5-91(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\8x6-39(1).psq
+______________________________
+goro2009 x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\5x4-27(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\7x8-68(1).psq
+______________________________
+Benjamin x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\4x8-400(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\8x7-43(1).psq
+______________________________
+QMENTAT6 x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\8x4-93(1).psq
+______________________________
+fiverow x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\1x0-43(1).psq
+______________________________
+amoeba x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\0x1-27(1).psq
+______________________________
+trunkat x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\3x0-21(1).psq
+______________________________
+amoeba x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\0x3-23(1).psq
+______________________________
+Benjamin x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\4x0-76(1).psq
+______________________________
+nabamoku x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\2x0-52(1).psq
+______________________________
+goro2009 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\5x0-29(1).psq
+______________________________
+amoeba x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\0x4-25(1).psq
+______________________________
+Noesis x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\6x0-29(1).psq
+______________________________
+amoeba x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\0x6-25(1).psq
+______________________________
+amoeba x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\0x2-30(1).psq
+______________________________
+Puskvorec x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\7x0-19(1).psq
+______________________________
+amoeba x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\0x7-21(1).psq
+______________________________
+amoeba x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\0x5-49(1).psq
+______________________________
+trunkat x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\3x1-47(1).psq
+______________________________
+QMENTAT6 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\8x0-62(1).psq
+______________________________
+fiverow x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\1x3-25(1).psq
+______________________________
+Benjamin x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\4x1-137(1).psq
+______________________________
+fiverow x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\1x4-114(1).psq
+______________________________
+goro2009 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\5x1-27(1).psq
+______________________________
+amoeba x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\0x8-37(1).psq
+______________________________
+fiverow x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\1x5-30(2).psq
+______________________________
+Noesis x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\6x1-42(1).psq
+______________________________
+Puskvorec x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\7x1-22(1).psq
+______________________________
+fiverow x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\1x7-30(1).psq
+______________________________
+fiverow x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\1x6-28(1).psq
+______________________________
+nabamoku x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\2x1-64(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\8x1-62(1).psq
+______________________________
+fiverow x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\1x8-27(1).psq
+______________________________
+trunkat x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\3x2-44(1).psq
+______________________________
+fiverow x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\1x2-84(1).psq
+______________________________
+Benjamin x nabamoku
+pbrain-nabamoku.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle3\4x2-357(1).psq
+______________________________
+nabamoku x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\2x3-61(1).psq
+______________________________
+goro2009 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\5x2-27(1).psq
+______________________________
+nabamoku x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\2x4-25(1).psq
+______________________________
+Noesis x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\6x2-21(1).psq
+______________________________
+Puskvorec x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\7x2-29(1).psq
+______________________________
+nabamoku x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\2x6-33(1).psq
+______________________________
+nabamoku x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\2x7-23(1).psq
+______________________________
+Benjamin x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\4x3-42(1).psq
+______________________________
+trunkat x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\3x4-41(1).psq
+______________________________
+goro2009 x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\5x3-17(1).psq
+______________________________
+trunkat x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\3x5-34(1).psq
+______________________________
+Noesis x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\6x3-19(1).psq
+______________________________
+trunkat x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\3x6-23(1).psq
+______________________________
+Puskvorec x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\7x3-41(1).psq
+______________________________
+trunkat x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\3x7-27(1).psq
+______________________________
+QMENTAT6 x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\8x3-35(1).psq
+______________________________
+trunkat x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\3x8-29(1).psq
+______________________________
+nabamoku x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\2x5-62(1).psq
+______________________________
+goro2009 x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\5x4-21(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\8x2-143(1).psq
+______________________________
+Noesis x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\6x4-21(1).psq
+______________________________
+Benjamin x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\4x6-100(1).psq
+______________________________
+Benjamin x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\4x5-36(1).psq
+______________________________
+QMENTAT6 x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\8x4-25(1).psq
+______________________________
+Puskvorec x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\7x4-33(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\2x8-66(1).psq
+______________________________
+Noesis x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\6x5-48(1).psq
+______________________________
+goro2009 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\5x6-21(1).psq
+______________________________
+Puskvorec x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\7x5-28(1).psq
+______________________________
+goro2009 x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\5x7-19(1).psq
+______________________________
+Benjamin x Puskvorec
+Puskvorec.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle3\4x7-191(1).psq
+______________________________
+Benjamin x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\4x8-400(2).psq
+______________________________
+QMENTAT6 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\8x6-23(1).psq
+______________________________
+Puskvorec x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\7x6-39(1).psq
+______________________________
+Noesis x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\6x8-27(1).psq
+______________________________
+QMENTAT6 x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\8x5-42(1).psq
+______________________________
+Noesis x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\6x7-17(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\8x7-21(1).psq
+______________________________
+goro2009 x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\5x8-21(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\7x8-30(1).psq
+______________________________
+amoeba x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\0x3-29(1).psq
+______________________________
+amoeba x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\0x2-29(1).psq
+______________________________
+trunkat x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\3x0-26(1).psq
+______________________________
+amoeba x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\0x4-23(1).psq
+______________________________
+amoeba x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\0x1-67(1).psq
+______________________________
+fiverow x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\1x0-20(1).psq
+______________________________
+Benjamin x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\4x0-52(1).psq
+______________________________
+amoeba x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\0x6-40(1).psq
+______________________________
+nabamoku x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\2x0-76(1).psq
+______________________________
+amoeba x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\0x5-28(1).psq
+______________________________
+Noesis x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\6x0-26(1).psq
+______________________________
+amoeba x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\0x7-25(1).psq
+______________________________
+amoeba x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\0x8-31(1).psq
+______________________________
+Puskvorec x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\7x0-24(1).psq
+______________________________
+fiverow x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\1x2-33(1).psq
+______________________________
+QMENTAT6 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\8x0-52(1).psq
+______________________________
+fiverow x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\1x3-31(2).psq
+______________________________
+trunkat x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\3x1-40(1).psq
+______________________________
+fiverow x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\1x4-34(1).psq
+______________________________
+Benjamin x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\4x1-135(1).psq
+______________________________
+fiverow x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\1x5-24(1).psq
+______________________________
+goro2009 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\5x1-27(2).psq
+______________________________
+fiverow x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\1x6-20(1).psq
+______________________________
+Noesis x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\6x1-23(1).psq
+______________________________
+fiverow x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\1x7-25(2).psq
+______________________________
+Puskvorec x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\7x1-27(1).psq
+______________________________
+goro2009 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle3\5x0-88(1).psq
+______________________________
+nabamoku x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\2x1-65(1).psq
+______________________________
+fiverow x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\1x8-48(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> D:\Tom\gomocup2009\servers\freestyle3\8x1-26(1).psq
+______________________________
+nabamoku x goro2009
+pbrain-nabamoku.exe has not returned coordinates x,y
+#
+-> D:\Tom\gomocup2009\servers\freestyle3\2x5-4(1).psq
+______________________________
+nabamoku x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\2x3-42(1).psq
+______________________________
+goro2009 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\5x2-21(1).psq
+______________________________
+nabamoku x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\2x6-22(1).psq
+______________________________
+nabamoku x Benjamin
+pbrain-nabamoku.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle3\2x4-348(1).psq
+______________________________
+trunkat x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\3x2-58(1).psq
+______________________________
+Noesis x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\6x2-19(1).psq
+______________________________
+nabamoku x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\2x7-23(2).psq
+______________________________
+Benjamin x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\4x2-245(1).psq
+______________________________
+Puskvorec x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\7x2-28(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\2x8-62(1).psq
+______________________________
+trunkat x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\3x4-51(1).psq
+______________________________
+Benjamin x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\4x3-70(1).psq
+______________________________
+trunkat x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\3x5-24(1).psq
+______________________________
+trunkat x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\3x6-38(1).psq
+______________________________
+Noesis x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\6x3-21(1).psq
+______________________________
+trunkat x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\3x7-20(1).psq
+______________________________
+Puskvorec x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\7x3-20(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> D:\Tom\gomocup2009\servers\freestyle3\8x2-36(1).psq
+______________________________
+trunkat x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\3x8-34(1).psq
+______________________________
+Benjamin x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\4x5-16(1).psq
+______________________________
+goro2009 x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\5x4-27(2).psq
+______________________________
+QMENTAT6 x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\8x3-53(1).psq
+______________________________
+Benjamin x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\4x7-24(1).psq
+______________________________
+Benjamin x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\4x6-30(1).psq
+______________________________
+Noesis x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\6x4-19(1).psq
+______________________________
+goro2009 x trunkat
+-> D:\Tom\gomocup2009\servers\freestyle3\5x3-31(1).psq
+______________________________
+Benjamin x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\4x8-114(1).psq
+______________________________
+goro2009 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\5x6-35(1).psq
+______________________________
+Noesis x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\6x5-24(1).psq
+______________________________
+goro2009 x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\5x7-19(2).psq
+______________________________
+Puskvorec x Benjamin
+Benjamin.exe returned invalid move [0,0]
+-> D:\Tom\gomocup2009\servers\freestyle3\7x4-389(1).psq
+______________________________
+QMENTAT6 x Benjamin
+-> D:\Tom\gomocup2009\servers\freestyle3\8x4-71(1).psq
+______________________________
+Noesis x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\6x7-23(1).psq
+______________________________
+goro2009 x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\5x8-25(1).psq
+______________________________
+Puskvorec x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\7x5-20(2).psq
+______________________________
+Puskvorec x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\7x6-16(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\7x8-24(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> D:\Tom\gomocup2009\servers\freestyle3\8x7-53(1).psq
+______________________________
+QMENTAT6 x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle3\8x5-34(1).psq
+______________________________
+Noesis x QMENTAT6
+-> D:\Tom\gomocup2009\servers\freestyle3\6x8-61(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle3\8x6-43(1).psq

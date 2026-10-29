@@ -1,0 +1,53 @@
+-------------------------------------
+25.4.2010  9:13 - 23:13
+Time for turn: 300 s,   Time for match: 1000 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+goro2010
+wins: 37=20+14+3,   losses: 11=3+8
+time/turn: 10 s (max: 150.9 s),  time/game: 226 s
+moves/game: 21,  CRC: 613741b3,   memory: 2.71 MB
+
+Tito2010
+wins: 33=19+14,   losses: 15=5+10
+time/turn: 9 s (max: 277.6 s),  time/game: 250 s
+moves/game: 25,  CRC: 8b105cab,   memory: 130.88 MB
+
+OniX2010
+wins: 29=19+10,   losses: 19=2+11+6,  6 errors
+time/turn: 15 s (max: 238.5 s),  time/game: 341 s
+moves/game: 21,  CRC: a2e6136d,   memory: 171.36 MB
+
+HGarden07
+wins: 25=17+8,   losses: 23=7+16
+time/turn: 18 s (max: 56.3 s),  time/game: 444 s
+moves/game: 24,  CRC: f883b408,   memory: 31.48 MB
+
+hewer2010
+wins: 28=17+10+1,   losses: 20=6+14
+time/turn: 10 s (max: 109.6 s),  time/game: 251 s
+moves/game: 24,  CRC: 866b172e,   memory: 339.24 MB
+
+pela
+wins: 19=11+7+1,   losses: 29=12+17
+time/turn: 24 s (max: 143.0 s),  time/game: 762 s
+moves/game: 31,  CRC: dd888743,   memory: 2.86 MB
+
+swine2010
+wins: 23=14+8+1,   losses: 25=10+15
+time/turn: 16 s (max: 126.5 s),  time/game: 429 s
+moves/game: 25,  CRC: fe5d3f62,   memory: 240.25 MB
+
+Kanec
+wins: 12=8+3+1,   losses: 36=15+19+2,  2 errors
+time/turn: 5751 ms (max: 36.6 s),  time/game: 143 s
+moves/game: 24,  CRC: 572ea92,   memory: 249.10 MB
+
+HfM2010
+wins: 10=9+0+1,   losses: 38=14+24
+time/turn: 14 s (max: 65.1 s),  time/game: 398 s
+moves/game: 26,  CRC: e8106e79,   memory: 292.69 MB
+

@@ -1,0 +1,53 @@
+-------------------------------------
+4.4.2009  8:46 - 10:32
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+amoeba
+wins: 44=23+21,   losses: 4=1+3
+time/turn: 3332 ms (max: 11.5 s),  time/game: 52 s
+moves/game: 15,  CRC: 623872b5,   memory: 344.89 MB
+
+nabamoku
+wins: 36=18+17+1,   losses: 12=5+7
+time/turn: 3877 ms (max: 9.5 s),  time/game: 86 s
+moves/game: 22,  CRC: bb4c2405,   memory: 2.03 MB
+
+fiverow
+wins: 30=13+16+1,   losses: 18=9+8+1
+time/turn: 371 ms (max: 20.4 s),  time/game: 8 s
+moves/game: 23,  CRC: 4b2b1e96,   memory: 1.12 MB
+
+pisq7
+wins: 21=11+7+3,   losses: 27=13+14
+time/turn: 19 ms (max: 1.1 s),  time/game: 0 s
+moves/game: 19,  CRC: da9c561,   memory: 0.96 MB
+
+PureGM2
+wins: 18=9+9,   losses: 30=13+13+4
+time/turn: 4488 ms (max: 29.8 s),  time/game: 87 s
+moves/game: 19,  CRC: 99402e54,   memory: 3.40 MB
+
+AI1000
+wins: 17=7+10,   losses: 30=16+14
+time/turn: 163 ms (max: 3.1 s),  time/game: 5 s
+moves/game: 32,  CRC: 90fb8ea7,   memory: 2.18 MB
+
+BRUTEFOR
+wins: 19=11+8,   losses: 29=12+15+2
+time/turn: 4750 ms (max: 13.7 s),  time/game: 83 s
+moves/game: 17,  CRC: 287e32f4,   memory: 2.21 MB
+
+CURNPIS
+wins: 15=7+7+1,   losses: 32=17+15
+time/turn: 142 ms (max: 1.3 s),  time/game: 4 s
+moves/game: 29,  CRC: f2623dd9,   memory: 2.21 MB
+
+LEONARDO
+wins: 15=8+6+1,   losses: 33=15+18
+time/turn: 143 ms (max: 0.6 s),  time/game: 3 s
+moves/game: 23,  CRC: 96a303fe,   memory: 2.18 MB
+

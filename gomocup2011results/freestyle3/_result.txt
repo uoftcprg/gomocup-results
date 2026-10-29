@@ -1,0 +1,58 @@
+-------------------------------------
+4.4.2011  4:29 - 8:56
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 270
+-------------------------------------
+
+YiXin2011
+wins: 54=27+27,   losses: 0=0+0
+time/turn: 3844 ms (max: 22.6 s),  time/game: 63 s
+moves/game: 16,  CRC: 3911fdbd,   memory: 44.46 MB
+
+Noesis
+wins: 31=19+11+1,   losses: 23=7+16
+time/turn: 1443 ms (max: 9.1 s),  time/game: 28 s
+moves/game: 19,  CRC: 8c55963c,   memory: 8.78 MB
+
+fiverow
+wins: 28=16+11+1,   losses: 26=10+13+3
+time/turn: 514 ms (max: 30.0 s),  time/game: 12 s
+moves/game: 23,  CRC: 4b2b1e96,   memory: 2.33 MB
+
+QMENTAT6
+wins: 32=15+15+2,   losses: 22=11+11
+time/turn: 1236 ms (max: 8.8 s),  time/game: 36 s
+moves/game: 29,  CRC: 7825efaf,   memory: 2.04 MB
+
+jude
+wins: 30=15+13+2,   losses: 24=10+14
+time/turn: 3054 ms (max: 29.8 s),  time/game: 58 s
+moves/game: 19,  CRC: 96fded42,   memory: 37.67 MB
+
+PureGM_2011
+wins: 22=11+8+3,   losses: 32=15+17
+time/turn: 4857 ms (max: 20.4 s),  time/game: 125 s
+moves/game: 25,  CRC: a27205fd,   memory: 2.79 MB
+
+trunkat
+wins: 25=12+13,   losses: 29=14+14+1
+time/turn: 1364 ms (max: 27.7 s),  time/game: 27 s
+moves/game: 20,  CRC: 78aa5afe,   memory: 3.09 MB
+
+nabamoku
+wins: 23=11+9+3,   losses: 31=14+16+1
+time/turn: 3223 ms (max: 12.5 s),  time/game: 95 s
+moves/game: 29,  CRC: bb4c2405,   memory: 2.76 MB
+
+BRUTEFOR
+wins: 13=8+5,   losses: 41=15+18+8
+time/turn: 5785 ms (max: 15.1 s),  time/game: 116 s
+moves/game: 20,  CRC: 287e32f4,   memory: 2.44 MB
+
+Puskvorec
+wins: 12=6+4+2,   losses: 42=20+21+1,  1 errors
+time/turn: 794 ms (max: 8.3 s),  time/game: 14 s
+moves/game: 18,  CRC: b89a06e8,   memory: 3.42 MB
+

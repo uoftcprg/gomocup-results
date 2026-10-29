@@ -1,0 +1,39 @@
+.win
+{
+	background-color: rgb(128,0,0);
+}
+
+.loss
+{
+	background-color: #FF4500;
+}
+
+.draw
+{
+	background-color: rgb(0,128,128);
+}
+
+.dash
+{
+	background-color: black;
+}
+
+body
+{
+	font-family: verdana, arial, sans-serif; 
+  color: #cccc00;
+
+  background-image: url("http://gomocup.wz.cz/img/pozadi.gif");
+
+  background-color: black;
+
+  font-size: 12pt;
+
+  text-align: justify;
+
+}
+
+Table
+{
+  border-collapse: collapse;
+}

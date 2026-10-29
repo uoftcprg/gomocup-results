@@ -1,0 +1,70 @@
+1. RAPFI24 2309
+    wins: 150+146, losses: 1+6, draws: 5+4
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 497s, time/turn: 20109ms, move/game: 25
+
+2. KATAGOMO21.R 2075
+    wins: 125+126, losses: 20+19, draws: 11+11
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 668s, time/turn: 22222ms, move/game: 30
+
+3. JAX24 1992
+    wins: 115+117, losses: 35+29, draws: 6+10
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 409s, time/turn: 14130ms, move/game: 29
+
+4. PENTAZENNN22 1916
+    wins: 106+106, losses: 39+43, draws: 11+7
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 560s, time/turn: 19396ms, move/game: 29
+
+5. EMBRYO24 1898
+    wins: 102+112, losses: 51+39, draws: 3+5
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 393s, time/turn: 14236ms, move/game: 28
+
+6. ALPHAGOMOKU.MK24 1896
+    wins: 99+114, losses: 51+38, draws: 6+4
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 606s, time/turn: 22891ms, move/game: 26
+
+7. YIXIN18 1810
+    wins: 98+96, losses: 56+56, draws: 2+4
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 331s, time/turn: 13582ms, move/game: 24
+
+8. WHOSE19 1467
+    wins: 61+62, losses: 93+94, draws: 2+0
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 407s, time/turn: 17218ms, move/game: 24
+
+9. SLOWRENJU20 1457
+    wins: 62+60, losses: 94+95, draws: 0+1
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 501s, time/turn: 23564ms, move/game: 21
+
+10. GOFIVE 1367
+    wins: 50+54, losses: 106+102, draws: 0+0
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 555s, time/turn: 26845ms, move/game: 21
+
+11. CARBON17 1212
+    wins: 40+33, losses: 116+123, draws: 0+0
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 505s, time/turn: 26242ms, move/game: 19
+
+12. SQUIRREL24 1053
+    wins: 19+24, losses: 136+132, draws: 1+0
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 457s, time/turn: 23356ms, move/game: 20
+
+13. XL 985
+    wins: 14+18, losses: 142+138, draws: 0+0
+    timeouts: 1, errors: 2, total games: 312
+    time/game: 279s, time/turn: 16089ms, move/game: 17
+
+14. PELA23 964
+    wins: 9+19, losses: 147+136, draws: 0+1
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 627s, time/turn: 37259ms, move/game: 17
+

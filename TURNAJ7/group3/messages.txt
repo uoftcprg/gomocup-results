@@ -1,0 +1,271 @@
+______________________________
+LEONARDO x Tito
+-> H:\gomocup-online\group3\0x1-32(1).rec
+______________________________
+Tito x LEONARDO
+-> H:\gomocup-online\group3\1x0-21(1).rec
+______________________________
+LEONARDO x Puskvorec
+-> H:\gomocup-online\group3\0x2-62(1).rec
+______________________________
+Puskvorec x LEONARDO
+-> H:\gomocup-online\group3\2x0-70(1).rec
+______________________________
+LEONARDO x CURNPIS
+-> H:\gomocup-online\group3\0x4-33(1).rec
+______________________________
+CURNPIS x LEONARDO
+-> H:\gomocup-online\group3\4x0-120(1).rec
+______________________________
+LEONARDO x Goro2005
+-> H:\gomocup-online\group3\0x5-28(1).rec
+______________________________
+Goro2005 x LEONARDO
+-> H:\gomocup-online\group3\5x0-21(1).rec
+______________________________
+LEONARDO x QMENTAT6
+-> H:\gomocup-online\group3\0x3-42(1).rec
+______________________________
+Tito x Puskvorec
+-> H:\gomocup-online\group3\1x2-23(1).rec
+______________________________
+Puskvorec x Tito
+-> H:\gomocup-online\group3\2x1-20(1).rec
+______________________________
+Tito x CURNPIS
+-> H:\gomocup-online\group3\1x4-27(1).rec
+______________________________
+QMENTAT6 x LEONARDO
+-> H:\gomocup-online\group3\3x0-89(1).rec
+______________________________
+CURNPIS x Tito
+-> H:\gomocup-online\group3\4x1-24(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\group3\1x3-35(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\group3\1x5-40(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\group3\3x1-28(1).rec
+______________________________
+Puskvorec x CURNPIS
+-> H:\gomocup-online\group3\2x4-27(1).rec
+______________________________
+CURNPIS x Puskvorec
+-> H:\gomocup-online\group3\4x2-28(1).rec
+______________________________
+Puskvorec x Goro2005
+-> H:\gomocup-online\group3\2x5-20(1).rec
+______________________________
+Goro2005 x Puskvorec
+-> H:\gomocup-online\group3\5x2-15(1).rec
+______________________________
+QMENTAT6 x CURNPIS
+-> H:\gomocup-online\group3\3x4-37(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\group3\5x1-43(1).rec
+______________________________
+CURNPIS x QMENTAT6
+-> H:\gomocup-online\group3\4x3-82(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\group3\3x5-32(1).rec
+______________________________
+CURNPIS x Goro2005
+-> H:\gomocup-online\group3\4x5-26(1).rec
+______________________________
+Goro2005 x CURNPIS
+-> H:\gomocup-online\group3\5x4-27(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\group3\5x3-31(1).rec
+______________________________
+Puskvorec x LEONARDO
+-> H:\gomocup-online\group3\2x0-25(1).rec
+______________________________
+LEONARDO x Puskvorec
+-> H:\gomocup-online\group3\0x2-27(1).rec
+______________________________
+Puskvorec x QMENTAT6
+-> H:\gomocup-online\group3\2x3-129(1).rec
+______________________________
+Tito x LEONARDO
+-> H:\gomocup-online\group3\1x0-27(1).rec
+______________________________
+QMENTAT6 x Puskvorec
+-> H:\gomocup-online\group3\3x2-27(1).rec
+______________________________
+CURNPIS x LEONARDO
+-> H:\gomocup-online\group3\4x0-52(1).rec
+______________________________
+LEONARDO x CURNPIS
+-> H:\gomocup-online\group3\0x4-53(1).rec
+______________________________
+QMENTAT6 x LEONARDO
+-> H:\gomocup-online\group3\3x0-87(1).rec
+______________________________
+Goro2005 x LEONARDO
+-> H:\gomocup-online\group3\5x0-21(2).rec
+______________________________
+LEONARDO x Tito
+-> H:\gomocup-online\group3\0x1-56(1).rec
+______________________________
+LEONARDO x Goro2005
+-> H:\gomocup-online\group3\0x5-42(1).rec
+______________________________
+LEONARDO x QMENTAT6
+-> H:\gomocup-online\group3\0x3-60(1).rec
+______________________________
+Puskvorec x Tito
+-> H:\gomocup-online\group3\2x1-24(1).rec
+______________________________
+Tito x Puskvorec
+-> H:\gomocup-online\group3\1x2-19(1).rec
+______________________________
+CURNPIS x Tito
+-> H:\gomocup-online\group3\4x1-28(1).rec
+______________________________
+Tito x CURNPIS
+-> H:\gomocup-online\group3\1x4-19(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\group3\5x1-29(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\group3\3x1-34(1).rec
+______________________________
+QMENTAT6 x Puskvorec
+-> H:\gomocup-online\group3\3x2-21(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\group3\1x3-29(1).rec
+______________________________
+CURNPIS x Puskvorec
+-> H:\gomocup-online\group3\4x2-42(1).rec
+______________________________
+Puskvorec x CURNPIS
+-> H:\gomocup-online\group3\2x4-21(1).rec
+______________________________
+Goro2005 x Puskvorec
+-> H:\gomocup-online\group3\5x2-17(1).rec
+______________________________
+Puskvorec x QMENTAT6
+-> H:\gomocup-online\group3\2x3-47(1).rec
+______________________________
+Puskvorec x Goro2005
+-> H:\gomocup-online\group3\2x5-26(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\group3\5x3-25(1).rec
+______________________________
+CURNPIS x QMENTAT6
+-> H:\gomocup-online\group3\4x3-26(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\group3\3x5-38(1).rec
+______________________________
+Goro2005 x CURNPIS
+-> H:\gomocup-online\group3\5x4-19(1).rec
+______________________________
+CURNPIS x Goro2005
+-> H:\gomocup-online\group3\4x5-26(2).rec
+______________________________
+LEONARDO x Tito
+-> H:\gomocup-online\group3\0x1-22(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\group3\1x5-41(1).rec
+______________________________
+LEONARDO x Puskvorec
+-> H:\gomocup-online\group3\0x2-39(1).rec
+______________________________
+Puskvorec x LEONARDO
+-> H:\gomocup-online\group3\2x0-30(1).rec
+______________________________
+QMENTAT6 x CURNPIS
+-> H:\gomocup-online\group3\3x4-97(1).rec
+______________________________
+LEONARDO x CURNPIS
+-> H:\gomocup-online\group3\0x4-121(1).rec
+______________________________
+CURNPIS x LEONARDO
+-> H:\gomocup-online\group3\4x0-82(1).rec
+______________________________
+LEONARDO x Goro2005
+-> H:\gomocup-online\group3\0x5-30(1).rec
+______________________________
+Goro2005 x LEONARDO
+-> H:\gomocup-online\group3\5x0-21(3).rec
+______________________________
+LEONARDO x QMENTAT6
+-> H:\gomocup-online\group3\0x3-71(1).rec
+______________________________
+Tito x LEONARDO
+-> H:\gomocup-online\group3\1x0-31(1).rec
+______________________________
+Tito x Puskvorec
+-> H:\gomocup-online\group3\1x2-19(2).rec
+______________________________
+Puskvorec x Tito
+pbrain-Tito.exe: Èas vypršel
+-> H:\gomocup-online\group3\2x1-13(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\group3\1x3-33(1).rec
+______________________________
+QMENTAT6 x LEONARDO
+-> H:\gomocup-online\group3\3x0-119(1).rec
+______________________________
+Tito x CURNPIS
+-> H:\gomocup-online\group3\1x4-33(1).rec
+______________________________
+CURNPIS x Tito
+-> H:\gomocup-online\group3\4x1-38(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\group3\3x1-38(1).rec
+______________________________
+Puskvorec x CURNPIS
+-> H:\gomocup-online\group3\2x4-37(1).rec
+______________________________
+CURNPIS x Puskvorec
+-> H:\gomocup-online\group3\4x2-18(1).rec
+______________________________
+Puskvorec x Goro2005
+-> H:\gomocup-online\group3\2x5-24(1).rec
+______________________________
+Goro2005 x Puskvorec
+-> H:\gomocup-online\group3\5x2-17(2).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\group3\1x5-58(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\group3\5x1-29(2).rec
+______________________________
+Puskvorec x QMENTAT6
+-> H:\gomocup-online\group3\2x3-80(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\group3\3x5-36(1).rec
+______________________________
+QMENTAT6 x CURNPIS
+-> H:\gomocup-online\group3\3x4-75(1).rec
+______________________________
+QMENTAT6 x Puskvorec
+-> H:\gomocup-online\group3\3x2-27(2).rec
+______________________________
+CURNPIS x Goro2005
+-> H:\gomocup-online\group3\4x5-28(1).rec
+______________________________
+Goro2005 x CURNPIS
+-> H:\gomocup-online\group3\5x4-25(1).rec
+______________________________
+CURNPIS x QMENTAT6
+-> H:\gomocup-online\group3\4x3-66(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\group3\5x3-47(1).rec

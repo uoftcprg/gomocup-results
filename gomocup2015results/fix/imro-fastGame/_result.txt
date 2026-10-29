@@ -1,0 +1,160 @@
+-------------------------------------
+5/2/2015  12:48 PM - 2:36 PM
+Time for turn: 5 s,   Time for match: 120 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 4, available 4
+Rule: five or more stones wins
+Opening CRC: 31ed7d22
+Games played: 232
+-------------------------------------
+
+zetor15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 685 ms (max: 3.9 s),  time/game: 17 s
+moves/game: 25,  CRC: 54feebc2,   memory: 16.09 MB
+
+yixin15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 1153 ms (max: 5.0 s),  time/game: 16 s
+moves/game: 14,  CRC: b30f3722,   memory: 235.14 MB
+
+goro15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 1533 ms (max: 4.6 s),  time/game: 24 s
+moves/game: 15,  CRC: 78810b17,   memory: 103.44 MB
+
+hewer15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 2063 ms (max: 5.1 s),  time/game: 38 s
+moves/game: 18,  CRC: 675df893,   memory: 332.21 MB
+
+Tito2014
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 525 ms (max: 3.0 s),  time/game: 7 s
+moves/game: 14,  CRC: a8f60969,   memory: 134.13 MB
+
+HGarden07
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 2507 ms (max: 4.5 s),  time/game: 47 s
+moves/game: 18,  CRC: 209008c9,   memory: 34.80 MB
+
+sWINe15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 2161 ms (max: 5.2 s),  time/game: 39 s
+moves/game: 18,  CRC: 9a90aa46,   memory: 250.91 MB
+
+acePela15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 1552 ms (max: 5.0 s),  time/game: 43 s
+moves/game: 28,  CRC: ff41a44,   memory: 6.32 MB
+
+licht14
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 3289 ms (max: 4.6 s),  time/game: 56 s
+moves/game: 17,  CRC: 883f8da6,   memory: 245.41 MB
+
+acePela15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 1544 ms (max: 5.0 s),  time/game: 36 s
+moves/game: 23,  CRC: ff41a44,   memory: 6.32 MB
+
+SlowRenju15
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 1940 ms (max: 5.0 s),  time/game: 33 s
+moves/game: 17,  CRC: d8de31c0,   memory: 264.96 MB
+
+gmotor2011
+wins: 7=4+3,   losses: 1=0+1
+time/turn: 2127 ms (max: 4.8 s),  time/game: 44 s
+moves/game: 20,  CRC: 56498af1,   memory: 36.14 MB
+
+amoeba10
+wins: 6=4+2,   losses: 2=0+1+1,  1 errors
+time/turn: 2620 ms (max: 5.6 s),  time/game: 62 s
+moves/game: 23,  CRC: ba6b7ff,   memory: 405.27 MB
+
+Kanec09
+wins: 6=3+3,   losses: 2=1+1
+time/turn: 2126 ms (max: 4.9 s),  time/game: 85 s
+moves/game: 40,  CRC: 81d60e22,   memory: 250.45 MB
+
+Puskvorec
+wins: 5=2+3,   losses: 3=2+1
+time/turn: 248 ms (max: 1.1 s),  time/game: 5 s
+moves/game: 20,  CRC: d379c6cb,   memory: 6.85 MB
+
+valkyrie
+wins: 5=1+4,   losses: 3=3+0
+time/turn: 592 ms (max: 1.7 s),  time/game: 10 s
+moves/game: 17,  CRC: af41c137,   memory: 19.61 MB
+
+QMENTAT6
+wins: 4=3+1,   losses: 4=1+3
+time/turn: 352 ms (max: 3.1 s),  time/game: 12 s
+moves/game: 36,  CRC: e8fb806c,   memory: 5.34 MB
+
+pisq7
+wins: 4=2+2,   losses: 4=2+2
+time/turn: 44 ms (max: 0.1 s),  time/game: 1 s
+moves/game: 28,  CRC: 2ba6351e,   memory: 5.25 MB
+
+imro15
+wins: 100=44+45+11,   losses: 132=65+67
+time/turn: 11 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 22,  CRC: 4c9e306e,   memory: 5.29 MB
+
+Pecuchet
+wins: 3=1+2,   losses: 5=3+2
+time/turn: 2298 ms (max: 5.1 s),  time/game: 44 s
+moves/game: 19,  CRC: 5bf9da1e,   memory: 202.41 MB
+
+nabamoku
+wins: 3=3+0,   losses: 5=1+3+1
+time/turn: 1403 ms (max: 5.3 s),  time/game: 75 s
+moves/game: 54,  CRC: 474d2d7d,   memory: 6.01 MB
+
+prolog
+wins: 1=0+1,   losses: 7=4+3
+time/turn: 294 ms (max: 0.8 s),  time/game: 6 s
+moves/game: 23,  CRC: 7ed22134,   memory: 17.27 MB
+
+Crusher10
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 40 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 16,  CRC: f1cd333e,   memory: 6.82 MB
+
+XoXo15
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 181 ms (max: 0.5 s),  time/game: 4 s
+moves/game: 24,  CRC: ec5215cb,   memory: 22.61 MB
+
+jude
+wins: 0=0+0,   losses: 8=0+0+8,  8 errors
+time/turn: 0 ms (max: 0.0 s),  time/game: 0 s
+moves/game: 1,  CRC: a051771c
+
+Benjamin
+wins: 0=0+0,   losses: 8=4+3+1,  1 errors
+time/turn: 47 ms (max: 0.1 s),  time/game: 3 s
+moves/game: 72,  CRC: ef7f3e72,   memory: 5.35 MB
+
+fastgomoku15
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 18 ms (max: 0.0 s),  time/game: 0 s
+moves/game: 24,  CRC: fd6e0f35,   memory: 5.26 MB
+
+PureGM13
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 1256 ms (max: 4.0 s),  time/game: 16 s
+moves/game: 12,  CRC: 62bd6c8f,   memory: 20.91 MB
+
+fiverow
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 166 ms (max: 4.4 s),  time/game: 2 s
+moves/game: 13,  CRC: 3dc3d71,   memory: 5.63 MB
+
+mushroom
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 563 ms (max: 1.0 s),  time/game: 3 s
+moves/game: 6,  CRC: 254651a3,   memory: 67.08 MB
+

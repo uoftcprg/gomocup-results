@@ -1,0 +1,694 @@
+______________________________
+amoeba x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\0x2-28(1).psq
+______________________________
+amoeba x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\0x3-30(1).psq
+______________________________
+Noesis x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\2x0-56(1).psq
+______________________________
+amoeba x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\0x4-37(1).psq
+______________________________
+gmotor x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\3x0-31(1).psq
+______________________________
+jude x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\4x0-29(1).psq
+______________________________
+amoeba x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\0x5-32(1).psq
+______________________________
+amoeba x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\0x6-42(1).psq
+______________________________
+Kanec x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\5x0-27(1).psq
+______________________________
+amoeba x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\0x1-169(1).psq
+______________________________
+Pecuchet x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\6x0-29(1).psq
+______________________________
+goro2009 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\1x0-23(1).psq
+______________________________
+goro2009 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\1x2-31(1).psq
+______________________________
+Noesis x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\2x1-28(1).psq
+______________________________
+amoeba x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\0x8-28(1).psq
+______________________________
+amoeba x pela
+31) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\0x7-36(1).psq
+______________________________
+goro2009 x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\1x3-37(1).psq
+______________________________
+gmotor x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\3x1-42(1).psq
+______________________________
+bestmove x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\8x0-23(1).psq
+______________________________
+goro2009 x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\1x4-31(1).psq
+______________________________
+jude x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\4x1-26(1).psq
+______________________________
+pela x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\7x0-47(1).psq
+______________________________
+goro2009 x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\1x6-43(1).psq
+______________________________
+goro2009 x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\1x5-39(1).psq
+______________________________
+Pecuchet x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\6x1-40(1).psq
+______________________________
+goro2009 x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\1x8-35(1).psq
+______________________________
+goro2009 x pela
+53) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\1x7-62(1).psq
+______________________________
+bestmove x goro2009
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x1-18(1).psq
+______________________________
+Kanec x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\5x1-113(1).psq
+______________________________
+Noesis x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\2x4-32(1).psq
+______________________________
+Noesis x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\2x3-26(1).psq
+______________________________
+jude x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\4x2-31(1).psq
+______________________________
+Noesis x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\2x5-24(1).psq
+______________________________
+gmotor x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\3x2-31(1).psq
+______________________________
+Noesis x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\2x6-24(1).psq
+______________________________
+Kanec x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\5x2-37(1).psq
+______________________________
+Pecuchet x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\6x2-26(1).psq
+______________________________
+pela x goro2009
+64) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x1-69(1).psq
+______________________________
+Noesis x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\2x8-30(1).psq
+______________________________
+Noesis x pela
+-> D:\Tom\gomocup2009\servers\freestyle2\2x7-26(1).psq
+______________________________
+pela x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\7x2-33(1).psq
+______________________________
+gmotor x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\3x4-36(1).psq
+______________________________
+bestmove x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\8x2-35(1).psq
+______________________________
+gmotor x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\3x6-29(1).psq
+______________________________
+jude x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\4x3-42(1).psq
+______________________________
+gmotor x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\3x5-37(1).psq
+______________________________
+Pecuchet x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\6x3-45(1).psq
+______________________________
+gmotor x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\3x8-35(1).psq
+______________________________
+Kanec x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\5x3-59(1).psq
+______________________________
+gmotor x pela
+81) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\3x7-90(1).psq
+______________________________
+jude x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\4x5-56(1).psq
+______________________________
+Kanec x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\5x4-37(1).psq
+______________________________
+bestmove x gmotor
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x3-20(1).psq
+______________________________
+jude x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\4x6-34(1).psq
+______________________________
+Pecuchet x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\6x4-37(1).psq
+______________________________
+jude x pela
+37) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\4x7-42(1).psq
+______________________________
+pela x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\7x3-57(1).psq
+______________________________
+pela x jude
+24) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x4-29(1).psq
+______________________________
+Kanec x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\5x6-34(1).psq
+______________________________
+jude x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\4x8-86(1).psq
+______________________________
+Pecuchet x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\6x5-30(1).psq
+______________________________
+Kanec x pela
+pbrain-Kanec.exe has not returned coordinates x,y
+Exception EAccessViolation in module pbrain-Kanec.exe at 0001BFAC.
+-> D:\Tom\gomocup2009\servers\freestyle2\5x7-38(1).psq
+______________________________
+bestmove x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\8x4-34(1).psq
+______________________________
+Kanec x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\5x8-47(1).psq
+______________________________
+pela x Kanec
+30) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x5-45(1).psq
+______________________________
+Pecuchet x pela
+31) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\6x7-42(1).psq
+______________________________
+bestmove x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\8x5-34(1).psq
+______________________________
+Pecuchet x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\6x8-66(1).psq
+______________________________
+pela x Pecuchet
+24) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x6-37(1).psq
+______________________________
+goro2009 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\1x0-29(1).psq
+______________________________
+bestmove x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\8x6-31(1).psq
+______________________________
+Noesis x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\2x0-48(1).psq
+______________________________
+pela x bestmove
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\7x8-45(1).psq
+______________________________
+amoeba x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\0x2-19(1).psq
+______________________________
+amoeba x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\0x1-85(1).psq
+______________________________
+jude x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\4x0-28(1).psq
+______________________________
+amoeba x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\0x4-23(1).psq
+______________________________
+bestmove x pela
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x7-18(1).psq
+______________________________
+gmotor x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\3x0-154(1).psq
+______________________________
+Pecuchet x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\6x0-44(1).psq
+______________________________
+Kanec x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\5x0-59(1).psq
+______________________________
+amoeba x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\0x3-37(1).psq
+______________________________
+amoeba x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\0x5-21(1).psq
+______________________________
+amoeba x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\0x6-23(1).psq
+______________________________
+pela x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\7x0-29(1).psq
+______________________________
+Noesis x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\2x1-46(1).psq
+______________________________
+goro2009 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\1x2-21(1).psq
+______________________________
+bestmove x amoeba
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x0-16(1).psq
+______________________________
+amoeba x pela
+37) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\0x7-46(1).psq
+______________________________
+amoeba x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\0x8-29(1).psq
+______________________________
+jude x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\4x1-30(1).psq
+______________________________
+gmotor x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\3x1-37(1).psq
+______________________________
+goro2009 x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\1x4-21(1).psq
+______________________________
+goro2009 x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\1x3-25(1).psq
+______________________________
+Kanec x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\5x1-51(1).psq
+______________________________
+Pecuchet x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\6x1-56(1).psq
+______________________________
+goro2009 x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\1x6-19(1).psq
+______________________________
+pela x goro2009
+34) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x1-43(1).psq
+______________________________
+bestmove x goro2009
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x1-16(1).psq
+______________________________
+goro2009 x pela
+-> D:\Tom\gomocup2009\servers\freestyle2\1x7-25(1).psq
+______________________________
+goro2009 x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\1x5-53(1).psq
+______________________________
+jude x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\4x2-35(1).psq
+______________________________
+Noesis x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\2x4-21(1).psq
+______________________________
+gmotor x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\3x2-19(1).psq
+______________________________
+Kanec x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\5x2-25(1).psq
+______________________________
+goro2009 x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\1x8-33(1).psq
+______________________________
+Noesis x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\2x5-36(1).psq
+______________________________
+Pecuchet x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\6x2-25(1).psq
+______________________________
+Noesis x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\2x3-42(1).psq
+______________________________
+Noesis x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\2x6-17(1).psq
+______________________________
+pela x Noesis
+18) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x2-23(1).psq
+______________________________
+bestmove x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\8x2-19(1).psq
+______________________________
+jude x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\4x3-34(1).psq
+______________________________
+Noesis x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\2x8-27(1).psq
+______________________________
+Noesis x pela
+49) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\2x7-54(1).psq
+______________________________
+gmotor x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\3x4-27(1).psq
+______________________________
+Pecuchet x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\6x3-46(1).psq
+______________________________
+Kanec x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\5x3-39(1).psq
+______________________________
+gmotor x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\3x6-19(1).psq
+______________________________
+pela x gmotor
+58) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x3-65(1).psq
+______________________________
+gmotor x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\3x5-50(1).psq
+______________________________
+Kanec x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\5x4-23(1).psq
+______________________________
+bestmove x gmotor
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x3-16(1).psq
+______________________________
+jude x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\4x5-28(1).psq
+______________________________
+Pecuchet x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\6x4-31(1).psq
+______________________________
+gmotor x pela
+-> D:\Tom\gomocup2009\servers\freestyle2\3x7-58(1).psq
+______________________________
+jude x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\4x6-30(1).psq
+______________________________
+gmotor x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\3x8-52(1).psq
+______________________________
+pela x jude
+34) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x4-41(1).psq
+______________________________
+bestmove x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\8x4-27(1).psq
+______________________________
+Pecuchet x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\6x5-46(1).psq
+______________________________
+Kanec x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\5x6-19(1).psq
+______________________________
+jude x pela
+45) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\4x7-56(1).psq
+______________________________
+jude x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\4x8-35(1).psq
+______________________________
+bestmove x Kanec
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x5-16(1).psq
+______________________________
+pela x Pecuchet
+36) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x6-49(1).psq
+______________________________
+pela x Kanec
+58) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x5-65(1).psq
+______________________________
+Kanec x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\5x8-49(1).psq
+______________________________
+bestmove x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\8x6-19(1).psq
+______________________________
+Kanec x pela
+-> D:\Tom\gomocup2009\servers\freestyle2\5x7-35(1).psq
+______________________________
+Pecuchet x pela
+43) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\6x7-54(1).psq
+______________________________
+Pecuchet x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\6x8-37(1).psq
+______________________________
+amoeba x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\0x2-23(1).psq
+______________________________
+Noesis x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\2x0-28(1).psq
+______________________________
+amoeba x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\0x1-21(1).psq
+______________________________
+bestmove x pela
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x7-16(1).psq
+______________________________
+goro2009 x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\1x0-25(1).psq
+______________________________
+amoeba x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\0x3-33(1).psq
+______________________________
+amoeba x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\0x4-46(1).psq
+______________________________
+gmotor x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\3x0-32(1).psq
+______________________________
+amoeba x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\0x5-26(1).psq
+______________________________
+jude x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\4x0-41(1).psq
+______________________________
+pela x bestmove
+52) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x8-57(1).psq
+______________________________
+Kanec x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\5x0-39(1).psq
+______________________________
+amoeba x pela
+pbrain-amoeba.exe has exited unexpectedly !
+-> D:\Tom\gomocup2009\servers\freestyle2\0x7-8(1).psq
+______________________________
+amoeba x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\0x6-32(1).psq
+______________________________
+amoeba x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\0x8-26(1).psq
+______________________________
+pela x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\7x0-37(1).psq
+______________________________
+Pecuchet x amoeba
+-> D:\Tom\gomocup2009\servers\freestyle2\6x0-48(1).psq
+______________________________
+goro2009 x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\1x2-49(1).psq
+______________________________
+Noesis x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\2x1-24(1).psq
+______________________________
+goro2009 x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\1x4-19(1).psq
+______________________________
+bestmove x amoeba
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x0-32(1).psq
+______________________________
+jude x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\4x1-20(1).psq
+______________________________
+goro2009 x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\1x5-31(1).psq
+______________________________
+goro2009 x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\1x6-35(1).psq
+______________________________
+goro2009 x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\1x3-44(1).psq
+______________________________
+Pecuchet x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\6x1-33(1).psq
+______________________________
+gmotor x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\3x1-30(1).psq
+______________________________
+Kanec x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\5x1-47(1).psq
+______________________________
+Noesis x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\2x3-26(2).psq
+______________________________
+goro2009 x pela
+-> D:\Tom\gomocup2009\servers\freestyle2\1x7-37(1).psq
+______________________________
+gmotor x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\3x2-37(1).psq
+______________________________
+Noesis x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\2x4-37(1).psq
+______________________________
+jude x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\4x2-36(1).psq
+______________________________
+goro2009 x bestmove
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\1x8-45(1).psq
+______________________________
+Noesis x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\2x5-40(1).psq
+______________________________
+Kanec x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\5x2-29(1).psq
+______________________________
+Noesis x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\2x6-30(1).psq
+______________________________
+Pecuchet x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\6x2-20(1).psq
+______________________________
+pela x goro2009
+48) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x1-59(1).psq
+______________________________
+bestmove x goro2009
+-> D:\Tom\gomocup2009\servers\freestyle2\8x1-26(1).psq
+______________________________
+Noesis x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\2x8-26(1).psq
+______________________________
+Noesis x pela
+53) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\2x7-58(1).psq
+______________________________
+gmotor x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\3x4-37(1).psq
+______________________________
+bestmove x Noesis
+-> D:\Tom\gomocup2009\servers\freestyle2\8x2-23(1).psq
+______________________________
+pela x Noesis
+40) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x2-55(1).psq
+______________________________
+gmotor x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\3x5-30(1).psq
+______________________________
+gmotor x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\3x6-40(1).psq
+______________________________
+jude x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\4x3-67(1).psq
+______________________________
+Pecuchet x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\6x3-20(1).psq
+______________________________
+Kanec x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\5x3-35(1).psq
+______________________________
+jude x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\4x5-64(1).psq
+______________________________
+Kanec x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\5x4-62(1).psq
+______________________________
+gmotor x bestmove
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\3x8-49(1).psq
+______________________________
+jude x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\4x6-26(1).psq
+______________________________
+gmotor x pela
+57) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\3x7-62(1).psq
+______________________________
+Pecuchet x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\6x4-35(1).psq
+______________________________
+bestmove x gmotor
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x3-16(2).psq
+______________________________
+jude x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\4x8-20(1).psq
+______________________________
+jude x pela
+73) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\4x7-80(1).psq
+______________________________
+pela x gmotor
+-> D:\Tom\gomocup2009\servers\freestyle2\7x3-65(2).psq
+______________________________
+pela x jude
+-> D:\Tom\gomocup2009\servers\freestyle2\7x4-19(1).psq
+______________________________
+bestmove x jude
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x4-16(1).psq
+______________________________
+Kanec x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\5x6-41(1).psq
+______________________________
+Kanec x pela
+67) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\5x7-76(1).psq
+______________________________
+Kanec x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\5x8-65(1).psq
+______________________________
+Pecuchet x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\6x5-74(1).psq
+______________________________
+bestmove x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\8x5-23(1).psq
+______________________________
+pela x Kanec
+-> D:\Tom\gomocup2009\servers\freestyle2\7x5-49(1).psq
+______________________________
+Pecuchet x bestmove
+-> D:\Tom\gomocup2009\servers\freestyle2\6x8-34(1).psq
+______________________________
+Pecuchet x pela
+-> D:\Tom\gomocup2009\servers\freestyle2\6x7-43(1).psq
+______________________________
+bestmove x Pecuchet
+-> D:\Tom\gomocup2009\servers\freestyle2\8x6-28(1).psq
+______________________________
+pela x Pecuchet
+30) pbrain-pela.exe:  I win !
+-> D:\Tom\gomocup2009\servers\freestyle2\7x6-37(2).psq
+______________________________
+pela x bestmove
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\7x8-43(1).psq
+______________________________
+bestmove x pela
+pbrain-bestmove.exe: Timeout
+-> D:\Tom\gomocup2009\servers\freestyle2\8x7-16(2).psq

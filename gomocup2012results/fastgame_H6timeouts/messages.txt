@@ -1,0 +1,1590 @@
+______________________________
+sWINe11 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 10 node= 149140 speed= 285555n/s
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 2 AB nodes: 16761 dpth: 7; tm: 0 best: 1
+ 7) pbrain-Tito10.exe: AB depth= 10 node= 116292 speed= 345341n/s
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 16167 dpth: 6; tm: 0 best: 6
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 1037024 speed= 474742n/s
+10) pbrain-sWINe11.exe: -701 AB nodes: 10087 dpth: 6; tm: 0 best: 13
+11) pbrain-Tito10.exe: AB depth= 12 node= 507368 speed= 459405n/s
+12) pbrain-sWINe11.exe: -375 AB nodes: 4765 dpth: 6; tm: 0 best: 1
+13) pbrain-Tito10.exe: AB depth= 12 node= 213922 speed= 551849n/s
+14) pbrain-sWINe11.exe: -23 AB nodes: 6071 dpth: 5; tm: 0 best: 3
+15) pbrain-Tito10.exe: AB depth= 12 node= 128654 speed= 563001n/s
+16) pbrain-sWINe11.exe: -505 AB nodes: 1756 dpth: 4; tm: 0 best: 5
+17) pbrain-Tito10.exe: AB depth= 12 node= 218121 speed= 496898n/s
+19) pbrain-Tito10.exe: AB depth= 12 node= 175236 speed= 575898n/s
+20) pbrain-sWINe11.exe: :-( AB nodes: 54 dpth: 3; tm: 0 best: 1
+24) pbrain-sWINe11.exe: Grat
+-> f:\projekty\gomocup2012\fastgame\0x1-26(1).psq
+______________________________
+sWINe11 x hewer12
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 2 AB nodes: 16729 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 16058 dpth: 6; tm: 0 best: 6
+10) pbrain-sWINe11.exe: -701 AB nodes: 10051 dpth: 6; tm: 0 best: 13
+12) pbrain-sWINe11.exe: -362 AB nodes: 6449 dpth: 6; tm: 0 best: 3
+14) pbrain-sWINe11.exe: -496 AB nodes: 30 dpth: 2; tm: 0 best: 1
+16) pbrain-sWINe11.exe: -371 AB nodes: 1280 dpth: 4; tm: 0 best: 4
+17) pbrain-hewer12.exe: :-)
+18) pbrain-sWINe11.exe: :-( AB nodes: 591 dpth: 4; tm: 0 best: 3
+19) pbrain-hewer12.exe: :-)
+21) pbrain-hewer12.exe: :-)
+23) pbrain-hewer12.exe: :-))
+25) pbrain-hewer12.exe: :-))
+26) pbrain-sWINe11.exe: Grat
+27) pbrain-hewer12.exe:    .-. 
+27) pbrain-hewer12.exe:   o   \     .-. 
+27) pbrain-hewer12.exe:       .----.'     \ 
+27) pbrain-hewer12.exe:     .'o)   / `.    o 
+27) pbrain-hewer12.exe:   /              | 
+27) pbrain-hewer12.exe:   \_)         /
+27) pbrain-hewer12.exe:     '__/   /   
+27) pbrain-hewer12.exe:      `.      |  
+27) pbrain-hewer12.exe:       |       \  
+27) pbrain-hewer12.exe:   .--/`-.     / / 
+27) pbrain-hewer12.exe: .'.-/`-. `.  .\| 
+-> f:\projekty\gomocup2012\fastgame\0x3-28(1).psq
+______________________________
+Tito10 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25075 dpth: 7; tm: 0 best: 3
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 284356 speed= 473597n/s
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17515 dpth: 7; tm: 0 best: 3
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 192018 speed= 523800n/s
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 11788 dpth: 8; tm: 0 best: 1
+10) pbrain-Tito10.exe: AB depth= 12 node= 35566 speed= 644139n/s
+11) pbrain-sWINe11.exe: AB nodes: 8073 dpth: 6; tm: 0 best: 6
+12) pbrain-Tito10.exe: AB depth= 12 node= 15503 speed= 674877n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 5349 speed= 618525n/s
+15) pbrain-sWINe11.exe: AB nodes: 478 dpth: 2; tm: 0 best: 5
+16) pbrain-Tito10.exe: AB depth= 12 node= 1656 speed= 479725n/s
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+18) pbrain-Tito10.exe: AB depth= 12 node= 3645 speed= 558689n/s
+19) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+23) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\1x0-24(1).psq
+______________________________
+sWINe11 x pela
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 247 AB nodes: 23657 dpth: 6; tm: 0 best: 2
+ 8) pbrain-sWINe11.exe: 1065 AB nodes: 27276 dpth: 7; tm: 0 best: 4
+10) pbrain-sWINe11.exe: 884 AB nodes: 54700 dpth: 6; tm: 0 best: 6
+12) pbrain-sWINe11.exe: 1432 AB nodes: 26772 dpth: 7; tm: 0 best: 4
+14) pbrain-sWINe11.exe: 1432 AB nodes: 16919 dpth: 5; tm: 0 best: 5
+16) pbrain-sWINe11.exe: :-) AB nodes: 9880 dpth: 4; tm: 0 best: 6
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x5-27(1).psq
+______________________________
+hewer12 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24399 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -365 AB nodes: 20631 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: 553 AB nodes: 12223 dpth: 5; tm: 0 best: 8
+11) pbrain-sWINe11.exe: 793 AB nodes: 15664 dpth: 7; tm: 0 best: 1
+13) pbrain-sWINe11.exe: 264 AB nodes: 27138 dpth: 6; tm: 0 best: 3
+15) pbrain-sWINe11.exe: 853 AB nodes: 8941 dpth: 5; tm: 0 best: 14
+17) pbrain-sWINe11.exe: 365 AB nodes: 9378 dpth: 4; tm: 0 best: 36
+19) pbrain-sWINe11.exe: 790 AB nodes: 8305 dpth: 5; tm: 0 best: 8
+21) pbrain-sWINe11.exe: 677 AB nodes: 10179 dpth: 5; tm: 0 best: 2
+23) pbrain-sWINe11.exe: -157 AB nodes: 6265 dpth: 4; tm: 0 best: 1
+25) pbrain-sWINe11.exe: 439 AB nodes: 1515 dpth: 3; tm: 0 best: 34
+27) pbrain-sWINe11.exe: 449 AB nodes: 40 dpth: 1; tm: 0 best: 10
+29) pbrain-sWINe11.exe: -1301 AB nodes: 3926 dpth: 5; tm: 0 best: 25
+31) pbrain-sWINe11.exe: -2159 AB nodes: 4712 dpth: 6; tm: 0 best: 5
+32) pbrain-hewer12.exe: :-)
+33) pbrain-sWINe11.exe: -1176 AB nodes: 5 dpth: 2; tm: 0 best: 4
+35) pbrain-sWINe11.exe: -2159 AB nodes: 33 dpth: 2; tm: 0 best: 2
+36) pbrain-hewer12.exe: :-)
+38) pbrain-hewer12.exe: :-)
+39) pbrain-sWINe11.exe: :-( AB nodes: 8 dpth: 3; tm: 0 best: 3
+40) pbrain-hewer12.exe: :-)
+42) pbrain-hewer12.exe: :-)
+44) pbrain-hewer12.exe: :-)
+46) pbrain-hewer12.exe: :-)
+48) pbrain-hewer12.exe: :-)
+50) pbrain-hewer12.exe: :-)
+52) pbrain-hewer12.exe: :-))
+54) pbrain-hewer12.exe: :-))
+55) pbrain-sWINe11.exe: Grat
+56) pbrain-hewer12.exe:    .-. 
+56) pbrain-hewer12.exe:   o   \     .-. 
+56) pbrain-hewer12.exe:       .----.'     \ 
+56) pbrain-hewer12.exe:     .'o)   / `.    o 
+56) pbrain-hewer12.exe:   /              | 
+56) pbrain-hewer12.exe:   \_)         /
+56) pbrain-hewer12.exe:     '__/   /   
+56) pbrain-hewer12.exe:      `.      |  
+56) pbrain-hewer12.exe:       |       \  
+56) pbrain-hewer12.exe:   .--/`-.     / / 
+56) pbrain-hewer12.exe: .'.-/`-. `.  .\| 
+-> f:\projekty\gomocup2012\fastgame\3x0-57(1).psq
+______________________________
+pela x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24556 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: 553 AB nodes: 21348 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: 759 AB nodes: 11687 dpth: 5; tm: 0 best: 5
+11) pbrain-sWINe11.exe: 778 AB nodes: 15419 dpth: 5; tm: 0 best: 3
+13) pbrain-sWINe11.exe: 608 AB nodes: 17474 dpth: 5; tm: 0 best: 17
+15) pbrain-sWINe11.exe: 466 AB nodes: 13361 dpth: 5; tm: 0 best: 17
+17) pbrain-sWINe11.exe: 616 AB nodes: 10341 dpth: 5; tm: 0 best: 1
+19) pbrain-sWINe11.exe: 570 AB nodes: 7814 dpth: 5; tm: 0 best: 4
+21) pbrain-sWINe11.exe: 570 AB nodes: 1307 dpth: 3; tm: 0 best: 7
+23) pbrain-sWINe11.exe: 165 AB nodes: 2784 dpth: 5; tm: 0 best: 6
+25) pbrain-sWINe11.exe: 13 AB nodes: 2926 dpth: 5; tm: 0 best: 7
+27) pbrain-sWINe11.exe: -247 AB nodes: 8282 dpth: 5; tm: 0 best: 3
+29) pbrain-sWINe11.exe: -539 AB nodes: 3883 dpth: 5; tm: 0 best: 4
+31) pbrain-sWINe11.exe: -1220 AB nodes: 2040 dpth: 6; tm: 0 best: 2
+33) pbrain-sWINe11.exe: -762 AB nodes: 4686 dpth: 5; tm: 0 best: 8
+35) pbrain-sWINe11.exe: -717 AB nodes: 2701 dpth: 5; tm: 0 best: 1
+37) pbrain-sWINe11.exe: -825 AB nodes: 3278 dpth: 5; tm: 0 best: 9
+39) pbrain-sWINe11.exe: :-( AB nodes: 2916 dpth: 6; tm: 0 best: 14
+43) pbrain-sWINe11.exe: -1720 AB nodes: 48 dpth: 2; tm: 0 best: 3 
+57) pbrain-sWINe11.exe: -1196 AB nodes: 6 dpth: 2; tm: 0 best: 2 
+63) pbrain-sWINe11.exe: -1162 AB nodes: 6 dpth: 2; tm: 0 best: 2 
+65) pbrain-sWINe11.exe: -1192 AB nodes: 9 dpth: 2; tm: 0 best: 6 
+68) pbrain-pela.exe:  I win !
+73) pbrain-sWINe11.exe: Grat
+-> f:\projekty\gomocup2012\fastgame\5x0-75(1).psq
+______________________________
+sWINe11 x goro2012
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 20196 dpth: 8; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 16860 dpth: 6; tm: 0 best: 6
+10) pbrain-sWINe11.exe: -598 AB nodes: 8842 dpth: 6; tm: 0 best: 3
+12) pbrain-sWINe11.exe: -443 AB nodes: 14168 dpth: 8; tm: 0 best: 1
+14) pbrain-sWINe11.exe: 15 AB nodes: 35318 dpth: 7; tm: 0 best: 36
+16) pbrain-sWINe11.exe: 1095 AB nodes: 18168 dpth: 7; tm: 0 best: 8
+20) pbrain-sWINe11.exe: -592 AB nodes: 15522 dpth: 6; tm: 0 best: 1
+22) pbrain-sWINe11.exe: -536 AB nodes: 12848 dpth: 6; tm: 0 best: 27
+24) pbrain-sWINe11.exe: 257 AB nodes: 5709 dpth: 5; tm: 0 best: 29
+26) pbrain-sWINe11.exe: 529 AB nodes: 5516 dpth: 7; tm: 0 best: 7
+28) pbrain-sWINe11.exe: 141 AB nodes: 8339 dpth: 4; tm: 0 best: 2
+30) pbrain-sWINe11.exe: 369 AB nodes: 7012 dpth: 5; tm: 0 best: 16
+32) pbrain-sWINe11.exe: -26 AB nodes: 6214 dpth: 5; tm: 0 best: 6
+34) pbrain-sWINe11.exe: -480 AB nodes: 24987 dpth: 7; tm: 0 best: 4
+36) pbrain-sWINe11.exe: -775 AB nodes: 31919 dpth: 7; tm: 0 best: 3
+38) pbrain-sWINe11.exe: -775 AB nodes: 22173 dpth: 5; tm: 0 best: 15
+42) pbrain-sWINe11.exe: -1278 AB nodes: 38 dpth: 2; tm: 0 best: 1
+44) pbrain-sWINe11.exe: -1049 AB nodes: 14602 dpth: 6; tm: 0 best: 2
+46) pbrain-sWINe11.exe: -1011 AB nodes: 13749 dpth: 6; tm: 0 best: 4
+48) pbrain-sWINe11.exe: -860 AB nodes: 12090 dpth: 6; tm: 0 best: 4
+50) pbrain-sWINe11.exe: 28 AB nodes: 6627 dpth: 7; tm: 0 best: 1
+52) pbrain-sWINe11.exe: -604 AB nodes: 7122 dpth: 6; tm: 0 best: 1
+54) pbrain-sWINe11.exe: -511 AB nodes: 8559 dpth: 6; tm: 0 best: 4
+56) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+58) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+60) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+80) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+-> f:\projekty\gomocup2012\fastgame\0x6-83(1).psq
+______________________________
+sWINe11 x HGarden07
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 21054 dpth: 8; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 15942 dpth: 6; tm: 0 best: 6
+10) pbrain-sWINe11.exe: -598 AB nodes: 8841 dpth: 6; tm: 0 best: 3
+14) pbrain-sWINe11.exe: 441 AB nodes: 7041 dpth: 7; tm: 0 best: 2
+18) pbrain-sWINe11.exe: -890 AB nodes: 7880 dpth: 6; tm: 0 best: 6
+20) pbrain-sWINe11.exe: -1028 AB nodes: 33 dpth: 2; tm: 0 best: 3
+22) pbrain-sWINe11.exe: -958 AB nodes: 11534 dpth: 6; tm: 0 best: 9
+24) pbrain-sWINe11.exe: -142 AB nodes: 4461 dpth: 5; tm: 0 best: 1
+26) pbrain-sWINe11.exe: -440 AB nodes: 6253 dpth: 8; tm: 0 best: 3
+28) pbrain-sWINe11.exe: -440 AB nodes: 7741 dpth: 6; tm: 0 best: 2
+30) pbrain-sWINe11.exe: -330 AB nodes: 6010 dpth: 6; tm: 0 best: 1
+32) pbrain-sWINe11.exe: -263 AB nodes: 30 dpth: 2; tm: 0 best: 3
+36) pbrain-sWINe11.exe: :-) AB nodes: 2173 dpth: 6; tm: 0 best: 10
+44) pbrain-sWINe11.exe: AB nodes: 31 dpth: 2; tm: 0 best: 1
+52) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+56) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x7-57(1).psq
+______________________________
+goro2012 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24553 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: 553 AB nodes: 21440 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 26206 dpth: 6; tm: 0 best: 5
+11) pbrain-sWINe11.exe: AB nodes: 5440 dpth: 4; tm: 0 best: 10
+13) pbrain-sWINe11.exe: AB nodes: 882 dpth: 2; tm: 0 best: 4
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+25) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+27) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\6x0-28(1).psq
+______________________________
+sWINe11 x gmotor11
+ 5) pbrain-gmotor11.exe: time=3,44s, depth=5, nodes=549kN (159,7kN/s), evaluation=221, best=h6
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 20173 dpth: 8; tm: 0 best: 1
+ 7) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=546kN (158,8kN/s), evaluation=-186, best=g6
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 16236 dpth: 6; tm: 0 best: 6
+ 9) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=458kN (133,2kN/s), evaluation=-186, best=i7
+10) pbrain-sWINe11.exe: -701 AB nodes: 10069 dpth: 6; tm: 0 best: 13
+11) pbrain-gmotor11.exe: time=1,73s, depth=6, nodes=287kN (166,0kN/s), evaluation=2147483647, best=h10
+13) pbrain-gmotor11.exe: time=0,06s, depth=2, nodes=9343N (149,5kN/s), evaluation=2147483647, best=g9
+14) pbrain-sWINe11.exe: -218 AB nodes: 22 dpth: 2; tm: 0 best: 3
+15) pbrain-gmotor11.exe: time=0,05s, depth=2, nodes=8865N (189,1kN/s), evaluation=2147483647, best=i11
+16) pbrain-sWINe11.exe: 203 AB nodes: 3171 dpth: 5; tm: 0 best: 1
+17) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=5N (0,0kN/s), evaluation=2147483647, best=j8
+18) pbrain-sWINe11.exe: -250 AB nodes: 35 dpth: 2; tm: 0 best: 3
+19) pbrain-gmotor11.exe: time=0,02s, depth=0, nodes=1774N (113,5kN/s), evaluation=2147483647, best=i9
+20) pbrain-sWINe11.exe: -538 AB nodes: 35 dpth: 2; tm: 0 best: 2
+21) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=663N (0,0kN/s), evaluation=2147483647, best=i10
+23) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=430N (0,0kN/s), evaluation=2147483647, best=j12
+25) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=422N (0,0kN/s), evaluation=2147483647, best=j10
+26) pbrain-sWINe11.exe: :-( AB nodes: 6 dpth: 3; tm: 0 best: 3
+27) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=88N (0,0kN/s), evaluation=2147483647, best=k11
+29) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=8N (0,0kN/s), evaluation=2147483647, best=g11
+31) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=6N (0,0kN/s), evaluation=2147483647, best=g10
+33) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=4N (0,0kN/s), evaluation=2147483647, best=i12
+35) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=2N (0,0kN/s), evaluation=2147483647, best=h11
+37) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=3N (0,0kN/s), evaluation=2147483647, best=j13
+38) pbrain-sWINe11.exe: Grat
+39) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=1N (0,0kN/s), evaluation=2147483647, best=k14
+-> f:\projekty\gomocup2012\fastgame\0x8-40(1).psq
+______________________________
+gmotor11 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24565 dpth: 7; tm: 0 best: 6
+ 6) pbrain-gmotor11.exe: time=3,44s, depth=7, nodes=550kN (160,0kN/s), evaluation=186, best=h5
+ 7) pbrain-sWINe11.exe: 553 AB nodes: 22206 dpth: 7; tm: 0 best: 3
+ 8) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=582kN (169,3kN/s), evaluation=-204, best=i6
+ 9) pbrain-sWINe11.exe: 553 AB nodes: 12225 dpth: 5; tm: 0 best: 8
+10) pbrain-gmotor11.exe: time=3,44s, depth=7, nodes=560kN (162,9kN/s), evaluation=112, best=j7
+11) pbrain-sWINe11.exe: 793 AB nodes: 15831 dpth: 7; tm: 0 best: 1
+12) pbrain-gmotor11.exe: time=3,44s, depth=8, nodes=568kN (165,2kN/s), evaluation=-244, best=f5
+13) pbrain-sWINe11.exe: 264 AB nodes: 27152 dpth: 6; tm: 0 best: 3
+14) pbrain-gmotor11.exe: time=3,44s, depth=8, nodes=534kN (155,4kN/s), evaluation=-215, best=f4
+15) pbrain-sWINe11.exe: 853 AB nodes: 8921 dpth: 5; tm: 0 best: 14
+16) pbrain-gmotor11.exe: time=0,36s, depth=7, nodes=60kN (168,0kN/s), evaluation=-2147483647, best=k8
+18) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=21N (0,0kN/s), evaluation=-2147483647, best=j6
+19) pbrain-sWINe11.exe: 544 AB nodes: 9965 dpth: 4; tm: 0 best: 36
+20) pbrain-gmotor11.exe: time=0,97s, depth=7, nodes=168kN (174,4kN/s), evaluation=-2147483647, best=h9
+21) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=329N (0,0kN/s), evaluation=-2147483647, best=h4
+23) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=5N (0,0kN/s), evaluation=-2147483647, best=e6
+26) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=6N (0,0kN/s), evaluation=-2147483647, best=c5
+27) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\8x0-28(1).psq
+______________________________
+HGarden07 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25113 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: 553 AB nodes: 21606 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: 553 AB nodes: 11806 dpth: 5; tm: 0 best: 8
+11) pbrain-sWINe11.exe: 793 AB nodes: 15831 dpth: 7; tm: 0 best: 1
+13) pbrain-sWINe11.exe: 264 AB nodes: 27155 dpth: 6; tm: 0 best: 3
+15) pbrain-sWINe11.exe: 853 AB nodes: 8941 dpth: 5; tm: 0 best: 14
+17) pbrain-sWINe11.exe: 867 AB nodes: 11284 dpth: 5; tm: 0 best: 36
+19) pbrain-sWINe11.exe: 231 AB nodes: 5854 dpth: 4; tm: 0 best: 9
+21) pbrain-sWINe11.exe: 323 AB nodes: 8628 dpth: 4; tm: 0 best: 16
+23) pbrain-sWINe11.exe: 978 AB nodes: 6447 dpth: 5; tm: 0 best: 6
+25) pbrain-sWINe11.exe: 1065 AB nodes: 1057 dpth: 3; tm: 0 best: 2
+27) pbrain-sWINe11.exe: 138 AB nodes: 7028 dpth: 4; tm: 0 best: 9
+29) pbrain-sWINe11.exe: -201 AB nodes: 3894 dpth: 4; tm: 0 best: 5
+31) pbrain-sWINe11.exe: 99 AB nodes: 5025 dpth: 5; tm: 0 best: 32
+33) pbrain-sWINe11.exe: -3 AB nodes: 3811 dpth: 5; tm: 0 best: 5
+35) pbrain-sWINe11.exe: -652 AB nodes: 3785 dpth: 5; tm: 0 best: 14
+37) pbrain-sWINe11.exe: -1444 AB nodes: 2004 dpth: 7; tm: 0 best: 18
+39) pbrain-sWINe11.exe: :-( AB nodes: 22698 dpth: 9; tm: 0 best: 4
+51) pbrain-sWINe11.exe: Grat
+-> f:\projekty\gomocup2012\fastgame\7x0-53(1).psq
+______________________________
+sWINe11 x amoeba10
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 247 AB nodes: 23657 dpth: 6; tm: 0 best: 2
+ 7) pbrain-amoeba10.exe: My chance to win: 40%
+ 8) pbrain-sWINe11.exe: :-) AB nodes: 12908 dpth: 6; tm: 0 best: 10
+ 9) pbrain-amoeba10.exe: Your chance to win: 66%
+ 9) pbrain-amoeba10.exe: My chance to win: 33%
+10) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+11) pbrain-amoeba10.exe: Your chance to win: 63%
+11) pbrain-amoeba10.exe: My chance to win: 36%
+12) pbrain-sWINe11.exe: AB nodes: 24 dpth: 2; tm: 0 best: 3
+13) pbrain-amoeba10.exe: Your chance to win: 65%
+13) pbrain-amoeba10.exe: My chance to win: 21%
+15) pbrain-amoeba10.exe: Your chance to win: 79%
+15) pbrain-amoeba10.exe: My chance to win: 18%
+16) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-amoeba10.exe: Your chance to win: 82%
+17) pbrain-amoeba10.exe: My chance to win: 9%
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-amoeba10.exe: Your chance to win: 88%
+19) pbrain-amoeba10.exe: My chance to win: 13%
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+21) pbrain-amoeba10.exe: Your chance to win: 90%
+21) pbrain-amoeba10.exe: My chance to win: 2%
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+23) pbrain-amoeba10.exe: Your chance to win: 98%
+23) pbrain-amoeba10.exe: My chance to win: 1%
+25) pbrain-amoeba10.exe: Your chance to win: 100%
+25) pbrain-amoeba10.exe: My chance to win: 0%
+25) pbrain-amoeba10.exe: You win!
+26) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x10-27(1).psq
+______________________________
+amoeba10 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24966 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -365 AB nodes: 20907 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: 553 AB nodes: 12140 dpth: 5; tm: 0 best: 8
+10) pbrain-amoeba10.exe: My chance to win: 30%
+11) pbrain-sWINe11.exe: 793 AB nodes: 15832 dpth: 7; tm: 0 best: 1
+12) pbrain-amoeba10.exe: Your chance to win: 68%
+12) pbrain-amoeba10.exe: My chance to win: 30%
+13) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+14) pbrain-amoeba10.exe: Your chance to win: 48%
+14) pbrain-amoeba10.exe: My chance to win: 5%
+16) pbrain-amoeba10.exe: Your chance to win: 94%
+16) pbrain-amoeba10.exe: My chance to win: 2%
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+18) pbrain-amoeba10.exe: Your chance to win: 98%
+18) pbrain-amoeba10.exe: My chance to win: 0%
+19) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-amoeba10.exe: Your chance to win: 100%
+20) pbrain-amoeba10.exe: My chance to win: 0%
+20) pbrain-amoeba10.exe: You win!
+21) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\10x0-22(1).psq
+______________________________
+sWINe11 x Pecuchet
+pbrain-Pecuchet.exe: Timeout
+-> f:\projekty\gomocup2012\fastgame\0x11-5(1).psq
+______________________________
+Pecuchet x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24399 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17617 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 4714 dpth: 4; tm: 0 best: 2
+11) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\11x0-20(1).psq
+______________________________
+sWINe11 x jude
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 20152 dpth: 8; tm: 0 best: 1
+10) pbrain-sWINe11.exe: -368 AB nodes: 19291 dpth: 6; tm: 0 best: 5
+12) pbrain-sWINe11.exe: -267 AB nodes: 17 dpth: 2; tm: 0 best: 3
+14) pbrain-sWINe11.exe: 837 AB nodes: 39367 dpth: 10; tm: 0 best: 1
+16) pbrain-sWINe11.exe: 1467 AB nodes: 39373 dpth: 9; tm: 0 best: 3
+18) pbrain-sWINe11.exe: :-) AB nodes: 71 dpth: 4; tm: 0 best: 3
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+28) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+32) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x12-33(1).psq
+______________________________
+jude x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25131 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17394 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 11788 dpth: 8; tm: 0 best: 1
+13) pbrain-sWINe11.exe: AB nodes: 3466 dpth: 4; tm: 0 best: 6
+15) pbrain-sWINe11.exe: AB nodes: 492 dpth: 2; tm: 0 best: 5
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+27) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\12x0-28(1).psq
+______________________________
+sWINe11 x Kanec
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 20951 dpth: 8; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 16123 dpth: 6; tm: 0 best: 6
+12) pbrain-sWINe11.exe: -4 AB nodes: 13068 dpth: 8; tm: 0 best: 1
+14) pbrain-sWINe11.exe: 646 AB nodes: 12866 dpth: 7; tm: 0 best: 3
+16) pbrain-sWINe11.exe: -37 AB nodes: 6345 dpth: 6; tm: 0 best: 3
+20) pbrain-sWINe11.exe: 494 AB nodes: 6761 dpth: 6; tm: 0 best: 3
+24) pbrain-sWINe11.exe: 373 AB nodes: 2680 dpth: 6; tm: 0 best: 1
+30) pbrain-sWINe11.exe: 631 AB nodes: 9442 dpth: 4; tm: 0 best: 36
+32) pbrain-sWINe11.exe: 1860 AB nodes: 11559 dpth: 5; tm: 0 best: 33
+34) pbrain-sWINe11.exe: 1883 AB nodes: 12220 dpth: 5; tm: 0 best: 35
+36) pbrain-sWINe11.exe: 1818 AB nodes: 12831 dpth: 5; tm: 0 best: 3
+38) pbrain-sWINe11.exe: 1655 AB nodes: 13348 dpth: 5; tm: 0 best: 8
+40) pbrain-sWINe11.exe: 870 AB nodes: 9040 dpth: 4; tm: 0 best: 36
+42) pbrain-sWINe11.exe: 730 AB nodes: 9801 dpth: 4; tm: 0 best: 17
+44) pbrain-sWINe11.exe: 1366 AB nodes: 6545 dpth: 5; tm: 0 best: 18
+46) pbrain-sWINe11.exe: 1011 AB nodes: 5978 dpth: 4; tm: 0 best: 23
+50) pbrain-sWINe11.exe: 2249 AB nodes: 13549 dpth: 5; tm: 0 best: 15
+54) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+60) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x9-61(1).psq
+______________________________
+sWINe11 x nabamoku
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -286 AB nodes: 16182 dpth: 6; tm: 0 best: 3
+ 8) pbrain-sWINe11.exe: -270 AB nodes: 26868 dpth: 8; tm: 0 best: 1
+10) pbrain-sWINe11.exe: 896 AB nodes: 19952 dpth: 7; tm: 0 best: 1
+12) pbrain-sWINe11.exe: 111 AB nodes: 17750 dpth: 6; tm: 0 best: 3
+14) pbrain-sWINe11.exe: 899 AB nodes: 14587 dpth: 5; tm: 0 best: 9
+16) pbrain-sWINe11.exe: :-) AB nodes: 17504 dpth: 6; tm: 0 best: 5
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+30) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x13-31(1).psq
+______________________________
+Kanec x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24419 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: 553 AB nodes: 22250 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: 553 AB nodes: 12208 dpth: 5; tm: 0 best: 8
+11) pbrain-sWINe11.exe: 1011 AB nodes: 6621 dpth: 5; tm: 0 best: 9
+13) pbrain-sWINe11.exe: :-) AB nodes: 5406 dpth: 4; tm: 0 best: 13
+15) pbrain-sWINe11.exe: AB nodes: 664 dpth: 2; tm: 0 best: 13
+19) pbrain-sWINe11.exe: :-\ 400 AB nodes: 3795 dpth: 5; tm: 0 best: 1
+21) pbrain-sWINe11.exe: 119 AB nodes: 13676 dpth: 7; tm: 0 best: 3
+23) pbrain-sWINe11.exe: 525 AB nodes: 7704 dpth: 7; tm: 0 best: 12
+25) pbrain-sWINe11.exe: 288 AB nodes: 16440 dpth: 7; tm: 0 best: 3
+27) pbrain-sWINe11.exe: -298 AB nodes: 34 dpth: 2; tm: 0 best: 3
+31) pbrain-sWINe11.exe: 359 AB nodes: 8417 dpth: 8; tm: 0 best: 1
+33) pbrain-sWINe11.exe: 967 AB nodes: 14321 dpth: 7; tm: 0 best: 3
+35) pbrain-sWINe11.exe: 1239 AB nodes: 16649 dpth: 7; tm: 0 best: 1
+37) pbrain-sWINe11.exe: :-) AB nodes: 8617 dpth: 4; tm: 0 best: 30
+39) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+41) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+43) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+47) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\9x0-48(1).psq
+______________________________
+nabamoku x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25093 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: 553 AB nodes: 22179 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: 631 AB nodes: 14516 dpth: 5; tm: 0 best: 10
+11) pbrain-sWINe11.exe: :-) AB nodes: 7966 dpth: 4; tm: 0 best: 20
+13) pbrain-sWINe11.exe: AB nodes: 481 dpth: 2; tm: 0 best: 12
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+21) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\13x0-22(1).psq
+______________________________
+sWINe11 x TRUNKAT
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -493 AB nodes: 22464 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -213 AB nodes: 21477 dpth: 6; tm: 0 best: 8
+10) pbrain-sWINe11.exe: -157 AB nodes: 22005 dpth: 6; tm: 0 best: 5
+12) pbrain-sWINe11.exe: 411 AB nodes: 34018 dpth: 7; tm: 0 best: 1
+14) pbrain-sWINe11.exe: 580 AB nodes: 28482 dpth: 7; tm: 0 best: 3
+16) pbrain-sWINe11.exe: :-) AB nodes: 4815 dpth: 4; tm: 0 best: 1
+18) pbrain-sWINe11.exe: AB nodes: 850 dpth: 2; tm: 0 best: 3
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+28) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+32) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x15-33(1).psq
+______________________________
+TRUNKAT x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24399 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17593 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+11) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+21) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\15x0-22(1).psq
+______________________________
+sWINe11 x QMENTAT6
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 125 AB nodes: 19940 dpth: 7; tm: 0 best: 3
+10) pbrain-sWINe11.exe: -273 AB nodes: 11655 dpth: 6; tm: 0 best: 5
+12) pbrain-sWINe11.exe: -239 AB nodes: 17 dpth: 2; tm: 0 best: 2
+16) pbrain-sWINe11.exe: -7 AB nodes: 20985 dpth: 9; tm: 0 best: 1
+20) pbrain-sWINe11.exe: 568 AB nodes: 19920 dpth: 8; tm: 0 best: 1
+22) pbrain-sWINe11.exe: 1001 AB nodes: 22507 dpth: 7; tm: 0 best: 2
+24) pbrain-sWINe11.exe: -333 AB nodes: 5884 dpth: 6; tm: 0 best: 5
+26) pbrain-sWINe11.exe: 282 AB nodes: 2931 dpth: 6; tm: 0 best: 2
+28) pbrain-sWINe11.exe: 787 AB nodes: 3570 dpth: 5; tm: 0 best: 4
+34) pbrain-sWINe11.exe: 636 AB nodes: 657 dpth: 4; tm: 0 best: 3
+38) pbrain-sWINe11.exe: 1151 AB nodes: 1008 dpth: 5; tm: 0 best: 1
+40) pbrain-sWINe11.exe: 770 AB nodes: 36 dpth: 2; tm: 0 best: 2
+48) pbrain-sWINe11.exe: :-) AB nodes: 309 dpth: 4; tm: 0 best: 1
+50) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+52) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+54) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x14-55(1).psq
+______________________________
+sWINe11 x fiverow
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -493 AB nodes: 17510 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: 61 AB nodes: 9316 dpth: 4; tm: 0 best: 36
+10) pbrain-sWINe11.exe: 976 AB nodes: 9582 dpth: 5; tm: 0 best: 1
+12) pbrain-sWINe11.exe: 1243 AB nodes: 9237 dpth: 5; tm: 0 best: 4
+14) pbrain-sWINe11.exe: 1403 AB nodes: 11968 dpth: 5; tm: 0 best: 6
+16) pbrain-sWINe11.exe: :-) AB nodes: 1099 dpth: 2; tm: 0 best: 5
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+28) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+30) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+-> f:\projekty\gomocup2012\fastgame\0x16-33(1).psq
+______________________________
+QMENTAT6 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25130 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17676 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+11) pbrain-sWINe11.exe: AB nodes: 38 dpth: 2; tm: 0 best: 2
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\14x0-20(1).psq
+______________________________
+fiverow x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 435 AB nodes: 24026 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -132 AB nodes: 26662 dpth: 6; tm: 0 best: 2
+ 9) pbrain-sWINe11.exe: -145 AB nodes: 9121 dpth: 6; tm: 0 best: 3
+11) pbrain-sWINe11.exe: 708 AB nodes: 12915 dpth: 5; tm: 0 best: 19
+13) pbrain-sWINe11.exe: :-) AB nodes: 490 dpth: 2; tm: 0 best: 1
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+21) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+25) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\16x0-26(1).psq
+______________________________
+sWINe11 x Benjamin
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -493 AB nodes: 22763 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -346 AB nodes: 21769 dpth: 6; tm: 0 best: 4
+10) pbrain-sWINe11.exe: -74 AB nodes: 14300 dpth: 6; tm: 0 best: 1
+12) pbrain-sWINe11.exe: -15 AB nodes: 27949 dpth: 6; tm: 0 best: 15
+14) pbrain-sWINe11.exe: 202 AB nodes: 39612 dpth: 8; tm: 0 best: 2
+16) pbrain-sWINe11.exe: :-) AB nodes: 11615 dpth: 6; tm: 0 best: 13
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+32) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x17-33(1).psq
+______________________________
+Benjamin x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25070 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17696 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 4697 dpth: 4; tm: 0 best: 2
+11) pbrain-sWINe11.exe: AB nodes: 858 dpth: 2; tm: 0 best: 2
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\17x0-20(1).psq
+______________________________
+sWINe11 x PureGM12
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -493 AB nodes: 22702 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -254 AB nodes: 14179 dpth: 6; tm: 0 best: 7
+10) pbrain-sWINe11.exe: 326 AB nodes: 10283 dpth: 5; tm: 0 best: 8
+12) pbrain-sWINe11.exe: 550 AB nodes: 8911 dpth: 5; tm: 0 best: 9
+14) pbrain-sWINe11.exe: :-) AB nodes: 1238 dpth: 4; tm: 0 best: 3
+16) pbrain-sWINe11.exe: AB nodes: 1073 dpth: 2; tm: 0 best: 20
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 37 dpth: 2; tm: 0 best: 3
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+30) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x18-31(1).psq
+______________________________
+sWINe11 x pisq7
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 13 AB nodes: 22756 dpth: 8; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: 546 AB nodes: 46073 dpth: 8; tm: 0 best: 3
+10) pbrain-sWINe11.exe: 1165 AB nodes: 20246 dpth: 7; tm: 0 best: 6
+12) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+14) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+16) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x19-21(1).psq
+______________________________
+pisq7 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 435 AB nodes: 23583 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: :-) AB nodes: 3472 dpth: 4; tm: 0 best: 1
+ 9) pbrain-sWINe11.exe: AB nodes: 470 dpth: 2; tm: 0 best: 5
+11) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\19x0-20(1).psq
+______________________________
+PureGM12 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24966 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17418 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 4714 dpth: 4; tm: 0 best: 2
+11) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Grat
+-> f:\projekty\gomocup2012\fastgame\18x0-20(1).psq
+______________________________
+sWINe11 x Puskvorec
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 636 AB nodes: 10551 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: 649 AB nodes: 13491 dpth: 7; tm: 0 best: 5
+10) pbrain-sWINe11.exe: 605 AB nodes: 19472 dpth: 7; tm: 0 best: 17
+12) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+14) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+16) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x21-23(1).psq
+______________________________
+sWINe11 x AI1000
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -493 AB nodes: 26834 dpth: 7; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -346 AB nodes: 22346 dpth: 6; tm: 0 best: 4
+10) pbrain-sWINe11.exe: -427 AB nodes: 14424 dpth: 6; tm: 0 best: 2
+12) pbrain-sWINe11.exe: 197 AB nodes: 4794 dpth: 6; tm: 0 best: 3
+16) pbrain-sWINe11.exe: :-) AB nodes: 3630 dpth: 4; tm: 0 best: 18
+18) pbrain-sWINe11.exe: AB nodes: 870 dpth: 2; tm: 0 best: 2
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x20-27(1).psq
+______________________________
+Puskvorec x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24562 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17591 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+11) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\21x0-20(1).psq
+______________________________
+AI1000 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24492 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17594 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 4706 dpth: 4; tm: 0 best: 2
+11) pbrain-sWINe11.exe: AB nodes: 858 dpth: 2; tm: 0 best: 2
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\20x0-20(1).psq
+______________________________
+sWINe11 x LEONARDO
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 20409 dpth: 8; tm: 0 best: 1
+10) pbrain-sWINe11.exe: -368 AB nodes: 20217 dpth: 6; tm: 0 best: 5
+12) pbrain-sWINe11.exe: -267 AB nodes: 17 dpth: 2; tm: 0 best: 3
+14) pbrain-sWINe11.exe: 443 AB nodes: 20668 dpth: 8; tm: 0 best: 3
+20) pbrain-sWINe11.exe: :-) AB nodes: 8066 dpth: 6; tm: 0 best: 1
+22) pbrain-sWINe11.exe: AB nodes: 3100 dpth: 4; tm: 0 best: 4
+24) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+28) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+30) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+32) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x22-33(1).psq
+______________________________
+sWINe11 x CURNPIS
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 24 AB nodes: 20691 dpth: 8; tm: 0 best: 1
+ 8) pbrain-sWINe11.exe: -553 AB nodes: 16554 dpth: 6; tm: 0 best: 6
+10) pbrain-sWINe11.exe: -529 AB nodes: 22 dpth: 2; tm: 0 best: 3
+12) pbrain-sWINe11.exe: 127 AB nodes: 7179 dpth: 6; tm: 0 best: 3
+14) pbrain-sWINe11.exe: :-) AB nodes: 8752 dpth: 6; tm: 0 best: 1
+16) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+24) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x23-25(1).psq
+______________________________
+LEONARDO x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 25145 dpth: 7; tm: 0 best: 3
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17465 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 4714 dpth: 4; tm: 0 best: 2
+11) pbrain-sWINe11.exe: AB nodes: 858 dpth: 2; tm: 0 best: 2
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\22x0-20(1).psq
+______________________________
+CURNPIS x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 435 AB nodes: 23583 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -132 AB nodes: 27917 dpth: 6; tm: 0 best: 4
+ 9) pbrain-sWINe11.exe: -145 AB nodes: 9093 dpth: 6; tm: 0 best: 3
+11) pbrain-sWINe11.exe: 503 AB nodes: 3003 dpth: 5; tm: 0 best: 3
+13) pbrain-sWINe11.exe: 134 AB nodes: 5407 dpth: 5; tm: 0 best: 22
+15) pbrain-sWINe11.exe: :-) AB nodes: 1422 dpth: 4; tm: 0 best: 3
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+19) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+21) pbrain-sWINe11.exe: AB nodes: 7 dpth: 2; tm: 0 best: 3
+23) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+29) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\23x0-30(1).psq
+______________________________
+sWINe11 x Crusher10
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: 125 AB nodes: 19958 dpth: 7; tm: 0 best: 3
+10) pbrain-sWINe11.exe: 221 AB nodes: 14911 dpth: 6; tm: 0 best: 5
+12) pbrain-sWINe11.exe: 421 AB nodes: 6603 dpth: 8; tm: 0 best: 3
+16) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+18) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+20) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+22) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+26) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x24-27(1).psq
+______________________________
+sWINe11 x mushroom
+ 6) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 6) pbrain-sWINe11.exe: -140 AB nodes: 18626 dpth: 7; tm: 0 best: 5
+ 8) pbrain-sWINe11.exe: 1443 AB nodes: 16849 dpth: 5; tm: 0 best: 1
+10) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+12) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\0x25-13(1).psq
+______________________________
+mushroom x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24562 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: :-) AB nodes: 0 dpth: 1; tm: 0 best: 0
+ 9) pbrain-sWINe11.exe: Thx
+-> f:\projekty\gomocup2012\fastgame\25x0-10(1).psq
+______________________________
+Crusher10 x sWINe11
+ 5) pbrain-sWINe11.exe: Here we go-mo-ku...
+ 5) pbrain-sWINe11.exe: 487 AB nodes: 24571 dpth: 7; tm: 0 best: 6
+ 7) pbrain-sWINe11.exe: -567 AB nodes: 17674 dpth: 7; tm: 0 best: 3
+ 9) pbrain-sWINe11.exe: :-) AB nodes: 11789 dpth: 8; tm: 0 best: 1
+11) pbrain-sWINe11.exe: AB nodes: 8072 dpth: 6; tm: 0 best: 6
+13) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+15) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+17) pbrain-sWINe11.exe: AB nodes: 0 dpth: 1; tm: 0 best: 0
+21) pbrain-sWINe11.exe: Grat
+-> f:\projekty\gomocup2012\fastgame\24x0-22(1).psq
+______________________________
+Tito10 x renjusolver
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 404091 speed= 349332n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 1093927 speed= 548945n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 810371 speed= 540593n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 390643 speed= 451419n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 384222 speed= 595661n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 780881 speed= 570904n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 835647 speed= 547940n/s
+20) pbrain-Tito10.exe: 12...
+22) pbrain-Tito10.exe: 11...
+24) pbrain-Tito10.exe: 9...
+26) pbrain-Tito10.exe: 8...
+28) pbrain-Tito10.exe: 7...
+30) pbrain-Tito10.exe: 6...
+32) pbrain-Tito10.exe: 5...
+-> f:\projekty\gomocup2012\fastgame\1x2-39(1).psq
+______________________________
+Tito10 x hewer12
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 371609 speed= 431653n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 1049875 speed= 546284n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 733376 speed= 535802n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 1426156 speed= 550132n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 1622455 speed= 499499n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 1456834 speed= 537990n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 650423 speed= 424870n/s
+20) pbrain-Tito10.exe: AB depth= 12 node= 1313766 speed= 499783n/s
+22) pbrain-Tito10.exe: AB depth= 12 node= 818482 speed= 516181n/s
+24) pbrain-Tito10.exe: AB depth= 12 node= 1581500 speed= 474713n/s
+26) pbrain-Tito10.exe: AB depth= 12 node= 971980 speed= 476607n/s
+30) pbrain-Tito10.exe: AB depth= 12 node= 1402016 speed= 458022n/s
+32) pbrain-Tito10.exe: AB depth= 12 node= 1040820 speed= 415603n/s
+34) pbrain-Tito10.exe: AB depth= 12 node= 287087 speed= 489616n/s
+36) pbrain-Tito10.exe: AB depth= 12 node= 364481 speed= 481691n/s
+38) pbrain-Tito10.exe: AB depth= 12 node= 407224 speed= 515523n/s
+40) pbrain-Tito10.exe: AB depth= 12 node= 672906 speed= 487213n/s
+42) pbrain-Tito10.exe: AB depth= 12 node= 2082444 speed= 458167n/s
+44) pbrain-Tito10.exe: AB depth= 12 node= 1150664 speed= 455874n/s
+46) pbrain-Tito10.exe: AB depth= 12 node= 342163 speed= 331593n/s
+47) pbrain-hewer12.exe: :-(
+48) pbrain-Tito10.exe: 9...
+49) pbrain-hewer12.exe: :-(
+51) pbrain-hewer12.exe: :-(
+52) pbrain-Tito10.exe: 7...
+53) pbrain-hewer12.exe: :-(
+55) pbrain-hewer12.exe: :-(
+56) pbrain-Tito10.exe: 5...
+57) pbrain-hewer12.exe: :-(
+59) pbrain-hewer12.exe: :-(
+60) pbrain-Tito10.exe: 3...
+63) pbrain-hewer12.exe: :-((
+65) pbrain-hewer12.exe: :-((
+-> f:\projekty\gomocup2012\fastgame\1x3-67(1).psq
+______________________________
+renjusolver x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 560728 speed= 401566n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 448874 speed= 462707n/s
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 1034034 speed= 420560n/s
+11) pbrain-Tito10.exe: AB depth= 12 node= 796979 speed= 471186n/s
+13) pbrain-Tito10.exe: AB depth= 12 node= 790465 speed= 503380n/s
+15) pbrain-Tito10.exe: AB depth= 12 node= 633346 speed= 494073n/s
+17) pbrain-Tito10.exe: AB depth= 12 node= 962935 speed= 358293n/s
+19) pbrain-Tito10.exe: AB depth= 12 node= 1072953 speed= 520042n/s
+21) pbrain-Tito10.exe: 8...
+23) pbrain-Tito10.exe: 7...
+25) pbrain-Tito10.exe: 6...
+27) pbrain-Tito10.exe: 5...
+29) pbrain-Tito10.exe: 4...
+31) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\2x1-38(1).psq
+______________________________
+hewer12 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 540805 speed= 440103n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 456663 speed= 451543n/s
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 950721 speed= 476483n/s
+11) pbrain-Tito10.exe: AB depth= 12 node= 718346 speed= 464435n/s
+13) pbrain-Tito10.exe: AB depth= 12 node= 798815 speed= 492917n/s
+15) pbrain-Tito10.exe: AB depth= 12 node= 623593 speed= 495276n/s
+17) pbrain-Tito10.exe: AB depth= 12 node= 506924 speed= 497632n/s
+19) pbrain-Tito10.exe: 10...
+21) pbrain-Tito10.exe: 9...
+23) pbrain-Tito10.exe: 8...
+24) pbrain-hewer12.exe: :-(
+25) pbrain-Tito10.exe: 7...
+27) pbrain-Tito10.exe: 6...
+29) pbrain-Tito10.exe: 5...
+31) pbrain-Tito10.exe: 4...
+33) pbrain-Tito10.exe: 3...
+34) pbrain-hewer12.exe: :-(
+36) pbrain-hewer12.exe: :-((
+38) pbrain-hewer12.exe: :-((
+-> f:\projekty\gomocup2012\fastgame\3x1-40(1).psq
+______________________________
+Tito10 x pela
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 469099 speed= 422881n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 952781 speed= 449454n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 368770 speed= 453078n/s
+12) pbrain-Tito10.exe: 9...
+14) pbrain-Tito10.exe: 8...
+16) pbrain-Tito10.exe: 7...
+18) pbrain-Tito10.exe: 6...
+20) pbrain-Tito10.exe: 5...
+22) pbrain-Tito10.exe: 4...
+24) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x5-31(1).psq
+______________________________
+Tito10 x Yixin12
+ 5) pbrain-Yixin12.exe: YiXin 2012 Kernal 0.2.14 :-)
+ 5) pbrain-Yixin12.exe: 25.2 | 10 | 24 | 2153ms | 2.4 | 375 | 4 | 281 
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 426014 speed= 454309n/s
+ 7) pbrain-Yixin12.exe: 30.2 | 10 | 23 | 2500ms | 2.0 | 408 | 4 | 393 
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 985633 speed= 539638n/s
+ 9) pbrain-Yixin12.exe: 18.2 | 9 | 23 | 4813ms | 3.2 | 443 | 4 | 325 
+10) pbrain-Tito10.exe: AB depth= 12 node= 716006 speed= 539510n/s
+11) pbrain-Yixin12.exe: 17.8 | 8 | 24 | 4985ms | 3.3 | 460 | 4 | 325 
+12) pbrain-Tito10.exe: AB depth= 12 node= 529366 speed= 547236n/s
+13) pbrain-Yixin12.exe: 20.4 | 8 | 24 | 5000ms | 3.1 | 357 | 4 | 581 
+14) pbrain-Tito10.exe: AB depth= 12 node= 245060 speed= 449525n/s
+15) pbrain-Yixin12.exe: 20.2 | 8 | 24 | 4984ms | 3.0 | 399 | 4 | 381 
+16) pbrain-Tito10.exe: AB depth= 12 node= 170626 speed= 594634n/s
+17) pbrain-Yixin12.exe: 20.1 | 9 | 25 | 1453ms | 3.4 | 391 | 4 | -150 
+18) pbrain-Tito10.exe: AB depth= 12 node= 152254 speed= 478593n/s
+19) pbrain-Yixin12.exe: 22.5 | 10 | 27 | 3188ms | 2.7 | 447 | 4 | -149 
+20) pbrain-Tito10.exe: AB depth= 12 node= 135519 speed= 576506n/s
+21) pbrain-Yixin12.exe: 23.8 | 10 | 28 | 2437ms | 2.4 | 441 | 4 | -206 
+23) pbrain-Yixin12.exe: 25.3 | 10 | 27 | 3360ms | 2.0 | 464 | 4 | -256 
+25) pbrain-Yixin12.exe: 23.1 | 9 | 29 | 4984ms | 2.2 | 449 | 4 | -256 
+26) pbrain-Tito10.exe: AB depth= 12 node= 742994 speed= 529877n/s
+27) pbrain-Yixin12.exe: 14.3 | 8 | 32 | 4984ms | 3.2 | 423 | 4 | -237 
+28) pbrain-Tito10.exe: AB depth= 12 node= 241246 speed= 390357n/s
+29) pbrain-Yixin12.exe: 16.6 | 9 | 30 | 2500ms | 2.8 | 428 | 4 | -774 
+30) pbrain-Tito10.exe: AB depth= 12 node= 267416 speed= 462974n/s
+31) pbrain-Yixin12.exe: 21.7 | 8 | 34 | 4500ms | 2.5 | 376 | 4 | -762 
+32) pbrain-Tito10.exe: AB depth= 12 node= 1876 speed= 555380n/s
+33) pbrain-Yixin12.exe: 37.5 | 1 | 1 | 0ms | 2.2 | 23 | 4 | 9999995 :-)
+35) pbrain-Yixin12.exe: 21.2 | 1 | 4 | 0ms | 2.3 | 32 | 4 | 9999998 :-)
+37) pbrain-Yixin12.exe: 0.0 | 1 | 1 | 15ms | 0.0 | 0 | 4 | 10000000 :-)
+39) pbrain-Yixin12.exe: 0.0 | 1 | 1 | 15ms | 0.0 | 0 | 4 | 10000000 :-)
+-> f:\projekty\gomocup2012\fastgame\1x4-40(1).psq
+______________________________
+Yixin12 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 516044 speed= 432354n/s
+ 6) pbrain-Yixin12.exe: YiXin 2012 Kernal 0.2.14 :-)
+ 6) pbrain-Yixin12.exe: 19.7 | 10 | 22 | 1638ms | 3.0 | 365 | 4 | -437 
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 500129 speed= 462298n/s
+ 8) pbrain-Yixin12.exe: 26.5 | 9 | 21 | 3187ms | 2.2 | 445 | 4 | -400 
+ 9) pbrain-Tito10.exe: 9...
+10) pbrain-Yixin12.exe: 28.6 | 9 | 25 | 1328ms | 2.1 | 417 | 4 | -9999989 :-(
+11) pbrain-Tito10.exe: 6...
+12) pbrain-Yixin12.exe: 24.1 | 2 | 3 | 0ms | 2.9 | 53 | 4 | -9999991 :-(
+13) pbrain-Tito10.exe: 5...
+14) pbrain-Yixin12.exe: 0.0 | 2 | 2 | 0ms | 0.0 | 0 | 4 | -9999991 :-(
+15) pbrain-Tito10.exe: 4...
+16) pbrain-Yixin12.exe: 12.5 | 1 | 1 | 0ms | 3.0 | 7 | 4 | -9999993 :-(
+17) pbrain-Tito10.exe: 3...
+18) pbrain-Yixin12.exe: 0.0 | 1 | 1 | 0ms | 0.0 | 0 | 4 | -9999993 :-(
+20) pbrain-Yixin12.exe: 11.1 | 1 | 1 | 0ms | 3.5 | 8 | 4 | -9999999 :-(
+22) pbrain-Yixin12.exe: 0.0 | 1 | 1 | 0ms | 0.0 | 0 | 4 | -9999999 :-(
+-> f:\projekty\gomocup2012\fastgame\4x1-24(1).psq
+______________________________
+pela x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 599841 speed= 399998n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 1495424 speed= 443492n/s
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 1812676 speed= 380580n/s
+11) pbrain-Tito10.exe: AB depth= 12 node= 1809615 speed= 466762n/s
+13) pbrain-Tito10.exe: AB depth= 12 node= 1204540 speed= 453387n/s
+15) pbrain-Tito10.exe: AB depth= 12 node= 1379308 speed= 383688n/s
+17) pbrain-Tito10.exe: AB depth= 12 node= 1927629 speed= 402937n/s
+19) pbrain-Tito10.exe: AB depth= 12 node= 2034335 speed= 427676n/s
+21) pbrain-Tito10.exe: AB depth= 12 node= 2125858 speed= 446667n/s
+23) pbrain-Tito10.exe: AB depth= 12 node= 1543576 speed= 351500n/s
+25) pbrain-Tito10.exe: 5...
+27) pbrain-Tito10.exe: 4...
+29) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\5x1-36(1).psq
+______________________________
+Tito10 x goro2012
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 340765 speed= 481226n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 869838 speed= 558926n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 486744 speed= 550100n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 624887 speed= 508906n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 667268 speed= 523353n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 246728 speed= 528971n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 558445 speed= 535367n/s
+20) pbrain-Tito10.exe: AB depth= 12 node= 411841 speed= 564509n/s
+22) pbrain-Tito10.exe: AB depth= 12 node= 190504 speed= 579448n/s
+24) pbrain-Tito10.exe: AB depth= 12 node= 508141 speed= 626506n/s
+26) pbrain-Tito10.exe: AB depth= 12 node= 230765 speed= 530968n/s
+28) pbrain-Tito10.exe: AB depth= 12 node= 878333 speed= 505215n/s
+30) pbrain-Tito10.exe: AB depth= 12 node= 57075 speed= 540972n/s
+32) pbrain-Tito10.exe: 6...
+34) pbrain-Tito10.exe: 5...
+36) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\1x6-45(1).psq
+______________________________
+goro2012 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 551229 speed= 429688n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 453584 speed= 461678n/s
+ 9) pbrain-Tito10.exe: 10...
+11) pbrain-Tito10.exe: 9...
+13) pbrain-Tito10.exe: 8...
+15) pbrain-Tito10.exe: 7...
+17) pbrain-Tito10.exe: 6...
+19) pbrain-Tito10.exe: 5...
+21) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\6x1-30(1).psq
+______________________________
+Tito10 x gmotor11
+ 5) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=542kN (157,7kN/s), evaluation=-185, best=h6
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 270544 speed= 406590n/s
+ 7) pbrain-gmotor11.exe: time=2,31s, depth=6, nodes=349kN (151,2kN/s), evaluation=2147483647, best=g6
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 196886 speed= 433859n/s
+ 9) pbrain-gmotor11.exe: time=0,02s, depth=2, nodes=3840N (245,8kN/s), evaluation=2147483647, best=e6
+10) pbrain-Tito10.exe: AB depth= 12 node= 34924 speed= 686788n/s
+11) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=1N (0,0kN/s), evaluation=2147483647, best=h5
+13) pbrain-gmotor11.exe: time=0,02s, depth=0, nodes=1302N (83,3kN/s), evaluation=2147483647, best=f5
+14) pbrain-Tito10.exe: AB depth= 12 node= 7112 speed= 637364n/s
+15) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=923N (0,0kN/s), evaluation=2147483647, best=g4
+16) pbrain-Tito10.exe: AB depth= 12 node= 3809 speed= 553251n/s
+17) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=485N (0,0kN/s), evaluation=2147483647, best=g5
+18) pbrain-Tito10.exe: AB depth= 12 node= 3360 speed= 558956n/s
+19) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=67N (0,0kN/s), evaluation=2147483647, best=e5
+21) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=65N (0,0kN/s), evaluation=2147483647, best=g3
+23) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=63N (0,0kN/s), evaluation=2147483647, best=h3
+25) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=71N (0,0kN/s), evaluation=2147483647, best=f3
+26) pbrain-Tito10.exe: AB depth= 12 node= 1482 speed= 436752n/s
+27) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=17N (0,0kN/s), evaluation=2147483647, best=i10
+29) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=5N (0,0kN/s), evaluation=2147483647, best=e7
+31) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=3N (0,0kN/s), evaluation=2147483647, best=e2
+33) pbrain-gmotor11.exe: time=0,00s, depth=0, nodes=1N (0,0kN/s), evaluation=2147483647, best=i6
+-> f:\projekty\gomocup2012\fastgame\1x8-34(1).psq
+______________________________
+Tito10 x HGarden07
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 422808 speed= 314750n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 1019288 speed= 553759n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 509361 speed= 547630n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 696898 speed= 441442n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 1517994 speed= 502225n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 1136829 speed= 569061n/s
+20) pbrain-Tito10.exe: AB depth= 12 node= 505695 speed= 588217n/s
+22) pbrain-Tito10.exe: AB depth= 12 node= 866786 speed= 464278n/s
+24) pbrain-Tito10.exe: AB depth= 12 node= 629226 speed= 493327n/s
+26) pbrain-Tito10.exe: AB depth= 12 node= 286722 speed= 587848n/s
+28) pbrain-Tito10.exe: AB depth= 12 node= 123329 speed= 520043n/s
+30) pbrain-Tito10.exe: AB depth= 12 node= 78819 speed= 545900n/s
+32) pbrain-Tito10.exe: AB depth= 12 node= 1584 speed= 548129n/s
+-> f:\projekty\gomocup2012\fastgame\1x7-38(1).psq
+______________________________
+gmotor11 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 521529 speed= 426161n/s
+ 6) pbrain-gmotor11.exe: time=3,44s, depth=8, nodes=544kN (158,3kN/s), evaluation=-175, best=h5
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 695424 speed= 455411n/s
+ 8) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=573kN (166,7kN/s), evaluation=-204, best=i6
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 968905 speed= 481150n/s
+10) pbrain-gmotor11.exe: time=3,44s, depth=7, nodes=546kN (158,8kN/s), evaluation=112, best=j7
+11) pbrain-Tito10.exe: AB depth= 12 node= 198487 speed= 423836n/s
+12) pbrain-gmotor11.exe: time=3,44s, depth=8, nodes=540kN (157,1kN/s), evaluation=-244, best=f5
+13) pbrain-Tito10.exe: AB depth= 12 node= 504327 speed= 481019n/s
+14) pbrain-gmotor11.exe: time=3,44s, depth=8, nodes=550kN (160,0kN/s), evaluation=-215, best=f4
+15) pbrain-Tito10.exe: AB depth= 12 node= 753454 speed= 466263n/s
+16) pbrain-gmotor11.exe: time=0,61s, depth=7, nodes=101kN (167,1kN/s), evaluation=-2147483647, best=k8
+18) pbrain-gmotor11.exe: time=0,05s, depth=3, nodes=7511N (160,2kN/s), evaluation=-2147483647, best=j6
+19) pbrain-Tito10.exe: AB depth= 12 node= 383270 speed= 554784n/s
+20) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=99N (0,0kN/s), evaluation=-2147483647, best=k10
+22) pbrain-gmotor11.exe: time=3,44s, depth=8, nodes=578kN (168,2kN/s), evaluation=15, best=h10
+24) pbrain-gmotor11.exe: time=3,44s, depth=5, nodes=561kN (163,2kN/s), evaluation=306, best=f9
+-> f:\projekty\gomocup2012\fastgame\8x1-26(1).psq
+______________________________
+Tito10 x Kanec
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 403595 speed= 434098n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 863634 speed= 533273n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 470377 speed= 461038n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 632132 speed= 522302n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 2024693 speed= 520221n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 513307 speed= 628244n/s
+20) pbrain-Tito10.exe: AB depth= 12 node= 155614 speed= 536464n/s
+24) pbrain-Tito10.exe: AB depth= 12 node= 22205 speed= 719082n/s
+26) pbrain-Tito10.exe: AB depth= 12 node= 4303 speed= 572335n/s
+28) pbrain-Tito10.exe: AB depth= 12 node= 3632 speed= 573262n/s
+30) pbrain-Tito10.exe: AB depth= 12 node= 1477 speed= 475294n/s
+-> f:\projekty\gomocup2012\fastgame\1x9-40(1).psq
+______________________________
+Kanec x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 530425 speed= 447742n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 623961 speed= 433654n/s
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 963209 speed= 479987n/s
+11) pbrain-Tito10.exe: AB depth= 12 node= 301689 speed= 519859n/s
+13) pbrain-Tito10.exe: AB depth= 12 node= 292855 speed= 623970n/s
+15) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\9x1-22(1).psq
+______________________________
+HGarden07 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 544802 speed= 424081n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 469846 speed= 392948n/s
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 869446 speed= 473982n/s
+11) pbrain-Tito10.exe: AB depth= 12 node= 252205 speed= 455722n/s
+13) pbrain-Tito10.exe: AB depth= 12 node= 80293 speed= 562502n/s
+15) pbrain-Tito10.exe: AB depth= 12 node= 139119 speed= 438687n/s
+17) pbrain-Tito10.exe: AB depth= 12 node= 522889 speed= 444534n/s
+19) pbrain-Tito10.exe: AB depth= 12 node= 213152 speed= 637141n/s
+21) pbrain-Tito10.exe: AB depth= 12 node= 173552 speed= 684852n/s
+23) pbrain-Tito10.exe: AB depth= 12 node= 283072 speed= 745403n/s
+25) pbrain-Tito10.exe: AB depth= 12 node= 1052405 speed= 386144n/s
+27) pbrain-Tito10.exe: AB depth= 12 node= 546433 speed= 569010n/s
+29) pbrain-Tito10.exe: AB depth= 12 node= 636218 speed= 503137n/s
+31) pbrain-Tito10.exe: AB depth= 10 node= 956567 speed= 540221n/s
+33) pbrain-Tito10.exe: AB depth= 10 node= 1589456 speed= 556147n/s
+35) pbrain-Tito10.exe: AB depth= 12 node= 1312443 speed= 490156n/s
+37) pbrain-Tito10.exe: AB depth= 12 node= 278929 speed= 537000n/s
+43) pbrain-Tito10.exe: AB depth= 12 node= 1035074 speed= 414076n/s
+45) pbrain-Tito10.exe: AB depth= 12 node= 543927 speed= 429186n/s
+51) pbrain-Tito10.exe: AB depth= 12 node= 33802 speed= 669552n/s
+53) pbrain-Tito10.exe: AB depth= 12 node= 6470 speed= 547482n/s
+55) pbrain-Tito10.exe: AB depth= 12 node= 17534 speed= 677596n/s
+57) pbrain-Tito10.exe: AB depth= 12 node= 10763 speed= 670946n/s
+59) pbrain-Tito10.exe: AB depth= 12 node= 13229 speed= 695838n/s
+-> f:\projekty\gomocup2012\fastgame\7x1-65(1).psq
+______________________________
+Tito10 x Pecuchet
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 228425 speed= 458886n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 655435 speed= 531444n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 87126 speed= 633479n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 119386 speed= 545718n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 77520 speed= 626787n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 19414 speed= 687825n/s
+22) pbrain-Tito10.exe: AB depth= 12 node= 6787 speed= 642485n/s
+28) pbrain-Tito10.exe: AB depth= 12 node= 2168 speed= 653790n/s
+32) pbrain-Tito10.exe: AB depth= 12 node= 1437 speed= 525100n/s
+-> f:\projekty\gomocup2012\fastgame\1x11-40(1).psq
+______________________________
+Pecuchet x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 483531 speed= 397491n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 218192 speed= 456525n/s
+ 9) pbrain-Tito10.exe: 8...
+11) pbrain-Tito10.exe: 4...
+13) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\11x1-20(1).psq
+______________________________
+Tito10 x amoeba10
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 422715 speed= 395010n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 1021986 speed= 505211n/s
+ 9) pbrain-amoeba10.exe: My chance to win: 71%
+10) pbrain-Tito10.exe: AB depth= 12 node= 505943 speed= 554317n/s
+11) pbrain-amoeba10.exe: Your chance to win: 27%
+11) pbrain-amoeba10.exe: My chance to win: 70%
+13) pbrain-amoeba10.exe: Your chance to win: 29%
+13) pbrain-amoeba10.exe: My chance to win: 71%
+14) pbrain-Tito10.exe: AB depth= 12 node= 479344 speed= 454266n/s
+15) pbrain-amoeba10.exe: Your chance to win: 30%
+15) pbrain-amoeba10.exe: My chance to win: 70%
+16) pbrain-Tito10.exe: AB depth= 12 node= 1122451 speed= 516853n/s
+17) pbrain-amoeba10.exe: Your chance to win: 26%
+17) pbrain-amoeba10.exe: My chance to win: 72%
+18) pbrain-Tito10.exe: AB depth= 12 node= 1656657 speed= 530406n/s
+19) pbrain-amoeba10.exe: My chance to win: 66%
+20) pbrain-Tito10.exe: AB depth= 12 node= 500764 speed= 551419n/s
+22) pbrain-Tito10.exe: AB depth= 12 node= 846558 speed= 500818n/s
+23) pbrain-amoeba10.exe: My chance to win: 64%
+24) pbrain-Tito10.exe: AB depth= 12 node= 652304 speed= 542810n/s
+25) pbrain-amoeba10.exe: Your chance to win: 26%
+25) pbrain-amoeba10.exe: My chance to win: 54%
+26) pbrain-Tito10.exe: AB depth= 12 node= 201631 speed= 624473n/s
+27) pbrain-amoeba10.exe: Your chance to win: 49%
+27) pbrain-amoeba10.exe: My chance to win: 41%
+28) pbrain-Tito10.exe: AB depth= 12 node= 71657 speed= 467549n/s
+29) pbrain-amoeba10.exe: Your chance to win: 60%
+29) pbrain-amoeba10.exe: My chance to win: 37%
+31) pbrain-amoeba10.exe: Your chance to win: 62%
+31) pbrain-amoeba10.exe: My chance to win: 39%
+32) pbrain-Tito10.exe: 7...
+33) pbrain-amoeba10.exe: Your chance to win: 41%
+33) pbrain-amoeba10.exe: My chance to win: 7%
+35) pbrain-amoeba10.exe: Your chance to win: 92%
+35) pbrain-amoeba10.exe: My chance to win: 6%
+37) pbrain-amoeba10.exe: Your chance to win: 92%
+37) pbrain-amoeba10.exe: My chance to win: 6%
+39) pbrain-amoeba10.exe: Your chance to win: 93%
+39) pbrain-amoeba10.exe: My chance to win: 5%
+41) pbrain-amoeba10.exe: Your chance to win: 94%
+41) pbrain-amoeba10.exe: My chance to win: 3%
+43) pbrain-amoeba10.exe: Your chance to win: 92%
+43) pbrain-amoeba10.exe: My chance to win: 7%
+45) pbrain-amoeba10.exe: My chance to win: 0%
+45) pbrain-amoeba10.exe: You win!
+-> f:\projekty\gomocup2012\fastgame\1x10-47(1).psq
+______________________________
+Tito10 x jude
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 519741 speed= 404804n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 194027 speed= 511551n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 35075 speed= 675401n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 7197 speed= 627639n/s
+18) pbrain-Tito10.exe: AB depth= 12 node= 15541 speed= 639938n/s
+20) pbrain-Tito10.exe: AB depth= 12 node= 2611 speed= 579548n/s
+-> f:\projekty\gomocup2012\fastgame\1x12-30(1).psq
+______________________________
+amoeba10 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 586134 speed= 450910n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 471666 speed= 416300n/s
+ 9) pbrain-Tito10.exe: 5...
+10) pbrain-amoeba10.exe: My chance to win: 18%
+11) pbrain-Tito10.exe: 4...
+12) pbrain-amoeba10.exe: Your chance to win: 76%
+12) pbrain-amoeba10.exe: My chance to win: 13%
+13) pbrain-Tito10.exe: 3...
+14) pbrain-amoeba10.exe: Your chance to win: 87%
+14) pbrain-amoeba10.exe: My chance to win: 12%
+16) pbrain-amoeba10.exe: Your chance to win: 91%
+16) pbrain-amoeba10.exe: My chance to win: 1%
+18) pbrain-amoeba10.exe: Your chance to win: 100%
+18) pbrain-amoeba10.exe: My chance to win: 0%
+18) pbrain-amoeba10.exe: You win!
+-> f:\projekty\gomocup2012\fastgame\10x1-20(1).psq
+______________________________
+jude x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 692531 speed= 333242n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 217593 speed= 465180n/s
+ 9) pbrain-Tito10.exe: 11...
+13) pbrain-Tito10.exe: 9...
+15) pbrain-Tito10.exe: 8...
+17) pbrain-Tito10.exe: 7...
+19) pbrain-Tito10.exe: 6...
+21) pbrain-Tito10.exe: 5...
+23) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\12x1-30(1).psq
+______________________________
+Tito10 x QMENTAT6
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 437885 speed= 459278n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 275566 speed= 432219n/s
+12) pbrain-Tito10.exe: 8...
+14) pbrain-Tito10.exe: 7...
+16) pbrain-Tito10.exe: 6...
+18) pbrain-Tito10.exe: 4...
+20) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x14-27(1).psq
+______________________________
+QMENTAT6 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 536630 speed= 380619n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 242012 speed= 463156n/s
+ 9) pbrain-Tito10.exe: 6...
+11) pbrain-Tito10.exe: 5...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\14x1-20(1).psq
+______________________________
+Tito10 x TRUNKAT
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 910082 speed= 421131n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 802872 speed= 445370n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 553431 speed= 523339n/s
+12) pbrain-Tito10.exe: 8...
+14) pbrain-Tito10.exe: 7...
+16) pbrain-Tito10.exe: 4...
+18) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x15-25(1).psq
+______________________________
+TRUNKAT x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 553846 speed= 393935n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 207056 speed= 463538n/s
+ 9) pbrain-Tito10.exe: 6...
+11) pbrain-Tito10.exe: 5...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\15x1-22(1).psq
+______________________________
+Tito10 x nabamoku
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 538754 speed= 451266n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 280510 speed= 392181n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 638217 speed= 517420n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 128305 speed= 402578n/s
+14) pbrain-Tito10.exe: 10...
+16) pbrain-Tito10.exe: 9...
+18) pbrain-Tito10.exe: 7...
+20) pbrain-Tito10.exe: 6...
+24) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x13-31(1).psq
+______________________________
+Tito10 x fiverow
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 804073 speed= 448126n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 925892 speed= 334314n/s
+10) pbrain-Tito10.exe: 4...
+12) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x16-19(1).psq
+______________________________
+fiverow x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 534810 speed= 335549n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 270393 speed= 344445n/s
+ 9) pbrain-Tito10.exe: AB depth= 12 node= 404356 speed= 341055n/s
+11) pbrain-Tito10.exe: AB depth= 12 node= 300298 speed= 480167n/s
+13) pbrain-Tito10.exe: 9...
+15) pbrain-Tito10.exe: 8...
+17) pbrain-Tito10.exe: 7...
+21) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\16x1-30(1).psq
+______________________________
+Tito10 x Benjamin
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 841089 speed= 492166n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 801676 speed= 431753n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 367435 speed= 416197n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 293372 speed= 452375n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 208061 speed= 632589n/s
+18) pbrain-Tito10.exe: 7...
+20) pbrain-Tito10.exe: 6...
+22) pbrain-Tito10.exe: 5...
+24) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\1x17-31(1).psq
+______________________________
+Benjamin x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 546513 speed= 381054n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 238246 speed= 454150n/s
+ 9) pbrain-Tito10.exe: 8...
+11) pbrain-Tito10.exe: 7...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\17x1-20(1).psq
+______________________________
+nabamoku x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 10 node= 136626 speed= 266049n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 488002 speed= 431850n/s
+ 9) pbrain-Tito10.exe: 10...
+11) pbrain-Tito10.exe: 9...
+13) pbrain-Tito10.exe: 6...
+15) pbrain-Tito10.exe: 5...
+17) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\13x1-22(1).psq
+______________________________
+Tito10 x pisq7
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 97045 speed= 426735n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 216440 speed= 564557n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 308831 speed= 427746n/s
+12) pbrain-Tito10.exe: 4...
+14) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x19-21(1).psq
+______________________________
+pisq7 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 539629 speed= 411673n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 201800 speed= 442479n/s
+ 9) pbrain-Tito10.exe: 6...
+11) pbrain-Tito10.exe: 5...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\19x1-20(1).psq
+______________________________
+Tito10 x PureGM12
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 801882 speed= 414472n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 393996 speed= 469737n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 472821 speed= 486309n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 1019826 speed= 475580n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 191273 speed= 501656n/s
+18) pbrain-Tito10.exe: 7...
+20) pbrain-Tito10.exe: 4...
+22) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x18-29(1).psq
+______________________________
+Tito10 x AI1000
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 960417 speed= 484025n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 863473 speed= 459818n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 255374 speed= 463175n/s
+14) pbrain-Tito10.exe: AB depth= 12 node= 231313 speed= 502771n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 556651 speed= 417890n/s
+18) pbrain-Tito10.exe: 4...
+20) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x20-27(1).psq
+______________________________
+AI1000 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 572409 speed= 358063n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 252197 speed= 327732n/s
+ 9) pbrain-Tito10.exe: 8...
+11) pbrain-Tito10.exe: 7...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\20x1-20(1).psq
+______________________________
+PureGM12 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 581045 speed= 394740n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 199230 speed= 339032n/s
+ 9) pbrain-Tito10.exe: 8...
+11) pbrain-Tito10.exe: 4...
+13) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\18x1-20(1).psq
+______________________________
+Tito10 x Puskvorec
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 289180 speed= 437880n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 461397 speed= 482765n/s
+10) pbrain-Tito10.exe: 9...
+12) pbrain-Tito10.exe: 8...
+14) pbrain-Tito10.exe: 5...
+16) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\1x21-23(1).psq
+______________________________
+Tito10 x LEONARDO
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 276456 speed= 430291n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 288419 speed= 401101n/s
+12) pbrain-Tito10.exe: 8...
+14) pbrain-Tito10.exe: 7...
+16) pbrain-Tito10.exe: 6...
+18) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x22-25(1).psq
+______________________________
+Puskvorec x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 562747 speed= 448225n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 191673 speed= 467807n/s
+ 9) pbrain-Tito10.exe: 6...
+11) pbrain-Tito10.exe: 5...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\21x1-20(1).psq
+______________________________
+LEONARDO x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 610751 speed= 346425n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 233794 speed= 418588n/s
+ 9) pbrain-Tito10.exe: 8...
+11) pbrain-Tito10.exe: 7...
+13) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\22x1-20(1).psq
+______________________________
+Tito10 x Crusher10
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 251621 speed= 375973n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 736289 speed= 509222n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 104996 speed= 513532n/s
+16) pbrain-Tito10.exe: 4...
+18) pbrain-Tito10.exe: 3...
+-> f:\projekty\gomocup2012\fastgame\1x24-25(1).psq
+______________________________
+Tito10 x CURNPIS
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 364885 speed= 465778n/s
+ 8) pbrain-Tito10.exe: AB depth= 12 node= 972058 speed= 531567n/s
+10) pbrain-Tito10.exe: AB depth= 12 node= 486424 speed= 528836n/s
+12) pbrain-Tito10.exe: AB depth= 12 node= 674543 speed= 505514n/s
+16) pbrain-Tito10.exe: AB depth= 12 node= 415548 speed= 496893n/s
+18) pbrain-Tito10.exe: 11...
+20) pbrain-Tito10.exe: 10...
+22) pbrain-Tito10.exe: 9...
+26) pbrain-Tito10.exe: 5...
+-> f:\projekty\gomocup2012\fastgame\1x23-31(1).psq
+______________________________
+Crusher10 x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 515497 speed= 426953n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 271415 speed= 455054n/s
+ 9) pbrain-Tito10.exe: 11...
+11) pbrain-Tito10.exe: 10...
+13) pbrain-Tito10.exe: 5...
+15) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\24x1-22(1).psq
+______________________________
+CURNPIS x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 12 node= 609435 speed= 443029n/s
+ 7) pbrain-Tito10.exe: AB depth= 12 node= 249300 speed= 447728n/s
+ 9) pbrain-Tito10.exe: 11...
+11) pbrain-Tito10.exe: 10...
+13) pbrain-Tito10.exe: 5...
+15) pbrain-Tito10.exe: 4...
+-> f:\projekty\gomocup2012\fastgame\23x1-22(1).psq
+______________________________
+Tito10 x mushroom
+ 6) pbrain-Tito10.exe: AB depth= 12 node= 867758 speed= 352040n/s
+ 8) pbrain-Tito10.exe: 7...
+-> f:\projekty\gomocup2012\fastgame\1x25-13(1).psq
+______________________________
+mushroom x Tito10
+ 5) pbrain-Tito10.exe: AB depth= 10 node= 161587 speed= 326899n/s
+-> f:\projekty\gomocup2012\fastgame\25x1-10(1).psq
+______________________________
+renjusolver x Yixin12
+ 5) pbrain-Yixin12.exe: YiXin 2012 Kernal 0.2.14 :-)
+ 5) pbrain-Yixin12.exe: 18.7 | 9 | 17 | 1278ms | 3.2 | 282 | 4 | 556 
+ 7) pbrain-Yixin12.exe: 27.5 | 10 | 25 | 2500ms | 2.2 | 430 | 4 | 481 
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\2x4-8(1).psq
+______________________________
+renjusolver x hewer12
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\2x3-10(1).psq
+______________________________
+Yixin12 x renjusolver
+ 6) pbrain-Yixin12.exe: YiXin 2012 Kernal 0.2.14 :-)
+ 6) pbrain-Yixin12.exe: 19.7 | 10 | 22 | 1716ms | 3.0 | 348 | 4 | -437 
+ 8) pbrain-Yixin12.exe: 26.5 | 9 | 21 | 4063ms | 2.2 | 349 | 4 | -400 
+10) pbrain-Yixin12.exe: 28.6 | 9 | 25 | 1328ms | 2.1 | 417 | 4 | -9999989 :-(
+12) pbrain-Yixin12.exe: 24.1 | 2 | 3 | 0ms | 2.9 | 53 | 4 | -9999991 :-(
+14) pbrain-Yixin12.exe: 0.0 | 2 | 2 | 0ms | 0.0 | 0 | 4 | -9999991 :-(
+16) pbrain-Yixin12.exe: 12.5 | 1 | 1 | 0ms | 3.0 | 7 | 4 | -9999993 :-(
+18) pbrain-Yixin12.exe: 0.0 | 1 | 1 | 0ms | 0.0 | 0 | 4 | -9999993 :-(
+20) pbrain-Yixin12.exe: 11.1 | 1 | 1 | 0ms | 3.5 | 8 | 4 | -9999999 :-(
+22) pbrain-Yixin12.exe: 0.0 | 1 | 1 | 0ms | 0.0 | 0 | 4 | -9999999 :-(
+-> f:\projekty\gomocup2012\fastgame\4x2-24(1).psq
+______________________________
+renjusolver x pela
+-> f:\projekty\gomocup2012\fastgame\2x5-25(1).psq
+______________________________
+hewer12 x renjusolver
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\3x2-25(1).psq
+______________________________
+pela x renjusolver
+-> f:\projekty\gomocup2012\fastgame\5x2-40(1).psq
+______________________________
+renjusolver x HGarden07
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\2x7-8(1).psq
+______________________________
+HGarden07 x renjusolver
+-> f:\projekty\gomocup2012\fastgame\7x2-34(1).psq
+______________________________
+renjusolver x gmotor11
+ 5) pbrain-gmotor11.exe: time=3,44s, depth=5, nodes=486kN (141,4kN/s), evaluation=221, best=h6
+ 7) pbrain-gmotor11.exe: time=2,83s, depth=6, nodes=350kN (123,9kN/s), evaluation=2147483647, best=g6
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\2x8-8(1).psq
+______________________________
+renjusolver x goro2012
+-> f:\projekty\gomocup2012\fastgame\2x6-57(1).psq
+______________________________
+gmotor11 x renjusolver
+ 6) pbrain-gmotor11.exe: time=3,44s, depth=7, nodes=547kN (159,1kN/s), evaluation=186, best=h5
+ 8) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=444kN (129,2kN/s), evaluation=-204, best=i6
+10) pbrain-gmotor11.exe: time=3,44s, depth=6, nodes=561kN (163,2kN/s), evaluation=-206, best=j9
+12) pbrain-gmotor11.exe: time=3,44s, depth=4, nodes=497kN (144,6kN/s), evaluation=-211, best=h10
+14) pbrain-gmotor11.exe: time=0,45s, depth=5, nodes=75kN (167,3kN/s), evaluation=-2147483647, best=k7
+16) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=2310N (0,0kN/s), evaluation=-2147483647, best=g5
+18) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=1123N (0,0kN/s), evaluation=-2147483647, best=l5
+20) pbrain-gmotor11.exe: time=0,02s, depth=1, nodes=2220N (142,1kN/s), evaluation=-2147483647, best=l10
+22) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=16N (0,0kN/s), evaluation=-2147483647, best=i4
+24) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=5N (0,0kN/s), evaluation=-2147483647, best=j4
+26) pbrain-gmotor11.exe: time=0,00s, depth=1, nodes=6N (0,0kN/s), evaluation=-2147483647, best=l4
+-> f:\projekty\gomocup2012\fastgame\8x2-28(1).psq
+______________________________
+goro2012 x renjusolver
+-> f:\projekty\gomocup2012\fastgame\6x2-28(1).psq
+______________________________
+renjusolver x amoeba10
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\2x10-10(1).psq
+______________________________
+amoeba10 x renjusolver
+10) pbrain-amoeba10.exe: My chance to win: 23%
+12) pbrain-amoeba10.exe: Your chance to win: 81%
+12) pbrain-amoeba10.exe: My chance to win: 8%
+14) pbrain-amoeba10.exe: Your chance to win: 95%
+14) pbrain-amoeba10.exe: My chance to win: 0%
+16) pbrain-amoeba10.exe: Your chance to win: 100%
+16) pbrain-amoeba10.exe: My chance to win: 0%
+16) pbrain-amoeba10.exe: You win!
+-> f:\projekty\gomocup2012\fastgame\10x2-18(1).psq
+______________________________
+renjusolver x Kanec
+-> f:\projekty\gomocup2012\fastgame\2x9-45(1).psq
+______________________________
+renjusolver x Pecuchet
+-> f:\projekty\gomocup2012\fastgame\2x11-47(1).psq
+______________________________
+Pecuchet x renjusolver
+-> f:\projekty\gomocup2012\fastgame\11x2-20(1).psq
+______________________________
+Kanec x renjusolver
+-> f:\projekty\gomocup2012\fastgame\9x2-42(1).psq
+______________________________
+renjusolver x jude
+-> f:\projekty\gomocup2012\fastgame\2x12-49(1).psq
+______________________________
+renjusolver x nabamoku
+-> f:\projekty\gomocup2012\fastgame\2x13-41(1).psq
+______________________________
+jude x renjusolver
+-> f:\projekty\gomocup2012\fastgame\12x2-30(1).psq
+______________________________
+renjusolver x QMENTAT6
+renjusolver.ZIP: Timeout
+-> f:\projekty\gomocup2012\fastgame\2x14-10(1).psq
+______________________________
+nabamoku x renjusolver
+-> f:\projekty\gomocup2012\fastgame\13x2-30(1).psq
+______________________________
+QMENTAT6 x renjusolver
+-> f:\projekty\gomocup2012\fastgame\14x2-22(1).psq
+______________________________
+renjusolver x fiverow
+-> f:\projekty\gomocup2012\fastgame\2x16-27(1).psq
+______________________________
+fiverow x renjusolver
+-> f:\projekty\gomocup2012\fastgame\16x2-24(1).psq
+______________________________
+renjusolver x TRUNKAT
+-> f:\projekty\gomocup2012\fastgame\2x15-33(1).psq
+______________________________
+TRUNKAT x renjusolver
+-> f:\projekty\gomocup2012\fastgame\15x2-20(1).psq
+______________________________
+renjusolver x Benjamin
+-> f:\projekty\gomocup2012\fastgame\2x17-49(1).psq
+______________________________
+Benjamin x renjusolver
+-> f:\projekty\gomocup2012\fastgame\17x2-20(1).psq
+______________________________
+renjusolver x pisq7
+-> f:\projekty\gomocup2012\fastgame\2x19-19(1).psq
+______________________________
+pisq7 x renjusolver
+-> f:\projekty\gomocup2012\fastgame\19x2-18(1).psq
+______________________________
+renjusolver x PureGM12
+-> f:\projekty\gomocup2012\fastgame\2x18-35(1).psq
+______________________________
+renjusolver x AI1000
+-> f:\projekty\gomocup2012\fastgame\2x20-27(1).psq
+______________________________
+PureGM12 x renjusolver
+-> f:\projekty\gomocup2012\fastgame\18x2-20(1).psq
+______________________________
+AI1000 x renjusolver
+-> f:\projekty\gomocup2012\fastgame\20x2-20(1).psq
+______________________________
+renjusolver x Puskvorec
+-> f:\projekty\gomocup2012\fastgame\2x21-19(1).psq
+______________________________
+Puskvorec x renjusolver
+-> f:\projekty\gomocup2012\fastgame\21x2-18(1).psq

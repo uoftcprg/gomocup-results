@@ -1,0 +1,80 @@
+1. YIXIN18 2027
+    wins: 165+162, losses: 15+18, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 310s, time/turn: 12126ms, move/game: 26
+
+2. EMBRYO18 1966
+    wins: 163+151, losses: 17+29, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 537s, time/turn: 22510ms, move/game: 24
+
+3. GORO18 1799
+    wins: 132+134, losses: 48+46, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 558s, time/turn: 22081ms, move/game: 25
+
+4. RAPFI 1788
+    wins: 130+132, losses: 50+48, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 404s, time/turn: 16370ms, move/game: 25
+
+5. WINE18 1625
+    wins: 103+94, losses: 77+86, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 572s, time/turn: 23301ms, move/game: 25
+
+6. TITO14 1604
+    wins: 102+86, losses: 78+94, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 262s, time/turn: 9856ms, move/game: 27
+
+7. SLOWRENJU18 1587
+    wins: 93+87, losses: 87+93, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 507s, time/turn: 21987ms, move/game: 23
+
+8. ALPHAGOMOKU.MK 1582
+    wins: 92+86, losses: 88+94, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 438s, time/turn: 19227ms, move/game: 23
+
+9. RENJUSOLVER.F 1550
+    wins: 100+63, losses: 79+117, draws: 1+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 225s, time/turn: 9278ms, move/game: 24
+
+10. HEWER18 1523
+    wins: 82+69, losses: 98+110, draws: 0+1
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 363s, time/turn: 13330ms, move/game: 27
+
+11. ONIX16 1487
+    wins: 79+56, losses: 101+124, draws: 0+0
+    timeouts: 0, errors: 4, total games: 360
+    time/game: 299s, time/turn: 12924ms, move/game: 23
+
+12. WHOSE18 1466
+    wins: 60+66, losses: 120+114, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 283s, time/turn: 11129ms, move/game: 25
+
+13. SWINE17 1426
+    wins: 66+43, losses: 114+137, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 428s, time/turn: 18125ms, move/game: 24
+
+14. GOFIVE 1392
+    wins: 54+41, losses: 126+139, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 529s, time/turn: 23992ms, move/game: 22
+
+15. CARBON17 1392
+    wins: 52+43, losses: 128+137, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 530s, time/turn: 24618ms, move/game: 22
+
+16. DEEPFIRE 1387
+    wins: 49+44, losses: 131+136, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 607s, time/turn: 27143ms, move/game: 22
+

@@ -1,0 +1,37 @@
+-------------------------------------
+28.4.2006  9:13 - 10:05
+Èas na tah: 30 s,   Èas na partii: 180 s
+Tolerance: 200 ms,   Pamì: 350 MB,   Zahájení: 1
+Poèet her: 90
+-------------------------------------
+
+HGarden
+vıhry: 29=14+15,  prohry: 1=1+0
+èas/tah: 3160 ms (max: 9.0 s),  èas/partii: 54 s
+tahù/partii: 17,  CRC: 1920cfe8,   pamì: 6.33 MB
+
+pela
+vıhry: 24=12+12,  prohry: 6=3+3
+èas/tah: 4010 ms (max: 25.7 s),  èas/partii: 93 s
+tahù/partii: 23,  CRC: dd888743,   pamì: 1.90 MB
+
+Noesis
+vıhry: 15=9+6,  prohry: 15=6+9
+èas/tah: 1058 ms (max: 4.9 s),  èas/partii: 23 s
+tahù/partii: 21,  CRC: 8c55963c,   pamì: 7.66 MB
+
+g_motor
+vıhry: 10=6+4,  prohry: 20=8+11+1,  chyby: 1
+èas/tah: 3361 ms (max: 12.2 s),  èas/partii: 80 s
+tahù/partii: 23,  CRC: 6cba1558,   pamì: 2.14 MB
+
+pisq7
+vıhry: 6=1+3+2,  prohry: 24=12+12
+èas/tah: 9 ms (max: 0.0 s),  èas/partii: 0 s
+tahù/partii: 31,  CRC: da9c561,   pamì: 0.93 MB
+
+Benjamin
+vıhry: 6=4+1+1,  prohry: 24=11+11+2,  chyby: 2
+èas/tah: 13 ms (max: 0.0 s),  èas/partii: 0 s
+tahù/partii: 52,  CRC: 1c74aee4,   pamì: 1.34 MB
+

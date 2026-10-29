@@ -1,0 +1,123 @@
+-------------------------------------
+4.4.2009  14:53 - 20:20
+Time for turn: 5 s,   Time for match: 120 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 1518
+-------------------------------------
+
+hewer
+wins: 122=62+53+7,   losses: 10=1+9
+time/turn: 1117 ms (max: 5.8 s),  time/game: 17 s
+moves/game: 15,  CRC: f61ff2fa,   memory: 339.13 MB
+
+HGarden07
+wins: 113=58+49+6,   losses: 19=4+14+1,  1 errors
+time/turn: 1892 ms (max: 4.6 s),  time/game: 29 s
+moves/game: 15,  CRC: f883b408,   memory: 30.28 MB
+
+Tito
+wins: 113=59+48+6,   losses: 19=4+15
+time/turn: 331 ms (max: 3.0 s),  time/game: 5 s
+moves/game: 16,  CRC: 4983390c,   memory: 1.37 MB
+
+Kanec
+wins: 112=57+49+6,   losses: 20=6+13+1
+time/turn: 1580 ms (max: 5.1 s),  time/game: 28 s
+moves/game: 18,  CRC: 572ea92,   memory: 247.46 MB
+
+pela
+wins: 108=53+49+6,   losses: 24=10+14
+time/turn: 1422 ms (max: 5.0 s),  time/game: 30 s
+moves/game: 21,  CRC: dd888743,   memory: 1.88 MB
+
+gmotor
+wins: 90=43+41+6,   losses: 42=20+22
+time/turn: 2486 ms (max: 7.7 s),  time/game: 42 s
+moves/game: 17,  CRC: a2d2a41,   memory: 9.69 MB
+
+goro2009
+wins: 100=50+43+7,   losses: 32=13+19
+time/turn: 1692 ms (max: 4.7 s),  time/game: 28 s
+moves/game: 16,  CRC: 4c497f92,   memory: 1.77 MB
+
+Pecuchet
+wins: 89=45+38+6,   losses: 43=18+25
+time/turn: 1749 ms (max: 5.3 s),  time/game: 27 s
+moves/game: 15,  CRC: a81e076b,   memory: 199.45 MB
+
+swine
+wins: 93=46+40+7,   losses: 39=16+23
+time/turn: 1589 ms (max: 5.2 s),  time/game: 26 s
+moves/game: 16,  CRC: e1628f92,   memory: 186.78 MB
+
+amoeba
+wins: 82=40+35+7,   losses: 50=23+27
+time/turn: 1847 ms (max: 5.0 s),  time/game: 34 s
+moves/game: 18,  CRC: 623872b5,   memory: 344.38 MB
+
+jude
+wins: 64=32+26+6,   losses: 68=31+37
+time/turn: 1347 ms (max: 5.4 s),  time/game: 24 s
+moves/game: 18,  CRC: 96fded42,   memory: 26.49 MB
+
+QMENTAT6
+wins: 60=30+23+7,   losses: 70=31+39
+time/turn: 688 ms (max: 3.8 s),  time/game: 17 s
+moves/game: 24,  CRC: 7825efaf,   memory: 1.33 MB
+
+nabamoku
+wins: 53=25+21+7,   losses: 79=37+41+1
+time/turn: 2389 ms (max: 5.7 s),  time/game: 51 s
+moves/game: 21,  CRC: bb4c2405,   memory: 2.03 MB
+
+trunkat
+wins: 58=27+24+7,   losses: 74=34+39+1
+time/turn: 280 ms (max: 5.1 s),  time/game: 4 s
+moves/game: 14,  CRC: 78aa5afe,   memory: 2.88 MB
+
+Puskvorec
+wins: 41=17+16+8,   losses: 91=44+45+2
+time/turn: 324 ms (max: 2.8 s),  time/game: 4 s
+moves/game: 14,  CRC: b89a06e8,   memory: 2.51 MB
+
+pisq7
+wins: 32=14+10+8,   losses: 100=49+51
+time/turn: 15 ms (max: 0.2 s),  time/game: 0 s
+moves/game: 18,  CRC: da9c561,   memory: 0.96 MB
+
+Benjamin
+wins: 33=8+13+12,   losses: 94=42+43+9,  9 errors
+time/turn: 20 ms (max: 0.7 s),  time/game: 1 s
+moves/game: 52,  CRC: 1c74aee4,   memory: 1.34 MB
+
+fiverow
+wins: 39=18+15+6,   losses: 93=39+41+13
+time/turn: 218 ms (max: 6.0 s),  time/game: 4 s
+moves/game: 19,  CRC: 4b2b1e96,   memory: 1.17 MB
+
+PureGM2
+wins: 33=13+12+8,   losses: 99=49+49+1
+time/turn: 1529 ms (max: 5.1 s),  time/game: 25 s
+moves/game: 16,  CRC: 99402e54,   memory: 2.98 MB
+
+LEONARDO
+wins: 29=8+10+11,   losses: 103=52+51
+time/turn: 165 ms (max: 2.2 s),  time/game: 4 s
+moves/game: 24,  CRC: 96a303fe,   memory: 2.18 MB
+
+AI1000
+wins: 28=8+11+9,   losses: 102=53+49
+time/turn: 172 ms (max: 1.5 s),  time/game: 4 s
+moves/game: 26,  CRC: 90fb8ea7,   memory: 2.18 MB
+
+CURNPIS
+wins: 20=7+5+8,   losses: 109=55+54
+time/turn: 179 ms (max: 1.9 s),  time/game: 4 s
+moves/game: 25,  CRC: f2623dd9,   memory: 2.21 MB
+
+HfM2008
+wins: 0=0+0,   losses: 132=0+0+132,  132 errors
+time/turn: 0 ms (max: 0.0 s),  time/game: 0 s
+moves/game: 1,  CRC: 9c5cc2ec
+

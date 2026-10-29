@@ -1,0 +1,55 @@
+-------------------------------------
+15.4.2012  23:55 - 16.4.2012  0:53
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: ca63eaee
+Games played: 216
+-------------------------------------
+
+Puskvorec
+wins: 38=19+19,   losses: 10=5+5
+time/turn: 675 ms (max: 3.9 s),  time/game: 10 s
+moves/game: 16,  CRC: b89a06e8,   memory: 3.36 MB
+
+LEONARDO
+wins: 34=18+11+5,   losses: 14=3+11
+time/turn: 388 ms (max: 1.9 s),  time/game: 14 s
+moves/game: 36,  CRC: 96a303fe,   memory: 2.74 MB
+
+pisq7
+wins: 30=18+10+2,   losses: 18=5+13
+time/turn: 181 ms (max: 2.4 s),  time/game: 4 s
+moves/game: 24,  CRC: da9c561,   memory: 1.82 MB
+
+AI1000
+wins: 29=15+11+3,   losses: 19=7+12
+time/turn: 496 ms (max: 1.8 s),  time/game: 19 s
+moves/game: 39,  CRC: 90fb8ea7,   memory: 2.75 MB
+
+Benjamin
+wins: 29=13+12+4,   losses: 18=4+6+8,  8 errors
+time/turn: 176 ms (max: 3.6 s),  time/game: 12 s
+moves/game: 73,  CRC: 1c74aee4,   memory: 2.11 MB
+
+BRUTEFOR
+wins: 25=15+10,   losses: 23=7+9+7
+time/turn: 5473 ms (max: 10.6 s),  time/game: 99 s
+moves/game: 18,  CRC: baab5804,   memory: 2.79 MB
+
+CURNPIS
+wins: 17=9+7+1,   losses: 30=14+16
+time/turn: 318 ms (max: 2.9 s),  time/game: 11 s
+moves/game: 35,  CRC: f2623dd9,   memory: 2.79 MB
+
+Crusher10
+wins: 13=8+5,   losses: 35=16+19
+time/turn: 239 ms (max: 1.4 s),  time/game: 7 s
+moves/game: 29,  CRC: ecd8392,   memory: 3.47 MB
+
+mushroom
+wins: 0=0+0,   losses: 48=24+24
+time/turn: 472 ms (max: 1.4 s),  time/game: 3 s
+moves/game: 6,  CRC: 2c542fb8,   memory: 50.33 MB
+

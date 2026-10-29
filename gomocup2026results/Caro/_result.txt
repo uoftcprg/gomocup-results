@@ -1,0 +1,35 @@
+1. ALPHAGOMOKU.MK26 2097
+    wins: 60+61, losses: 2+2, draws: 10+9
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 754s, time/turn: 21789ms, move/game: 35
+
+2. JAX25 2016
+    wins: 52+52, losses: 4+6, draws: 16+14
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 558s, time/turn: 13862ms, move/game: 40
+
+3. EMBRYO26 1939
+    wins: 50+50, losses: 15+12, draws: 7+10
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 548s, time/turn: 15566ms, move/game: 35
+
+4. KATAGOMO26 1505
+    wins: 29+32, losses: 43+39, draws: 0+1
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 598s, time/turn: 28233ms, move/game: 21
+
+5. LAVENDER 1334
+    wins: 21+19, losses: 50+52, draws: 1+1
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 752s, time/turn: 40367ms, move/game: 19
+
+6. SQUIRREL24 1305
+    wins: 20+17, losses: 52+52, draws: 0+3
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 596s, time/turn: 25347ms, move/game: 24
+
+7. PELA23 1003
+    wins: 0+3, losses: 68+69, draws: 4+0
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 598s, time/turn: 30711ms, move/game: 19
+

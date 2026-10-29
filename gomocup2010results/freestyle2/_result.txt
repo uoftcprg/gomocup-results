@@ -1,0 +1,53 @@
+-------------------------------------
+24.4.2010  14:47 - 17:04
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+swine2010
+wins: 44=24+17+3,   losses: 4=0+4
+time/turn: 2570 ms (max: 18.0 s),  time/game: 48 s
+moves/game: 18,  CRC: fe5d3f62,   memory: 238.68 MB
+
+Kanec
+wins: 39=22+14+3,   losses: 9=2+7
+time/turn: 3755 ms (max: 14.0 s),  time/game: 83 s
+moves/game: 22,  CRC: 572ea92,   memory: 249.10 MB
+
+HfM2010
+wins: 30=20+8+2,   losses: 18=4+14
+time/turn: 2637 ms (max: 34.7 s),  time/game: 50 s
+moves/game: 19,  CRC: e8106e79,   memory: 292.66 MB
+
+Pecuchet
+wins: 25=16+7+2,   losses: 23=8+15
+time/turn: 4098 ms (max: 28.6 s),  time/game: 74 s
+moves/game: 18,  CRC: a81e076b,   memory: 201.10 MB
+
+gmotor
+wins: 28=17+9+2,   losses: 20=7+13
+time/turn: 3523 ms (max: 11.2 s),  time/game: 68 s
+moves/game: 19,  CRC: a2d2a41,   memory: 10.92 MB
+
+bestmove
+wins: 15=7+8,   losses: 33=1+16+16
+time/turn: 8071 ms (max: 31.0 s),  time/game: 110 s
+moves/game: 13,  CRC: 7554f3d4,   memory: 77.28 MB
+
+amoeba2010
+wins: 17=12+4+1,   losses: 31=12+19
+time/turn: 2780 ms (max: 30.5 s),  time/game: 59 s
+moves/game: 21,  CRC: 74e05c52,   memory: 335.79 MB
+
+Noesis
+wins: 9=5+3+1,   losses: 39=19+20
+time/turn: 835 ms (max: 7.1 s),  time/game: 14 s
+moves/game: 17,  CRC: 8c55963c,   memory: 8.71 MB
+
+QMENTAT6
+wins: 9=3+4+2,   losses: 39=21+18
+time/turn: 656 ms (max: 12.7 s),  time/game: 13 s
+moves/game: 20,  CRC: 7825efaf,   memory: 2.02 MB
+

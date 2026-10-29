@@ -1,0 +1,20 @@
+START TURNAJE 16.04.05 16:12:02
+Sem se zapisují Errors
+TGomoPlayer_File (Err AI "AI1000"   Hra 0,2  Proti AI "Curnpis"  Partie è. 0   error: )  TIMEOUT 0
+TGomoPlayer_File (Err AI "Curnpis"   Hra 0,2  Proti AI "AI1000"  Partie è. 2   error: )  TIMEOUT 0
+TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 0,8  Proti AI "AI1000"  Partie è. 1   error: )  TAH [10,10]
+TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 0,8  Proti AI "AI1000"  Partie è. 3   error: )  TAH [10,10]
+TGomoPlayer_File (Err AI "leonardo"   Hra 1,5  Proti AI "Benjamin"  Partie è. 1   error: )  TIMEOUT 0
+TGomoPlayer_File (Err AI "leonardo"   Hra 1,5  Proti AI "Benjamin"  Partie è. 3   error: )  TIMEOUT 0
+TGomoPlayer_File (Err AI "Curnpis"   Hra 2,7  Proti AI "pbrain-beta"  Partie è. 3   error: )  TIMEOUT 0
+TGomoPlayer_File (Err AI "Goro"   Hra 3,12  Proti AI "QMENTAT6"  Partie è. 1   error: )  TIMEOUT 0
+TGomoPlayer_File (Err AI "leonardo"   Hra 5,10  Proti AI "pisq7"  Partie è. 1   error: )  TIMEOUT 0
+TGomoPlayer_File (Err AI "Noesis"   Hra 6,9  Proti AI "pbrain-pela"  Partie è. 0   error: )  TIMEOUT 2
+TGomoPlayer_File (Err AI "Noesis"   Hra 6,9  Proti AI "pbrain-pela"  Partie è. 2   error: )  TIMEOUT 1
+TGomoPlayer_File (Err AI "Noesis"   Hra 6,9  Proti AI "pbrain-pela"  Partie è. 3   error: )  TIMEOUT 1
+TGomoPlayer_File (Err AI "Noesis"   Hra 6,14  Proti AI "trunkat"  Partie è. 1   error: )  TIMEOUT 0
+TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 8,11  Proti AI "Puskvorec"  Partie è. 0   error: )  TAH [10,10]
+TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 8,11  Proti AI "Puskvorec"  Partie è. 2   error: )  TAH [10,10]
+TGomoPlayer_File (Err AI "Puskvorec"   Hra 11,12  Proti AI "QMENTAT6"  Partie è. 1   error: )  TIMEOUT 1
+TGomoPlayer_File (Err AI "Puskvorec"   Hra 11,12  Proti AI "QMENTAT6"  Partie è. 2   error: )  TIMEOUT 4
+TGomoPlayer_File (Err AI "Puskvorec"   Hra 11,12  Proti AI "QMENTAT6"  Partie è. 3   error: )  TIMEOUT 3

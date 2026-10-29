@@ -1,0 +1,52 @@
+-------------------------------------
+28.4.2006  10:12 - 13:22
+Èas na tah: 300 s,   Èas na partii: 1200 s
+Tolerance: 200 ms,   Pamì: 350 MB,   Zahájení: 1
+Poèet her: 216
+-------------------------------------
+
+Goro2005
+vıhry: 37=22+15,  prohry: 11=2+9
+èas/tah: 1538 ms (max: 40.5 s),  èas/partii: 31 s
+tahù/partii: 20,  CRC: bc59592a,   pamì: 1.78 MB
+
+Tito
+vıhry: 40=22+18,  prohry: 8=2+6
+èas/tah: 13 s (max: 141.7 s),  èas/partii: 275 s
+tahù/partii: 20,  CRC: a3482851,   pamì: 1.32 MB
+
+HGarden
+vıhry: 32=19+13,  prohry: 16=5+11
+èas/tah: 11 s (max: 24.1 s),  èas/partii: 261 s
+tahù/partii: 22,  CRC: 1920cfe8,   pamì: 6.33 MB
+
+pela
+vıhry: 29=16+13,  prohry: 19=8+11
+èas/tah: 28 s (max: 171.4 s),  èas/partii: 818 s
+tahù/partii: 28,  CRC: dd888743,   pamì: 1.90 MB
+
+swine
+vıhry: 25=15+10,  prohry: 23=9+14
+èas/tah: 1491 ms (max: 29.0 s),  èas/partii: 33 s
+tahù/partii: 22,  CRC: d5615e8e,   pamì: 64.05 MB
+
+kanec
+vıhry: 26=14+12,  prohry: 22=10+12
+èas/tah: 2086 ms (max: 253.3 s),  èas/partii: 49 s
+tahù/partii: 23,  CRC: ff2ede8c,   pamì: 38.64 MB
+
+bestmove
+vıhry: 16=11+5,  prohry: 32=13+19
+èas/tah: 11 s (max: 30.2 s),  èas/partii: 245 s
+tahù/partii: 22,  CRC: 7554f3d4,   pamì: 78.15 MB
+
+Noesis
+vıhry: 8=6+2,  prohry: 40=18+22
+èas/tah: 1210 ms (max: 5.0 s),  èas/partii: 21 s
+tahù/partii: 17,  CRC: 8c55963c,   pamì: 7.66 MB
+
+QMENTAT6
+vıhry: 3=3+0,  prohry: 45=21+24
+èas/tah: 951 ms (max: 8.8 s),  èas/partii: 17 s
+tahù/partii: 18,  CRC: 7825efaf,   pamì: 1.34 MB
+

@@ -1,0 +1,80 @@
+1. STARDUST 2435
+    wins: 173+175, losses: 7+5, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 36s, time/turn: 2594ms, move/game: 14
+
+2. WULIN 2362
+    wins: 171+170, losses: 9+10, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 30s, time/turn: 2404ms, move/game: 12
+
+3. PENTAZEN 2109
+    wins: 157+157, losses: 23+23, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 46s, time/turn: 3153ms, move/game: 15
+
+4. SPARKLE 1658
+    wins: 116+115, losses: 64+63, draws: 0+2
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 31s, time/turn: 1636ms, move/game: 19
+
+5. JUDE 1594
+    wins: 111+101, losses: 69+79, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 36s, time/turn: 2204ms, move/game: 16
+
+6. DJALL18 1530
+    wins: 94+93, losses: 77+80, draws: 9+7
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 2s, time/turn: 71ms, move/game: 32
+
+7. MONKEY 1510
+    wins: 98+88, losses: 82+92, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 97s, time/turn: 5517ms, move/game: 18
+
+8. QMENTAT6 1489
+    wins: 86+86, losses: 82+94, draws: 12+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 15s, time/turn: 513ms, move/game: 29
+
+9. PUSKVOREC 1436
+    wins: 75+76, losses: 105+104, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 4s, time/turn: 283ms, move/game: 13
+
+10. NOESIS 1409
+    wins: 101+36, losses: 79+122, draws: 0+22
+    timeouts: 0, errors: 4, total games: 360
+    time/game: 19s, time/turn: 606ms, move/game: 32
+
+11. IMRO15 1391
+    wins: 68+61, losses: 105+115, draws: 7+4
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 6ms, move/game: 28
+
+12. LICHT 1332
+    wins: 54+57, losses: 126+123, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 164s, time/turn: 17295ms, move/game: 10
+
+13. FASTGOMOKU14 1328
+    wins: 58+49, losses: 113+127, draws: 9+4
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 2ms, move/game: 28
+
+14. PISQ7 1278
+    wins: 57+43, losses: 123+137, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 17ms, move/game: 16
+
+15. LIGHTBLUE 1138
+    wins: 25+24, losses: 153+156, draws: 2+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 8ms, move/game: 18
+
+16. STAHLFAUST -
+    wins: 33+33, losses: 147+147, draws: 0+0
+    timeouts: 0, errors: 37, total games: 360
+    time/game: 74s, time/turn: 5063ms, move/game: 15
+

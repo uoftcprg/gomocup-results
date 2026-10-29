@@ -1,0 +1,177 @@
+.bigbutton{
+	background-color : #3333FF;
+	color : White;
+	font-size : 25px;
+	text-decoration : none;
+	padding : 4px;
+	margin : 15px 5px 15px 5px;
+}
+
+.vetsi {font-size: 14pt}
+
+.red {color:red}
+
+.b {font-weight: bold}
+
+.i {font-style: italic}
+
+.cent {text-align: center}
+
+.cl {clear: both}
+
+.reklama {font-size: 8pt}
+
+
+body {
+
+  color: #cccc00;
+
+  background-image: url("img/pozadi.gif");
+
+  background-color: black;
+
+  font-size: 12pt;
+
+  text-align: justify;
+
+  font-family: Times New Roman,serif
+
+}
+
+
+
+img {border-width: 0pt}
+
+
+
+code {
+
+  font-family: Courier New, Courier, monospace;
+
+  font-style: normal;
+
+  color:#C0C0C0
+
+}
+
+
+
+em {
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  color:red
+
+}
+
+
+
+p {color: #cccc00}
+
+
+
+h1 {
+
+  color: yellow;
+
+  background: transparent;
+
+  font-weight: bold;
+
+  font-size: 36pt;
+
+  text-align: center;
+
+  font-family: Arial,sans-serif;
+
+  font-style: italic;
+
+  margin: 0;
+
+}
+
+
+
+h1.uzky {font-size:24pt}
+
+
+
+h2 {
+
+  color: red;
+
+  background: transparent;
+
+  font-size: 18pt;
+
+  text-align: center;
+
+  font-family: Times New Roman,serif;
+
+  margin: 0
+
+}
+
+
+
+h3 {
+
+  color: yellow;
+
+  background: transparent;
+
+  margin: 0;
+
+  font-size: 14pt;
+
+  font-family: Times New Roman,serif;
+
+  text-align: center
+
+}
+
+
+
+a:link {
+
+  color: #9CEFFF;
+
+  text-decoration: underline;
+
+  background: transparent
+
+}
+
+
+
+a:visited {
+
+  color: #87CEFA;
+
+  text-decoration: underline;
+
+  background: transparent
+
+}
+
+
+
+a:active {
+
+  color: aqua;
+
+  text-decoration: underline;
+
+  background: transparent
+
+}
+
+
+
+table {color:green}
+
+td {text-align: center;font-size: 12pt;color: #cccc00}
+
+th {text-align: left;font-size: 12pt;color: red}

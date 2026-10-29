@@ -1,0 +1,80 @@
+1. RAPFI 2105
+    wins: 169+168, losses: 11+12, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 47s, time/turn: 2692ms, move/game: 17
+
+2. ALPHAGOMOKU.MK 1895
+    wins: 151+139, losses: 29+41, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 74s, time/turn: 4036ms, move/game: 18
+
+3. GOFIVE 1849
+    wins: 141+135, losses: 39+45, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 72s, time/turn: 4095ms, move/game: 18
+
+4. DEEPFIRE 1790
+    wins: 132+124, losses: 48+56, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 96s, time/turn: 4958ms, move/game: 19
+
+5. GMOTOR11 1697
+    wins: 117+104, losses: 63+76, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 59s, time/turn: 2987ms, move/game: 20
+
+6. PELA17 1648
+    wins: 105+96, losses: 75+83, draws: 0+1
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 120s, time/turn: 4744ms, move/game: 25
+
+7. CHIS17 1635
+    wins: 109+87, losses: 71+93, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 47s, time/turn: 2544ms, move/game: 19
+
+8. XOXO18.F 1633
+    wins: 106+89, losses: 74+91, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 103s, time/turn: 4985ms, move/game: 21
+
+9. EGO 1580
+    wins: 99+74, losses: 81+106, draws: 0+0
+    timeouts: 0, errors: 2, total games: 360
+    time/game: 102s, time/turn: 5237ms, move/game: 19
+
+10. KANEC09 1575
+    wins: 87+84, losses: 93+96, draws: 0+0
+    timeouts: 0, errors: 6, total games: 360
+    time/game: 69s, time/turn: 2886ms, move/game: 24
+
+11. ZETOR17 1563
+    wins: 83+83, losses: 97+97, draws: 0+0
+    timeouts: 0, errors: 2, total games: 360
+    time/game: 70s, time/turn: 3353ms, move/game: 21
+
+12. EULRING 1434
+    wins: 63+52, losses: 117+128, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 97s, time/turn: 5250ms, move/game: 18
+
+13. PECUCHET 1379
+    wins: 63+32, losses: 117+148, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 36s, time/turn: 2191ms, move/game: 17
+
+14. JUDE 1358
+    wins: 50+38, losses: 130+142, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 25s, time/turn: 1403ms, move/game: 18
+
+15. SPARKLE 1238
+    wins: 24+28, losses: 156+152, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 20s, time/turn: 1081ms, move/game: 19
+
+16. DJALL18 1222
+    wins: 28+19, losses: 151+161, draws: 1+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 1s, time/turn: 68ms, move/game: 19
+

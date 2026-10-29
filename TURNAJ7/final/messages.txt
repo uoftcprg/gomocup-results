@@ -1,0 +1,1634 @@
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\final\0x2-36(1).rec
+______________________________
+QMENTAT6 x swine
+ 5) swine.exe:   5.[ 9,10]    77 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[11, 9]  7642 ms...Val=   233 (1/13/20)
+ 9) swine.exe:   9.[ 8, 8]  1553 ms...Val=   275 (1/2/4)
+11) swine.exe:  11.[12, 8]     0 ms...Jen si hraj.
+13) swine.exe:  13.[11,10]   622 ms...Val=   480 (1/1/3)
+15) swine.exe:  15.[ 9, 5]  7797 ms...Val=   519 (2/6/20)
+17) swine.exe:  17.[12, 6]  2687 ms...Val=   512 (1/2/20)
+19) swine.exe:  19.[10, 5]  1181 ms...Val=   934 (1/2/20)
+21) swine.exe:  21.[11, 4]    15 ms...Tohle mì nebaví.
+23) swine.exe:  23.[10, 4]  1289 ms...Val=  1185 (1/1/20)
+25) swine.exe:  25.[12, 4]     0 ms...WIN PN1 1540/549 Vypadá to výbornì.
+27) swine.exe:  27.[ 7, 6]     0 ms...Tohle mì nebaví.
+29) swine.exe:  29.[12, 5]    16 ms...WIN PN1 1253/443 Snad jsem nic nepøehlídla..
+31) swine.exe:  31.[12, 2]     0 ms...WIN PN1 1059/385 Že by?.
+33) swine.exe:  33.[11, 3]     0 ms...WIN PN1 205/77 Tøi èuníci jdou...
+35) swine.exe:  35.[13, 4]     0 ms...WIN PN1 194/74 Snad jsem nic nepøehlídla..
+37) swine.exe:  37.[10, 2]    15 ms...WIN PN1 141/49 To by mìlo vyjít.
+39) swine.exe:  39.[13, 5]     0 ms...Juch!
+41) swine.exe:  41.[ 9, 1]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\final\0x1-42(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\final\2x0-25(1).rec
+______________________________
+QMENTAT6 x Noesis
+-> H:\gomocup-online\final\0x3-37(1).rec
+______________________________
+swine x QMENTAT6
+ 6) swine.exe:   6.[11, 8]  1367 ms...Val=   730 (1/1/2)
+ 8) swine.exe:   8.[ 6,10]  4070 ms...Val=   732 (1/1/20)
+10) swine.exe:  10.[ 5, 9]  1258 ms...WIN AB 0 Snad jsem nic nepøehlídla..
+12) swine.exe:  12.[ 4,10]   124 ms...WIN PN1 4274/1539 To snad pude.
+14) swine.exe:  14.[ 3,11]    47 ms...WIN PN1 6011/2187 To by mìlo vyjít.
+16) swine.exe:  16.[ 7,10]    15 ms...WIN PN1 2887/1026 Chro chro.
+18) swine.exe:  18.[ 6,11]    16 ms...WIN PN1 2250/801 Že by?.
+20) swine.exe:  20.[ 4,11]     0 ms...WIN PN1 197/71 Chro chro.
+22) swine.exe:  22.[ 4,13]     0 ms...WIN PN1 41/16 Snad jsem nic nepøehlídla..
+24) swine.exe:  24.[ 5,12]    16 ms...Tak snad nìkdy pøíštì.
+26) swine.exe:  26.[ 8, 9]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\final\1x0-27(1).rec
+______________________________
+Noesis x QMENTAT6
+-> H:\gomocup-online\final\3x0-23(1).rec
+______________________________
+QMENTAT6 x bestmove
+-> H:\gomocup-online\final\0x4-24(1).rec
+______________________________
+QMENTAT6 x kanec
+-> H:\gomocup-online\final\0x6-46(1).rec
+______________________________
+swine x Goro2005
+ 6) swine.exe:   6.[ 6,10]  3790 ms...Val=   681 (1/8/20)
+ 8) swine.exe:   8.[ 7,11]  1103 ms...Val=   864 (1/1/3)
+10) swine.exe:  10.[ 6, 8]  3153 ms...Val=  1064 (1/1/4)
+12) swine.exe:  12.[ 6, 7]  4350 ms...Val=   865 (1/1/20)
+14) swine.exe:  14.[ 5, 8]    62 ms...WIN PN1 7014/2471 Chro chro.
+16) swine.exe:  16.[ 4, 8]    31 ms...WIN PN1 3608/1310 To snad pude.
+18) swine.exe:  18.[11,13]     0 ms...Nedráždi svini bosou nohou.
+20) swine.exe:  20.[11,10]     0 ms...Necht toho.
+22) swine.exe:  22.[ 3,10]     0 ms...WIN fours seq 3 Snad jsem nic nepøehlídla..
+24) swine.exe:  24.[ 3, 8]     0 ms...WIN fours seq 2 :-))
+26) swine.exe:  26.[ 3, 7]     0 ms...WIN fours seq 1 Vypadá to výbornì.
+28) swine.exe:  28.[ 3, 9]     0 ms...Nic si z toho nedìlej.
+30) swine.exe:  30.[ 3, 6]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\final\1x2-31(1).rec
+______________________________
+kanec x QMENTAT6
+-> H:\gomocup-online\final\6x0-33(1).rec
+______________________________
+swine x Noesis
+ 6) swine.exe:   6.[14,12]  1181 ms...Val=   730 (1/1/2)
+ 8) swine.exe:   8.[12,10]  3435 ms...Val=   895 (1/9/20)
+10) swine.exe:  10.[14,10]  1757 ms...Val=   883 (1/1/20)
+12) swine.exe:  12.[13, 9]   917 ms...Val=  1015 (1/1/4)
+14) swine.exe:  14.[13,13]     0 ms...Dej mi pokoj.
+16) swine.exe:  16.[10,11]   280 ms...WIN AB 1 Je to na dobré cestì.!
+18) swine.exe:  18.[15,16]    15 ms...Co se dá dìlat?
+20) swine.exe:  20.[12, 9]     0 ms...WIN fours seq 2 :-))
+22) swine.exe:  22.[12, 8]     0 ms...WIN fours seq 1 :-))
+24) swine.exe:  24.[15,11]     0 ms...To se musíte víc snažit, pane správce.
+26) swine.exe:  26.[16,12]    16 ms...Prohrál jste, saláte!
+-> H:\gomocup-online\final\1x3-27(1).rec
+______________________________
+Goro2005 x swine
+ 5) swine.exe:   5.[10,11]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[11,11]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[12,12]    78 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[ 9,14]    78 ms...Val= 17857 (1/0/0)
+13) swine.exe:  13.[14, 9]  4272 ms...Val=   142 (1/9/20)
+15) swine.exe:  15.[ 7, 9]  1072 ms...Val=   308 (1/2/20)
+17) swine.exe:  17.[12, 9]     0 ms...Tohle mì nebaví.
+19) swine.exe:  19.[11,14]  1988 ms...Val=   259 (1/2/20)
+21) swine.exe:  21.[ 8,10]   186 ms...Kví kví!
+23) swine.exe:  23.[10,12]     0 ms...Nedráždi svini bosou nohou.
+25) swine.exe:  25.[10,10]    15 ms...To už asi nedoženu.
+27) swine.exe:  27.[13,13]   326 ms...Aj ta krajta.
+29) swine.exe:  29.[ 5,12]   171 ms...Hmm, to není dobrý
+31) swine.exe:  31.[13,12]    16 ms...Aj vaj
+33) swine.exe:  33.[ 5,11]     0 ms...Tohle mì nebaví.
+35) swine.exe:  35.[ 0,19]     0 ms...Dobrá práce.
+-> H:\gomocup-online\final\2x1-37(1).rec
+______________________________
+swine x kanec
+ 6) swine.exe:   6.[ 5, 8]  3915 ms...Val=   669 (1/8/20)
+ 8) swine.exe:   8.[ 4,10]  2671 ms...Val=   736 (1/6/20)
+10) swine.exe:  10.[ 8,12]  2718 ms...Val=   775 (1/1/4)
+12) swine.exe:  12.[ 6, 9]  1444 ms...Val=   735 (1/1/5)
+14) swine.exe:  14.[ 9,10]  1212 ms...Val=   962 (1/1/20)
+16) swine.exe:  16.[ 6,13]   155 ms...Tohle zkonèí špatnì
+18) swine.exe:  18.[ 4, 8]     0 ms...Jen si hraj.
+20) swine.exe:  20.[19, 0]     0 ms...Smekám klobouk.
+-> H:\gomocup-online\final\1x6-22(1).rec
+______________________________
+Noesis x swine
+ 5) swine.exe:   5.[ 9,11]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9,10]    63 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[10, 9]    62 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[12,12]    77 ms...Val= 17857 (1/0/0)
+13) swine.exe:  13.[ 7, 7]     0 ms...Kolik jich tam ještì máš?
+15) swine.exe:  15.[11, 7]     0 ms...Baví tì to?
+17) swine.exe:  17.[ 9, 8]  3513 ms...Val=   703 (1/1/20)
+19) swine.exe:  19.[13, 9]  2176 ms...Val=   252 (1/1/20)
+21) swine.exe:  21.[13,11]   808 ms...Val=   570 (1/1/20)
+23) swine.exe:  23.[ 9, 6]   591 ms...Val=   665 (1/6/20)
+25) swine.exe:  25.[11,12]     0 ms...Už to nechci.
+27) swine.exe:  27.[ 8, 6]    16 ms...No to je zábava.
+29) swine.exe:  29.[11, 5]   778 ms...Val=  1415 (1/2/20)
+31) swine.exe:  31.[ 6,10]     0 ms...Dej mi pokoj.
+33) swine.exe:  33.[14,10]   155 ms...Val=  2005 (1/9/20)
+35) swine.exe:  35.[14, 6]     0 ms...Dej mi pokoj.
+37) swine.exe:  37.[13, 8]     0 ms...No jo.
+39) swine.exe:  39.[16,10]   575 ms...Val=  2369 (1/1/20)
+41) swine.exe:  41.[14,11]  1819 ms...Val=  2305 (1/3/20)
+43) swine.exe:  43.[12, 9]  1337 ms...Val=  2471 (1/1/20)
+45) swine.exe:  45.[ 7,10]   777 ms...Val=  2474 (1/1/20)
+47) swine.exe:  47.[10, 5]     0 ms...Necht toho.
+49) swine.exe:  49.[ 8, 7]    16 ms...WIN PN1 671/236 Vypadá to výbornì.
+51) swine.exe:  51.[10,13]     0 ms...Dej mi pokoj.
+53) swine.exe:  53.[11, 4]    15 ms...WIN PN1 193/62 To snad pude.
+55) swine.exe:  55.[11, 3]     0 ms...WIN PN1 195/62 Tøi èuníci jdou...
+57) swine.exe:  57.[13, 5]    16 ms...WIN PN1 229/75 Je to na dobré cestì.!
+59) swine.exe:  59.[ 8,14]     0 ms...Nedráždi svini bosou nohou.
+61) swine.exe:  61.[12, 4]     0 ms...Tøeba se to nìkdy nauèíš
+63) swine.exe:  63.[10, 2]     0 ms...Juch!
+-> H:\gomocup-online\final\3x1-64(1).rec
+______________________________
+bestmove x QMENTAT6
+-> H:\gomocup-online\final\4x0-21(1).rec
+______________________________
+kanec x swine
+ 5) swine.exe:   5.[ 9,11]    62 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[10,11]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[11,12]   933 ms...Val=   588 (1/1/4)
+11) swine.exe:  11.[ 7,10]  5189 ms...Val=   524 (1/5/20)
+13) swine.exe:  13.[ 6,12]     0 ms...Dej mi pokoj.
+15) swine.exe:  15.[ 6,13]  2345 ms...Val=   788 (1/1/20)
+17) swine.exe:  17.[ 9, 7]  4303 ms...Val=   905 (1/4/20)
+19) swine.exe:  19.[11, 8]     0 ms...Nedráždi svini bosou nohou.
+21) swine.exe:  21.[13, 9]  1584 ms...Val=   815 (1/13/20)
+23) swine.exe:  23.[12,11]   466 ms...Val=  1014 (1/1/20)
+25) swine.exe:  25.[12,10]     0 ms...Kolik jich tam ještì máš?
+27) swine.exe:  27.[ 8, 9]  4179 ms...Val=  1769 (1/1/20)
+29) swine.exe:  29.[ 7, 6]     0 ms...Co se dá dìlat?
+31) swine.exe:  31.[ 8,15] 10235 ms...Val=  2054 (1/15/20)
+33) swine.exe:  33.[ 9,14]   140 ms...WIN PN1 19718/7491 Vypadá to výbornì.
+35) swine.exe:  35.[ 7,14]    47 ms...WIN PN1 6556/2267 Vypadá to výbornì.
+37) swine.exe:  37.[ 6,14]    31 ms...WIN PN1 5051/1780 Tøi èuníci jdou...
+39) swine.exe:  39.[ 6,15]     0 ms...WIN PN1 980/339 Tøi èuníci jdou...
+41) swine.exe:  41.[ 7,15]     0 ms...WIN PN1 820/286 :-)
+43) swine.exe:  43.[ 5,13]     0 ms...WIN PN1 618/223 :-))
+45) swine.exe:  45.[ 4,11]     0 ms...WIN PN1 174/61 To by mìlo vyjít.
+47) swine.exe:  47.[ 4,14]     0 ms...WIN PN1 153/52 :-))
+49) swine.exe:  49.[ 3,14]     0 ms...WIN PN1 131/44 Snad jsem nic nepøehlídla..
+51) swine.exe:  51.[ 3,15]     0 ms...WIN PN1 114/38 Vypadá to výbornì.
+53) swine.exe:  53.[ 3,13]    15 ms...WIN PN1 222/72 Snad jsem nic nepøehlídla..
+55) swine.exe:  55.[13,13]     0 ms...Už to nechci.
+57) swine.exe:  57.[12,15]     0 ms...Nedráždi svini bosou nohou.
+59) swine.exe:  59.[ 4,13]     0 ms...Prohrál jste, saláte!
+61) swine.exe:  61.[ 2,13]    15 ms...Ale to je mi líto.
+-> H:\gomocup-online\final\6x1-62(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\final\0x8-32(1).rec
+______________________________
+Goro2005 x Noesis
+-> H:\gomocup-online\final\2x3-25(1).rec
+______________________________
+Noesis x Goro2005
+-> H:\gomocup-online\final\3x2-22(1).rec
+______________________________
+QMENTAT6 x HGarden
+-> H:\gomocup-online\final\0x5-38(1).rec
+______________________________
+Goro2005 x bestmove
+-> H:\gomocup-online\final\2x4-31(1).rec
+______________________________
+swine x HGarden
+ 6) swine.exe:   6.[ 9,13]  4177 ms...Val=   601 (1/1/20)
+ 8) swine.exe:   8.[10,12]  1770 ms...Val=   560 (1/3/20)
+10) swine.exe:  10.[10,13]  2143 ms...Val=   564 (1/1/20)
+12) swine.exe:  12.[ 8,15]  1879 ms...Val=   518 (1/1/5)
+14) swine.exe:  14.[ 7,14]   732 ms...Val=   685 (1/1/20)
+16) swine.exe:  16.[ 7,10]   951 ms...Val=   920 (1/1/20)
+18) swine.exe:  18.[11,12]    31 ms...WIN PN3 3256/1232 :-)
+20) swine.exe:  20.[11,13]    16 ms...WIN PN1 487/181 To snad pude.
+22) swine.exe:  22.[11,14]    15 ms...WIN PN1 447/160 To snad pude.
+24) swine.exe:  24.[ 6, 7]     0 ms...Co se dá dìlat?
+26) swine.exe:  26.[12, 9]     0 ms...Necht toho.
+28) swine.exe:  28.[10,15]    31 ms...WIN AB -1 Držte si klobouky...
+30) swine.exe:  30.[11,15]    15 ms...WIN fours seq 1 Že by?.
+32) swine.exe:  32.[ 9,15]     0 ms...Zkus to znova
+34) swine.exe:  34.[12,15]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\final\1x5-35(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\final\8x0-23(1).rec
+______________________________
+swine x bestmove
+ 6) swine.exe:   6.[11,13]  2000 ms...Val=   730 (1/1/2)
+ 8) swine.exe:   8.[10,14]  7938 ms...Val=   917 (1/5/20)
+10) swine.exe:  10.[11,11]  2625 ms...Val=  1007 (1/1/4)
+12) swine.exe:  12.[ 8,15]  3781 ms...Val=  1281 (1/1/5)
+14) swine.exe:  14.[ 6,16]  2203 ms...Val=  1430 (1/1/20)
+16) swine.exe:  16.[11,16]  1578 ms...Val=  1150 (1/1/20)
+18) swine.exe:  18.[11,17]  1469 ms...Val=  1022 (1/1/20)
+20) swine.exe:  20.[ 9,14]     0 ms...Necht toho.
+22) swine.exe:  22.[ 8,18]  1657 ms...Val=  1180 (1/2/20)
+24) swine.exe:  24.[ 7,15]  1906 ms...Val=   962 (1/1/20)
+26) swine.exe:  26.[ 6,12]    15 ms...Už to nechci.
+28) swine.exe:  28.[ 9,19]     0 ms...Jen si hraj.
+30) swine.exe:  30.[ 4,16]  1016 ms...Val=  1360 (1/1/20)
+32) swine.exe:  32.[ 9,11]  1718 ms...Val=  1270 (1/1/20)
+34) swine.exe:  34.[ 5,16]  2641 ms...Val=  1145 (1/1/20)
+36) swine.exe:  36.[10, 9]  5688 ms...Val=  1222 (1/10/20)
+38) swine.exe:  38.[ 7,14]     0 ms...Co se dá dìlat?
+40) swine.exe:  40.[ 8,17]     0 ms...Dej mi pokoj.
+42) swine.exe:  42.[ 3,12]     0 ms...Už to nechci.
+44) swine.exe:  44.[ 9,10]  4125 ms...Val=  2282 (1/5/20)
+46) swine.exe:  46.[ 3,14]  2703 ms...Val=  2124 (1/4/20)
+48) swine.exe:  48.[13,13]     0 ms...Co se dá dìlat?
+50) swine.exe:  50.[ 5,11]     0 ms...Už to nechci.
+52) swine.exe:  52.[ 9, 8]     0 ms...WIN PN1 219/74 :-))
+54) swine.exe:  54.[11, 8]    16 ms...WIN PN1 206/69 Že by?.
+56) swine.exe:  56.[11,10]    15 ms...WIN PN1 244/82 :-)
+58) swine.exe:  58.[ 7,11]     0 ms...Necht toho.
+60) swine.exe:  60.[ 8, 9]    16 ms...No jo.
+62) swine.exe:  62.[ 8, 7]     0 ms...To se musíte víc snažit, pane správce.
+64) swine.exe:  64.[12,11]    16 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\final\1x4-65(1).rec
+______________________________
+Goro2005 x kanec
+-> H:\gomocup-online\final\2x6-38(1).rec
+______________________________
+HGarden x QMENTAT6
+-> H:\gomocup-online\final\5x0-23(1).rec
+______________________________
+HGarden x swine
+ 5) swine.exe:   5.[ 7, 7]   109 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 8, 7]   109 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[ 9, 6]    94 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[11, 9]  2556 ms...Val=   333 (1/2/6)
+13) swine.exe:  13.[10, 5]  2213 ms...Val=   136 (1/1/20)
+15) swine.exe:  15.[ 9, 9]  4161 ms...Val=  -297 (1/5/20)
+17) swine.exe:  17.[12, 9]  1558 ms...Val=  -148 (1/3/20)
+19) swine.exe:  19.[12, 4]   265 ms...:-(
+21) swine.exe:  21.[ 9, 8]    16 ms...Tady to smrdí.
+23) swine.exe:  23.[10, 6]     0 ms...Baví tì to?
+25) swine.exe:  25.[12, 6]     0 ms...Tady to smrdí.
+27) swine.exe:  27.[ 6, 4]     0 ms...Baví tì to?
+29) swine.exe:  29.[19,19]     0 ms...Dobrá práce.
+-> H:\gomocup-online\final\5x1-31(1).rec
+______________________________
+kanec x Goro2005
+-> H:\gomocup-online\final\6x2-52(1).rec
+______________________________
+Noesis x bestmove
+-> H:\gomocup-online\final\3x4-24(1).rec
+______________________________
+bestmove x Goro2005
+-> H:\gomocup-online\final\4x2-32(1).rec
+______________________________
+Goro2005 x HGarden
+-> H:\gomocup-online\final\2x5-33(1).rec
+______________________________
+bestmove x Noesis
+-> H:\gomocup-online\final\4x3-23(1).rec
+______________________________
+Noesis x kanec
+-> H:\gomocup-online\final\3x6-24(1).rec
+______________________________
+kanec x Noesis
+-> H:\gomocup-online\final\6x3-27(1).rec
+______________________________
+swine x Tito
+ 6) swine.exe:   6.[ 8, 6]  6868 ms...Val=   681 (1/8/20)
+ 8) swine.exe:   8.[ 6, 8]  2710 ms...Val=   670 (1/8/20)
+10) swine.exe:  10.[10, 5]  1355 ms...Val=   199 (1/2/4)
+12) swine.exe:  12.[11,10]  3208 ms...Val=   424 (1/1/6)
+14) swine.exe:  14.[ 7, 6]  2528 ms...Val=   418 (1/1/20)
+16) swine.exe:  16.[ 9, 9]  2995 ms...Val=   379 (1/12/20)
+18) swine.exe:  18.[ 5, 7]  2590 ms...Val=   666 (1/1/20)
+20) swine.exe:  20.[ 8,10]  2543 ms...WIN AB 3 To by mìlo vyjít.
+22) swine.exe:  22.[ 7,10]     0 ms...No to je zábava.
+24) swine.exe:  24.[ 8,12]  2433 ms...Val=   337 (1/13/20)
+26) swine.exe:  26.[ 6, 9]     0 ms...Baví tì to?
+28) swine.exe:  28.[ 6,11]  1201 ms...Val=   313 (1/3/20)
+30) swine.exe:  30.[ 5, 6]  2262 ms...Val=   710 (1/1/20)
+32) swine.exe:  32.[ 5,11]  1998 ms...Val=   704 (1/4/20)
+34) swine.exe:  34.[ 9, 7]  1077 ms...Val=   562 (1/2/20)
+36) swine.exe:  36.[ 3, 3]   593 ms...Aj vaj
+38) swine.exe:  38.[ 4, 3]     0 ms...To vypadá zle.
+40) swine.exe:  40.[ 6, 4]    15 ms...Kví kví!
+42) swine.exe:  42.[ 0, 0]     0 ms...Hmmmmm, dost dobrý.
+-> H:\gomocup-online\final\1x8-44(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\final\2x8-33(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\final\3x5-38(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\final\5x3-25(1).rec
+______________________________
+bestmove x swine
+ 5) swine.exe:   5.[12,11]   110 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[14,10] 12937 ms...Val=   229 (1/13/20)
+ 9) swine.exe:   9.[11, 9]  3094 ms...Val=   311 (1/2/4)
+11) swine.exe:  11.[16, 9]     0 ms...Dej mi pokoj.
+13) swine.exe:  13.[17,11]  6031 ms...Val=   272 (1/4/20)
+15) swine.exe:  15.[15, 7]  4969 ms...Val=   391 (1/5/20)
+17) swine.exe:  17.[15,11]  5203 ms...Val=   496 (1/3/20)
+19) swine.exe:  19.[13, 7]  4719 ms...Val=   700 (1/1/20)
+21) swine.exe:  21.[11,14]  2141 ms...Val=   887 (1/1/20)
+23) swine.exe:  23.[12,12]  1531 ms...Val=   931 (1/1/20)
+25) swine.exe:  25.[14,15]  3250 ms...Val=  1278 (1/2/20)
+27) swine.exe:  27.[13,15]  2687 ms...Val=  1300 (1/1/20)
+29) swine.exe:  29.[14,13]  6984 ms...Val=  1408 (1/2/20)
+31) swine.exe:  31.[10,11]     0 ms...Už to nechci.
+33) swine.exe:  33.[16,15]    32 ms...Tady to smrdí.
+35) swine.exe:  35.[10,13]     0 ms...Co se dá dìlat?
+37) swine.exe:  37.[ 0,19]     0 ms...Gratuluju
+-> H:\gomocup-online\final\4x1-39(1).rec
+______________________________
+QMENTAT6 x pela
+49) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\0x7-56(1).rec
+______________________________
+Noesis x Tito
+-> H:\gomocup-online\final\3x8-24(1).rec
+______________________________
+Tito x Noesis
+-> H:\gomocup-online\final\8x3-27(1).rec
+______________________________
+swine x pela
+ 6) swine.exe:   6.[12,13]  3679 ms...Val=   680 (1/8/20)
+ 8) swine.exe:   8.[13,14]  3242 ms...Val=   465 (1/15/20)
+10) swine.exe:  10.[14,10]  2635 ms...Val=   571 (1/1/4)
+12) swine.exe:  12.[13,12]  1436 ms...Val=   535 (1/3/20)
+14) swine.exe:  14.[15,14]  2700 ms...Val=   961 (1/18/20)
+16) swine.exe:  16.[ 9,15]     0 ms...Už to nechci.
+18) swine.exe:  18.[13,15]    15 ms...WIN PN1 2623/932 Vypadá to výbornì.
+20) swine.exe:  20.[14,14]    15 ms...WIN PN1 1841/667 :-)
+22) swine.exe:  22.[16,14]     0 ms...WIN PN1 1176/424 Tøi èuníci jdou...
+24) swine.exe:  24.[15,13]     0 ms...WIN PN1 823/297 Vypadá to výbornì.
+26) swine.exe:  26.[15,15]    16 ms...WIN PN1 247/90 :-)
+28) swine.exe:  28.[12,16]     0 ms...WIN PN1 232/81 :-)
+30) swine.exe:  30.[16,16]     0 ms...WIN PN1 112/37 To snad pude.
+32) swine.exe:  32.[16,15]    16 ms...WIN PN1 115/39 :-)
+34) swine.exe:  34.[14,15]     0 ms...Tak snad nìkdy pøíštì.
+36) swine.exe:  36.[12,15]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\final\1x7-37(1).rec
+______________________________
+HGarden x Goro2005
+-> H:\gomocup-online\final\5x2-51(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\final\8x2-40(1).rec
+______________________________
+Tito x swine
+ 5) swine.exe:   5.[ 8, 9]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[ 9, 9]    78 ms...Val= 19451 (1/0/0)
+ 9) swine.exe:   9.[10,10]    93 ms...Val= 19382 (1/0/0)
+11) swine.exe:  11.[12, 7]  2529 ms...Val=   330 (1/2/6)
+13) swine.exe:  13.[11,11]  2919 ms...Val=   148 (1/1/20)
+15) swine.exe:  15.[ 6, 7]  4558 ms...Val=   364 (1/5/20)
+17) swine.exe:  17.[ 5, 6]  5042 ms...Val=   457 (1/3/20)
+19) swine.exe:  19.[13,13]  5245 ms...Val=   277 (1/8/20)
+21) swine.exe:  21.[ 8, 6]  5026 ms...Val=  -173 (1/3/20)
+23) swine.exe:  23.[ 8, 5]  1155 ms...Val=  -346 (1/1/20)
+25) swine.exe:  25.[ 7,12]     0 ms...Baví tì to?
+27) swine.exe:  27.[ 9, 4]   156 ms...Val= -1677 (1/2/20)
+29) swine.exe:  29.[ 4, 6]   141 ms...Val= -1895 (1/4/20)
+31) swine.exe:  31.[ 6, 9]   140 ms...Tady to smrdí.
+33) swine.exe:  33.[ 8,10]     0 ms...Nedráždi svini bosou nohou.
+35) swine.exe:  35.[ 7, 9]     0 ms...:-((
+37) swine.exe:  37.[ 0, 0]     0 ms...To se ti povedlo.
+-> H:\gomocup-online\final\8x1-39(1).rec
+______________________________
+HGarden x kanec
+-> H:\gomocup-online\final\5x6-36(1).rec
+______________________________
+bestmove x HGarden
+-> H:\gomocup-online\final\4x5-38(1).rec
+______________________________
+Goro2005 x pela
+-> H:\gomocup-online\final\2x7-33(1).rec
+______________________________
+kanec x HGarden
+-> H:\gomocup-online\final\6x5-52(1).rec
+______________________________
+Noesis x pela
+-> H:\gomocup-online\final\3x7-44(1).rec
+______________________________
+HGarden x bestmove
+-> H:\gomocup-online\final\5x4-38(1).rec
+______________________________
+bestmove x kanec
+-> H:\gomocup-online\final\4x6-79(1).rec
+______________________________
+pela x QMENTAT6
+42) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x0-51(1).rec
+______________________________
+kanec x bestmove
+-> H:\gomocup-online\final\6x4-53(1).rec
+______________________________
+bestmove x Tito
+-> H:\gomocup-online\final\4x8-48(1).rec
+______________________________
+pela x swine
+ 5) swine.exe:   5.[11,12]    63 ms...Val= 19540 (1/0/0)
+ 7) swine.exe:   7.[12,12]  9181 ms...Val=   355 (1/12/20)
+ 9) swine.exe:   9.[11,11]  2326 ms...Val=   593 (1/3/20)
+11) swine.exe:  11.[10,15]  5652 ms...Val=   552 (1/7/20)
+13) swine.exe:  13.[ 8,10] 10509 ms...Val=   665 (1/16/20)
+15) swine.exe:  15.[10, 8]  7776 ms...Val=   664 (1/8/20)
+17) swine.exe:  17.[11, 8]  7948 ms...Val=   882 (1/19/20)
+19) swine.exe:  19.[12, 8]  1421 ms...Val=   819 (1/1/20)
+21) swine.exe:  21.[12, 9]  2420 ms...Val=   905 (1/5/20)
+23) swine.exe:  23.[ 8, 7]  7370 ms...Val=  1067 (1/10/20)
+25) swine.exe:  25.[ 7,13]  8948 ms...Val=   931 (1/18/20)
+27) swine.exe:  27.[ 5,12] 12320 ms...Val=   793 (1/19/20)
+29) swine.exe:  29.[12, 7]  2327 ms...Val=   805 (1/6/20)
+31) swine.exe:  31.[ 8, 9]  1859 ms...Val=   853 (1/2/20)
+33) swine.exe:  33.[ 8, 6]  1468 ms...Val=   710 (1/8/20)
+35) swine.exe:  35.[12,10]   718 ms...Val=   641 (1/5/20)
+37) swine.exe:  37.[ 6,11]   672 ms...Val=    79 (1/2/20)
+39) swine.exe:  39.[ 4,13]    16 ms...Val= -2083 (1/12/20)
+41) swine.exe:  41.[ 3,14]     0 ms...Val= -2273 (1/14/20)
+43) swine.exe:  43.[ 9,10]     0 ms...Bojim, bojim.
+44) pbrain-pela.exe:  I win !
+45) swine.exe:  45.[ 7, 9]     0 ms...Nedráždi svini bosou nohou.
+47) swine.exe:  47.[19, 0]     0 ms...Docela ti to de.
+-> H:\gomocup-online\final\7x1-49(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\final\5x7-25(1).rec
+______________________________
+Tito x bestmove
+-> H:\gomocup-online\final\8x4-35(1).rec
+______________________________
+swine x QMENTAT6
+ 4) swine.exe:   4.[ 7,10]   156 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 7, 9]   141 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[10, 9]   797 ms...WIN PN3 35177/13021 :-)
+10) swine.exe:  10.[ 9, 8]   718 ms...WIN PN1 34146/12685 :-))
+12) swine.exe:  12.[ 7, 6]   156 ms...WIN PN1 1767/600 Držte si klobouky...
+14) swine.exe:  14.[ 6,11]    16 ms...WIN PN1 1271/452 Vypadá to výbornì.
+16) swine.exe:  16.[ 7, 7]    16 ms...WIN PN1 679/234 Vypadá to výbornì.
+18) swine.exe:  18.[ 6, 8]     0 ms...WIN PN1 576/197 :-))
+20) swine.exe:  20.[ 5, 9]     0 ms...WIN PN1 102/36 Snad jsem nic nepøehlídla..
+22) swine.exe:  22.[ 8, 6]     0 ms...Nic si z toho nedìlej.
+24) swine.exe:  24.[ 9, 5]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\final\1x0-25(1).rec
+______________________________
+pela x Noesis
+-> H:\gomocup-online\final\7x3-45(1).rec
+______________________________
+QMENTAT6 x swine
+ 5) swine.exe:   5.[11, 9]  4981 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 8, 8]  2857 ms...Val=   104 (1/1/4)
+ 9) swine.exe:   9.[12,12]     0 ms...Dej mi pokoj.
+11) swine.exe:  11.[ 9, 8]  2936 ms...Val=   479 (1/1/20)
+13) swine.exe:  13.[12, 7]  7480 ms...Val=   553 (1/6/20)
+15) swine.exe:  15.[11,13] 28938 ms...Val=   622 (1/10/20)
+17) swine.exe:  17.[13,12] 15180 ms...Val=   533 (1/3/20)
+19) swine.exe:  19.[12,14]  6762 ms...Val=   686 (1/1/20)
+21) swine.exe:  21.[12,10]  3732 ms...Val=   863 (1/5/20)
+23) swine.exe:  23.[17,15]     0 ms...Necht toho.
+25) swine.exe:  25.[10,12]    93 ms...WIN PN1 7902/2876 Vypadá to výbornì.
+27) swine.exe:  27.[ 9,12]    15 ms...WIN PN1 1191/449 Držte si klobouky...
+29) swine.exe:  29.[ 8,13]    16 ms...WIN PN1 1144/433 :-))
+31) swine.exe:  31.[10,13]    16 ms...WIN PN1 334/131 To by mìlo vyjít.
+33) swine.exe:  33.[14,11]     0 ms...Tohle mì nebaví.
+35) swine.exe:  35.[17, 9]     0 ms...Kolik jich tam ještì máš?
+37) swine.exe:  37.[10,14]    16 ms...WIN fours seq 4 Je to na dobré cestì.!
+39) swine.exe:  39.[ 9,15]     0 ms...WIN fours seq 3 Tøi èuníci jdou...
+41) swine.exe:  41.[ 9,13]     0 ms...WIN fours seq 2 Snad jsem nic nepøehlídla..
+43) swine.exe:  43.[ 9,14]    16 ms...WIN fours seq 1 Chro chro.
+45) swine.exe:  45.[11,14]     0 ms...Zkus trochu víc trénovat.
+47) swine.exe:  47.[13,14]     0 ms...Nic si z toho nedìlej.
+-> H:\gomocup-online\final\0x1-48(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\final\2x0-25(2).rec
+______________________________
+Noesis x QMENTAT6
+-> H:\gomocup-online\final\3x0-19(1).rec
+______________________________
+pela x Goro2005
+-> H:\gomocup-online\final\7x2-46(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\final\0x2-38(1).rec
+______________________________
+kanec x Tito
+-> H:\gomocup-online\final\6x8-68(1).rec
+______________________________
+QMENTAT6 x Noesis
+-> H:\gomocup-online\final\0x3-58(1).rec
+______________________________
+kanec x QMENTAT6
+-> H:\gomocup-online\final\6x0-21(1).rec
+______________________________
+bestmove x QMENTAT6
+-> H:\gomocup-online\final\4x0-29(1).rec
+______________________________
+Tito x kanec
+-> H:\gomocup-online\final\8x6-37(1).rec
+______________________________
+HGarden x QMENTAT6
+-> H:\gomocup-online\final\5x0-23(2).rec
+______________________________
+kanec x pela
+-> H:\gomocup-online\final\6x7-33(1).rec
+______________________________
+QMENTAT6 x kanec
+-> H:\gomocup-online\final\0x6-36(1).rec
+______________________________
+QMENTAT6 x HGarden
+-> H:\gomocup-online\final\0x5-22(1).rec
+______________________________
+QMENTAT6 x bestmove
+-> H:\gomocup-online\final\0x4-44(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\final\8x0-27(1).rec
+______________________________
+Goro2005 x swine
+ 5) swine.exe:   5.[10, 9]  4685 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 9,12]  3217 ms...Val=   104 (1/1/4)
+ 9) swine.exe:   9.[11, 9]  5014 ms...Val=     9 (1/3/20)
+11) swine.exe:  11.[ 9, 8]  2842 ms...Val=  -155 (2/2/20)
+13) swine.exe:  13.[11, 7]  2295 ms...Val=  -181 (1/11/20)
+15) swine.exe:  15.[12,12]  2139 ms...Val=  -328 (1/1/20)
+17) swine.exe:  17.[ 9,11]  3530 ms...Val=    14 (1/4/20)
+19) swine.exe:  19.[10, 7]  5185 ms...Val=    90 (1/3/20)
+21) swine.exe:  21.[10,14]     0 ms...Tohle mì nebaví.
+23) swine.exe:  23.[ 8,13]   234 ms...:-((
+25) swine.exe:  25.[12,11]    31 ms...:-((
+27) swine.exe:  27.[13,13]    16 ms...Necht toho.
+29) swine.exe:  29.[11,12]     0 ms...Co se dá dìlat?
+31) swine.exe:  31.[15,12]     0 ms...Tohle mì nebaví.
+33) swine.exe:  33.[ 0, 0]     0 ms...To se ti povedlo.
+-> H:\gomocup-online\final\2x1-35(1).rec
+______________________________
+Noesis x swine
+ 5) swine.exe:   5.[ 8, 9]  4982 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 7, 9]  8793 ms...Val=    54 (1/4/20)
+ 9) swine.exe:   9.[ 6, 7]  1671 ms...Val=   104 (1/1/3)
+11) swine.exe:  11.[ 9, 6]  2811 ms...Val=     1 (1/1/4)
+13) swine.exe:  13.[ 5, 9]  1936 ms...Val=   -88 (1/3/20)
+15) swine.exe:  15.[ 4, 7]  1296 ms...Val=    -4 (1/2/20)
+17) swine.exe:  17.[ 4,11]     0 ms...Baví tì to?
+19) swine.exe:  19.[ 6,10]  1108 ms...Val=   510 (1/1/20)
+21) swine.exe:  21.[10,10]  1015 ms...Val=  -178 (1/2/20)
+23) swine.exe:  23.[ 5, 5]     0 ms...Necht toho.
+25) swine.exe:  25.[ 9,12]     0 ms...Baví tì to?
+27) swine.exe:  27.[10, 8]  1921 ms...Val=   888 (1/1/20)
+29) swine.exe:  29.[ 8, 4]  1374 ms...Val=   552 (1/2/20)
+31) swine.exe:  31.[ 5,13]     0 ms...Necht toho.
+33) swine.exe:  33.[ 7, 4]     0 ms...Kolik jich tam ještì máš?
+35) swine.exe:  35.[ 9,11]  1186 ms...Val=  1667 (1/1/20)
+37) swine.exe:  37.[ 4, 8]     0 ms...Nedráždi svini bosou nohou.
+39) swine.exe:  39.[ 7,12]   374 ms...Val=  2891 (1/1/20)
+41) swine.exe:  41.[ 2, 7]     0 ms...Dej mi pokoj.
+43) swine.exe:  43.[ 3, 6]   843 ms...Val=  3079 (1/1/20)
+45) swine.exe:  45.[ 3,11]     0 ms...Nedráždi svini bosou nohou.
+47) swine.exe:  47.[ 1,12]     0 ms...Baví tì to?
+49) swine.exe:  49.[ 7,13]    47 ms...WIN PN3 1135/421 Držte si klobouky...
+51) swine.exe:  51.[ 1,10]     0 ms...Nedráždi svini bosou nohou.
+53) swine.exe:  53.[ 5,11]    16 ms...Už to nechci.
+55) swine.exe:  55.[ 2,12]     0 ms...Baví tì to?
+57) swine.exe:  57.[ 0, 9]     0 ms...Kolik jich tam ještì máš?
+59) swine.exe:  59.[ 0,10]     0 ms...Baví tì to?
+61) swine.exe:  61.[ 5, 6]    15 ms...Už to nechci.
+63) swine.exe:  63.[ 1, 7]     0 ms...No to je zábava.
+65) swine.exe:  65.[ 4,12]     0 ms...WIN fours seq 1 Vypadá to výbornì.
+67) swine.exe:  67.[ 3,12]    16 ms...To se musíte víc snažit, pane správce.
+69) swine.exe:  69.[ 0,12]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\final\3x1-70(1).rec
+______________________________
+swine x Noesis
+ 4) swine.exe:   4.[10, 9]   157 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 9, 9]   140 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[11, 9]   125 ms...Val= 19886 (1/0/0)
+10) swine.exe:  10.[ 9,12]   125 ms...Val= 18452 (1/0/0)
+12) swine.exe:  12.[ 8,11]   141 ms...WIN PN3 1906/721 :-))
+14) swine.exe:  14.[ 7, 9]     0 ms...WIN PN1 102/36 Chro chro.
+16) swine.exe:  16.[ 7,12]     0 ms...WIN PN1 73/25 To snad pude.
+18) swine.exe:  18.[ 7,10]     0 ms...WIN PN1 59/20 Snad jsem nic nepøehlídla..
+20) swine.exe:  20.[13,11]     0 ms...No jo.
+22) swine.exe:  22.[14, 7]     0 ms...No jo.
+24) swine.exe:  24.[ 7,11]     0 ms...Juch!
+26) swine.exe:  26.[ 7, 8]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\final\1x3-27(2).rec
+______________________________
+pela x QMENTAT6
+30) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x0-39(1).rec
+______________________________
+HGarden x Tito
+-> H:\gomocup-online\final\5x8-83(1).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\final\0x8-36(1).rec
+______________________________
+swine x Goro2005
+ 4) swine.exe:   4.[ 7, 7]   172 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 7, 8]   156 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[ 7, 5]  1858 ms...Val=   480 (1/4/20)
+10) swine.exe:  10.[ 9, 6]  2014 ms...Val=   386 (1/1/20)
+12) swine.exe:  12.[ 7, 9]  1765 ms...Val=   628 (1/1/5)
+14) swine.exe:  14.[ 8, 5]  4420 ms...Val=   787 (1/6/20)
+16) swine.exe:  16.[12,10]     0 ms...Nedráždi svini bosou nohou.
+18) swine.exe:  18.[10, 5]  5279 ms...Val=   856 (1/4/20)
+20) swine.exe:  20.[11, 5]  3093 ms...Val=   753 (1/6/20)
+22) swine.exe:  22.[ 8,10]  6918 ms...Val=   429 (1/8/20)
+24) swine.exe:  24.[ 5, 7]  4669 ms...Val=   328 (1/11/20)
+26) swine.exe:  26.[ 6, 6]  2718 ms...Val=    12 (1/1/20)
+28) swine.exe:  28.[ 5, 5]  8012 ms...WIN AB 3 :-))
+30) swine.exe:  30.[ 5, 6]  8262 ms...WIN AB 3 Je to na dobré cestì.!
+32) swine.exe:  32.[10, 9]     0 ms...No jo.
+34) swine.exe:  34.[ 9, 8]    16 ms...No jo.
+36) swine.exe:  36.[ 9,13]     0 ms...Baví tì to?
+38) swine.exe:  38.[ 4, 8]  8684 ms...WIN AB 3 Tøi èuníci jdou...
+40) swine.exe:  40.[ 5, 9]  2718 ms...WIN AB 1 Tøi èuníci jdou...
+42) swine.exe:  42.[ 3, 7]  2202 ms...WIN AB 0 To by mìlo vyjít.
+44) swine.exe:  44.[ 8,11]     0 ms...No jo.
+46) swine.exe:  46.[ 3, 6]     0 ms...Dej mi pokoj.
+48) swine.exe:  48.[ 3, 2]     0 ms...Dej mi pokoj.
+50) swine.exe:  50.[ 6,10]  3217 ms...Val=  -637 (1/6/20)
+52) swine.exe:  52.[ 7, 4]  3170 ms...Val=  -532 (1/2/20)
+54) swine.exe:  54.[11,10]  2108 ms...Val=  -467 (1/4/20)
+56) swine.exe:  56.[11, 8]  4716 ms...Val=  -629 (1/9/20)
+58) swine.exe:  58.[ 5,11]  4061 ms...Val=  -883 (1/7/20)
+60) swine.exe:  60.[ 4, 6]  1624 ms...Val= -1211 (1/1/20)
+62) swine.exe:  62.[ 6, 2]  2389 ms...Val= -1375 (1/2/20)
+64) swine.exe:  64.[10,10]  2217 ms...Val= -1442 (1/1/20)
+66) swine.exe:  66.[ 4, 5]  1656 ms...Val= -1432 (1/10/20)
+68) swine.exe:  68.[ 3, 4]  1546 ms...Val=  -819 (1/2/20)
+70) swine.exe:  70.[ 2, 3]     0 ms...Val= -2084 (1/3/20)
+72) swine.exe:  72.[13,10]    15 ms...Val= -2401 (1/4/20)
+74) swine.exe:  74.[ 2, 8]    16 ms...Val= -2774 (1/4/20)
+76) swine.exe:  76.[ 1, 7]     0 ms...Kví kví!
+78) swine.exe:  78.[ 2,10]    15 ms...Hmm, to není dobrý
+80) swine.exe:  80.[ 4, 9]     0 ms...Už to nechci.
+82) swine.exe:  82.[ 0,19]     0 ms...Docela ti to de.
+-> H:\gomocup-online\final\1x2-84(1).rec
+______________________________
+bestmove x pela
+91) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\4x7-98(1).rec
+______________________________
+kanec x swine
+ 5) swine.exe:   5.[10,12]  4654 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[11,12]  8340 ms...Val=    54 (1/4/20)
+ 9) swine.exe:   9.[12, 9]  4295 ms...Val=   147 (1/1/4)
+11) swine.exe:  11.[ 7,14]     0 ms...Necht toho.
+13) swine.exe:  13.[ 9,10]  3857 ms...Val=    94 (1/1/3)
+15) swine.exe:  15.[ 8,12]  1327 ms...Val=   143 (1/1/20)
+17) swine.exe:  17.[12,12]   438 ms...Val=   428 (1/1/20)
+19) swine.exe:  19.[14,12]   312 ms...Val=   -93 (1/4/20)
+21) swine.exe:  21.[11, 7]   234 ms...To už asi nedoženu.
+23) swine.exe:  23.[ 7, 7]     0 ms...Tohle mì nebaví.
+25) swine.exe:  25.[ 7,10]     0 ms...Hmm, to není dobrý
+27) swine.exe:  27.[ 8, 7]     0 ms...No to je zábava.
+29) swine.exe:  29.[ 0, 0]     0 ms...Vzdávám se.
+-> H:\gomocup-online\final\6x1-31(1).rec
+______________________________
+swine x kanec
+ 4) swine.exe:   4.[11,10]   156 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[12, 9]   140 ms...Val= 20206 (1/0/0)
+ 8) swine.exe:   8.[ 9,10]  2406 ms...Val=   484 (1/1/20)
+10) swine.exe:  10.[ 7, 9]  6435 ms...Val=   592 (1/2/8)
+12) swine.exe:  12.[12,12]  1031 ms...Val=   601 (1/1/10)
+14) swine.exe:  14.[11,11]  3389 ms...Val=   546 (1/1/20)
+16) swine.exe:  16.[13,13]  5419 ms...Val=   559 (1/1/20)
+18) swine.exe:  18.[13, 8]  3686 ms...Val=   397 (1/4/20)
+20) swine.exe:  20.[ 8,12]  4935 ms...Val=   -10 (1/5/20)
+22) swine.exe:  22.[12,14]  2358 ms...Val=   193 (1/1/20)
+24) swine.exe:  24.[ 6,12]  1608 ms...Val=    91 (1/2/20)
+26) swine.exe:  26.[10, 8]     0 ms...No to je zábava.
+28) swine.exe:  28.[11,14]  1781 ms...Val=   365 (1/1/20)
+30) swine.exe:  30.[ 5,11]     0 ms...Už to nechci.
+32) swine.exe:  32.[ 6, 9]     0 ms...Nedráždi svini bosou nohou.
+34) swine.exe:  34.[ 8, 9]    15 ms...:-((
+36) swine.exe:  36.[ 7, 8]    16 ms...Val= -1055 (1/3/20)
+38) swine.exe:  38.[ 4, 9]    16 ms...Val= -1206 (1/5/20)
+40) swine.exe:  40.[ 8,15]    16 ms...Kví kví!
+42) swine.exe:  42.[13,10]     0 ms...Nedráždi svini bosou nohou.
+44) swine.exe:  44.[ 4,13]     0 ms...No jo.
+46) swine.exe:  46.[ 8,13]   906 ms...Val=  1602 (1/14/20)
+48) swine.exe:  48.[ 9,13]     0 ms...Necht toho.
+50) swine.exe:  50.[ 7,14]   438 ms...Val=  2088 (1/2/20)
+52) swine.exe:  52.[10, 7]   156 ms...WIN AB 0 Že by?.
+54) swine.exe:  54.[11,17]     0 ms...Kolik jich tam ještì máš?
+56) swine.exe:  56.[12, 7]     0 ms...Dej mi pokoj.
+58) swine.exe:  58.[ 6,10]     0 ms...WIN PN1 310/110 To by mìlo vyjít.
+60) swine.exe:  60.[17, 7]     0 ms...Kolik jich tam ještì máš?
+62) swine.exe:  62.[ 8, 8]     0 ms...WIN fours seq 3 :-))
+64) swine.exe:  64.[ 9, 8]     0 ms...WIN fours seq 2 :-))
+66) swine.exe:  66.[11, 6]     0 ms...WIN fours seq 1 Že by?.
+68) swine.exe:  68.[10, 5]     0 ms...Juch!
+70) swine.exe:  70.[ 9, 4]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\final\1x6-71(1).rec
+______________________________
+HGarden x swine
+ 5) swine.exe:   5.[10,10]  4638 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[ 9,13]  3233 ms...Val=   104 (1/1/4)
+ 9) swine.exe:   9.[11,10]  5013 ms...Val=     9 (1/3/20)
+11) swine.exe:  11.[12, 9]  2780 ms...Val=  -155 (2/2/20)
+13) swine.exe:  13.[ 8, 9]  4169 ms...Val=   -25 (1/4/20)
+15) swine.exe:  15.[13,12]  3795 ms...Val=     4 (1/3/20)
+17) swine.exe:  17.[15,14]   796 ms...Val= -2681 (1/5/20)
+19) swine.exe:  19.[ 8,11]    62 ms...Tohle zkonèí špatnì
+21) swine.exe:  21.[ 9, 7]    78 ms...Bojim, bojim.
+23) swine.exe:  23.[14, 8]    16 ms...Nedráždi svini bosou nohou.
+25) swine.exe:  25.[ 6,14]    63 ms...:-(
+27) swine.exe:  27.[13,11]     0 ms...Necht toho.
+29) swine.exe:  29.[19, 0]     0 ms...Dobrá práce.
+-> H:\gomocup-online\final\5x1-31(2).rec
+______________________________
+Tito x HGarden
+-> H:\gomocup-online\final\8x5-33(1).rec
+______________________________
+pela x HGarden
+-> H:\gomocup-online\final\7x5-38(1).rec
+______________________________
+Noesis x Goro2005
+-> H:\gomocup-online\final\3x2-22(2).rec
+______________________________
+Goro2005 x Noesis
+-> H:\gomocup-online\final\2x3-19(1).rec
+______________________________
+swine x HGarden
+ 4) swine.exe:   4.[ 9,11]   156 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[ 9,12]   125 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[ 9, 9]  1921 ms...Val=   480 (1/5/20)
+10) swine.exe:  10.[ 7,10]  1718 ms...Val=   374 (1/1/20)
+12) swine.exe:  12.[ 9,13]  1827 ms...Val=   640 (1/1/5)
+14) swine.exe:  14.[ 8, 9]  3717 ms...Val=   793 (1/5/20)
+16) swine.exe:  16.[ 6, 9]  3108 ms...Val=   725 (1/4/20)
+18) swine.exe:  18.[ 5, 9]  2295 ms...Val=   640 (1/4/20)
+20) swine.exe:  20.[ 8,14]  5419 ms...Val=   423 (1/12/20)
+22) swine.exe:  22.[11,11]  3561 ms...Val=   245 (1/19/20)
+24) swine.exe:  24.[ 9,14]   969 ms...WIN AB 3 Tøi èuníci jdou...
+26) swine.exe:  26.[12,11]  1671 ms...WIN AB 3 Je to na dobré cestì.!
+28) swine.exe:  28.[10,12]    15 ms...Nedráždi svini bosou nohou.
+30) swine.exe:  30.[11,10]     0 ms...Co se dá dìlat?
+32) swine.exe:  32.[10, 7]  1030 ms...Val=  -643 (1/2/20)
+34) swine.exe:  34.[11, 6]   453 ms...Val=  -672 (1/1/20)
+36) swine.exe:  36.[ 6,14]   297 ms...Tohle zkonèí špatnì
+38) swine.exe:  38.[ 7,12]     0 ms...Nedráždi svini bosou nohou.
+40) swine.exe:  40.[10,15]     0 ms...Aj vaj
+42) swine.exe:  42.[ 5,12]     0 ms...Tohle zkonèí špatnì
+44) swine.exe:  44.[ 0,19]     0 ms...Ty to asi nehraješ prvnì.
+-> H:\gomocup-online\final\1x5-46(1).rec
+______________________________
+pela x Tito
+-> H:\gomocup-online\final\7x8-36(1).rec
+______________________________
+QMENTAT6 x pela
+-> H:\gomocup-online\final\0x7-56(2).rec
+______________________________
+kanec x Goro2005
+-> H:\gomocup-online\final\6x2-31(1).rec
+______________________________
+Tito x swine
+ 5) swine.exe:   5.[12, 9]  4958 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[12,10]  5411 ms...Val=    89 (2/2/20)
+ 9) swine.exe:   9.[13,12]  5208 ms...Val=    86 (1/2/4)
+11) swine.exe:  11.[10,13]  2346 ms...Val=   394 (1/1/6)
+13) swine.exe:  13.[ 9,12] 14951 ms...Val=   344 (1/2/20)
+15) swine.exe:  15.[ 8,11]  1455 ms...Val=   -14 (1/2/20)
+17) swine.exe:  17.[ 8, 7]     0 ms...Nedráždi svini bosou nohou.
+19) swine.exe:  19.[11,14]    16 ms...Val= -2415 (1/3/20)
+21) swine.exe:  21.[10, 7]    16 ms...:-((
+23) swine.exe:  23.[ 9, 6]     0 ms...Val= -1312 (1/5/20)
+25) swine.exe:  25.[10,11]     0 ms...:-((
+27) swine.exe:  27.[10,10]     0 ms...Tohle mì nebaví.
+29) swine.exe:  29.[ 9, 9]     0 ms...No jo.
+31) swine.exe:  31.[19, 0]    16 ms...Ty to asi nehraješ prvnì.
+-> H:\gomocup-online\final\8x1-33(1).rec
+______________________________
+bestmove x swine
+ 5) swine.exe:   5.[10, 9]  4810 ms...Val=   194 (1/1/19)
+ 7) swine.exe:   7.[10,10]  5544 ms...Val=    89 (2/2/20)
+ 9) swine.exe:   9.[ 9,12]  4310 ms...Val=    75 (1/2/4)
+11) swine.exe:  11.[12,10]  3263 ms...Val=   -96 (1/1/20)
+13) swine.exe:  13.[14, 7]     0 ms...Kolik jich tam ještì máš?
+15) swine.exe:  15.[15, 9]  2281 ms...Val=   119 (1/3/20)
+17) swine.exe:  17.[12,13]  1187 ms...Val=   245 (1/1/20)
+19) swine.exe:  19.[13,11]  1046 ms...Val=   211 (1/2/20)
+21) swine.exe:  21.[13,12]  2092 ms...Val=   536 (1/1/20)
+23) swine.exe:  23.[15, 8]  1405 ms...Val=   348 (1/4/20)
+25) swine.exe:  25.[ 8, 9]     0 ms...Baví tì to?
+27) swine.exe:  27.[14,11]   125 ms...Val=   212 (1/1/20)
+29) swine.exe:  29.[12, 7]   125 ms...Val=   399 (1/2/20)
+31) swine.exe:  31.[17,10]     0 ms...Jen si hraj.
+33) swine.exe:  33.[13, 6]   172 ms...Val=   788 (1/2/20)
+35) swine.exe:  35.[12, 5]   265 ms...Val=   640 (1/5/20)
+37) swine.exe:  37.[10,15]  2311 ms...Val=   530 (1/20/20)
+39) swine.exe:  39.[16,12]  2295 ms...Val=   158 (1/17/20)
+41) swine.exe:  41.[13,13]   874 ms...Val=     6 (1/1/20)
+43) swine.exe:  43.[17,12]     0 ms...Dej mi pokoj.
+45) swine.exe:  45.[16, 7]     0 ms...Už to nechci.
+47) swine.exe:  47.[18, 8]     0 ms...Tohle mì nebaví.
+49) swine.exe:  49.[11, 7]     0 ms...No jo.
+51) swine.exe:  51.[14, 6]   266 ms...WIN AB 3 Snad jsem nic nepøehlídla..
+53) swine.exe:  53.[12, 6]    16 ms...WIN PN1 1365/534 Tøi èuníci jdou...
+55) swine.exe:  55.[19,11]     0 ms...Dej mi pokoj.
+57) swine.exe:  57.[13,15]     0 ms...WIN PN1 94/34 Že by?.
+59) swine.exe:  59.[15,13]     0 ms...WIN PN1 123/45 Že by?.
+61) swine.exe:  61.[12,11]     0 ms...Dej mi pokoj.
+63) swine.exe:  63.[14,14]     0 ms...Hmm, to máš blbý.
+65) swine.exe:  65.[12,16]     0 ms...Zkus trochu víc trénovat.
+-> H:\gomocup-online\final\4x1-66(1).rec
+______________________________
+Goro2005 x kanec
+-> H:\gomocup-online\final\2x6-57(1).rec
+______________________________
+pela x kanec
+52) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x6-65(1).rec
+______________________________
+swine x bestmove
+ 4) swine.exe:   4.[11, 7]   140 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10, 7]   140 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[12, 7]   125 ms...Val= 19886 (1/0/0)
+10) swine.exe:  10.[10,10]   125 ms...Val= 18452 (1/0/0)
+12) swine.exe:  12.[ 9, 9]   140 ms...WIN PN3 1906/721 Držte si klobouky...
+14) swine.exe:  14.[15, 5]     0 ms...Necht toho.
+16) swine.exe:  16.[ 8, 7]   235 ms...WIN PN1 20914/7578 Že by?.
+18) swine.exe:  18.[ 8, 8]   843 ms...WIN PN1 53283/20030 Chro chro.
+20) swine.exe:  20.[14, 9]    15 ms...Už to nechci.
+22) swine.exe:  22.[ 8, 5]    78 ms...WIN PN1 9255/3176 :-))
+24) swine.exe:  24.[ 9, 6]    15 ms...WIN PN1 270/107 Že by?.
+26) swine.exe:  26.[10, 5]    16 ms...WIN PN1 1465/518 To snad pude.
+28) swine.exe:  28.[12, 6]     0 ms...WIN fours seq 3 Snad jsem nic nepøehlídla..
+30) swine.exe:  30.[10, 6]     0 ms...WIN fours seq 2 :-)
+32) swine.exe:  32.[11, 6]     0 ms...WIN fours seq 1 Vypadá to výbornì.
+34) swine.exe:  34.[13, 8]     0 ms...Juch!
+-> H:\gomocup-online\final\1x4-35(1).rec
+______________________________
+bestmove x Goro2005
+-> H:\gomocup-online\final\4x2-37(1).rec
+______________________________
+bestmove x Noesis
+-> H:\gomocup-online\final\4x3-17(1).rec
+______________________________
+Noesis x bestmove
+-> H:\gomocup-online\final\3x4-27(1).rec
+______________________________
+Goro2005 x bestmove
+-> H:\gomocup-online\final\2x4-31(2).rec
+______________________________
+kanec x Noesis
+-> H:\gomocup-online\final\6x3-27(2).rec
+______________________________
+swine x Tito
+ 4) swine.exe:   4.[11,10]   156 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10,10]   156 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[13,10]  1845 ms...Val=   480 (1/5/20)
+10) swine.exe:  10.[12,12]  1861 ms...Val=   374 (1/1/20)
+12) swine.exe:  12.[ 9,10]  2189 ms...Val=   628 (1/1/5)
+14) swine.exe:  14.[13,11]  5130 ms...Val=   799 (1/6/20)
+16) swine.exe:  16.[13,13]  4003 ms...Val=   737 (1/3/20)
+18) swine.exe:  18.[13,14]  3659 ms...Val=   652 (1/7/20)
+20) swine.exe:  20.[ 8,11]  5270 ms...Val=   435 (1/8/20)
+22) swine.exe:  22.[11, 7]  4567 ms...Val=   257 (2/10/20)
+24) swine.exe:  24.[11, 9]  1517 ms...Val=    19 (1/1/20)
+26) swine.exe:  26.[ 8,15]  3472 ms...Val=    63 (1/16/20)
+28) swine.exe:  28.[10,12]     0 ms...No jo.
+30) swine.exe:  30.[ 5,12]     0 ms...Co se dá dìlat?
+32) swine.exe:  32.[ 8,10]   907 ms...Val=   247 (1/1/20)
+34) swine.exe:  34.[ 7,13]    94 ms...Kví kví!
+36) swine.exe:  36.[ 5, 9]    79 ms...Tohle zkonèí špatnì
+38) swine.exe:  38.[ 6,11]    16 ms...To vypadá zle.
+40) swine.exe:  40.[ 0, 0]     0 ms...To se ti povedlo.
+-> H:\gomocup-online\final\1x8-42(1).rec
+______________________________
+Noesis x kanec
+-> H:\gomocup-online\final\3x6-44(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\final\5x3-31(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\final\8x2-35(1).rec
+______________________________
+Tito x Noesis
+-> H:\gomocup-online\final\8x3-29(1).rec
+______________________________
+pela x swine
+ 5) swine.exe:   5.[11, 8]  3889 ms...Val=   148 (1/3/20)
+ 7) swine.exe:   7.[13, 6] 21084 ms...Val=   164 (1/12/20)
+ 9) swine.exe:   9.[ 9, 7]  2811 ms...Val=   102 (1/3/20)
+11) swine.exe:  11.[11, 5]  2624 ms...Val=   102 (1/1/20)
+13) swine.exe:  13.[13, 5]  2842 ms...Val=   200 (1/4/20)
+15) swine.exe:  15.[12, 5]  3670 ms...Val=   333 (1/1/20)
+17) swine.exe:  17.[14, 7]  3857 ms...Val=   220 (1/3/20)
+19) swine.exe:  19.[13, 9]  3061 ms...Val=   230 (1/13/20)
+21) swine.exe:  21.[14,10]  2671 ms...Val=   356 (1/10/20)
+23) swine.exe:  23.[11, 4]  1233 ms...Val=   175 (1/7/20)
+25) swine.exe:  25.[14, 9]  1328 ms...Val=   -45 (1/1/20)
+27) swine.exe:  27.[16, 8]     0 ms...Co se dá dìlat?
+29) swine.exe:  29.[15, 7]  1764 ms...Val=   -59 (1/1/20)
+31) swine.exe:  31.[16,10]   721 ms...Val=  -151 (1/7/20)
+33) swine.exe:  33.[12, 3]  1036 ms...Val=    11 (1/1/20)
+35) swine.exe:  35.[10, 4]   596 ms...To už asi nedoženu.
+37) swine.exe:  37.[ 8, 7]   471 ms...Tohle zkonèí špatnì
+39) swine.exe:  39.[11, 6]    95 ms...Val=  -613 (1/4/20)
+41) swine.exe:  41.[10, 5]   156 ms...To už asi nedoženu.
+43) swine.exe:  43.[13, 2]   110 ms...Bojim, bojim.
+45) swine.exe:  45.[ 6, 8]    63 ms...To vypadá zle.
+46) pbrain-pela.exe:  I win !
+47) swine.exe:  47.[12,10]     0 ms...Jen si hraj.
+49) swine.exe:  49.[ 6,11]    16 ms...Už to nechci.
+51) swine.exe:  51.[ 9, 9]     0 ms...Necht toho.
+53) swine.exe:  53.[19,19]     0 ms...To se budu muset taky nauèit.
+-> H:\gomocup-online\final\7x1-55(1).rec
+______________________________
+Noesis x Tito
+-> H:\gomocup-online\final\3x8-42(1).rec
+______________________________
+pela x bestmove
+-> H:\gomocup-online\final\7x4-46(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\final\3x5-44(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\final\2x8-33(2).rec
+______________________________
+kanec x bestmove
+-> H:\gomocup-online\final\6x4-27(1).rec
+______________________________
+HGarden x Goro2005
+-> H:\gomocup-online\final\5x2-75(1).rec
+______________________________
+Tito x pela
+-> H:\gomocup-online\final\8x7-29(1).rec
+______________________________
+HGarden x bestmove
+-> H:\gomocup-online\final\5x4-33(1).rec
+______________________________
+kanec x HGarden
+-> H:\gomocup-online\final\6x5-31(1).rec
+______________________________
+pela x Goro2005
+-> H:\gomocup-online\final\7x2-43(1).rec
+______________________________
+Goro2005 x HGarden
+-> H:\gomocup-online\final\2x5-33(2).rec
+______________________________
+Tito x bestmove
+-> H:\gomocup-online\final\8x4-41(1).rec
+______________________________
+pela x Noesis
+46) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x3-51(1).rec
+______________________________
+bestmove x kanec
+-> H:\gomocup-online\final\4x6-62(1).rec
+______________________________
+HGarden x kanec
+-> H:\gomocup-online\final\5x6-63(1).rec
+______________________________
+Tito x kanec
+-> H:\gomocup-online\final\8x6-25(1).rec
+______________________________
+kanec x Tito
+-> H:\gomocup-online\final\6x8-33(1).rec
+______________________________
+bestmove x Tito
+-> H:\gomocup-online\final\4x8-48(2).rec
+______________________________
+QMENTAT6 x swine
+ 5) swine.exe:   5.[ 9,11]  4812 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 8,13]    62 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 7,10]    78 ms...Val= 19189 (1/0/0)
+11) swine.exe:  11.[ 6,13]    78 ms...Val= 17746 (1/0/0)
+13) swine.exe:  13.[11, 8]     0 ms...Nedráždi svini bosou nohou.
+15) swine.exe:  15.[ 6,12]  2781 ms...Val=   894 (1/1/20)
+17) swine.exe:  17.[ 6,15]  5188 ms...Val=  1152 (1/9/20)
+19) swine.exe:  19.[ 7,13]   109 ms...WIN PN1 16556/6299 Tøi èuníci jdou...
+21) swine.exe:  21.[ 9,15]    94 ms...WIN PN1 15998/6081 To by mìlo vyjít.
+23) swine.exe:  23.[ 7,14]    16 ms...WIN PN1 1547/588 To snad pude.
+25) swine.exe:  25.[ 5,13]     0 ms...WIN PN1 1216/452 Že by?.
+27) swine.exe:  27.[ 7,15]     0 ms...WIN PN1 1264/464 Chro chro.
+29) swine.exe:  29.[ 5,16]     0 ms...WIN PN1 1554/550 Vypadá to výbornì.
+31) swine.exe:  31.[ 7,16]    16 ms...WIN PN1 738/279 :-))
+33) swine.exe:  33.[ 4,16]    16 ms...WIN PN1 521/199 Tøi èuníci jdou...
+35) swine.exe:  35.[11,12]     0 ms...Co se dá dìlat?
+37) swine.exe:  37.[11,11]     0 ms...No to je zábava.
+39) swine.exe:  39.[10,10]     0 ms...Už to nechci.
+41) swine.exe:  41.[ 2,15]     0 ms...Baví tì to?
+43) swine.exe:  43.[ 3,15]     0 ms...WIN fours seq 3 Že by?.
+45) swine.exe:  45.[ 5,15]     0 ms...WIN fours seq 2 Tøi èuníci jdou...
+47) swine.exe:  47.[ 5,17]     0 ms...WIN fours seq 1 Že by?.
+49) swine.exe:  49.[ 2,14]     0 ms...Tak snad nìkdy pøíštì.
+51) swine.exe:  51.[ 6,18]     0 ms...Hmm, to máš blbý.
+-> H:\gomocup-online\final\0x1-52(1).rec
+______________________________
+bestmove x HGarden
+-> H:\gomocup-online\final\4x5-56(1).rec
+______________________________
+pela x bestmove
+56) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x4-71(1).rec
+______________________________
+QMENTAT6 x Goro2005
+-> H:\gomocup-online\final\0x2-42(1).rec
+______________________________
+swine x QMENTAT6
+ 6) swine.exe:   6.[ 9, 9]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 8,10]    78 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[ 8, 6]    94 ms...Val= 20092 (1/0/0)
+12) swine.exe:  12.[ 6,10]  3328 ms...Val=   383 (1/7/20)
+14) swine.exe:  14.[11, 8]  1376 ms...Val=   472 (1/1/20)
+16) swine.exe:  16.[ 7, 8]     0 ms...Kolik jich tam ještì máš?
+18) swine.exe:  18.[12,10]   485 ms...Val=   782 (1/1/20)
+20) swine.exe:  20.[12, 7]  7219 ms...Val=   760 (1/8/20)
+22) swine.exe:  22.[ 3,11]  1797 ms...Val=  1045 (1/1/20)
+24) swine.exe:  24.[ 4,11]  4500 ms...Val=  1071 (1/7/20)
+26) swine.exe:  26.[10, 5]  7892 ms...Val=  1142 (1/19/20)
+28) swine.exe:  28.[ 7,11]  1610 ms...Val=  1406 (1/1/20)
+30) swine.exe:  30.[ 8,12]   234 ms...Val=  1803 (1/1/20)
+32) swine.exe:  32.[12, 8]     0 ms...No to je zábava.
+34) swine.exe:  34.[ 6,12]     0 ms...WIN PN1 292/97 :-))
+36) swine.exe:  36.[ 7,12]     0 ms...WIN PN1 250/80 Že by?.
+38) swine.exe:  38.[13,10]     0 ms...Dej mi pokoj.
+40) swine.exe:  40.[13, 5]     0 ms...No jo.
+42) swine.exe:  42.[14, 9]     0 ms...Tohle mì nebaví.
+44) swine.exe:  44.[10,12]     0 ms...WIN fours seq 4 To by mìlo vyjít.
+46) swine.exe:  46.[ 9,13]     0 ms...WIN fours seq 3 Tøi èuníci jdou...
+48) swine.exe:  48.[ 8,14]     0 ms...WIN fours seq 2 Držte si klobouky...
+50) swine.exe:  50.[ 7,13]    16 ms...WIN fours seq 1 Chro chro.
+52) swine.exe:  52.[ 9,15]     0 ms...Prohrál jste, saláte!
+54) swine.exe:  54.[10,16]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\final\1x0-55(1).rec
+______________________________
+Tito x HGarden
+-> H:\gomocup-online\final\8x5-47(1).rec
+______________________________
+Goro2005 x QMENTAT6
+-> H:\gomocup-online\final\2x0-47(1).rec
+______________________________
+QMENTAT6 x Noesis
+-> H:\gomocup-online\final\0x3-71(1).rec
+______________________________
+Noesis x QMENTAT6
+-> H:\gomocup-online\final\3x0-73(1).rec
+______________________________
+Noesis x pela
+-> H:\gomocup-online\final\3x7-62(1).rec
+______________________________
+swine x pela
+ 4) swine.exe:   4.[ 9,12]   141 ms...Val= 20000 (4/0/0)
+ 6) swine.exe:   6.[10,12]   157 ms...Val= 19943 (1/0/0)
+ 8) swine.exe:   8.[11,13]  1992 ms...Val=   544 (1/6/20)
+10) swine.exe:  10.[ 8,12]   157 ms...Val=    90 (1/1/5)
+12) swine.exe:  12.[12,12]   579 ms...Val=   491 (1/3/8)
+14) swine.exe:  14.[10, 9]    62 ms...Val=   235 (1/1/20)
+16) swine.exe:  16.[ 5,14]     0 ms...Necht toho.
+18) swine.exe:  18.[ 7,10]  1064 ms...Val=   367 (1/2/20)
+20) swine.exe:  20.[12,10]  3255 ms...Val=   460 (1/1/20)
+22) swine.exe:  22.[ 9,14]  4612 ms...Val=   475 (1/2/20)
+24) swine.exe:  24.[ 7,13]  2533 ms...Val=   709 (1/1/20)
+26) swine.exe:  26.[ 9, 8] 12413 ms...Val=   664 (1/17/20)
+28) swine.exe:  28.[ 9,15]  3940 ms...Val=   633 (2/2/20)
+30) swine.exe:  30.[ 8, 8]  6128 ms...Val=   542 (1/3/20)
+32) swine.exe:  32.[13,11]  9755 ms...Val=   788 (1/18/20)
+34) swine.exe:  34.[13,12]  4673 ms...Val=   785 (1/7/20)
+36) swine.exe:  36.[ 6,14]  5689 ms...Val=   833 (1/11/20)
+38) swine.exe:  38.[ 8,15]  9611 ms...Val=   786 (1/14/20)
+40) swine.exe:  40.[10,17]  4595 ms...Val=   712 (1/15/20)
+42) swine.exe:  42.[14,11] 10112 ms...Val=   849 (1/17/20)
+44) swine.exe:  44.[14,12]  7048 ms...Val=   972 (2/2/20)
+46) swine.exe:  46.[16,13] 10861 ms...Val=   839 (1/20/20)
+48) swine.exe:  48.[ 9,17]  5908 ms...Val=   553 (1/11/20)
+50) swine.exe:  50.[ 8,17]  4079 ms...Val=   286 (1/3/20)
+52) swine.exe:  52.[15,10]  3625 ms...Val=   382 (1/13/20)
+54) swine.exe:  54.[15,11]  2891 ms...Val=   347 (1/1/20)
+56) swine.exe:  56.[ 8,16]  3563 ms...Val=   298 (1/1/20)
+58) swine.exe:  58.[ 7,17]  2376 ms...Val=   439 (2/2/20)
+60) swine.exe:  60.[11,10]  2922 ms...Val=   298 (2/1/20)
+62) swine.exe:  62.[11,14]  3656 ms...Val=   208 (1/5/20)
+64) swine.exe:  64.[12,15]  5235 ms...Val=   379 (1/8/20)
+66) swine.exe:  66.[14,14]  4110 ms...Val=    41 (1/1/20)
+68) swine.exe:  68.[14,15]  6329 ms...Val=   396 (1/4/20)
+70) swine.exe:  70.[ 7, 8]  6156 ms...Val=   260 (1/3/20)
+72) swine.exe:  72.[15,15] 11126 ms...Val=   155 (1/16/20)
+74) swine.exe:  74.[13,17]  3437 ms...Val=   -13 (1/4/20)
+76) swine.exe:  76.[14,16]  4359 ms...Val=   304 (1/3/20)
+78) swine.exe:  78.[16,16]  7266 ms...Val=   572 (1/19/20)
+80) swine.exe:  80.[14,18]  3938 ms...Val=   456 (1/3/20)
+82) swine.exe:  82.[17,15]  4001 ms...Val=   441 (1/1/20)
+84) swine.exe:  84.[15,16]  2516 ms...Val=   717 (1/4/20)
+86) swine.exe:  86.[16,17]  5110 ms...Val=   279 (1/3/20)
+88) swine.exe:  88.[16,10]  6188 ms...Val=   246 (1/10/20)
+90) swine.exe:  90.[18, 8]  3531 ms...Val=   310 (2/2/20)
+92) swine.exe:  92.[18,15]  3641 ms...Val=   225 (1/2/20)
+94) swine.exe:  94.[15, 9]  2703 ms...Val=    35 (1/1/20)
+96) swine.exe:  96.[17,10]  4234 ms...Val=   -45 (1/1/20)
+98) swine.exe:  98.[17,11]  4563 ms...Val=  -376 (1/1/20)
+100) swine.exe: 100.[14, 8] 10469 ms...Val=  -384 (1/4/20)
+102) swine.exe: 102.[14, 6]  7360 ms...Val=  -457 (1/4/20)
+104) swine.exe: 104.[ 3,14]  3922 ms...Val=  -558 (1/17/20)
+106) swine.exe: 106.[ 6,18]  4047 ms...Val=  -772 (1/3/20)
+108) swine.exe: 108.[17,16]  3687 ms...Val= -1007 (1/1/20)
+110) swine.exe: 110.[18,18]  3266 ms...Val= -1243 (1/2/20)
+112) swine.exe: 112.[ 9, 7]  4423 ms...Val= -1678 (1/2/20)
+114) swine.exe: 114.[ 7, 9]  1578 ms...Val= -1657 (1/1/20)
+116) swine.exe: 116.[10, 6]   391 ms...Val= -1813 (1/3/20)
+118) swine.exe: 118.[ 6,16]   422 ms...Aj vaj
+119) pbrain-pela.exe:  I win !
+120) swine.exe: 120.[ 4, 7]    15 ms...Kolik jich tam ještì máš?
+122) swine.exe: 122.[ 0,19]    16 ms...Smekám klobouk.
+-> H:\gomocup-online\final\1x7-124(1).rec
+______________________________
+QMENTAT6 x kanec
+-> H:\gomocup-online\final\0x6-34(1).rec
+______________________________
+kanec x QMENTAT6
+-> H:\gomocup-online\final\6x0-35(1).rec
+______________________________
+QMENTAT6 x bestmove
+-> H:\gomocup-online\final\0x4-75(1).rec
+______________________________
+QMENTAT6 x HGarden
+-> H:\gomocup-online\final\0x5-32(1).rec
+______________________________
+HGarden x Tito
+-> H:\gomocup-online\final\5x8-33(1).rec
+______________________________
+swine x Goro2005
+ 6) swine.exe:   6.[10, 9]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[11, 8]    93 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[11,10]   562 ms...Val=   457 (1/1/20)
+12) swine.exe:  12.[ 8, 7]   688 ms...Val=   577 (1/1/20)
+14) swine.exe:  14.[11, 6]  2093 ms...Val=   515 (1/2/20)
+16) swine.exe:  16.[ 7, 8]  2266 ms...Val=   421 (1/1/20)
+18) swine.exe:  18.[ 6,11]  1468 ms...Val=   525 (1/1/20)
+20) swine.exe:  20.[13, 6]    31 ms...Aj ta krajta.
+22) swine.exe:  22.[ 6,10]     0 ms...Tohle mì nebaví.
+24) swine.exe:  24.[19,19]     0 ms...Ty to asi nehraješ prvnì.
+-> H:\gomocup-online\final\1x2-26(1).rec
+______________________________
+Goro2005 x swine
+ 5) swine.exe:   5.[ 9, 7]  4656 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[11, 8]    78 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 8, 7]  1969 ms...Val=   355 (1/2/20)
+11) swine.exe:  11.[11, 6]  2047 ms...Val=   312 (1/1/4)
+13) swine.exe:  13.[10, 9]  2812 ms...Aj ta krajta.
+15) swine.exe:  15.[ 9,10]    15 ms...:-(
+17) swine.exe:  17.[ 8,12]     0 ms...No jo.
+19) swine.exe:  19.[13, 6]    15 ms...Val= -1706 (1/6/20)
+21) swine.exe:  21.[ 6, 8]     0 ms...Aj ta krajta.
+23) swine.exe:  23.[ 7,10]     0 ms...Dej mi pokoj.
+25) swine.exe:  25.[19,19]     0 ms...To se ti povedlo.
+-> H:\gomocup-online\final\2x1-27(1).rec
+______________________________
+swine x Noesis
+ 6) swine.exe:   6.[ 7,11] 15297 ms...Val=   676 (1/5/20)
+ 8) swine.exe:   8.[ 6, 6]  5797 ms...Val=   736 (1/4/20)
+10) swine.exe:  10.[ 7, 6]  2687 ms...Val=   943 (1/4/20)
+12) swine.exe:  12.[ 5, 8]  1797 ms...Val=  1551 (1/3/20)
+14) swine.exe:  14.[ 5, 9]   110 ms...Val=  2096 (1/1/20)
+16) swine.exe:  16.[ 4, 9]    15 ms...WIN PN1 339/111 To by mìlo vyjít.
+18) swine.exe:  18.[ 3, 9]    16 ms...WIN PN1 518/168 Že by?.
+20) swine.exe:  20.[ 6, 7]     0 ms...WIN PN1 260/86 Chro chro.
+22) swine.exe:  22.[ 4, 8]     0 ms...WIN PN1 145/46 Vypadá to výbornì.
+24) swine.exe:  24.[10, 4]    15 ms...Kolik jich tam ještì máš?
+26) swine.exe:  26.[ 8, 7]     0 ms...Necht toho.
+28) swine.exe:  28.[ 8, 3]    15 ms...Kolik jich tam ještì máš?
+30) swine.exe:  30.[10,10]     0 ms...Kolik jich tam ještì máš?
+32) swine.exe:  32.[ 6, 5]     0 ms...Hmm, to máš blbý.
+34) swine.exe:  34.[10, 9]     0 ms...To se musíte víc snažit, pane správce.
+-> H:\gomocup-online\final\1x3-35(1).rec
+______________________________
+Noesis x swine
+ 5) swine.exe:   5.[10, 9]  4187 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[12, 8]    63 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[ 9, 9]  1453 ms...Val=   355 (1/2/20)
+11) swine.exe:  11.[12,10]  1968 ms...Val=   312 (1/1/4)
+13) swine.exe:  13.[11, 7]  2625 ms...To vypadá zle.
+15) swine.exe:  15.[ 7, 8]    46 ms...Aj vaj
+17) swine.exe:  17.[ 7, 5]     0 ms...Jen si hraj.
+19) swine.exe:  19.[ 0,19]     0 ms...Dobrá práce.
+-> H:\gomocup-online\final\3x1-21(1).rec
+______________________________
+HGarden x QMENTAT6
+-> H:\gomocup-online\final\5x0-29(1).rec
+______________________________
+bestmove x QMENTAT6
+-> H:\gomocup-online\final\4x0-35(1).rec
+______________________________
+swine x kanec
+ 6) swine.exe:   6.[ 8,10]   125 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 9,11]  5657 ms...Val=   737 (1/5/20)
+10) swine.exe:  10.[ 9,13]  3500 ms...Val=   529 (1/10/20)
+12) swine.exe:  12.[ 7, 8]   922 ms...Val=   643 (1/2/8)
+14) swine.exe:  14.[11,11]  7109 ms...Val=   632 (1/3/20)
+16) swine.exe:  16.[ 6, 6]  2875 ms...Val=   841 (1/1/20)
+18) swine.exe:  18.[ 7,12]     0 ms...No to je zábava.
+20) swine.exe:  20.[10, 6]  1562 ms...Val=   867 (1/2/20)
+22) swine.exe:  22.[ 9,15]  2781 ms...Val=  1121 (1/5/20)
+24) swine.exe:  24.[10, 7]  4078 ms...Val=   882 (1/2/20)
+26) swine.exe:  26.[ 9, 6]     0 ms...Tohle mì nebaví.
+28) swine.exe:  28.[12,11]   125 ms...:-(
+30) swine.exe:  30.[ 7,15]    63 ms...Bojim, bojim.
+32) swine.exe:  32.[ 5,11]     0 ms...Kolik jich tam ještì máš?
+34) swine.exe:  34.[ 4, 8]     0 ms...Baví tì to?
+36) swine.exe:  36.[ 0,19]     0 ms...To se ti povedlo.
+-> H:\gomocup-online\final\1x6-38(1).rec
+______________________________
+pela x kanec
+72) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x6-79(1).rec
+______________________________
+Goro2005 x pela
+99) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\2x7-104(1).rec
+______________________________
+kanec x swine
+ 5) swine.exe:   5.[12,11]  6953 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[14,10]   109 ms...Val= 19478 (1/0/0)
+ 9) swine.exe:   9.[11,11]  2594 ms...Val=   352 (1/2/20)
+11) swine.exe:  11.[14,12]  3219 ms...Val=   312 (1/1/4)
+13) swine.exe:  13.[13, 9]  4485 ms...:-(
+15) swine.exe:  15.[ 9, 7]  9219 ms...Val=   574 (1/4/20)
+17) swine.exe:  17.[11, 6]  2750 ms...Val=   811 (1/2/20)
+19) swine.exe:  19.[11, 8]  1141 ms...Val=   938 (1/1/20)
+21) swine.exe:  21.[14, 7]  1782 ms...Val=   958 (1/1/20)
+23) swine.exe:  23.[13, 4]     0 ms...Už to nechci.
+25) swine.exe:  25.[10, 8]  5344 ms...Val=   735 (1/2/20)
+27) swine.exe:  27.[15, 3]     0 ms...Necht toho.
+29) swine.exe:  29.[12, 8]  1109 ms...Val=  1098 (1/9/20)
+31) swine.exe:  31.[14,11]  7719 ms...WIN AB 0 Tøi èuníci jdou...
+33) swine.exe:  33.[16,12]    94 ms...WIN PN1 5754/2350 To by mìlo vyjít.
+35) swine.exe:  35.[ 9, 8]    15 ms...WIN PN1 799/315 Chro chro.
+37) swine.exe:  37.[13,12]    15 ms...WIN PN1 709/281 Tøi èuníci jdou...
+39) swine.exe:  39.[16, 9]     0 ms...WIN PN1 117/44 Je to na dobré cestì.!
+41) swine.exe:  41.[ 7, 9]     0 ms...Tohle mì nebaví.
+43) swine.exe:  43.[12, 4]     0 ms...Co se dá dìlat?
+45) swine.exe:  45.[14, 9]     0 ms...WIN fours seq 1 Chro chro.
+47) swine.exe:  47.[15, 9]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\final\6x1-48(1).rec
+______________________________
+swine x HGarden
+ 6) swine.exe:   6.[ 8, 9]    94 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 9,10]    94 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[ 7,10]   453 ms...Val=   457 (1/1/20)
+12) swine.exe:  12.[10, 7]  2844 ms...Val=   375 (1/11/20)
+14) swine.exe:  14.[ 9, 6]  1485 ms...Val=   634 (1/6/20)
+16) swine.exe:  16.[11, 6]    16 ms...WIN PN1 2770/940 Že by?.
+18) swine.exe:  18.[10, 6]    16 ms...WIN PN1 2328/792 Že by?.
+20) swine.exe:  20.[ 6, 9]     0 ms...Už to nechci.
+22) swine.exe:  22.[10, 5]     0 ms...WIN PN1 1606/541 Že by?.
+24) swine.exe:  24.[ 7, 6]     0 ms...WIN PN1 170/56 Vypadá to výbornì.
+26) swine.exe:  26.[10, 3]     0 ms...WIN PN1 96/31 :-)
+28) swine.exe:  28.[ 8, 5]     0 ms...WIN PN1 88/28 Držte si klobouky...
+30) swine.exe:  30.[ 7,11]     0 ms...Co se dá dìlat?
+32) swine.exe:  32.[ 7, 4]     0 ms...Ale to je mi líto.
+34) swine.exe:  34.[11, 8]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\final\1x5-35(2).rec
+______________________________
+QMENTAT6 x Tito
+-> H:\gomocup-online\final\0x8-46(1).rec
+______________________________
+swine x bestmove
+ 6) swine.exe:   6.[ 8, 9]    93 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[11, 7]  2891 ms...Val=   664 (1/13/20)
+10) swine.exe:  10.[12,11]  1328 ms...Val=   728 (1/2/8)
+12) swine.exe:  12.[10,10]   860 ms...Val=   778 (1/1/9)
+14) swine.exe:  14.[12, 6]   422 ms...Val=   577 (1/2/20)
+16) swine.exe:  16.[ 8,11]   547 ms...Val=  -259 (1/6/20)
+18) swine.exe:  18.[ 7, 6]     0 ms...Tohle mì nebaví.
+20) swine.exe:  20.[ 5,10]   875 ms...Val=   544 (1/2/20)
+22) swine.exe:  22.[ 5, 8]     0 ms...Tohle mì nebaví.
+24) swine.exe:  24.[ 6, 6]   344 ms...Val=   177 (1/1/20)
+26) swine.exe:  26.[ 9, 7]   234 ms...Val=     9 (1/2/20)
+28) swine.exe:  28.[ 9, 5]   406 ms...Val=   219 (1/2/20)
+30) swine.exe:  30.[ 6,11]     0 ms...Kolik jich tam ještì máš?
+32) swine.exe:  32.[ 4,10]     0 ms...Necht toho.
+34) swine.exe:  34.[ 8, 5]     0 ms...No jo.
+36) swine.exe:  36.[ 8,12]  1094 ms...Val=  1037 (1/2/20)
+38) swine.exe:  38.[ 3, 7]     0 ms...No to je zábava.
+40) swine.exe:  40.[ 5, 7]     0 ms...Baví tì to?
+42) swine.exe:  42.[ 4, 6]   313 ms...Val=  1959 (1/1/20)
+44) swine.exe:  44.[ 3, 4]     0 ms...Kolik jich tam ještì máš?
+46) swine.exe:  46.[ 6, 5]    47 ms...Val=  2573 (1/1/20)
+48) swine.exe:  48.[ 9, 6]     0 ms...Baví tì to?
+50) swine.exe:  50.[ 1,10]     0 ms...Co se dá dìlat?
+52) swine.exe:  52.[ 3, 9]    15 ms...Dej mi pokoj.
+54) swine.exe:  54.[ 2, 8]    15 ms...WIN PN1 1118/406 To snad pude.
+56) swine.exe:  56.[ 6,12]    16 ms...WIN PN1 658/234 Vypadá to výbornì.
+58) swine.exe:  58.[ 7,12]    15 ms...WIN PN1 951/348 Chro chro.
+60) swine.exe:  60.[ 9,12]     0 ms...WIN PN1 309/112 Držte si klobouky...
+62) swine.exe:  62.[ 9,14]     0 ms...WIN PN1 243/83 Vypadá to výbornì.
+64) swine.exe:  64.[10,13]     0 ms...WIN PN1 198/73 To by mìlo vyjít.
+66) swine.exe:  66.[11,14]     0 ms...Ale to je mi líto.
+68) swine.exe:  68.[12,15]     0 ms...Tøeba se to nìkdy nauèíš
+-> H:\gomocup-online\final\1x4-69(1).rec
+______________________________
+Tito x pela
+-> H:\gomocup-online\final\8x7-35(1).rec
+______________________________
+QMENTAT6 x pela
+-> H:\gomocup-online\final\0x7-50(1).rec
+______________________________
+HGarden x swine
+ 5) swine.exe:   5.[11,12]  4171 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[10,12]  1797 ms...Val=   358 (1/1/20)
+ 9) swine.exe:   9.[12,10]  2218 ms...Val=   132 (1/2/20)
+11) swine.exe:  11.[ 7,12]  5875 ms...Val=   120 (2/9/20)
+13) swine.exe:  13.[ 8,13]  3953 ms...Val=   174 (1/7/20)
+15) swine.exe:  15.[ 6,11]  1859 ms...Val=    55 (1/6/20)
+17) swine.exe:  17.[10,15]   938 ms...Val=  -119 (1/3/20)
+19) swine.exe:  19.[ 7,11]  1906 ms...Val=  -282 (1/11/20)
+21) swine.exe:  21.[ 6,10]     0 ms...No jo.
+23) swine.exe:  23.[ 8, 8]   828 ms...Val=  -474 (1/7/20)
+25) swine.exe:  25.[ 9,12]   360 ms...:-((
+27) swine.exe:  27.[ 3, 9]    31 ms...Tady to smrdí.
+29) swine.exe:  29.[ 4, 7]     0 ms...Nedráždi svini bosou nohou.
+31) swine.exe:  31.[ 0, 0]     0 ms...Gratuluju
+-> H:\gomocup-online\final\5x1-33(1).rec
+______________________________
+Goro2005 x Noesis
+-> H:\gomocup-online\final\2x3-27(1).rec
+______________________________
+Noesis x Goro2005
+-> H:\gomocup-online\final\3x2-42(1).rec
+______________________________
+Tito x QMENTAT6
+-> H:\gomocup-online\final\8x0-35(1).rec
+______________________________
+Goro2005 x bestmove
+-> H:\gomocup-online\final\2x4-31(3).rec
+______________________________
+bestmove x swine
+ 5) swine.exe:   5.[10,11]  4187 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[11, 9]  5218 ms...Val=   263 (1/7/20)
+ 9) swine.exe:   9.[10, 7]  2438 ms...Val=   345 (1/5/20)
+11) swine.exe:  11.[12, 8]  4735 ms...Val=   243 (2/4/20)
+13) swine.exe:  13.[ 7, 8]  1313 ms...Val=  -173 (1/1/3)
+15) swine.exe:  15.[ 9, 7]   719 ms...Val=  -156 (1/2/20)
+17) swine.exe:  17.[ 9,12]     0 ms...Jen si hraj.
+19) swine.exe:  19.[11,11]   266 ms...Val=   459 (1/2/20)
+21) swine.exe:  21.[ 6, 6]     0 ms...Už to nechci.
+23) swine.exe:  23.[ 5, 9]  1562 ms...Val=   928 (1/2/20)
+25) swine.exe:  25.[13,10]  2687 ms...Val=  1200 (1/2/20)
+27) swine.exe:  27.[12, 9]     0 ms...WIN PN1 385/143 Chro chro.
+29) swine.exe:  29.[13, 5]    16 ms...Dej mi pokoj.
+31) swine.exe:  31.[ 6,14]     0 ms...Co se dá dìlat?
+33) swine.exe:  33.[14, 9]     0 ms...WIN PN1 94/36 :-)
+35) swine.exe:  35.[12,11]    16 ms...WIN PN1 48/19 Vypadá to výbornì.
+37) swine.exe:  37.[12,10]     0 ms...Zkus to znova
+39) swine.exe:  39.[12,12]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\final\4x1-40(1).rec
+______________________________
+Goro2005 x kanec
+-> H:\gomocup-online\final\2x6-45(1).rec
+______________________________
+kanec x Goro2005
+-> H:\gomocup-online\final\6x2-52(2).rec
+______________________________
+pela x HGarden
+-> H:\gomocup-online\final\7x5-98(1).rec
+______________________________
+swine x Tito
+ 6) swine.exe:   6.[ 9, 8]   125 ms...Val= 19760 (1/0/0)
+ 8) swine.exe:   8.[ 8, 7]   125 ms...Val= 19943 (1/0/0)
+10) swine.exe:  10.[10, 9]  1000 ms...Val=   399 (1/1/20)
+12) swine.exe:  12.[ 6, 6]  2954 ms...Val=   488 (1/12/20)
+14) swine.exe:  14.[ 9,10]   703 ms...Val=   482 (1/1/20)
+16) swine.exe:  16.[ 9, 4]  1735 ms...Val=   471 (1/1/20)
+18) swine.exe:  18.[ 9, 6]  2328 ms...Val=   468 (1/1/20)
+20) swine.exe:  20.[10, 5] 14547 ms...Val=   508 (1/11/20)
+22) swine.exe:  22.[ 8, 4] 18063 ms...Val=   520 (1/14/20)
+24) swine.exe:  24.[ 4, 5]  4766 ms...Val=   471 (1/4/20)
+26) swine.exe:  26.[11, 7]  2672 ms...Val=   373 (1/1/20)
+28) swine.exe:  28.[14, 4]  6078 ms...Val=   346 (1/16/20)
+30) swine.exe:  30.[ 6, 5]     0 ms...Už to nechci.
+32) swine.exe:  32.[ 5, 3]  5328 ms...Val=   241 (1/5/20)
+34) swine.exe:  34.[ 4, 6]  5422 ms...Val=   357 (1/7/20)
+36) swine.exe:  36.[12, 6]    63 ms...Val= -2328 (1/3/20)
+38) swine.exe:  38.[10, 3]     0 ms...Kví kví!
+40) swine.exe:  40.[14, 3]     0 ms...Co se dá dìlat?
+42) swine.exe:  42.[19, 0]     0 ms...Smekám klobouk.
+-> H:\gomocup-online\final\1x8-44(2).rec
+______________________________
+kanec x pela
+55) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\6x7-60(1).rec
+______________________________
+Goro2005 x HGarden
+-> H:\gomocup-online\final\2x5-43(1).rec
+______________________________
+bestmove x Goro2005
+-> H:\gomocup-online\final\4x2-42(1).rec
+______________________________
+Noesis x bestmove
+-> H:\gomocup-online\final\3x4-33(1).rec
+______________________________
+bestmove x pela
+59) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\4x7-86(1).rec
+______________________________
+pela x QMENTAT6
+34) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x0-39(2).rec
+______________________________
+bestmove x Noesis
+-> H:\gomocup-online\final\4x3-27(1).rec
+______________________________
+HGarden x Goro2005
+-> H:\gomocup-online\final\5x2-42(1).rec
+______________________________
+Noesis x kanec
+-> H:\gomocup-online\final\3x6-64(1).rec
+______________________________
+kanec x Noesis
+-> H:\gomocup-online\final\6x3-27(3).rec
+______________________________
+swine x pela
+ 6) swine.exe:   6.[11,10] 12578 ms...Val=   696 (1/20/20)
+ 8) swine.exe:   8.[13, 8]  5687 ms...Val=   773 (1/7/20)
+10) swine.exe:  10.[12, 7]  3437 ms...Val=   754 (1/5/20)
+12) swine.exe:  12.[13, 9]   812 ms...Val=   798 (1/1/20)
+14) swine.exe:  14.[ 8,10]  2343 ms...Val=   771 (1/3/20)
+16) swine.exe:  16.[13, 7]  2719 ms...Val=   674 (1/3/20)
+18) swine.exe:  18.[ 8, 8]  7187 ms...Val=   620 (1/15/20)
+20) swine.exe:  20.[10, 5]  7094 ms...Val=   684 (1/11/20)
+22) swine.exe:  22.[10, 7]   390 ms...WIN PN1 68129/24357 :-)
+24) swine.exe:  24.[ 7, 8]   187 ms...WIN PN1 27133/9902 Snad jsem nic nepøehlídla..
+26) swine.exe:  26.[14, 6]     0 ms...No to je zábava.
+28) swine.exe:  28.[11, 7]    62 ms...WIN PN1 9514/3321 :-))
+30) swine.exe:  30.[ 7, 7]    31 ms...WIN PN1 5303/1897 To snad pude.
+32) swine.exe:  32.[ 7, 6]    31 ms...WIN PN1 3630/1331 Že by?.
+34) swine.exe:  34.[ 7,10]    31 ms...WIN PN1 3442/1275 :-))
+36) swine.exe:  36.[ 9,10]    32 ms...WIN PN1 3072/1155 :-))
+38) swine.exe:  38.[ 5,10]    31 ms...WIN PN1 2496/953 Je to na dobré cestì.!
+40) swine.exe:  40.[ 6, 9]    16 ms...WIN PN1 2382/908 Vypadá to výbornì.
+42) swine.exe:  42.[ 5, 8]     0 ms...WIN PN1 1022/383 Vypadá to výbornì.
+44) swine.exe:  44.[ 5, 9]    31 ms...WIN PN1 3117/1260 Tøi èuníci jdou...
+46) swine.exe:  46.[ 4, 8]     0 ms...WIN PN3 535/204 Chro chro.
+48) swine.exe:  48.[ 4,11]     0 ms...WIN PN1 723/276 Snad jsem nic nepøehlídla..
+50) swine.exe:  50.[ 5,12]     0 ms...WIN PN1 466/180 :-))
+52) swine.exe:  52.[ 3,10]     0 ms...WIN PN1 671/250 :-)
+54) swine.exe:  54.[ 8, 4]    16 ms...Baví tì to?
+56) swine.exe:  56.[ 3, 5]     0 ms...Necht toho.
+58) swine.exe:  58.[ 3,13]     0 ms...Tohle mì nebaví.
+60) swine.exe:  60.[ 8,11]     0 ms...WIN fours seq 4 Tøi èuníci jdou...
+62) swine.exe:  62.[ 6,13]     0 ms...WIN fours seq 3 Chro chro.
+64) swine.exe:  64.[ 7,12]     0 ms...WIN fours seq 2 Držte si klobouky...
+66) swine.exe:  66.[ 4, 9]     0 ms...WIN fours seq 1 Držte si klobouky...
+68) swine.exe:  68.[ 6,11]     0 ms...Nechceš si o tom promluvit?
+70) swine.exe:  70.[ 3, 8]     0 ms...Nechceš si o tom promluvit?
+-> H:\gomocup-online\final\1x7-71(1).rec
+______________________________
+Goro2005 x Tito
+-> H:\gomocup-online\final\2x8-51(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\final\3x5-40(1).rec
+______________________________
+Tito x swine
+ 5) swine.exe:   5.[ 7, 7]  8094 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 7, 8]  3391 ms...Val=   358 (1/1/20)
+ 9) swine.exe:   9.[ 9, 6]  3500 ms...Val=   135 (1/3/20)
+11) swine.exe:  11.[ 8, 5]  2282 ms...Val=    10 (1/4/20)
+13) swine.exe:  13.[ 6, 9]  5453 ms...Val=    16 (1/11/20)
+15) swine.exe:  15.[ 7,11]  5109 ms...Val=     9 (1/18/20)
+17) swine.exe:  17.[ 4, 9] 10859 ms...Val=     8 (1/13/20)
+19) swine.exe:  19.[ 5,11]  7063 ms...Val=  -157 (1/4/20)
+21) swine.exe:  21.[ 4, 6] 10000 ms...Val=  -158 (2/3/20)
+23) swine.exe:  23.[ 5, 4] 10719 ms...Val=  -323 (1/8/20)
+25) swine.exe:  25.[ 5, 8]     0 ms...Nedráždi svini bosou nohou.
+27) swine.exe:  27.[10, 3]  6234 ms...Val=  -704 (1/17/20)
+29) swine.exe:  29.[ 6, 8]    93 ms...Aj ta krajta.
+31) swine.exe:  31.[ 3, 9]    15 ms...:-(
+33) swine.exe:  33.[ 7, 5]    16 ms...No jo.
+35) swine.exe:  35.[ 8, 3]     0 ms...Hmm, to není dobrý
+37) swine.exe:  37.[19,19]    15 ms...Vzdávám se.
+-> H:\gomocup-online\final\8x1-39(2).rec
+______________________________
+Goro2005 x pela
+-> H:\gomocup-online\final\2x7-29(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\final\5x3-27(1).rec
+______________________________
+pela x Tito
+-> H:\gomocup-online\final\7x8-48(1).rec
+______________________________
+Noesis x Tito
+-> H:\gomocup-online\final\3x8-38(1).rec
+______________________________
+Tito x Noesis
+-> H:\gomocup-online\final\8x3-34(1).rec
+______________________________
+bestmove x HGarden
+-> H:\gomocup-online\final\4x5-37(1).rec
+______________________________
+Noesis x pela
+-> H:\gomocup-online\final\3x7-38(1).rec
+______________________________
+bestmove x kanec
+-> H:\gomocup-online\final\4x6-58(1).rec
+______________________________
+HGarden x bestmove
+-> H:\gomocup-online\final\5x4-35(1).rec
+______________________________
+Tito x Goro2005
+-> H:\gomocup-online\final\8x2-63(1).rec
+______________________________
+kanec x bestmove
+-> H:\gomocup-online\final\6x4-29(1).rec
+______________________________
+HGarden x kanec
+-> H:\gomocup-online\final\5x6-59(1).rec
+______________________________
+pela x swine
+ 5) swine.exe:   5.[ 8,10]  4234 ms...Val=   179 (1/1/19)
+ 7) swine.exe:   7.[ 8, 9]  1938 ms...Val=   358 (1/1/20)
+ 9) swine.exe:   9.[10,13]  2218 ms...Val=   187 (1/11/20)
+11) swine.exe:  11.[11,12]  9078 ms...Val=   247 (1/17/20)
+13) swine.exe:  13.[ 8,11]   812 ms...Val=    69 (1/2/20)
+15) swine.exe:  15.[ 8, 7]  1532 ms...Val=   229 (1/1/20)
+17) swine.exe:  17.[12,11]  1141 ms...Val=   133 (2/1/20)
+19) swine.exe:  19.[ 7, 6]   610 ms...Val=   -50 (1/2/20)
+21) swine.exe:  21.[ 9,12]  1000 ms...Val=   -80 (1/1/20)
+23) swine.exe:  23.[ 7,11]   610 ms...Val=   196 (1/1/20)
+25) swine.exe:  25.[ 9, 7]  5313 ms...Val=   118 (1/4/20)
+27) swine.exe:  27.[ 9, 4]  8501 ms...Val=   490 (1/20/20)
+29) swine.exe:  29.[10, 7]    31 ms...WIN PN1 2191/839 Snad jsem nic nepøehlídla..
+31) swine.exe:  31.[ 9, 6]     0 ms...WIN PN1 333/126 Vypadá to výbornì.
+33) swine.exe:  33.[11, 6]     0 ms...WIN PN1 185/69 Snad jsem nic nepøehlídla..
+35) swine.exe:  35.[10, 5]     0 ms...WIN PN1 178/74 To by mìlo vyjít.
+37) swine.exe:  37.[10, 6]     0 ms...WIN fours seq 3 Tøi èuníci jdou...
+39) swine.exe:  39.[11, 4]     0 ms...WIN fours seq 2 Snad jsem nic nepøehlídla..
+41) swine.exe:  41.[10, 4]     0 ms...WIN fours seq 1 To by mìlo vyjít.
+43) swine.exe:  43.[12, 4]    15 ms...To se musíte víc snažit, pane správce.
+45) swine.exe:  45.[ 8, 4]     0 ms...Ale to je mi líto.
+-> H:\gomocup-online\final\7x1-46(1).rec
+______________________________
+kanec x HGarden
+-> H:\gomocup-online\final\6x5-46(1).rec
+______________________________
+bestmove x Tito
+-> H:\gomocup-online\final\4x8-62(1).rec
+______________________________
+pela x Noesis
+40) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x3-51(2).rec
+______________________________
+bestmove x pela
+-> H:\gomocup-online\final\4x7-37(1).rec
+______________________________
+pela x Goro2005
+-> H:\gomocup-online\final\7x2-73(1).rec
+______________________________
+Tito x bestmove
+-> H:\gomocup-online\final\8x4-27(1).rec
+______________________________
+HGarden x Tito
+-> H:\gomocup-online\final\5x8-42(1).rec
+______________________________
+Tito x HGarden
+-> H:\gomocup-online\final\8x5-33(2).rec
+______________________________
+kanec x pela
+53) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\6x7-58(1).rec
+______________________________
+HGarden x pela
+137) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\5x7-150(1).rec
+______________________________
+pela x bestmove
+72) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x4-85(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\final\5x7-67(1).rec
+______________________________
+pela x Tito
+-> H:\gomocup-online\final\7x8-52(1).rec
+______________________________
+pela x kanec
+56) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x6-61(1).rec
+______________________________
+kanec x Tito
+-> H:\gomocup-online\final\6x8-92(1).rec
+______________________________
+Tito x pela
+-> H:\gomocup-online\final\8x7-29(2).rec
+______________________________
+Tito x kanec
+-> H:\gomocup-online\final\8x6-93(1).rec
+______________________________
+pela x HGarden
+80) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\final\7x5-99(1).rec

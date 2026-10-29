@@ -1,0 +1,655 @@
+______________________________
+pela x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 2186320 speed= 638916n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 2076362 speed= 850806n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 3706611 speed= 824789n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 3712393 speed= 698722n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 4408707 speed= 675340n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 5387382 speed= 664355n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 6085651 speed= 670154n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 3447234 speed= 659787n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 7379021 speed= 689409n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 1296131 speed= 672001n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 704490 speed= 760152n/s
+29) pbrain-Tito2010.exe: AB depth= 14 node= 1546896 speed= 732873n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 2335186 speed= 932232n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 1890025 speed= 1048240n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 3185864 speed= 663581n/s
+39) pbrain-Tito2010.exe: AB depth= 14 node= 2291575 speed= 688196n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 1388096 speed= 644020n/s
+45) pbrain-Tito2010.exe: 6...
+47) pbrain-Tito2010.exe: 5...
+49) pbrain-Tito2010.exe: 4...
+51) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\standard\0x1-58(1).psq
+______________________________
+Tito2010 x pela
+ 4) pbrain-Tito2010.exe: AB depth= 14 node= 4527580 speed= 637230n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 3648117 speed= 657165n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 3377754 speed= 661103n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 1921274 speed= 637652n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 938371 speed= 797404n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 1577446 speed= 633046n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 4663467 speed= 753982n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 4214797 speed= 713103n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 6994687 speed= 731565n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 8513102 speed= 728087n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 6283527 speed= 741805n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 5275472 speed= 767583n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 3320388 speed= 730362n/s
+30) pbrain-Tito2010.exe: AB depth= 14 node= 4352530 speed= 736980n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 5621703 speed= 692629n/s
+34) pbrain-Tito2010.exe: 14...
+36) pbrain-Tito2010.exe: 13...
+38) pbrain-Tito2010.exe: 12...
+40) pbrain-Tito2010.exe: 11...
+42) pbrain-Tito2010.exe: 10...
+44) pbrain-Tito2010.exe: 9...
+46) pbrain-Tito2010.exe: 6...
+48) pbrain-Tito2010.exe: 5...
+50) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\standard\1x0-57(1).psq
+______________________________
+pela x hewer2010
+25) pbrain-hewer2010.exe: AB :-)
+27) pbrain-hewer2010.exe: AB :-)
+29) pbrain-hewer2010.exe: AB :-)
+31) pbrain-hewer2010.exe: AB :-)
+43) pbrain-hewer2010.exe: AB :-(
+45) pbrain-hewer2010.exe: AB :-(
+47) pbrain-hewer2010.exe: AB :-(
+49) pbrain-hewer2010.exe: AB :-(
+53) pbrain-hewer2010.exe: :-((
+54) pbrain-pela.exe:  I win !
+59) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\standard\0x2-61(1).psq
+______________________________
+hewer2010 x pela
+16) pbrain-hewer2010.exe: AB :-)
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: :-))
+32) pbrain-hewer2010.exe: :-))
+34) pbrain-hewer2010.exe:    .-. 
+34) pbrain-hewer2010.exe:   o   \     .-. 
+34) pbrain-hewer2010.exe:       .----.'     \ 
+34) pbrain-hewer2010.exe:     .'o)   / `.    o 
+34) pbrain-hewer2010.exe:   /              | 
+34) pbrain-hewer2010.exe:   \_)          /
+34) pbrain-hewer2010.exe:     '__/   /   
+34) pbrain-hewer2010.exe:      `.      |  
+34) pbrain-hewer2010.exe:       |       \  
+34) pbrain-hewer2010.exe:   .--/`-.     / / 
+34) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\2x0-35(1).psq
+______________________________
+Tito2010 x hewer2010
+ 4) pbrain-Tito2010.exe: AB depth= 14 node= 4299733 speed= 636436n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 3037312 speed= 639386n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 3117067 speed= 687343n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 4664616 speed= 741308n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1592640 speed= 619074n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 1930388 speed= 538346n/s
+15) pbrain-hewer2010.exe: AB :-(
+16) pbrain-Tito2010.exe: 13...
+18) pbrain-Tito2010.exe: 12...
+19) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: AB :-(
+22) pbrain-Tito2010.exe: 3...
+23) pbrain-hewer2010.exe: AB :-(
+25) pbrain-hewer2010.exe: :-((
+27) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\standard\1x2-29(1).psq
+______________________________
+hewer2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1348534 speed= 671282n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 2245070 speed= 566717n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 1330938 speed= 804383n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 570618 speed= 614723n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 390079 speed= 590755n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 1344723 speed= 782178n/s
+16) pbrain-hewer2010.exe: AB :-)
+17) pbrain-Tito2010.exe: AB depth= 14 node= 418369 speed= 579711n/s
+18) pbrain-hewer2010.exe: AB :-)
+19) pbrain-Tito2010.exe: AB depth= 14 node= 693149 speed= 581509n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 206825 speed= 618378n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 21560 speed= 610163n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 4400 speed= 1008072n/s
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+29) pbrain-Tito2010.exe: AB depth= 14 node= 1494 speed= 923037n/s
+30) pbrain-hewer2010.exe: AB :-)
+31) pbrain-Tito2010.exe: AB depth= 14 node= 1258 speed= 906453n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 1235 speed= 795126n/s
+34) pbrain-hewer2010.exe: :-))
+36) pbrain-hewer2010.exe: :-))
+38) pbrain-hewer2010.exe:    .-. 
+38) pbrain-hewer2010.exe:   o   \     .-. 
+38) pbrain-hewer2010.exe:       .----.'     \ 
+38) pbrain-hewer2010.exe:     .'o)   / `.    o 
+38) pbrain-hewer2010.exe:   /              | 
+38) pbrain-hewer2010.exe:   \_)          /
+38) pbrain-hewer2010.exe:     '__/   /   
+38) pbrain-hewer2010.exe:      `.      |  
+38) pbrain-hewer2010.exe:       |       \  
+38) pbrain-hewer2010.exe:   .--/`-.     / / 
+38) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\2x1-39(1).psq
+______________________________
+Tito2010 x pela
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 4805233 speed= 655556n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 3394538 speed= 686402n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 4011768 speed= 686881n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 2048699 speed= 670853n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 1766228 speed= 720915n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 1226917 speed= 652602n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 2687806 speed= 751382n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 2536745 speed= 819644n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 978650 speed= 839676n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 510621 speed= 748300n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 292210 speed= 679373n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 382842 speed= 687787n/s
+38) pbrain-Tito2010.exe: 8...
+40) pbrain-Tito2010.exe: 5...
+42) pbrain-Tito2010.exe: 4...
+44) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\standard\1x0-49(1).psq
+______________________________
+pela x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 6063651 speed= 679373n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 1466680 speed= 645684n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 1844896 speed= 681455n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 8213406 speed= 670218n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 4127667 speed= 620899n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 5607896 speed= 639208n/s
+19) pbrain-Tito2010.exe: 12...
+21) pbrain-Tito2010.exe: 11...
+23) pbrain-Tito2010.exe: 10...
+29) pbrain-Tito2010.exe: 6...
+31) pbrain-Tito2010.exe: 5...
+33) pbrain-Tito2010.exe: 4...
+35) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\standard\0x1-42(1).psq
+______________________________
+hewer2010 x pela
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+174) pbrain-hewer2010.exe: AB :-(
+176) pbrain-hewer2010.exe: AB :-)
+178) pbrain-hewer2010.exe: AB :-(
+180) pbrain-hewer2010.exe: AB :-)
+182) pbrain-hewer2010.exe: AB :-(
+184) pbrain-hewer2010.exe: AB :-)
+186) pbrain-hewer2010.exe: AB :-(
+190) pbrain-hewer2010.exe: :-((
+192) pbrain-hewer2010.exe: :-((
+194) pbrain-hewer2010.exe: :-((
+196) pbrain-hewer2010.exe: :-((
+198) pbrain-hewer2010.exe: :-((
+200) pbrain-hewer2010.exe: :-((
+202) pbrain-hewer2010.exe: :-((
+204) pbrain-hewer2010.exe: :-((
+206) pbrain-hewer2010.exe: :-((
+208) pbrain-hewer2010.exe: :-((
+210) pbrain-hewer2010.exe: :-((
+212) pbrain-hewer2010.exe: :-((
+214) pbrain-hewer2010.exe: :-((
+216) pbrain-hewer2010.exe: :-((
+218) pbrain-hewer2010.exe: :-((
+220) pbrain-hewer2010.exe: :-((
+222) pbrain-hewer2010.exe: :-((
+224) pbrain-hewer2010.exe: :-((
+52) pbrain-hewer2010.exe: AB :-)
+54) pbrain-hewer2010.exe: AB :-)
+56) pbrain-hewer2010.exe: AB :-)
+66) pbrain-hewer2010.exe: AB :-)
+68) pbrain-hewer2010.exe: AB :-)
+72) pbrain-hewer2010.exe: AB :-)
+74) pbrain-hewer2010.exe: AB :-)
+76) pbrain-hewer2010.exe: AB :-)
+80) pbrain-hewer2010.exe: AB :-)
+82) pbrain-hewer2010.exe: AB :-)
+84) pbrain-hewer2010.exe: AB :-)
+86) pbrain-hewer2010.exe: AB :-)
+88) pbrain-hewer2010.exe: AB :-)
+90) pbrain-hewer2010.exe: AB :-)
+92) pbrain-hewer2010.exe: AB :-)
+94) pbrain-hewer2010.exe: AB :-)
+96) pbrain-hewer2010.exe: AB :-)
+98) pbrain-hewer2010.exe: :-))
+100) pbrain-hewer2010.exe:    .-. 
+100) pbrain-hewer2010.exe:   o   \     .-. 
+100) pbrain-hewer2010.exe:       .----.'     \ 
+100) pbrain-hewer2010.exe:     .'o)   / `.    o 
+100) pbrain-hewer2010.exe:   /              | 
+100) pbrain-hewer2010.exe:   \_)          /
+100) pbrain-hewer2010.exe:     '__/   /   
+100) pbrain-hewer2010.exe:      `.      |  
+100) pbrain-hewer2010.exe:       |       \  
+100) pbrain-hewer2010.exe:   .--/`-.     / / 
+100) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\2x0-101(1).psq
+______________________________
+pela x hewer2010
+23) pbrain-hewer2010.exe: AB :-)
+35) pbrain-hewer2010.exe: AB :-)
+37) pbrain-hewer2010.exe: AB :-)
+53) pbrain-hewer2010.exe: AB :-)
+55) pbrain-hewer2010.exe: AB :-)
+57) pbrain-hewer2010.exe: AB :-)
+59) pbrain-hewer2010.exe: AB :-)
+61) pbrain-hewer2010.exe: AB :-)
+63) pbrain-hewer2010.exe: AB :-)
+65) pbrain-hewer2010.exe: AB :-)
+187) pbrain-hewer2010.exe: AB :-)
+189) pbrain-hewer2010.exe: AB :-)
+191) pbrain-hewer2010.exe: AB :-)
+193) pbrain-hewer2010.exe: AB :-)
+195) pbrain-hewer2010.exe: :-((
+197) pbrain-hewer2010.exe: :-((
+199) pbrain-hewer2010.exe: :-((
+201) pbrain-hewer2010.exe: :-((
+203) pbrain-hewer2010.exe: :-((
+205) pbrain-hewer2010.exe: :-((
+207) pbrain-hewer2010.exe: :-((
+209) pbrain-hewer2010.exe: :-((
+211) pbrain-hewer2010.exe: :-((
+213) pbrain-hewer2010.exe: :-((
+215) pbrain-hewer2010.exe: :-((
+217) pbrain-hewer2010.exe: :-((
+219) pbrain-hewer2010.exe: :-((
+221) pbrain-hewer2010.exe: :-((
+223) pbrain-hewer2010.exe: :-((
+23) pbrain-hewer2010.exe: AB :-)
+185) pbrain-hewer2010.exe: AB :-)
+187) pbrain-hewer2010.exe: AB :-(
+189) pbrain-hewer2010.exe: AB :-(
+191) pbrain-hewer2010.exe: AB :-(
+193) pbrain-hewer2010.exe: AB :-)
+197) pbrain-hewer2010.exe: AB :-(
+201) pbrain-hewer2010.exe: :-((
+203) pbrain-hewer2010.exe: :-((
+205) pbrain-hewer2010.exe: :-((
+207) pbrain-hewer2010.exe: :-((
+209) pbrain-hewer2010.exe: :-((
+211) pbrain-hewer2010.exe: :-((
+213) pbrain-hewer2010.exe: :-((
+215) pbrain-hewer2010.exe: :-((
+217) pbrain-hewer2010.exe: :-((
+219) pbrain-hewer2010.exe: :-((
+221) pbrain-hewer2010.exe: :-((
+223) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\standard\0x2-225(1).psq
+______________________________
+hewer2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 7682585 speed= 688197n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 2382844 speed= 627009n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 5291067 speed= 647603n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 2509467 speed= 748463n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 1900591 speed= 800137n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 2628145 speed= 850725n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 1850168 speed= 697557n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 8621641 speed= 705597n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 10796041 speed= 693808n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 9098951 speed= 689345n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 3161545 speed= 682379n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 2832254 speed= 674183n/s
+29) pbrain-Tito2010.exe: AB depth= 14 node= 4680149 speed= 724393n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 1002589 speed= 837073n/s
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+39) pbrain-Tito2010.exe: AB depth= 14 node= 451028 speed= 872843n/s
+40) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+43) pbrain-Tito2010.exe: AB depth= 14 node= 157737 speed= 1214593n/s
+45) pbrain-Tito2010.exe: AB depth= 14 node= 94415 speed= 958347n/s
+47) pbrain-Tito2010.exe: AB depth= 14 node= 8913 speed= 842628n/s
+48) pbrain-hewer2010.exe: AB :-)
+50) pbrain-hewer2010.exe: AB :-)
+51) pbrain-Tito2010.exe: AB depth= 14 node= 3635 speed= 834153n/s
+53) pbrain-Tito2010.exe: AB depth= 14 node= 1530 speed= 900876n/s
+55) pbrain-Tito2010.exe: AB depth= 14 node= 1381 speed= 894603n/s
+57) pbrain-Tito2010.exe: AB depth= 14 node= 1277 speed= 897328n/s
+62) pbrain-hewer2010.exe: :-))
+64) pbrain-hewer2010.exe:    .-. 
+64) pbrain-hewer2010.exe:   o   \     .-. 
+64) pbrain-hewer2010.exe:       .----.'     \ 
+64) pbrain-hewer2010.exe:     .'o)   / `.    o 
+64) pbrain-hewer2010.exe:   /              | 
+64) pbrain-hewer2010.exe:   \_)          /
+64) pbrain-hewer2010.exe:     '__/   /   
+64) pbrain-hewer2010.exe:      `.      |  
+64) pbrain-hewer2010.exe:       |       \  
+64) pbrain-hewer2010.exe:   .--/`-.     / / 
+64) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\2x1-65(1).psq
+______________________________
+Tito2010 x hewer2010
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 2334418 speed= 633064n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 870777 speed= 848718n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 1155611 speed= 794250n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1493815 speed= 888858n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 1453868 speed= 727131n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 692103 speed= 677606n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 303671 speed= 727111n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 1062917 speed= 721707n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 1944872 speed= 764115n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 1800734 speed= 719766n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 7943025 speed= 721683n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 8120621 speed= 799695n/s
+30) pbrain-Tito2010.exe: AB depth= 14 node= 3629382 speed= 633906n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 2357891 speed= 694654n/s
+34) pbrain-Tito2010.exe: AB depth= 14 node= 1905958 speed= 765838n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 522690 speed= 727830n/s
+38) pbrain-Tito2010.exe: AB depth= 14 node= 1771204 speed= 856711n/s
+42) pbrain-Tito2010.exe: AB depth= 14 node= 9162449 speed= 694492n/s
+44) pbrain-Tito2010.exe: AB depth= 14 node= 5071219 speed= 724243n/s
+46) pbrain-Tito2010.exe: AB depth= 14 node= 5129005 speed= 720742n/s
+48) pbrain-Tito2010.exe: AB depth= 14 node= 2938752 speed= 681366n/s
+50) pbrain-Tito2010.exe: AB depth= 14 node= 6005231 speed= 927053n/s
+52) pbrain-Tito2010.exe: AB depth= 14 node= 2859193 speed= 755982n/s
+54) pbrain-Tito2010.exe: AB depth= 14 node= 1877769 speed= 761892n/s
+56) pbrain-Tito2010.exe: AB depth= 14 node= 1557889 speed= 877432n/s
+58) pbrain-Tito2010.exe: AB depth= 14 node= 93200 speed= 1049193n/s
+59) pbrain-hewer2010.exe: AB :-)
+61) pbrain-hewer2010.exe: :-))
+63) pbrain-hewer2010.exe: :-))
+65) pbrain-hewer2010.exe:    .-. 
+65) pbrain-hewer2010.exe:   o   \     .-. 
+65) pbrain-hewer2010.exe:       .----.'     \ 
+65) pbrain-hewer2010.exe:     .'o)   / `.    o 
+65) pbrain-hewer2010.exe:   /              | 
+65) pbrain-hewer2010.exe:   \_)          /
+65) pbrain-hewer2010.exe:     '__/   /   
+65) pbrain-hewer2010.exe:      `.      |  
+65) pbrain-hewer2010.exe:       |       \  
+65) pbrain-hewer2010.exe:   .--/`-.     / / 
+65) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\1x2-66(1).psq
+______________________________
+pela x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1087254 speed= 623112n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 833449 speed= 635734n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 798415 speed= 737999n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 1691953 speed= 656379n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 1815592 speed= 678083n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 2301648 speed= 753802n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 2276778 speed= 784536n/s
+19) pbrain-Tito2010.exe: 7...
+21) pbrain-Tito2010.exe: 6...
+23) pbrain-Tito2010.exe: 5...
+25) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\standard\0x1-32(1).psq
+______________________________
+Tito2010 x pela
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 829087 speed= 555872n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1422402 speed= 649019n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 2994004 speed= 761319n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 3591298 speed= 734703n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 2506043 speed= 708943n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 1712939 speed= 712672n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 875430 speed= 867503n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 17095793 speed= 625474n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 12380478 speed= 640870n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 13147805 speed= 663400n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 1592010 speed= 738775n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 340482 speed= 782301n/s
+30) pbrain-Tito2010.exe: AB depth= 14 node= 1155580 speed= 932887n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 5911497 speed= 632846n/s
+34) pbrain-Tito2010.exe: AB depth= 14 node= 4069971 speed= 681873n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 2280197 speed= 832275n/s
+38) pbrain-Tito2010.exe: AB depth= 14 node= 3768356 speed= 742810n/s
+40) pbrain-Tito2010.exe: AB depth= 14 node= 744423 speed= 855032n/s
+44) pbrain-Tito2010.exe: AB depth= 14 node= 975607 speed= 918442n/s
+46) pbrain-Tito2010.exe: AB depth= 14 node= 1572030 speed= 774518n/s
+48) pbrain-Tito2010.exe: AB depth= 14 node= 2425961 speed= 761968n/s
+50) pbrain-Tito2010.exe: AB depth= 14 node= 5734234 speed= 680839n/s
+52) pbrain-Tito2010.exe: AB depth= 12 node= 995458 speed= 868393n/s
+54) pbrain-Tito2010.exe: AB depth= 12 node= 3199394 speed= 873776n/s
+56) pbrain-Tito2010.exe: AB depth= 12 node= 3064328 speed= 971863n/s
+58) pbrain-Tito2010.exe: AB depth= 12 node= 1850810 speed= 885933n/s
+60) pbrain-Tito2010.exe: AB depth= 12 node= 2545352 speed= 841338n/s
+62) pbrain-Tito2010.exe: AB depth= 12 node= 1242983 speed= 765518n/s
+64) pbrain-Tito2010.exe: AB depth= 12 node= 1978651 speed= 860679n/s
+66) pbrain-Tito2010.exe: AB depth= 12 node= 5642187 speed= 779739n/s
+68) pbrain-Tito2010.exe: AB depth= 12 node= 2582738 speed= 975852n/s
+70) pbrain-Tito2010.exe: AB depth= 12 node= 533728 speed= 1133563n/s
+72) pbrain-Tito2010.exe: AB depth= 12 node= 295460 speed= 1039961n/s
+76) pbrain-Tito2010.exe: AB depth= 12 node= 2115752 speed= 1152427n/s
+78) pbrain-Tito2010.exe: AB depth= 12 node= 1834135 speed= 977798n/s
+82) pbrain-Tito2010.exe: AB depth= 12 node= 2188906 speed= 1043616n/s
+84) pbrain-Tito2010.exe: AB depth= 12 node= 412151 speed= 1053678n/s
+86) pbrain-Tito2010.exe: AB depth= 12 node= 846673 speed= 1035850n/s
+88) pbrain-Tito2010.exe: AB depth= 12 node= 596596 speed= 992625n/s
+90) pbrain-Tito2010.exe: AB depth= 12 node= 851566 speed= 960456n/s
+92) pbrain-Tito2010.exe: AB depth= 12 node= 1281985 speed= 828357n/s
+94) pbrain-Tito2010.exe: AB depth= 12 node= 2310454 speed= 930954n/s
+96) pbrain-Tito2010.exe: AB depth= 12 node= 1561254 speed= 867199n/s
+98) pbrain-Tito2010.exe: AB depth= 12 node= 1443997 speed= 972102n/s
+100) pbrain-Tito2010.exe: AB depth= 12 node= 796192 speed= 1020056n/s
+102) pbrain-Tito2010.exe: AB depth= 10 node= 90231 speed= 1144013n/s
+104) pbrain-Tito2010.exe: AB depth= 10 node= 112347 speed= 1025144n/s
+106) pbrain-Tito2010.exe: AB depth= 10 node= 62060 speed= 1097575n/s
+108) pbrain-Tito2010.exe: AB depth= 10 node= 79807 speed= 1065287n/s
+110) pbrain-Tito2010.exe: AB depth= 10 node= 118937 speed= 1077200n/s
+112) pbrain-Tito2010.exe: AB depth= 10 node= 77738 speed= 1036167n/s
+114) pbrain-Tito2010.exe: AB depth= 10 node= 100668 speed= 1008521n/s
+116) pbrain-Tito2010.exe: AB depth= 10 node= 38559 speed= 1262211n/s
+118) pbrain-Tito2010.exe: AB depth= 10 node= 26996 speed= 1139477n/s
+120) pbrain-Tito2010.exe: AB depth= 10 node= 51557 speed= 1193051n/s
+122) pbrain-Tito2010.exe: AB depth= 10 node= 93245 speed= 1198820n/s
+124) pbrain-Tito2010.exe: AB depth= 10 node= 215366 speed= 1161619n/s
+126) pbrain-Tito2010.exe: AB depth= 10 node= 150239 speed= 948735n/s
+128) pbrain-Tito2010.exe: AB depth= 10 node= 291363 speed= 1177661n/s
+130) pbrain-Tito2010.exe: AB depth= 10 node= 326220 speed= 1233330n/s
+132) pbrain-Tito2010.exe: AB depth= 10 node= 248072 speed= 1186292n/s
+134) pbrain-Tito2010.exe: AB depth= 10 node= 255505 speed= 1190660n/s
+136) pbrain-Tito2010.exe: AB depth= 10 node= 185092 speed= 1173556n/s
+138) pbrain-Tito2010.exe: AB depth= 10 node= 153349 speed= 1336261n/s
+142) pbrain-Tito2010.exe: AB depth= 10 node= 435273 speed= 1544638n/s
+144) pbrain-Tito2010.exe: AB depth= 10 node= 325941 speed= 1578505n/s
+146) pbrain-Tito2010.exe: AB depth= 10 node= 618279 speed= 1864062n/s
+148) pbrain-Tito2010.exe: AB depth= 10 node= 263149 speed= 2126650n/s
+150) pbrain-Tito2010.exe: AB depth= 10 node= 252691 speed= 2135369n/s
+152) pbrain-Tito2010.exe: AB depth= 10 node= 324760 speed= 2220960n/s
+154) pbrain-Tito2010.exe: AB depth= 10 node= 13856 speed= 2203876n/s
+156) pbrain-Tito2010.exe: AB depth= 10 node= 17848 speed= 2266945n/s
+158) pbrain-Tito2010.exe: AB depth= 10 node= 29079 speed= 2130859n/s
+162) pbrain-Tito2010.exe: AB depth= 10 node= 116969 speed= 2504701n/s
+164) pbrain-Tito2010.exe: AB depth= 10 node= 24215 speed= 2700911n/s
+166) pbrain-Tito2010.exe: AB depth= 10 node= 14096 speed= 2117715n/s
+172) pbrain-Tito2010.exe: AB depth= 10 node= 22344 speed= 4006396n/s
+174) pbrain-Tito2010.exe: AB depth= 10 node= 3591 speed= 3209008n/s
+176) pbrain-Tito2010.exe: AB depth= 10 node= 1076 speed= 8553024n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 900715 speed= 593915n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1383350 speed= 671470n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 2984924 speed= 761329n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 3877056 speed= 758598n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 2621096 speed= 716095n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 1773560 speed= 764649n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 896571 speed= 858347n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 16811807 speed= 593149n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 8363594 speed= 604558n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 1460447 speed= 789932n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 1296123 speed= 938828n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 1396946 speed= 864515n/s
+30) pbrain-Tito2010.exe: AB depth= 14 node= 2044129 speed= 694685n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 2764268 speed= 655191n/s
+34) pbrain-Tito2010.exe: AB depth= 14 node= 2494161 speed= 728985n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 3992156 speed= 700652n/s
+40) pbrain-Tito2010.exe: AB depth= 14 node= 5761864 speed= 647640n/s
+42) pbrain-Tito2010.exe: AB depth= 14 node= 1093578 speed= 659671n/s
+44) pbrain-Tito2010.exe: AB depth= 14 node= 3859791 speed= 664990n/s
+46) pbrain-Tito2010.exe: AB depth= 14 node= 2766645 speed= 705396n/s
+48) pbrain-Tito2010.exe: AB depth= 14 node= 1364264 speed= 682829n/s
+50) pbrain-Tito2010.exe: AB depth= 14 node= 5773448 speed= 718710n/s
+52) pbrain-Tito2010.exe: AB depth= 14 node= 13903244 speed= 692787n/s
+54) pbrain-Tito2010.exe: AB depth= 12 node= 1474244 speed= 716820n/s
+56) pbrain-Tito2010.exe: AB depth= 12 node= 1684218 speed= 768379n/s
+58) pbrain-Tito2010.exe: AB depth= 12 node= 3545866 speed= 923650n/s
+60) pbrain-Tito2010.exe: AB depth= 12 node= 374023 speed= 957818n/s
+62) pbrain-Tito2010.exe: AB depth= 12 node= 1640638 speed= 801286n/s
+64) pbrain-Tito2010.exe: AB depth= 12 node= 1086091 speed= 706154n/s
+66) pbrain-Tito2010.exe: AB depth= 12 node= 453335 speed= 765683n/s
+68) pbrain-Tito2010.exe: AB depth= 12 node= 310535 speed= 869533n/s
+70) pbrain-Tito2010.exe: AB depth= 12 node= 709213 speed= 770992n/s
+72) pbrain-Tito2010.exe: AB depth= 12 node= 1364924 speed= 679033n/s
+74) pbrain-Tito2010.exe: AB depth= 12 node= 2055400 speed= 765392n/s
+76) pbrain-Tito2010.exe: AB depth= 12 node= 2181191 speed= 810132n/s
+78) pbrain-Tito2010.exe: AB depth= 12 node= 2469993 speed= 719099n/s
+80) pbrain-Tito2010.exe: AB depth= 12 node= 1245273 speed= 770783n/s
+82) pbrain-Tito2010.exe: AB depth= 12 node= 2614880 speed= 673417n/s
+84) pbrain-Tito2010.exe: AB depth= 12 node= 1201188 speed= 710096n/s
+86) pbrain-Tito2010.exe: AB depth= 12 node= 926799 speed= 659220n/s
+88) pbrain-Tito2010.exe: AB depth= 12 node= 1692160 speed= 693980n/s
+90) pbrain-Tito2010.exe: AB depth= 12 node= 572526 speed= 770412n/s
+92) pbrain-Tito2010.exe: AB depth= 12 node= 813456 speed= 813463n/s
+94) pbrain-Tito2010.exe: AB depth= 12 node= 904599 speed= 770824n/s
+96) pbrain-Tito2010.exe: AB depth= 10 node= 279827 speed= 934866n/s
+98) pbrain-Tito2010.exe: AB depth= 10 node= 149107 speed= 904800n/s
+100) pbrain-Tito2010.exe: AB depth= 10 node= 305242 speed= 865151n/s
+102) pbrain-Tito2010.exe: AB depth= 10 node= 221943 speed= 768722n/s
+106) pbrain-Tito2010.exe: AB depth= 10 node= 192968 speed= 950053n/s
+108) pbrain-Tito2010.exe: AB depth= 10 node= 339223 speed= 869924n/s
+110) pbrain-Tito2010.exe: AB depth= 10 node= 390303 speed= 863718n/s
+112) pbrain-Tito2010.exe: AB depth= 10 node= 417225 speed= 795747n/s
+114) pbrain-Tito2010.exe: AB depth= 10 node= 533121 speed= 814468n/s
+116) pbrain-Tito2010.exe: AB depth= 10 node= 200544 speed= 982099n/s
+118) pbrain-Tito2010.exe: AB depth= 10 node= 235748 speed= 809696n/s
+120) pbrain-Tito2010.exe: AB depth= 10 node= 450996 speed= 803217n/s
+122) pbrain-Tito2010.exe: AB depth= 10 node= 328362 speed= 827009n/s
+124) pbrain-Tito2010.exe: AB depth= 10 node= 195224 speed= 906790n/s
+126) pbrain-Tito2010.exe: AB depth= 10 node= 333553 speed= 974479n/s
+128) pbrain-Tito2010.exe: AB depth= 10 node= 235674 speed= 1004071n/s
+132) pbrain-Tito2010.exe: AB depth= 10 node= 161986 speed= 1067291n/s
+134) pbrain-Tito2010.exe: AB depth= 10 node= 561557 speed= 1065141n/s
+136) pbrain-Tito2010.exe: AB depth= 8 node= 61301 speed= 1061823n/s
+138) pbrain-Tito2010.exe: AB depth= 8 node= 74693 speed= 1115507n/s
+140) pbrain-Tito2010.exe: AB depth= 8 node= 88528 speed= 1185158n/s
+142) pbrain-Tito2010.exe: AB depth= 8 node= 75663 speed= 833160n/s
+144) pbrain-Tito2010.exe: AB depth= 8 node= 66812 speed= 1214085n/s
+146) pbrain-Tito2010.exe: AB depth= 8 node= 72468 speed= 1480352n/s
+148) pbrain-Tito2010.exe: AB depth= 8 node= 72635 speed= 1351403n/s
+150) pbrain-Tito2010.exe: AB depth= 8 node= 76807 speed= 1452272n/s
+152) pbrain-Tito2010.exe: AB depth= 8 node= 98496 speed= 1607235n/s
+154) pbrain-Tito2010.exe: AB depth= 8 node= 65855 speed= 1755680n/s
+156) pbrain-Tito2010.exe: AB depth= 8 node= 93147 speed= 2000427n/s
+158) pbrain-Tito2010.exe: AB depth= 8 node= 109973 speed= 2134916n/s
+160) pbrain-Tito2010.exe: AB depth= 8 node= 4952 speed= 2243996n/s
+162) pbrain-Tito2010.exe: AB depth= 8 node= 4145 speed= 2437526n/s
+164) pbrain-Tito2010.exe: AB depth= 8 node= 5050 speed= 2295747n/s
+166) pbrain-Tito2010.exe: AB depth= 8 node= 3417 speed= 2822144n/s
+168) pbrain-Tito2010.exe: AB depth= 8 node= 7549 speed= 2620920n/s
+170) pbrain-Tito2010.exe: AB depth= 8 node= 5985 speed= 2696354n/s
+172) pbrain-Tito2010.exe: AB depth= 8 node= 4503 speed= 2849060n/s
+174) pbrain-Tito2010.exe: AB depth= 8 node= 25081 speed= 3006483n/s
+178) pbrain-Tito2010.exe: AB depth= 8 node= 3846 speed= 3991819n/s
+180) pbrain-Tito2010.exe: AB depth= 8 node= 1709 speed= 4107463n/s
+182) pbrain-Tito2010.exe: AB depth= 8 node= 1061 speed= 6929567n/s
+pbrain-Tito2010.exe returned invalid move [0,0]
+-> F:\projekty\gomocup2010\standard\1x0-188(1).psq
+______________________________
+pela x hewer2010
+15) pbrain-hewer2010.exe: AB :-)
+17) pbrain-hewer2010.exe: AB :-)
+19) pbrain-hewer2010.exe: AB :-)
+21) pbrain-hewer2010.exe: AB :-)
+23) pbrain-hewer2010.exe: AB :-)
+25) pbrain-hewer2010.exe: AB :-)
+27) pbrain-hewer2010.exe: AB :-)
+29) pbrain-hewer2010.exe: :-))
+31) pbrain-hewer2010.exe: :-))
+33) pbrain-hewer2010.exe:    .-. 
+33) pbrain-hewer2010.exe:   o   \     .-. 
+33) pbrain-hewer2010.exe:       .----.'     \ 
+33) pbrain-hewer2010.exe:     .'o)   / `.    o 
+33) pbrain-hewer2010.exe:   /              | 
+33) pbrain-hewer2010.exe:   \_)          /
+33) pbrain-hewer2010.exe:     '__/   /   
+33) pbrain-hewer2010.exe:      `.      |  
+33) pbrain-hewer2010.exe:       |       \  
+33) pbrain-hewer2010.exe:   .--/`-.     / / 
+33) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\0x2-34(1).psq
+______________________________
+hewer2010 x pela
+10) pbrain-hewer2010.exe: AB :-)
+12) pbrain-hewer2010.exe: AB :-)
+14) pbrain-hewer2010.exe: AB :-)
+16) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+32) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: :-))
+38) pbrain-hewer2010.exe: :-))
+40) pbrain-hewer2010.exe:    .-. 
+40) pbrain-hewer2010.exe:   o   \     .-. 
+40) pbrain-hewer2010.exe:       .----.'     \ 
+40) pbrain-hewer2010.exe:     .'o)   / `.    o 
+40) pbrain-hewer2010.exe:   /              | 
+40) pbrain-hewer2010.exe:   \_)          /
+40) pbrain-hewer2010.exe:     '__/   /   
+40) pbrain-hewer2010.exe:      `.      |  
+40) pbrain-hewer2010.exe:       |       \  
+40) pbrain-hewer2010.exe:   .--/`-.     / / 
+40) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\2x0-41(1).psq
+______________________________
+Tito2010 x hewer2010
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 936905 speed= 609509n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1584436 speed= 692279n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 1972975 speed= 618590n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1372856 speed= 560530n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 1142040 speed= 609355n/s
+15) pbrain-hewer2010.exe: AB :-(
+16) pbrain-Tito2010.exe: 8...
+17) pbrain-hewer2010.exe: AB :-(
+19) pbrain-hewer2010.exe: AB :-(
+20) pbrain-Tito2010.exe: 4...
+21) pbrain-hewer2010.exe: AB :-(
+25) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\standard\1x2-27(1).psq
+______________________________
+hewer2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1181556 speed= 698522n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 726517 speed= 665607n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 2840165 speed= 789929n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 593640 speed= 799359n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 849265 speed= 785104n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 1276627 speed= 777187n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 938853 speed= 739232n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 1418457 speed= 805870n/s
+22) pbrain-hewer2010.exe: AB :-)
+23) pbrain-Tito2010.exe: AB depth= 14 node= 316887 speed= 860835n/s
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+29) pbrain-Tito2010.exe: AB depth= 14 node= 9089 speed= 947131n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 5300 speed= 988948n/s
+32) pbrain-hewer2010.exe: AB :-)
+33) pbrain-Tito2010.exe: AB depth= 14 node= 3754 speed= 902314n/s
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+39) pbrain-Tito2010.exe: AB depth= 14 node= 1333 speed= 950824n/s
+46) pbrain-hewer2010.exe: :-))
+48) pbrain-hewer2010.exe:    .-. 
+48) pbrain-hewer2010.exe:   o   \     .-. 
+48) pbrain-hewer2010.exe:       .----.'     \ 
+48) pbrain-hewer2010.exe:     .'o)   / `.    o 
+48) pbrain-hewer2010.exe:   /              | 
+48) pbrain-hewer2010.exe:   \_)          /
+48) pbrain-hewer2010.exe:     '__/   /   
+48) pbrain-hewer2010.exe:      `.      |  
+48) pbrain-hewer2010.exe:       |       \  
+48) pbrain-hewer2010.exe:   .--/`-.     / / 
+48) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\standard\2x1-49(1).psq

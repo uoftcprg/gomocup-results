@@ -1,0 +1,75 @@
+-------------------------------------
+1. 5. 2015  22:02 - 2. 5. 2015  6:50
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 4, available 4
+Rule: five or more stones wins
+Opening CRC: 0
+Games played: 624
+-------------------------------------
+
+acePela15
+wins: 89=47+42,   losses: 7=1+6
+time/turn: 4186 ms (max: 25.7 s),  time/game: 109 s
+moves/game: 26,  CRC: ff41a44,   memory: 7.68 MB
+
+SlowRenju15
+wins: 76=41+33+2,   losses: 20=7+13
+time/turn: 1579 ms (max: 25.7 s),  time/game: 30 s
+moves/game: 19,  CRC: d8de31c0,   memory: 259.01 MB
+
+HighFive
+wins: 68=37+31,   losses: 28=11+17
+time/turn: 3663 ms (max: 9.6 s),  time/game: 74 s
+moves/game: 20,  CRC: 88e25150,   memory: 3.30 MB
+
+Kanec09
+wins: 61=33+27+1,   losses: 35=13+20+2
+time/turn: 3794 ms (max: 12.6 s),  time/game: 103 s
+moves/game: 27,  CRC: 81d60e22,   memory: 249.47 MB
+
+amoeba10
+wins: 63=32+29+2,   losses: 33=13+18+2,  2 errors
+time/turn: 2862 ms (max: 11.4 s),  time/game: 72 s
+moves/game: 25,  CRC: ba6b7ff,   memory: 356.18 MB
+
+zetor15
+wins: 61=35+25+1,   losses: 35=13+20+2
+time/turn: 3246 ms (max: 29.4 s),  time/game: 83 s
+moves/game: 25,  CRC: 54feebc2,   memory: 4.57 MB
+
+jude
+wins: 53=30+22+1,   losses: 43=17+26
+time/turn: 1609 ms (max: 29.1 s),  time/game: 35 s
+moves/game: 22,  CRC: a051771c,   memory: 40.87 MB
+
+Pecuchet
+wins: 33=23+10,   losses: 63=24+38+1
+time/turn: 3555 ms (max: 14.2 s),  time/game: 71 s
+moves/game: 19,  CRC: 5bf9da1e,   memory: 201.20 MB
+
+QMENTAT6
+wins: 27=17+10,   losses: 69=31+38
+time/turn: 492 ms (max: 7.0 s),  time/game: 13 s
+moves/game: 26,  CRC: e8fb806c,   memory: 4.00 MB
+
+Noesis
+wins: 27=16+11,   losses: 69=32+37
+time/turn: 678 ms (max: 4.9 s),  time/game: 14 s
+moves/game: 20,  CRC: 2f7cdbb3,   memory: 9.44 MB
+
+pisq7
+wins: 26=15+11,   losses: 70=33+37
+time/turn: 29 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 19,  CRC: 2ba6351e,   memory: 3.74 MB
+
+nabamoku
+wins: 21=13+8,   losses: 75=35+40
+time/turn: 4048 ms (max: 9.6 s),  time/game: 88 s
+moves/game: 21,  CRC: 474d2d7d,   memory: 4.96 MB
+
+Puskvorec
+wins: 19=13+6,   losses: 77=35+42
+time/turn: 275 ms (max: 1.8 s),  time/game: 4 s
+moves/game: 17,  CRC: d379c6cb,   memory: 6.15 MB
+

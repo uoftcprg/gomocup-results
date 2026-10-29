@@ -1,0 +1,123 @@
+-------------------------------------
+21.4.2008  20:37 - 23:28
+Èas na tah: 5 s,   Èas na partii: 30 s
+Tolerance: 500 ms,   Pamì: 350 MB
+Zahájení: zaèíná se od 1., pouito 3, celkem 3 
+Poèet her: 1514  (99%)
+-------------------------------------
+
+TITO
+vıhry: 124=60+57+7,  prohry: 8=1+7
+èas/tah: 329 ms (max: 2.5 s),  èas/partii: 5 s
+tahù/partii: 18,  CRC: 8fba3aab,   pamì: 1.37 MB
+
+HGarden07
+vıhry: 114=57+49+8,  prohry: 18=4+7+7
+èas/tah: 684 ms (max: 2.5 s),  èas/partii: 11 s
+tahù/partii: 16,  CRC: 8a2bc0e7,   pamì: 30.28 MB
+
+hewer
+vıhry: 112=59+47+6,  prohry: 20=4+16
+èas/tah: 405 ms (max: 3.1 s),  èas/partii: 7 s
+tahù/partii: 18,  CRC: 4a8cab28,   pamì: 199.54 MB
+
+swine
+vıhry: 108=53+46+9,  prohry: 24=9+15
+èas/tah: 977 ms (max: 5.3 s),  èas/partii: 18 s
+tahù/partii: 18,  CRC: 8270b013,   pamì: 66.37 MB
+
+PELA
+vıhry: 112=50+49+13,  prohry: 20=7+13
+èas/tah: 761 ms (max: 4.3 s),  èas/partii: 17 s
+tahù/partii: 22,  CRC: 8ca722ad,   pamì: 1.88 MB
+
+HfM
+vıhry: 105=50+47+8,  prohry: 27=11+16
+èas/tah: 489 ms (max: 1.5 s),  èas/partii: 8 s
+tahù/partii: 17,  CRC: 10e0ff75,   pamì: 68.61 MB
+
+Kanec
+vıhry: 90=46+37+7,  prohry: 42=13+24+5
+èas/tah: 744 ms (max: 2.2 s),  èas/partii: 15 s
+tahù/partii: 20,  CRC: f5824826,   pamì: 221.00 MB
+
+JUDE
+vıhry: 75=37+32+6,  prohry: 57=24+32+1
+èas/tah: 321 ms (max: 5.0 s),  èas/partii: 6 s
+tahù/partii: 21,  CRC: 73f7c3eb,   pamì: 15.55 MB
+
+GMOTOR
+vıhry: 87=42+39+6,  prohry: 45=20+25
+èas/tah: 699 ms (max: 8.3 s),  èas/partii: 14 s
+tahù/partii: 20,  CRC: e7777dcf,   pamì: 18.46 MB
+
+PECUCHET
+vıhry: 72=37+30+5,  prohry: 60=25+33+2
+èas/tah: 968 ms (max: 2.9 s),  èas/partii: 17 s
+tahù/partii: 18,  CRC: 5bf9da1e,   pamì: 189.40 MB
+
+TRUNKAT
+vıhry: 55=31+22+2,  prohry: 77=31+37+9
+èas/tah: 317 ms (max: 4.9 s),  èas/partii: 5 s
+tahù/partii: 16,  CRC: 3ea9cbbe,   pamì: 3.50 MB
+
+QMENTAT6
+vıhry: 56=26+20+10,  prohry: 75=32+43
+èas/tah: 19 ms (max: 0.8 s),  èas/partii: 0 s
+tahù/partii: 26,  CRC: 4509490a,   pamì: 1.55 MB
+
+PUSKVOREC
+vıhry: 55=26+24+5,  prohry: 77=35+36+6
+èas/tah: 479 ms (max: 3.3 s),  èas/partii: 7 s
+tahù/partii: 15,  CRC: e7c4429f,   pamì: 5.00 MB
+
+NOESIS
+vıhry: 51=28+20+3,  prohry: 81=20+30+31
+èas/tah: 1122 ms (max: 5.0 s),  èas/partii: 18 s
+tahù/partii: 16,  CRC: 6bc58455,   pamì: 7.63 MB
+
+Onix
+vıhry: 57=44+13,  prohry: 75=0+1+74
+èas/tah: 1400 ms (max: 5.7 s),  èas/partii: 12 s
+tahù/partii: 9,  CRC: 2090209,   pamì: 127.25 MB
+
+PISQ7
+vıhry: 43=21+12+10,  prohry: 89=41+48
+èas/tah: 13 ms (max: 0.4 s),  èas/partii: 0 s
+tahù/partii: 20,  CRC: 3296035b,   pamì: 1.30 MB
+
+AI1000
+vıhry: 36=13+12+11,  prohry: 91=44+47
+èas/tah: 94 ms (max: 0.9 s),  èas/partii: 2 s
+tahù/partii: 28,  CRC: 7bf1a3e2,   pamì: 2.81 MB
+
+LEONARDO
+vıhry: 40=16+17+7,  prohry: 92=45+47
+èas/tah: 65 ms (max: 0.5 s),  èas/partii: 1 s
+tahù/partii: 25,  CRC: e795e1f8,   pamì: 2.79 MB
+
+BENJAMIN
+vıhry: 37=11+9+17,  prohry: 93=40+44+9,  chyby: 9
+èas/tah: 16 ms (max: 0.1 s),  èas/partii: 0 s
+tahù/partii: 47,  CRC: e1f6170d,   pamì: 1.56 MB
+
+nabamoku_java-client
+vıhry: 27=13+9+5,  prohry: 105=49+56
+èas/tah: 443 ms (max: 1.8 s),  èas/partii: 8 s
+tahù/partii: 20,  CRC: f57b5c12,   pamì: 2.02 MB
+
+fiverow
+vıhry: 23=13+7+3,  prohry: 109=45+52+12
+èas/tah: 195 ms (max: 5.5 s),  èas/partii: 2 s
+tahù/partii: 12,  CRC: b23845a0,   pamì: 1.13 MB
+
+CURNPIS
+vıhry: 19=7+8+4,  prohry: 109=53+55+1
+èas/tah: 134 ms (max: 0.7 s),  èas/partii: 3 s
+tahù/partii: 25,  CRC: 8661c2,   pamì: 2.84 MB
+
+PureGM
+vıhry: 14=6+2+6,  prohry: 118=55+62+1
+èas/tah: 278 ms (max: 4.1 s),  èas/partii: 3 s
+tahù/partii: 14,  CRC: db8b5a98,   pamì: 0.95 MB
+

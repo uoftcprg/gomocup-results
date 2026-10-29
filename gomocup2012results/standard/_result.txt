@@ -1,0 +1,35 @@
+-------------------------------------
+16.4.2012  6:47 - 16:12
+Time for turn: 300 s,   Time for match: 1000 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: exactly five stones wins
+Opening CRC: ca63eaee
+Games played: 60
+-------------------------------------
+
+hewer12
+wins: 19=9+9+1,   losses: 5=3+2
+time/turn: 12 s (max: 96.8 s),  time/game: 400 s
+moves/game: 31,  CRC: 4f7d0fe2,   memory: 338.94 MB
+
+Tito10
+wins: 17=8+9,   losses: 7=2+3+2,  2 errors
+time/turn: 12 s (max: 178.6 s),  time/game: 361 s
+moves/game: 29,  CRC: 8b105cab,   memory: 130.65 MB
+
+Yixin12
+wins: 14=7+7,   losses: 9=4+5
+time/turn: 11 s (max: 47.1 s),  time/game: 333 s
+moves/game: 29,  CRC: 754a58b5,   memory: 167.33 MB
+
+gmotor11
+wins: 5=3+2,   losses: 19=9+10
+time/turn: 16 s (max: 30.9 s),  time/game: 382 s
+moves/game: 23,  CRC: 56498af1,   memory: 48.91 MB
+
+pela
+wins: 4=2+1+1,   losses: 19=10+9
+time/turn: 22 s (max: 142.9 s),  time/game: 734 s
+moves/game: 32,  CRC: dd888743,   memory: 2.86 MB
+

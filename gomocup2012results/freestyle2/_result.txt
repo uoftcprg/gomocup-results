@@ -1,0 +1,60 @@
+-------------------------------------
+16.4.2012  3:02 - 5:01
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: ca63eaee
+Games played: 270
+-------------------------------------
+
+Yixin12
+wins: 47=22+25,   losses: 7=5+2
+time/turn: 2089 ms (max: 11.0 s),  time/game: 34 s
+moves/game: 16,  CRC: 754a58b5,   memory: 167.30 MB
+
+HGarden07
+wins: 42=21+21,   losses: 12=6+5+1,  1 errors
+time/turn: 3166 ms (max: 8.6 s),  time/game: 58 s
+moves/game: 18,  CRC: f883b408,   memory: 31.55 MB
+
+gmotor11
+wins: 37=16+21,   losses: 17=11+6
+time/turn: 2483 ms (max: 11.8 s),  time/game: 55 s
+moves/game: 22,  CRC: 56498af1,   memory: 34.76 MB
+
+pela
+wins: 39=20+18+1,   losses: 15=6+9
+time/turn: 4270 ms (max: 25.8 s),  time/game: 110 s
+moves/game: 25,  CRC: dd888743,   memory: 2.88 MB
+
+Kanec
+wins: 34=16+18,   losses: 20=11+9
+time/turn: 3176 ms (max: 11.3 s),  time/game: 62 s
+moves/game: 19,  CRC: 572ea92,   memory: 248.41 MB
+
+Pecuchet
+wins: 24=10+14,   losses: 30=17+13
+time/turn: 3515 ms (max: 15.3 s),  time/game: 60 s
+moves/game: 17,  CRC: a81e076b,   memory: 200.66 MB
+
+amoeba10
+wins: 16=8+8,   losses: 38=19+19
+time/turn: 3013 ms (max: 12.7 s),  time/game: 53 s
+moves/game: 17,  CRC: 74e05c52,   memory: 335.08 MB
+
+Noesis
+wins: 13=5+8,   losses: 41=22+19
+time/turn: 981 ms (max: 5.2 s),  time/game: 18 s
+moves/game: 18,  CRC: 8c55963c,   memory: 8.78 MB
+
+jude
+wins: 11=5+6,   losses: 43=22+21
+time/turn: 1994 ms (max: 24.0 s),  time/game: 37 s
+moves/game: 18,  CRC: 96fded42,   memory: 37.83 MB
+
+QMENTAT6
+wins: 7=4+3,   losses: 47=23+24
+time/turn: 777 ms (max: 12.5 s),  time/game: 13 s
+moves/game: 17,  CRC: 7825efaf,   memory: 2.10 MB
+

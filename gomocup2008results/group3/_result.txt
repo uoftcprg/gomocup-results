@@ -1,0 +1,48 @@
+-------------------------------------
+19.4.2008  14:11 - 17:26
+Èas na tah: 30 s,   Èas na partii: 180 s
+Tolerance: 1 s,   Pamì: 350 MB
+Zahájení: zaèíná se od 1., pouito 3, celkem 3 
+Poèet her: 168
+-------------------------------------
+
+Tito
+vıhry: 40=21+16+3,  prohry: 2=0+2
+èas/tah: 2138 ms (max: 28.1 s),  èas/partii: 40 s
+tahù/partii: 18,  CRC: af4694e2,   pamì: 1.34 MB
+
+pela
+vıhry: 37=19+15+3,  prohry: 5=1+4
+èas/tah: 4239 ms (max: 25.7 s),  èas/partii: 105 s
+tahù/partii: 24,  CRC: dd888743,   pamì: 1.88 MB
+
+gmotor
+vıhry: 27=12+12+3,  prohry: 15=7+8
+èas/tah: 3718 ms (max: 7.7 s),  èas/partii: 81 s
+tahù/partii: 21,  CRC: a2d2a41,   pamì: 9.28 MB
+
+bestmove
+vıhry: 19=10+9,  prohry: 23=0+8+15
+èas/tah: 8329 ms (max: 30.1 s),  èas/partii: 135 s
+tahù/partii: 16,  CRC: 7554f3d4,   pamì: 66.83 MB
+
+QMENTAT6
+vıhry: 18=7+7+4,  prohry: 24=12+12
+èas/tah: 869 ms (max: 5.7 s),  èas/partii: 20 s
+tahù/partii: 23,  CRC: 7825efaf,   pamì: 1.32 MB
+
+Puskvorec
+vıhry: 12=5+6+1,  prohry: 30=16+14
+èas/tah: 535 ms (max: 3.7 s),  èas/partii: 9 s
+tahù/partii: 17,  CRC: b89a06e8,   pamì: 1.88 MB
+
+BRUTEFOR
+vıhry: 9=3+5+1,  prohry: 33=16+12+5
+èas/tah: 6409 ms (max: 11.4 s),  èas/partii: 108 s
+tahù/partii: 16,  CRC: 287e32f4,   pamì: 2.19 MB
+
+CURNPIS
+vıhry: 6=0+1+5,  prohry: 36=19+17
+èas/tah: 204 ms (max: 0.6 s),  èas/partii: 3 s
+tahù/partii: 17,  CRC: f2623dd9,   pamì: 2.18 MB
+

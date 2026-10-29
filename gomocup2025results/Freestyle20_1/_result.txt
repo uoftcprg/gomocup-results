@@ -1,0 +1,80 @@
+1. RAPFI25 2445
+    wins: 177+176, losses: 3+4, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 481s, time/turn: 17637ms, move/game: 27
+
+2. ALPHAGOMOKU.MK25 2096
+    wins: 152+155, losses: 28+25, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 726s, time/turn: 22215ms, move/game: 33
+
+3. JAX25 2060
+    wins: 147+153, losses: 33+27, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 540s, time/turn: 16238ms, move/game: 33
+
+4. BARBAKAN 1935
+    wins: 136+137, losses: 44+43, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 746s, time/turn: 24103ms, move/game: 31
+
+5. KATAGOMO21.F 1901
+    wins: 134+131, losses: 46+49, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 724s, time/turn: 21086ms, move/game: 34
+
+6. EMBRYO25 1855
+    wins: 130+124, losses: 50+56, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 426s, time/turn: 13239ms, move/game: 32
+
+7. YIXIN18 1674
+    wins: 104+105, losses: 76+75, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 445s, time/turn: 14503ms, move/game: 31
+
+8. PENTAZEN21.20 1582
+    wins: 94+91, losses: 86+89, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 755s, time/turn: 24038ms, move/game: 31
+
+9. STARDUST 1459
+    wins: 72+79, losses: 108+101, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 428s, time/turn: 16750ms, move/game: 26
+
+10. XOXO21.F 1404
+    wins: 64+71, losses: 116+109, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 490s, time/turn: 16528ms, move/game: 30
+
+11. WINE18 1290
+    wins: 47+54, losses: 133+126, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 651s, time/turn: 24633ms, move/game: 26
+
+12. SLOWRENJU20 1249
+    wins: 33+56, losses: 147+124, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 592s, time/turn: 23273ms, move/game: 25
+
+13. HEWER18 1164
+    wins: 27+38, losses: 153+142, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 423s, time/turn: 14191ms, move/game: 30
+
+14. TITO14 1164
+    wins: 33+32, losses: 147+148, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 243s, time/turn: 8663ms, move/game: 28
+
+15. WHOSE19 1160
+    wins: 31+33, losses: 149+147, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 340s, time/turn: 11737ms, move/game: 29
+
+16. DEEPFIRE19 1160
+    wins: 29+35, losses: 151+145, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 735s, time/turn: 25981ms, move/game: 28
+

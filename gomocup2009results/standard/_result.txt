@@ -1,0 +1,18 @@
+-------------------------------------
+5.4.2009  9:45 - 11:12
+Time for turn: 300 s,   Time for match: 1200 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 6
+-------------------------------------
+
+hewer
+wins: 6=3+3,   losses: 0=0+0
+time/turn: 12 s (max: 73.2 s),  time/game: 238 s
+moves/game: 19,  CRC: f61ff2fa,   memory: 339.33 MB
+
+pela
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 37 s (max: 171.4 s),  time/game: 727 s
+moves/game: 19,  CRC: dd888743,   memory: 1.85 MB
+

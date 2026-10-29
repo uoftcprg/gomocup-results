@@ -1,0 +1,50 @@
+-------------------------------------
+12. 4. 2014  9:56 - 17:44
+Time for turn: 300 s,   Time for match: 1000 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: exactly five stones wins
+Opening CRC: 9eb3490b
+Games played: 168
+-------------------------------------
+
+Tito2014
+wins: 36=17+19,   losses: 6=4+2
+time/turn: 8941 ms (max: 131.1 s),  time/game: 197 s
+moves/game: 22,  CRC: a8f60969,   memory: 130.96 MB
+
+Yixin2014
+wins: 36=18+18,   losses: 6=3+3
+time/turn: 12 s (max: 62.0 s),  time/game: 294 s
+moves/game: 23,  CRC: 3e753811,   memory: 172.59 MB
+
+hewer2014
+wins: 32=18+14,   losses: 9=3+6
+time/turn: 11 s (max: 62.1 s),  time/game: 306 s
+moves/game: 26,  CRC: 1bab8a6d,   memory: 338.70 MB
+
+gmotor11
+wins: 22=10+12,   losses: 19=10+9
+time/turn: 13 s (max: 31.0 s),  time/game: 309 s
+moves/game: 22,  CRC: 56498af1,   memory: 49.72 MB
+
+SlowRenju2014
+wins: 17=8+9,   losses: 25=13+12
+time/turn: 17 s (max: 66.8 s),  time/game: 370 s
+moves/game: 20,  CRC: 6c76255d,   memory: 258.82 MB
+
+pela
+wins: 15=7+7+1,   losses: 27=13+14
+time/turn: 28 s (max: 142.9 s),  time/game: 619 s
+moves/game: 21,  CRC: dd888743,   memory: 3.04 MB
+
+zetor
+wins: 9=3+6,   losses: 33=18+15
+time/turn: 9 s (max: 234.4 s),  time/game: 200 s
+moves/game: 22,  CRC: 5d038d25,   memory: 33.58 MB
+
+valkyrie
+wins: 0=0+0,   losses: 42=21+20+1,  1 errors
+time/turn: 178 ms (max: 0.8 s),  time/game: 1 s
+moves/game: 10,  CRC: 3f15ed9e,   memory: 2.40 MB
+

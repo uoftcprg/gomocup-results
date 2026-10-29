@@ -1,0 +1,60 @@
+1. STARDUST 2495
+    wins: 126+127, losses: 6+5, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 31s, time/turn: 2542ms, move/game: 12
+
+2. WULIN 2409
+    wins: 123+122, losses: 9+10, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 25s, time/turn: 2245ms, move/game: 11
+
+3. PENTAZEN 2164
+    wins: 108+113, losses: 24+19, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 36s, time/turn: 2833ms, move/game: 13
+
+4. MONKEY 1771
+    wins: 93+87, losses: 39+45, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 75s, time/turn: 5377ms, move/game: 14
+
+5. BENJAMIN 1477
+    wins: 65+61, losses: 67+71, draws: 0+0
+    timeouts: 0, errors: 17, total games: 264
+    time/game: 1s, time/turn: 24ms, move/game: 38
+
+6. VALKYRIE 1456
+    wins: 65+56, losses: 67+76, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 3s, time/turn: 232ms, move/game: 13
+
+7. FIVEROW 1418
+    wins: 57+55, losses: 75+77, draws: 0+0
+    timeouts: 0, errors: 5, total games: 264
+    time/game: 4s, time/turn: 330ms, move/game: 12
+
+8. PUREROCKY 1401
+    wins: 55+53, losses: 77+79, draws: 0+0
+    timeouts: 0, errors: 4, total games: 264
+    time/game: 11s, time/turn: 449ms, move/game: 24
+
+9. CRUSHER 1322
+    wins: 45+44, losses: 87+88, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 1s, time/turn: 42ms, move/game: 19
+
+10. PROLOG 1271
+    wins: 39+38, losses: 93+94, draws: 0+0
+    timeouts: 0, errors: 1, total games: 264
+    time/game: 5s, time/turn: 329ms, move/game: 15
+
+11. MUSHROOM 1021
+    wins: 12+16, losses: 120+116, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 4s, time/turn: 733ms, move/game: 6
+
+12. WHATATEAM 994
+    wins: 11+13, losses: 121+119, draws: 0+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 0s, time/turn: 9ms, move/game: 12
+

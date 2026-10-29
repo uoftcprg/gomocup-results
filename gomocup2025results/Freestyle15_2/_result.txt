@@ -1,0 +1,140 @@
+1. WHOSE19 2247
+    wins: 144+137, losses: 20+29, draws: 4+2
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 58s, time/turn: 2748ms, move/game: 21
+
+2. TITO14 2169
+    wins: 145+134, losses: 32+44, draws: 3+2
+    timeouts: 2, errors: 0, total games: 360
+    time/game: 24s, time/turn: 1255ms, move/game: 19
+
+3. DEEPFIRE19 2156
+    wins: 143+133, losses: 34+46, draws: 3+1
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 69s, time/turn: 3601ms, move/game: 19
+
+4. ARBILLO 2093
+    wins: 155+145, losses: 49+59, draws: 0+0
+    timeouts: 4, errors: 0, total games: 408
+    time/game: 73s, time/turn: 3600ms, move/game: 20
+
+5. GOFIVE 2041
+    wins: 148+128, losses: 56+73, draws: 0+3
+    timeouts: 0, errors: 0, total games: 408
+    time/game: 71s, time/turn: 3840ms, move/game: 19
+
+6. CARBON17 2016
+    wins: 129+135, losses: 71+67, draws: 4+2
+    timeouts: 0, errors: 0, total games: 408
+    time/game: 88s, time/turn: 4525ms, move/game: 19
+
+7. EGO21 1984
+    wins: 153+147, losses: 75+81, draws: 0+0
+    timeouts: 0, errors: 7, total games: 456
+    time/game: 90s, time/turn: 4337ms, move/game: 21
+
+8. PELA23 1960
+    wins: 136+141, losses: 81+70, draws: 11+17
+    timeouts: 0, errors: 0, total games: 456
+    time/game: 116s, time/turn: 4007ms, move/game: 29
+
+9. GMOTOR11 1879
+    wins: 151+148, losses: 100+104, draws: 1+0
+    timeouts: 0, errors: 0, total games: 504
+    time/game: 50s, time/turn: 2809ms, move/game: 18
+
+10. SQUIRREL24 1872
+    wins: 190+176, losses: 95+109, draws: 3+3
+    timeouts: 0, errors: 0, total games: 576
+    time/game: 57s, time/turn: 3393ms, move/game: 17
+
+11. CHIS17 1872
+    wins: 168+152, losses: 94+110, draws: 2+2
+    timeouts: 0, errors: 0, total games: 528
+    time/game: 35s, time/turn: 2042ms, move/game: 17
+
+12. KANEC09 1826
+    wins: 135+137, losses: 110+106, draws: 7+9
+    timeouts: 11, errors: 0, total games: 504
+    time/game: 56s, time/turn: 2454ms, move/game: 23
+
+13. ZETOR17 1755
+    wins: 165+150, losses: 123+138, draws: 0+0
+    timeouts: 9, errors: 0, total games: 576
+    time/game: 56s, time/turn: 3266ms, move/game: 17
+
+14. EULRING 1669
+    wins: 135+139, losses: 141+137, draws: 0+0
+    timeouts: 0, errors: 4, total games: 552
+    time/game: 72s, time/turn: 5032ms, move/game: 14
+
+15. PECUCHET 1634
+    wins: 149+131, losses: 115+133, draws: 0+0
+    timeouts: 5, errors: 0, total games: 528
+    time/game: 27s, time/turn: 1773ms, move/game: 15
+
+16. DJALL18 1500
+    wins: 107+97, losses: 100+115, draws: 21+16
+    timeouts: 0, errors: 0, total games: 456
+    time/game: 1s, time/turn: 24ms, move/game: 26
+
+17. MONKEY 1480
+    wins: 110+105, losses: 154+159, draws: 0+0
+    timeouts: 10, errors: 0, total games: 528
+    time/game: 84s, time/turn: 5473ms, move/game: 15
+
+18. FASTGOMOKU14 1340
+    wins: 97+74, losses: 109+130, draws: 10+12
+    timeouts: 0, errors: 0, total games: 432
+    time/game: 0s, time/turn: 0ms, move/game: 23
+
+19. IMRO15 1334
+    wins: 76+65, losses: 138+147, draws: 14+16
+    timeouts: 0, errors: 0, total games: 456
+    time/game: 0s, time/turn: 0ms, move/game: 24
+
+20. STAHLFAUST 1284
+    wins: 87+75, losses: 105+116, draws: 0+1
+    timeouts: 24, errors: 0, total games: 384
+    time/game: 77s, time/turn: 4203ms, move/game: 18
+
+21. PISQ7 1247
+    wins: 81+68, losses: 133+148, draws: 2+0
+    timeouts: 0, errors: 0, total games: 432
+    time/game: 0s, time/turn: 6ms, move/game: 14
+
+22. DDQKCONQUER 1146
+    wins: 72+42, losses: 108+138, draws: 0+0
+    timeouts: 0, errors: 11, total games: 360
+    time/game: 0s, time/turn: 9ms, move/game: 23
+
+23. TPTC 1129
+    wins: 76+55, losses: 248+269, draws: 0+0
+    timeouts: 11, errors: 0, total games: 648
+    time/game: 1s, time/turn: 52ms, move/game: 15
+
+24. LIGHTBLUE 1102
+    wins: 74+45, losses: 115+143, draws: 3+4
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 0s, time/turn: 1ms, move/game: 19
+
+25. CRUSHER 986
+    wins: 50+36, losses: 104+119, draws: 2+1
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 1s, time/turn: 30ms, move/game: 19
+
+26. PROLOG 864
+    wins: 35+20, losses: 71+86, draws: 2+2
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 4s, time/turn: 200ms, move/game: 19
+
+27. WHATATEAM 618
+    wins: 17+3, losses: 42+57, draws: 1+0
+    timeouts: 0, errors: 0, total games: 120
+    time/game: 0s, time/turn: 1ms, move/game: 13
+
+28. FIGRID -
+    wins: 129+0, losses: 195+324, draws: 0+0
+    timeouts: 195, errors: 0, total games: 648
+    time/game: 62s, time/turn: 7563ms, move/game: 8
+

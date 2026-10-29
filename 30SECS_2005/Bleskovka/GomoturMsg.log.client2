@@ -1,0 +1,960 @@
+*********** MATCH STARTED ************
+** AI1000 x Benjamin
+_______________________________________
+** GAME 1 START 16.4.2005 16:09:01
+*********** MATCH STARTED ************
+** AI1000 x Goro
+_______________________________________
+** GAME 1 START 16.4.2005 16:12:05
+** GAME 1 END 16.4.2005 16:12:35
+_______________________________________
+AI1000               time:  9.7 s  
+Goro                 time: 19.9 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:12:35
+** GAME 2 END 16.4.2005 16:12:42
+_______________________________________
+AI1000               time:  5.8 s  
+Goro                 time:  1.5 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:12:42
+** GAME 3 END 16.4.2005 16:13:12
+_______________________________________
+AI1000               time:  9.6 s  
+Goro                 time: 19.4 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:13:12
+** GAME 4 END 16.4.2005 16:13:19
+_______________________________________
+AI1000               time:  5.8 s  
+Goro                 time:  1.4 s  
+_______________________________________
+*********** MATCH STARTED ************
+** AI1000 x leonardo
+_______________________________________
+** GAME 1 START 16.4.2005 16:13:21
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0106AIle00.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "AI1000"   Hra 0,5  Proti AI "leonardo"  Partie Ë. 0   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0106AIle00.bmp"
+** GAME 1 END 16.4.2005 16:14:23
+_______________________________________
+AI1000               time: 31.1 s  
+leonardo             time: 30.5 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:14:23
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0106AIle01.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "leonardo"   Hra 0,5  Proti AI "AI1000"  Partie Ë. 1   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0106AIle01.bmp"
+** GAME 2 END 16.4.2005 16:15:25
+_______________________________________
+AI1000               time: 30.5 s  
+leonardo             time: 31.1 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:15:25
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0106AIle02.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "AI1000"   Hra 0,5  Proti AI "leonardo"  Partie Ë. 2   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0106AIle02.bmp"
+** GAME 3 END 16.4.2005 16:16:28
+_______________________________________
+AI1000               time: 31.1 s  
+leonardo             time: 30.6 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:16:28
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0106AIle03.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "leonardo"   Hra 0,5  Proti AI "AI1000"  Partie Ë. 3   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0106AIle03.bmp"
+** GAME 4 END 16.4.2005 16:17:30
+_______________________________________
+AI1000               time: 30.4 s  
+leonardo             time: 31.1 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Benjamin x Curnpis
+_______________________________________
+** GAME 1 START 16.4.2005 16:17:31
+** GAME 1 END 16.4.2005 16:17:52
+_______________________________________
+Benjamin             time:  0.8 s  
+Curnpis              time: 19.4 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:17:52
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0203BeCu01.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Curnpis"   Hra 1,2  Proti AI "Benjamin"  Partie Ë. 1   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0203BeCu01.bmp"
+** GAME 2 END 16.4.2005 16:18:26
+_______________________________________
+Benjamin             time:  1.2 s  
+Curnpis              time: 31.1 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:18:26
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0203BeCu02.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Curnpis"   Hra 1,2  Proti AI "Benjamin"  Partie Ë. 2   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0203BeCu02.bmp"
+** GAME 3 END 16.4.2005 16:18:59
+_______________________________________
+Benjamin             time:  1.2 s  
+Curnpis              time: 31.1 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:18:59
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0203BeCu03.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Curnpis"   Hra 1,2  Proti AI "Benjamin"  Partie Ë. 3   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0203BeCu03.bmp"
+** GAME 4 END 16.4.2005 16:19:33
+_______________________________________
+Benjamin             time:  1.2 s  
+Curnpis              time: 31.1 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Benjamin x Noesis
+_______________________________________
+** GAME 1 START 16.4.2005 16:19:34
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0207BeNo00.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Noesis"   Hra 1,6  Proti AI "Benjamin"  Partie Ë. 0   error: )  TIMEOUT 4
+GOMOTUR MSG          See file "ERR0207BeNo00.bmp"
+** GAME 1 END 16.4.2005 16:20:06
+_______________________________________
+Benjamin             time:  0.2 s  
+Noesis               time: 31.1 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:20:06
+** GAME 2 END 16.4.2005 16:20:21
+_______________________________________
+Benjamin             time:  0.2 s  
+Noesis               time: 14.0 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:20:21
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0207BeNo02.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Noesis"   Hra 1,6  Proti AI "Benjamin"  Partie Ë. 2   error: )  TIMEOUT 1
+GOMOTUR MSG          See file "ERR0207BeNo02.bmp"
+** GAME 3 END 16.4.2005 16:20:53
+_______________________________________
+Benjamin             time:  0.2 s  
+Noesis               time: 31.1 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:20:53
+** GAME 4 END 16.4.2005 16:21:23
+_______________________________________
+Benjamin             time:  0.2 s  
+Noesis               time: 30.2 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Benjamin x QMENTAT6
+_______________________________________
+** GAME 1 START 16.4.2005 16:21:25
+** GAME 1 END 16.4.2005 16:21:32
+_______________________________________
+Benjamin             time:  2.1 s  
+QMENTAT6             time:  2.1 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:21:32
+** GAME 2 END 16.4.2005 16:21:54
+_______________________________________
+Benjamin             time:  4.5 s  
+QMENTAT6             time: 13.3 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:21:54
+** GAME 3 END 16.4.2005 16:22:16
+_______________________________________
+Benjamin             time:  4.3 s  
+QMENTAT6             time: 12.6 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:22:16
+** GAME 4 END 16.4.2005 16:22:37
+_______________________________________
+Benjamin             time:  4.2 s  
+QMENTAT6             time: 12.6 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Curnpis x Krysa
+_______________________________________
+** GAME 1 START 16.4.2005 16:22:38
+** GAME 1 END 16.4.2005 16:22:53
+_______________________________________
+Curnpis              time: 12.4 s  
+Krysa                time:  1.8 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:22:53
+** GAME 2 END 16.4.2005 16:23:09
+_______________________________________
+Curnpis              time: 12.4 s  
+Krysa                time:  3.3 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:23:09
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0305CuKr02.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Curnpis"   Hra 2,4  Proti AI "Krysa"  Partie Ë. 2   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0305CuKr02.bmp"
+** GAME 3 END 16.4.2005 16:23:45
+_______________________________________
+Curnpis              time: 31.1 s  
+Krysa                time:  3.5 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:23:45
+** GAME 4 END 16.4.2005 16:23:57
+_______________________________________
+Curnpis              time:  9.2 s  
+Krysa                time:  1.8 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Curnpis x pbrain-dolores
+_______________________________________
+** GAME 1 START 16.4.2005 16:23:58
+** GAME 1 END 16.4.2005 16:24:09
+_______________________________________
+Curnpis              time: 10.5 s  
+pbrain-dolores       time:  0.1 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:24:09
+** GAME 2 END 16.4.2005 16:24:24
+_______________________________________
+Curnpis              time: 14.5 s  
+pbrain-dolores       time:  0.1 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:24:24
+** GAME 3 END 16.4.2005 16:24:34
+_______________________________________
+Curnpis              time:  9.2 s  
+pbrain-dolores       time:  0.0 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:24:34
+GOMOTUR MSG          TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 2,8  Proti AI "Curnpis"  Partie Ë. 3   error: )  TAH [10,10]
+GOMOTUR MSG          See file "ERR0309Cupb03.bmp"
+** GAME 4 END 16.4.2005 16:24:35
+_______________________________________
+Curnpis              time:  0.6 s  
+pbrain-dolores       time:  0.0 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Curnpis x pbrain-pela
+_______________________________________
+** GAME 1 START 16.4.2005 16:24:36
+pbrain-pela           I win !
+** GAME 1 END 16.4.2005 16:25:18
+_______________________________________
+Curnpis              time: 17.8 s  
+pbrain-pela          time: 23.7 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:25:18
+pbrain-pela           I win !
+** GAME 2 END 16.4.2005 16:25:52
+_______________________________________
+Curnpis              time: 13.9 s  
+pbrain-pela          time: 19.1 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:25:52
+pbrain-pela           I win !
+** GAME 3 END 16.4.2005 16:26:32
+_______________________________________
+Curnpis              time: 17.0 s  
+pbrain-pela          time: 22.5 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:26:32
+pbrain-pela           I win !
+** GAME 4 END 16.4.2005 16:26:45
+_______________________________________
+Curnpis              time:  8.6 s  
+pbrain-pela          time:  3.8 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Curnpis x swine
+_______________________________________
+** GAME 1 START 16.4.2005 16:26:46
+swine                  3.[11,11]    94 ms...Val= 19338 (4/0/0)
+swine                  5.[10,12]    94 ms...Val= 19535 (1/0/0)
+swine                  7.[ 7,11]    94 ms...Val= 19515 (1/0/0)
+swine                  9.[11,10]  4938 ms...Val=   192 (1/1/12)
+swine                 11.[ 7,10]   156 ms...Aj vaj
+swine                 13.[ 8,10]   109 ms...Val= -1937 (1/3/12)
+swine                 15.[ 5,10]    15 ms...Val= -2118 (1/5/20)
+swine                 17.[ 7,13]    16 ms...:-(
+swine                 19.[ 9,14]  2719 ms...Val=   -43 (1/3/20)
+swine                 21.[12, 8]  3594 ms...Val=  -445 (1/1/1)
+swine                 23.[ 5,12]  3000 ms...Val=    10 (1/2/4)
+swine                 25.[ 6, 9]  1609 ms...Val=   536 (1/2/20)
+swine                 27.[ 7, 9]  1781 ms...Val=   600 (1/8/20)
+swine                 29.[ 7, 8]    31 ms...WIN PN1 231/94 :-)
+swine                 31.[ 8, 7]    47 ms...WIN PN1 163/66 Je to na dobrÈ cestÏ.!
+swine                 33.[ 8, 9]    62 ms...WIN PN1 162/65 :-))
+swine                 35.[ 5, 9]    15 ms...WIN fours seq 4 Drûte si klobouky...
+swine                 37.[ 5, 6]     0 ms...WIN fours seq 5 Drûte si klobouky...
+swine                 39.[ 8, 8]     0 ms...WIN fours seq 2 ée by?.
+swine                 41.[ 5, 8]    16 ms...WIN fours seq 1 Vypad· to v˝bornÏ.
+swine                 43.[ 6, 8]    16 ms...Tak snad nÏkdy p¯ÌötÏ.
+swine                 45.[ 4, 8]     0 ms...Nechceö si o tom promluvit?
+** GAME 1 END 16.4.2005 16:27:21
+_______________________________________
+Curnpis              time: 15.3 s  
+swine                time: 18.8 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:27:21
+swine                  0.[ 9, 9]     0 ms...Zdar!
+swine                  2.[ 8, 9]     0 ms...Tak to nebudem zdrûovat.
+swine                  4.[10, 8]   125 ms...Val= 19737 (1/0/0)
+swine                  6.[ 9, 8]   125 ms...Val= 19797 (1/0/0)
+swine                  8.[ 7,10]   125 ms...Val= 18180 (1/0/0)
+swine                 10.[ 8,11]   125 ms...Val= 20000 (1/0/0)
+swine                 12.[ 6,11]   125 ms...WIN PN1 586/203 :-)
+swine                 14.[ 6, 9]    16 ms...WIN PN1 564/191 To by mÏlo vyjÌt.
+swine                 16.[ 7, 9]    16 ms...WIN PN1 271/89 Snad jsem nic nep¯ehlÌdla..
+swine                 18.[ 7,11]    16 ms...WIN PN1 134/46 Je to na dobrÈ cestÏ.!
+swine                 20.[ 7, 8]     0 ms...Zkus to znova
+swine                 22.[ 7, 7]     0 ms...Nechceö si o tom promluvit?
+** GAME 2 END 16.4.2005 16:27:30
+_______________________________________
+Curnpis              time:  7.2 s  
+swine                time:  0.8 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:27:30
+swine                  1.[ 6, 9]     0 ms...Tak j· hraju
+swine                  3.[ 5, 7]   109 ms...Val= 19338 (2/0/0)
+swine                  5.[ 4, 7]   109 ms...Val= 19535 (4/0/0)
+swine                  7.[ 4, 8]  4954 ms...Val=   404 (1/3/5)
+swine                  9.[ 3, 9]   125 ms...WIN PN1 2769/982 Je to na dobrÈ cestÏ.!
+swine                 11.[ 4, 9]    94 ms...WIN PN1 688/250 Vypad· to v˝bornÏ.
+swine                 13.[ 2, 9]   110 ms...WIN PN1 244/88 Vypad· to v˝bornÏ.
+swine                 15.[ 1, 9]    16 ms...WIN PN1 70/28 Drûte si klobouky...
+swine                 17.[ 1,11]    15 ms...WIN PN1 54/22 Snad jsem nic nep¯ehlÌdla..
+swine                 19.[ 4,10]    15 ms...WIN PN1 61/22 :-))
+swine                 21.[ 1,10]    16 ms...WIN PN1 54/19 To snad pude.
+swine                 23.[ 1,12]    16 ms...T¯eba se to nÏkdy nauËÌö
+swine                 25.[ 1,13]    16 ms...Nechceö si o tom promluvit?
+** GAME 3 END 16.4.2005 16:27:44
+_______________________________________
+Curnpis              time:  8.5 s  
+swine                time:  5.7 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:27:45
+swine                  0.[ 9, 9]     0 ms...ZdravÌm!
+swine                  2.[ 8, 8]    15 ms...Pozor na svini!
+swine                  4.[ 9, 7]   141 ms...Val= 19943 (1/0/0)
+swine                  6.[10, 7]   140 ms...Val= 19829 (1/0/0)
+swine                  8.[11, 7]   235 ms...WIN PN1 10856/3824 Chro chro.
+swine                 10.[10, 8]   171 ms...WIN PN1 4030/1433 To snad pude.
+swine                 12.[12, 6]   125 ms...WIN PN1 572/195 Chro chro.
+swine                 14.[10, 6]     0 ms...WIN PN1 626/212 :-))
+swine                 16.[11, 5]     0 ms...WIN fours seq 2 Drûte si klobouky...
+swine                 18.[10, 4]    16 ms...WIN fours seq 1 Vypad· to v˝bornÏ.
+swine                 20.[13, 7]     0 ms...To se musÌte vÌc snaûit, pane spr·vce.
+swine                 22.[14, 8]     0 ms...Juch!
+** GAME 4 END 16.4.2005 16:27:53
+_______________________________________
+Curnpis              time:  7.2 s  
+swine                time:  1.0 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Goro x leonardo
+_______________________________________
+** GAME 1 START 16.4.2005 16:27:55
+** GAME 1 END 16.4.2005 16:28:04
+_______________________________________
+Goro                 time:  3.0 s  
+leonardo             time:  6.4 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:28:05
+** GAME 2 END 16.4.2005 16:28:36
+_______________________________________
+Goro                 time: 18.9 s  
+leonardo             time: 12.3 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:28:36
+** GAME 3 END 16.4.2005 16:28:48
+_______________________________________
+Goro                 time:  4.5 s  
+leonardo             time:  7.1 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:28:48
+** GAME 4 END 16.4.2005 16:29:20
+_______________________________________
+Goro                 time: 19.1 s  
+leonardo             time: 12.2 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Goro x pbrain-pela
+_______________________________________
+** GAME 1 START 16.4.2005 16:29:22
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0410Gopb00.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Goro"   Hra 3,9  Proti AI "pbrain-pela"  Partie Ë. 0   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0410Gopb00.bmp"
+** GAME 1 END 16.4.2005 16:30:18
+_______________________________________
+Goro                 time: 31.1 s  
+pbrain-pela          time: 23.8 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:30:18
+pbrain-pela           I win !
+** GAME 2 END 16.4.2005 16:30:59
+_______________________________________
+Goro                 time: 18.3 s  
+pbrain-pela          time: 21.7 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:30:59
+** GAME 3 END 16.4.2005 16:31:43
+_______________________________________
+Goro                 time: 24.4 s  
+pbrain-pela          time: 19.4 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:31:43
+** GAME 4 END 16.4.2005 16:31:55
+_______________________________________
+Goro                 time:  8.1 s  
+pbrain-pela          time:  3.7 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Krysa x pbrain-beta
+_______________________________________
+** GAME 1 START 16.4.2005 16:31:57
+pbrain-beta          -158|0|42457
+pbrain-beta          -185|-100|50210
+pbrain-beta          -138|240|75120
+pbrain-beta          -118|-390|32234
+pbrain-beta          327|-258|31853
+pbrain-beta          20000|-738|2795
+pbrain-beta          20000|-513|4477
+pbrain-beta          20000|-468|9973
+pbrain-beta          20000|-663|93516
+pbrain-beta          20000|-303|1357
+pbrain-beta          20000|-1003|2
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 1 END 16.4.2005 16:32:07
+_______________________________________
+Krysa                time:  2.2 s  
+pbrain-beta          time:  7.5 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:32:07
+pbrain-beta          203|115|120684
+pbrain-beta          225|75|89555
+pbrain-beta          321|190|69992
+pbrain-beta          20000|645|23254
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 2 END 16.4.2005 16:32:15
+_______________________________________
+Krysa                time:  1.2 s  
+pbrain-beta          time:  5.9 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:32:15
+pbrain-beta          -140|0|79630
+pbrain-beta          -280|-50|87782
+pbrain-beta          -235|-80|65951
+pbrain-beta          -210|-95|82628
+pbrain-beta          -300|-65|134122
+pbrain-beta          fast reply
+pbrain-beta          20000|-345|4
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 3 END 16.4.2005 16:32:27
+_______________________________________
+Krysa                time:  2.1 s  
+pbrain-beta          time:  9.1 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:32:27
+pbrain-beta          320|180|35390
+pbrain-beta          330|35|43410
+pbrain-beta          495|475|19669
+pbrain-beta          20000|410|583
+pbrain-beta          20000|210|3677
+pbrain-beta          20000|205|14
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 4 END 16.4.2005 16:32:31
+_______________________________________
+Krysa                time:  1.2 s  
+pbrain-beta          time:  2.1 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Krysa x pisq7
+_______________________________________
+** GAME 1 START 16.4.2005 16:32:32
+** GAME 1 END 16.4.2005 16:32:45
+_______________________________________
+Krysa                time: 12.0 s  
+pisq7                time:  0.3 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:32:45
+** GAME 2 END 16.4.2005 16:32:55
+_______________________________________
+Krysa                time:  9.2 s  
+pisq7                time:  0.2 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:32:55
+** GAME 3 END 16.4.2005 16:33:04
+_______________________________________
+Krysa                time:  8.3 s  
+pisq7                time:  0.2 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:33:04
+** GAME 4 END 16.4.2005 16:33:08
+_______________________________________
+Krysa                time:  2.3 s  
+pisq7                time:  0.4 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Krysa x QMENTAT6
+_______________________________________
+** GAME 1 START 16.4.2005 16:33:09
+** GAME 1 END 16.4.2005 16:33:25
+_______________________________________
+Krysa                time: 13.7 s  
+QMENTAT6             time:  0.8 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:33:25
+** GAME 2 END 16.4.2005 16:33:28
+_______________________________________
+Krysa                time:  2.5 s  
+QMENTAT6             time:  0.5 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:33:29
+** GAME 3 END 16.4.2005 16:33:34
+_______________________________________
+Krysa                time:  4.6 s  
+QMENTAT6             time:  0.4 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:33:34
+** GAME 4 END 16.4.2005 16:33:48
+_______________________________________
+Krysa                time: 12.2 s  
+QMENTAT6             time:  1.0 s  
+_______________________________________
+*********** MATCH STARTED ************
+** leonardo x Noesis
+_______________________________________
+** GAME 1 START 16.4.2005 16:33:50
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0607leNo00.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Noesis"   Hra 5,6  Proti AI "leonardo"  Partie Ë. 0   error: )  TIMEOUT 3
+GOMOTUR MSG          See file "ERR0607leNo00.bmp"
+** GAME 1 END 16.4.2005 16:34:31
+_______________________________________
+leonardo             time:  9.7 s  
+Noesis               time: 31.1 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:34:31
+** GAME 2 END 16.4.2005 16:35:06
+_______________________________________
+leonardo             time:  6.5 s  
+Noesis               time: 27.2 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:35:06
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0607leNo02.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Noesis"   Hra 5,6  Proti AI "leonardo"  Partie Ë. 2   error: )  TIMEOUT 2
+GOMOTUR MSG          See file "ERR0607leNo02.bmp"
+** GAME 3 END 16.4.2005 16:35:44
+_______________________________________
+leonardo             time:  6.5 s  
+Noesis               time: 31.1 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:35:44
+** GAME 4 END 16.4.2005 16:36:12
+_______________________________________
+leonardo             time:  7.2 s  
+Noesis               time: 20.9 s  
+_______________________________________
+*********** MATCH STARTED ************
+** leonardo x QMENTAT6
+_______________________________________
+** GAME 1 START 16.4.2005 16:36:14
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0613leQM00.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "leonardo"   Hra 5,12  Proti AI "QMENTAT6"  Partie Ë. 0   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0613leQM00.bmp"
+** GAME 1 END 16.4.2005 16:36:47
+_______________________________________
+leonardo             time: 31.1 s  
+QMENTAT6             time:  1.1 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:36:47
+** GAME 2 END 16.4.2005 16:36:56
+_______________________________________
+leonardo             time:  7.8 s  
+QMENTAT6             time:  0.2 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:36:56
+** GAME 3 END 16.4.2005 16:37:09
+_______________________________________
+leonardo             time: 11.7 s  
+QMENTAT6             time:  0.3 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:37:09
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0613leQM03.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "leonardo"   Hra 5,12  Proti AI "QMENTAT6"  Partie Ë. 3   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR0613leQM03.bmp"
+** GAME 4 END 16.4.2005 16:37:42
+_______________________________________
+leonardo             time: 31.1 s  
+QMENTAT6             time:  1.1 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Noesis x pbrain-dolores
+_______________________________________
+** GAME 1 START 16.4.2005 16:37:44
+** GAME 1 END 16.4.2005 16:38:09
+_______________________________________
+Noesis               time: 25.4 s  
+pbrain-dolores       time:  0.0 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:38:10
+GOMOTUR MSG          TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 6,8  Proti AI "Noesis"  Partie Ë. 1   error: )  TAH [10,10]
+GOMOTUR MSG          See file "ERR0709Nopb01.bmp"
+** GAME 2 END 16.4.2005 16:38:20
+_______________________________________
+Noesis               time:  9.8 s  
+pbrain-dolores       time:  0.0 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:38:20
+** GAME 3 END 16.4.2005 16:38:48
+_______________________________________
+Noesis               time: 27.4 s  
+pbrain-dolores       time:  0.0 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:38:48
+GOMOTUR MSG          TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 6,8  Proti AI "Noesis"  Partie Ë. 3   error: )  TAH [10,10]
+GOMOTUR MSG          See file "ERR0709Nopb03.bmp"
+** GAME 4 END 16.4.2005 16:38:58
+_______________________________________
+Noesis               time:  9.8 s  
+pbrain-dolores       time:  0.0 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Noesis x Puskvorec
+_______________________________________
+** GAME 1 START 16.4.2005 16:38:59
+** GAME 1 END 16.4.2005 16:39:37
+_______________________________________
+Noesis               time: 24.7 s  
+Puskvorec            time: 12.1 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:39:37
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR0712NoPu01.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "Noesis"   Hra 6,11  Proti AI "Puskvorec"  Partie Ë. 1   error: )  TIMEOUT 1
+GOMOTUR MSG          See file "ERR0712NoPu01.bmp"
+** GAME 2 END 16.4.2005 16:40:25
+_______________________________________
+Noesis               time: 31.1 s  
+Puskvorec            time: 15.9 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:40:25
+** GAME 3 END 16.4.2005 16:40:48
+_______________________________________
+Noesis               time: 17.1 s  
+Puskvorec            time:  5.8 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:40:48
+** GAME 4 END 16.4.2005 16:41:20
+_______________________________________
+Noesis               time: 16.0 s  
+Puskvorec            time: 15.4 s  
+_______________________________________
+*********** MATCH STARTED ************
+** pbrain-beta x pbrain-pela
+_______________________________________
+** GAME 1 START 16.4.2005 16:41:22
+pbrain-beta          175|115|96728
+pbrain-beta          170|115|162284
+pbrain-beta          278|80|173656
+pbrain-beta          480|205|42944
+pbrain-beta          643|183|154460
+pbrain-beta          20000|455|4813
+pbrain-beta          20000|240|2005
+pbrain-beta          20000|385|28
+pbrain-beta          20000|1060|84
+pbrain-beta          20000|1271|5
+pbrain-beta          20000|715|3
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 1 END 16.4.2005 16:41:49
+_______________________________________
+pbrain-beta          time: 12.7 s  
+pbrain-pela          time: 14.4 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:41:49
+pbrain-beta          -140|0|75701
+pbrain-beta          -210|35|115286
+pbrain-beta          -20|80|199274
+pbrain-beta          fast reply
+pbrain-beta          -50|250|32852
+pbrain-beta          -20|-280|11623
+pbrain-beta          -97|-430|69620
+pbrain-beta          -75|-124|136362
+pbrain-beta          -80|-305|111953
+pbrain-beta          10|-550|90602
+pbrain-beta          -515|-540|76157
+pbrain-beta          -129|-196|63808
+pbrain-pela           I win !
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 2 END 16.4.2005 16:42:31
+_______________________________________
+pbrain-beta          time: 21.5 s  
+pbrain-pela          time: 19.4 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:42:31
+pbrain-beta          320|165|123762
+pbrain-beta          410|300|57635
+pbrain-beta          430|400|57156
+pbrain-beta          728|315|32778
+pbrain-beta          745|30|86929
+pbrain-beta          555|10|65269
+pbrain-beta          411|405|157524
+pbrain-beta          539|730|126265
+pbrain-beta          fast reply
+** GAME 3 END 16.4.2005 16:43:02
+_______________________________________
+pbrain-beta          time: 15.1 s  
+pbrain-pela          time: 15.0 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:43:02
+pbrain-beta          -180|0|51850
+pbrain-beta          -160|0|89710
+pbrain-beta          -177|-30|83086
+pbrain-beta          -225|75|107660
+pbrain-beta          -285|-80|51148
+pbrain-beta          -430|-190|177497
+pbrain-beta          -538|-375|133357
+pbrain-beta          -280|-135|123401
+pbrain-beta          -565|-20|53455
+pbrain-beta          -453|-775|26370
+pbrain-beta          -28|-475|12449
+pbrain-beta          -83|-110|81792
+pbrain-beta          149|55|62966
+pbrain-beta          255|-325|52566
+pbrain-beta          -5|-105|46115
+pbrain-beta          -77|63|36504
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          -332|213|29325
+pbrain-beta          fast reply
+pbrain-beta          -414|-361|26781
+pbrain-beta          -231|343|21354
+pbrain-beta          -349|-652|18039
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          -1352|320|1011
+pbrain-beta          -20000|-915|220
+pbrain-pela           I win !
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+pbrain-beta          fast reply
+** GAME 4 END 16.4.2005 16:43:52
+_______________________________________
+pbrain-beta          time: 26.8 s  
+pbrain-pela          time: 22.5 s  
+_______________________________________
+*********** MATCH STARTED ************
+** pbrain-dolores x pbrain-pela
+_______________________________________
+** GAME 1 START 16.4.2005 16:43:54
+GOMOTUR MSG          TGomoPlayer_Pipe (Err AI "pbrain-dolores"   Hra 8,9  Proti AI "pbrain-pela"  Partie Ë. 0   error: )  TAH [10,10]
+GOMOTUR MSG          See file "ERR0910pbpb00.bmp"
+** GAME 1 END 16.4.2005 16:43:54
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+pbrain-pela          time:  0.0 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:43:54
+** GAME 2 END 16.4.2005 16:44:08
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+pbrain-pela          time: 13.6 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:44:08
+pbrain-pela           I win !
+** GAME 3 END 16.4.2005 16:44:22
+_______________________________________
+pbrain-dolores       time:  0.1 s  
+pbrain-pela          time: 13.0 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:44:22
+** GAME 4 END 16.4.2005 16:44:37
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+pbrain-pela          time: 14.6 s  
+_______________________________________
+*********** MATCH STARTED ************
+** pbrain-dolores x trunkat
+_______________________________________
+** GAME 1 START 16.4.2005 16:44:39
+** GAME 1 END 16.4.2005 16:45:05
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+trunkat              time: 25.9 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:45:05
+** GAME 2 END 16.4.2005 16:45:19
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+trunkat              time: 13.6 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:45:19
+** GAME 3 END 16.4.2005 16:45:31
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+trunkat              time: 11.2 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:45:31
+** GAME 4 END 16.4.2005 16:45:43
+_______________________________________
+pbrain-dolores       time:  0.0 s  
+trunkat              time: 11.0 s  
+_______________________________________
+*********** MATCH STARTED ************
+** pbrain-pela x trunkat
+_______________________________________
+** GAME 1 START 16.4.2005 16:45:44
+pbrain-pela           I win !
+** GAME 1 END 16.4.2005 16:46:06
+_______________________________________
+pbrain-pela          time: 10.3 s  
+trunkat              time: 11.0 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:46:06
+pbrain-pela           I win !
+** GAME 2 END 16.4.2005 16:46:44
+_______________________________________
+pbrain-pela          time: 16.9 s  
+trunkat              time: 20.8 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:46:44
+** GAME 3 END 16.4.2005 16:46:55
+_______________________________________
+pbrain-pela          time:  0.7 s  
+trunkat              time:  9.8 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:46:55
+GOMOTUR MSG          OnTimeoutEvent
+GOMOTUR MSG          See file "ERR1015pbtr03.bmp"
+GOMOTUR MSG          TGomoPlayer_File (Err AI "trunkat"   Hra 9,14  Proti AI "pbrain-pela"  Partie Ë. 3   error: )  TIMEOUT 0
+GOMOTUR MSG          See file "ERR1015pbtr03.bmp"
+** GAME 4 END 16.4.2005 16:47:53
+_______________________________________
+pbrain-pela          time: 25.2 s  
+trunkat              time: 31.1 s  
+_______________________________________
+*********** MATCH STARTED ************
+** Puskvorec x swine
+_______________________________________
+** GAME 1 START 16.4.2005 16:47:54
+swine                  1.[ 7, 6]     0 ms...»est!
+swine                  3.[ 5, 7]    94 ms...Val= 19338 (2/0/0)
+swine                  5.[ 6, 7]    94 ms...Val=  -431 (1/0/0)
+swine                  7.[ 7, 7]  1735 ms...Val=   267 (1/1/20)
+swine                  9.[ 8, 5]  2344 ms...Val=   309 (1/1/20)
+swine                 11.[ 5, 8]   110 ms...WIN PN1 1038/379 Je to na dobrÈ cestÏ.!
+swine                 13.[ 3, 7]   235 ms...WIN PN1 1783/654 ée by?.
+swine                 15.[ 5, 9]   125 ms...WIN PN1 1600/595 T¯i ËunÌci jdou...
+swine                 17.[ 4, 8]     0 ms...WIN PN1 184/65 Snad jsem nic nep¯ehlÌdla..
+swine                 19.[ 6, 8]     0 ms...WIN PN1 76/27 Je to na dobrÈ cestÏ.!
+swine                 21.[ 8, 6]     0 ms...Hmm, to m·ö blb˝.
+swine                 23.[ 9, 5]     0 ms...Tak snad nÏkdy p¯ÌötÏ.
+** GAME 1 END 16.4.2005 16:48:07
+_______________________________________
+Puskvorec            time:  7.7 s  
+swine                time:  4.9 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:48:08
+swine                  0.[ 9, 9]     0 ms...Jak se vejde?
+swine                  2.[10,10]     0 ms...Douf·m, ûe umÌö piökvorky.
+swine                  4.[ 9,10]   125 ms...Val= 20000 (1/0/0)
+swine                  6.[ 9, 8]   125 ms...Val= 18706 (1/0/0)
+swine                  8.[ 9,11]   141 ms...Val= 20206 (1/0/0)
+swine                 10.[ 8,10]   140 ms...Val= 20034 (1/0/0)
+swine                 12.[ 7,10]   141 ms...WIN PN1 822/284 Vypad· to v˝bornÏ.
+swine                 14.[ 7, 9]    16 ms...WIN PN1 353/122 Chro chro.
+swine                 16.[ 5, 7]     0 ms...WIN PN1 112/36 To by mÏlo vyjÌt.
+swine                 18.[ 7, 7]     0 ms...WIN PN1 104/33 :-))
+swine                 20.[ 8, 8]     0 ms...Nic si z toho nedÏlej.
+swine                 22.[ 6, 6]     0 ms...Prohr·l jste, sal·te!
+** GAME 2 END 16.4.2005 16:48:15
+_______________________________________
+Puskvorec            time:  6.2 s  
+swine                time:  0.9 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:48:15
+swine                  1.[ 7, 6]     0 ms...Jak se vejde?
+swine                  3.[ 9, 4]    94 ms...Val= 19338 (4/0/0)
+swine                  5.[ 8, 7]    94 ms...Val=   576 (1/0/0)
+swine                  7.[ 6, 5]   859 ms...Val=   -42 (1/1/4)
+swine                  9.[ 5, 4]  4422 ms...Val=  -141 (1/2/20)
+swine                 11.[10, 6]  2281 ms...Val=  -890 (1/6/20)
+swine                 13.[11, 5]   281 ms...To uû asi nedoûenu.
+swine                 15.[ 9, 7]    31 ms...Tady to smrdÌ.
+swine                 17.[12, 4]    16 ms...Val= -2676 (1/9/20)
+swine                 19.[11, 8]    16 ms...To uû asi nedoûenu.
+swine                 21.[ 7, 7]   188 ms...Val=  -799 (1/1/20)
+swine                 23.[ 7, 8]  3593 ms...Val=   -30 (1/1/1)
+swine                 25.[ 8, 2]  3015 ms...Val=   580 (1/1/1)
+swine                 27.[ 7,10]    31 ms...Val= -1670 (1/6/20)
+swine                 29.[ 6, 3]    16 ms...Tady to smrdÌ.
+swine                 31.[ 5, 1]     0 ms...Kolik jich tam jeötÏ m·ö?
+swine                 33.[ 7, 1]     0 ms...To uû asi nedoûenu.
+swine                 35.[ 6, 4]    16 ms...Necht toho.
+swine                 37.[19, 0]     0 ms...Gratuluju
+** GAME 3 END 16.4.2005 16:48:53
+_______________________________________
+Puskvorec            time: 21.7 s  
+swine                time: 15.3 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:48:53
+swine                  0.[ 9, 9]     0 ms...Tak aù vyhraje lepöÌ.
+swine                  2.[ 8,10]    15 ms...BraÚ se, srabe!
+swine                  4.[ 8, 9]   125 ms...Val= 19737 (1/0/0)
+swine                  6.[ 8, 8]   125 ms...Val= 18443 (1/0/0)
+swine                  8.[10,10]   125 ms...Val= 20149 (1/0/0)
+swine                 10.[ 8,12]   141 ms...Val= 19892 (1/0/0)
+swine                 12.[11,11]   125 ms...WIN PN1 415/136 Snad jsem nic nep¯ehlÌdla..
+swine                 14.[ 9,11]     0 ms...WIN PN1 418/137 ée by?.
+swine                 16.[ 7,13]    16 ms...WIN PN1 102/33 To snad pude.
+swine                 18.[ 7, 9]     0 ms...WIN PN1 87/28 To by mÏlo vyjÌt.
+swine                 20.[10,12]     0 ms...Nic si z toho nedÏlej.
+swine                 22.[11,13]     0 ms...Zkus trochu vÌc trÈnovat.
+** GAME 4 END 16.4.2005 16:49:01
+_______________________________________
+Puskvorec            time:  6.1 s  
+swine                time:  0.8 s  
+_______________________________________
+*********** MATCH STARTED ************
+** QMENTAT6 x trunkat
+_______________________________________
+** GAME 1 START 16.4.2005 16:49:02
+** GAME 1 END 16.4.2005 16:49:26
+_______________________________________
+QMENTAT6             time:  0.3 s  
+trunkat              time: 23.2 s  
+_______________________________________
+** GAME 2 START 16.4.2005 16:49:26
+** GAME 2 END 16.4.2005 16:49:43
+_______________________________________
+QMENTAT6             time:  0.2 s  
+trunkat              time: 16.0 s  
+_______________________________________
+** GAME 3 START 16.4.2005 16:49:43
+** GAME 3 END 16.4.2005 16:50:12
+_______________________________________
+QMENTAT6             time:  0.6 s  
+trunkat              time: 28.1 s  
+_______________________________________
+** GAME 4 START 16.4.2005 16:50:12
+** GAME 4 END 16.4.2005 16:50:22
+_______________________________________
+QMENTAT6             time:  0.2 s  
+trunkat              time:  8.7 s  
+_______________________________________

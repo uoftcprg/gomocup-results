@@ -1,0 +1,75 @@
+1. EMBRYO 2278
+    wins: 157+158, losses: 11+10, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 65s, time/turn: 5228ms, move/game: 12
+
+2. WINE 2235
+    wins: 156+154, losses: 12+14, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 46s, time/turn: 4200ms, move/game: 11
+
+3. WHOSE 2227
+    wins: 157+152, losses: 11+16, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 27s, time/turn: 2239ms, move/game: 12
+
+4. PISQ7 1569
+    wins: 95+97, losses: 73+71, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 2s, time/turn: 91ms, move/game: 17
+
+5. DJALL 1517
+    wins: 91+88, losses: 76+79, draws: 1+1
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 0s, time/turn: 0ms, move/game: 29
+
+6. LICHT 1495
+    wins: 85+64, losses: 83+104, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 151s, time/turn: 16979ms, move/game: 9
+
+7. STAHLFAUST 1466
+    wins: 77+72, losses: 91+96, draws: 0+0
+    timeouts: 0, errors: 22, total games: 336
+    time/game: 71s, time/turn: 4546ms, move/game: 16
+
+8. PUREROCKY 1430
+    wins: 63+73, losses: 104+94, draws: 1+1
+    timeouts: 0, errors: 3, total games: 336
+    time/game: 5s, time/turn: 229ms, move/game: 24
+
+9. VALKYRIE 1423
+    wins: 71+68, losses: 97+100, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 2s, time/turn: 157ms, move/game: 13
+
+10. CRUSHER 1394
+    wins: 67+50, losses: 101+118, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 2s, time/turn: 88ms, move/game: 18
+
+11. FIVEROW 1360
+    wins: 55+47, losses: 113+121, draws: 0+0
+    timeouts: 0, errors: 3, total games: 336
+    time/game: 2s, time/turn: 159ms, move/game: 11
+
+12. PROLOG 1289
+    wins: 42+38, losses: 126+130, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 3s, time/turn: 203ms, move/game: 16
+
+13. MUSHROOM 1118
+    wins: 16+14, losses: 152+154, draws: 0+0
+    timeouts: 0, errors: 0, total games: 336
+    time/game: 4s, time/turn: 689ms, move/game: 5
+
+14. BENJAMIN -
+    wins: 82+78, losses: 86+90, draws: 0+0
+    timeouts: 0, errors: 35, total games: 336
+    time/game: 4s, time/turn: 100ms, move/game: 42
+
+15. GAMMAKU.F -
+    wins: 75+76, losses: 93+92, draws: 0+0
+    timeouts: 0, errors: 112, total games: 336
+    time/game: 47s, time/turn: 3893ms, move/game: 12
+

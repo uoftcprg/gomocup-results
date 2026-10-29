@@ -1,0 +1,60 @@
+1. WHOSE19 1842
+    wins: 58+63, losses: 24+21, draws: 2+0
+    timeouts: 0, errors: 0, total games: 168
+    time/game: 64s, time/turn: 2986ms, move/game: 22
+
+2. TITO14 1832
+    wins: 105+103, losses: 25+27, draws: 2+2
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 30s, time/turn: 1392ms, move/game: 21
+
+3. SLOWRENJU20 1804
+    wins: 59+54, losses: 25+28, draws: 0+2
+    timeouts: 0, errors: 0, total games: 168
+    time/game: 83s, time/turn: 3758ms, move/game: 22
+
+4. HEWER18 1762
+    wins: 75+69, losses: 31+34, draws: 2+5
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 53s, time/turn: 2247ms, move/game: 23
+
+5. DEEPFIRE19 1714
+    wins: 83+92, losses: 44+38, draws: 5+2
+    timeouts: 0, errors: 2, total games: 264
+    time/game: 76s, time/turn: 3464ms, move/game: 22
+
+6. GOFIVE 1589
+    wins: 72+65, losses: 58+63, draws: 2+4
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 83s, time/turn: 3880ms, move/game: 21
+
+7. CARBON17 1497
+    wins: 62+49, losses: 67+82, draws: 3+1
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 89s, time/turn: 4330ms, move/game: 20
+
+8. PELA23 1449
+    wins: 53+36, losses: 50+68, draws: 5+4
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 114s, time/turn: 4421ms, move/game: 26
+
+9. GMOTOR11 1416
+    wins: 46+36, losses: 50+59, draws: 0+1
+    timeouts: 1, errors: 0, total games: 192
+    time/game: 52s, time/turn: 2712ms, move/game: 19
+
+10. ZETOR17 1369
+    wins: 42+34, losses: 66+74, draws: 0+0
+    timeouts: 3, errors: 0, total games: 216
+    time/game: 69s, time/turn: 3421ms, move/game: 20
+
+11. SQUIRREL24 1326
+    wins: 36+28, losses: 60+68, draws: 0+0
+    timeouts: 0, errors: 0, total games: 192
+    time/game: 76s, time/turn: 4244ms, move/game: 18
+
+12. FIGRID -
+    wins: 3+0, losses: 129+132, draws: 0+0
+    timeouts: 98, errors: 0, total games: 264
+    time/game: 56s, time/turn: 7846ms, move/game: 7
+

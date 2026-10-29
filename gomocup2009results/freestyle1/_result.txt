@@ -1,0 +1,53 @@
+-------------------------------------
+5.4.2009  11:21 - 6.4.2009  1:29
+Time for turn: 300 s,   Time for match: 1200 s
+Tolerance: 1 s,   Memory: 400 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+goro2009
+wins: 35=19+15+1,   losses: 13=5+8
+time/turn: 6652 ms (max: 166.3 s),  time/game: 134 s
+moves/game: 20,  CRC: 4c497f92,   memory: 1.78 MB
+
+OniX
+wins: 34=18+16,   losses: 14=5+7+2,  2 errors
+time/turn: 15 s (max: 171.7 s),  time/game: 344 s
+moves/game: 22,  CRC: d9d937fd,   memory: 414.61 MB
+
+HGarden07
+wins: 33=20+13,   losses: 15=4+11
+time/turn: 21 s (max: 58.9 s),  time/game: 415 s
+moves/game: 19,  CRC: f883b408,   memory: 30.29 MB
+
+hewer
+wins: 32=19+13,   losses: 16=5+11
+time/turn: 11 s (max: 137.2 s),  time/game: 230 s
+moves/game: 20,  CRC: f61ff2fa,   memory: 387.77 MB
+
+Tito
+wins: 25=16+8+1,   losses: 23=7+16
+time/turn: 11 s (max: 128.6 s),  time/game: 234 s
+moves/game: 21,  CRC: 4983390c,   memory: 1.37 MB
+
+pela
+wins: 20=13+4+3,   losses: 28=10+18
+time/turn: 31 s (max: 171.5 s),  time/game: 752 s
+moves/game: 23,  CRC: dd888743,   memory: 1.88 MB
+
+swine
+wins: 18=11+6+1,   losses: 30=12+18
+time/turn: 27 s (max: 120.3 s),  time/game: 642 s
+moves/game: 23,  CRC: e1628f92,   memory: 186.80 MB
+
+Kanec
+wins: 17=14+3,   losses: 31=9+21+1,  1 errors
+time/turn: 5535 ms (max: 29.9 s),  time/game: 114 s
+moves/game: 20,  CRC: 572ea92,   memory: 248.32 MB
+
+HfM
+wins: 2=2+0,   losses: 46=21+22+3,  3 errors
+time/turn: 16 s (max: 64.7 s),  time/game: 286 s
+moves/game: 17,  CRC: 95d681a4,   memory: 327.20 MB
+

@@ -1,0 +1,53 @@
+-------------------------------------
+24.4.2010  13:24 - 14:26
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+Pecuchet
+wins: 42=23+18+1,   losses: 6=1+5
+time/turn: 2515 ms (max: 15.6 s),  time/game: 39 s
+moves/game: 15,  CRC: a81e076b,   memory: 201.11 MB
+
+QMENTAT6
+wins: 36=16+18+2,   losses: 12=7+5
+time/turn: 947 ms (max: 14.4 s),  time/game: 20 s
+moves/game: 21,  CRC: 7825efaf,   memory: 2.02 MB
+
+Noesis
+wins: 30=16+14,   losses: 18=8+10
+time/turn: 646 ms (max: 4.9 s),  time/game: 11 s
+moves/game: 17,  CRC: 8c55963c,   memory: 8.71 MB
+
+jude
+wins: 32=16+15+1,   losses: 16=8+8
+time/turn: 2220 ms (max: 29.1 s),  time/game: 48 s
+moves/game: 21,  CRC: 96fded42,   memory: 44.82 MB
+
+nabamoku
+wins: 22=13+8+1,   losses: 26=8+16+2,  2 errors
+time/turn: 3568 ms (max: 10.8 s),  time/game: 72 s
+moves/game: 20,  CRC: bb4c2405,   memory: 2.73 MB
+
+trunkat
+wins: 17=12+5,   losses: 31=12+19
+time/turn: 402 ms (max: 15.2 s),  time/game: 6 s
+moves/game: 16,  CRC: 78aa5afe,   memory: 3.47 MB
+
+fiverow
+wins: 18=11+6+1,   losses: 30=9+17+4
+time/turn: 712 ms (max: 26.4 s),  time/game: 12 s
+moves/game: 18,  CRC: 4b2b1e96,   memory: 2.22 MB
+
+BRUTEFOR
+wins: 12=9+2+1,   losses: 36=15+19+2
+time/turn: 4742 ms (max: 11.3 s),  time/game: 79 s
+moves/game: 16,  CRC: 287e32f4,   memory: 2.79 MB
+
+Puskvorec
+wins: 7=6+0+1,   losses: 41=18+23
+time/turn: 276 ms (max: 3.4 s),  time/game: 4 s
+moves/game: 14,  CRC: b89a06e8,   memory: 3.55 MB
+

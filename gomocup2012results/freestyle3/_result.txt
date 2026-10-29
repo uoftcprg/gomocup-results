@@ -1,0 +1,60 @@
+-------------------------------------
+16.4.2012  1:03 - 2:13
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: ca63eaee
+Games played: 270
+-------------------------------------
+
+jude
+wins: 40=19+20+1,   losses: 14=7+7
+time/turn: 2521 ms (max: 29.2 s),  time/game: 45 s
+moves/game: 17,  CRC: 96fded42,   memory: 37.80 MB
+
+Noesis
+wins: 39=18+21,   losses: 15=9+6
+time/turn: 1039 ms (max: 5.2 s),  time/game: 16 s
+moves/game: 15,  CRC: 8c55963c,   memory: 8.78 MB
+
+QMENTAT6
+wins: 36=18+17+1,   losses: 18=9+9
+time/turn: 1036 ms (max: 8.7 s),  time/game: 27 s
+moves/game: 26,  CRC: 7825efaf,   memory: 2.10 MB
+
+TRUNKAT
+wins: 32=16+16,   losses: 22=11+11
+time/turn: 593 ms (max: 25.7 s),  time/game: 9 s
+moves/game: 16,  CRC: 3ea9cbbe,   memory: 3.48 MB
+
+PureGM12
+wins: 25=13+12,   losses: 29=13+15+1
+time/turn: 4068 ms (max: 24.0 s),  time/game: 85 s
+moves/game: 21,  CRC: f4c5d725,   memory: 3.43 MB
+
+nabamoku
+wins: 24=12+12,   losses: 30=15+15
+time/turn: 3666 ms (max: 10.0 s),  time/game: 90 s
+moves/game: 24,  CRC: bb4c2405,   memory: 2.75 MB
+
+fiverow
+wins: 24=12+12,   losses: 30=15+14+1
+time/turn: 369 ms (max: 25.9 s),  time/game: 6 s
+moves/game: 17,  CRC: 4b2b1e96,   memory: 2.25 MB
+
+Puskvorec
+wins: 21=11+10,   losses: 33=16+17
+time/turn: 517 ms (max: 3.8 s),  time/game: 7 s
+moves/game: 15,  CRC: b89a06e8,   memory: 3.33 MB
+
+pisq7
+wins: 17=14+3,   losses: 37=13+24
+time/turn: 110 ms (max: 1.1 s),  time/game: 2 s
+moves/game: 18,  CRC: da9c561,   memory: 1.82 MB
+
+LEONARDO
+wins: 12=8+4,   losses: 42=19+23
+time/turn: 306 ms (max: 3.6 s),  time/game: 6 s
+moves/game: 21,  CRC: 96a303fe,   memory: 2.74 MB
+

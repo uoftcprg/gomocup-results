@@ -1,0 +1,5 @@
+                    0#A 1#E 2#L 3#P
+0#ALPHAGOMOKU.MK23      985 999 999
+1#EMBRYO23           14     999 999
+2#LAVENDER            0   0     999
+3#PELA23              0   0   0    

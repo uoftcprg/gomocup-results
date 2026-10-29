@@ -1,0 +1,2303 @@
+______________________________
+imro74 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\0x2-56(2).psq
+______________________________
+LEONARDO x imro74
+-> C:\TK\gomocup2013\freestyle2\2x0-54(2).psq
+______________________________
+imro74 x pisq7
+-> C:\TK\gomocup2013\freestyle2\0x3-38(2).psq
+______________________________
+imro74 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\0x4-35(2).psq
+______________________________
+pisq7 x imro74
+-> C:\TK\gomocup2013\freestyle2\3x0-52(2).psq
+______________________________
+Benjamin x imro74
+-> C:\TK\gomocup2013\freestyle2\4x0-134(2).psq
+______________________________
+imro74 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\0x7-16(2).psq
+______________________________
+imro74 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\0x6-29(2).psq
+______________________________
+brain-Crusher2010 x imro74
+-> C:\TK\gomocup2013\freestyle2\7x0-30(2).psq
+______________________________
+CURNPIS x imro74
+-> C:\TK\gomocup2013\freestyle2\6x0-102(2).psq
+______________________________
+imro74 x mushroom
+-> C:\TK\gomocup2013\freestyle2\0x8-11(2).psq
+______________________________
+mushroom x imro74
+-> C:\TK\gomocup2013\freestyle2\8x0-12(2).psq
+______________________________
+imro74 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\0x9-28(2).psq
+______________________________
+imro74 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=583756, Time=8908ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=439247, Time=8456ms, Evaluation=-11
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=354480, Time=8034ms, Evaluation=-29
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=245305, Time=7629ms, Evaluation=-53
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Nodes=118846, Time=3370ms, Evaluation=20
+13) pbrain-SlowRenju.exe: Expected time=7078ms
+13) pbrain-SlowRenju.exe: Let me see...
+15) pbrain-SlowRenju.exe: Expected time=7077ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=7077ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\0x1-18(2).psq
+______________________________
+imro74 x AI1000
+-> C:\TK\gomocup2013\freestyle2\0x10-44(1).psq
+______________________________
+valkyrie x imro74
+-> C:\TK\gomocup2013\freestyle2\9x0-24(2).psq
+______________________________
+AI1000 x imro74
+-> C:\TK\gomocup2013\freestyle2\10x0-84(1).psq
+______________________________
+imro74 x brutefor
+-> C:\TK\gomocup2013\freestyle2\0x5-25(3).psq
+______________________________
+brutefor x imro74
+-> C:\TK\gomocup2013\freestyle2\5x0-11(2).psq
+______________________________
+SlowRenju x imro74
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=472027, Time=8908ms, Evaluation=8
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=347581, Time=8455ms, Evaluation=1
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=180883, Time=4711ms, Evaluation=33
+10) pbrain-SlowRenju.exe: Expected time=7794ms
+10) pbrain-SlowRenju.exe: Let me see...
+12) pbrain-SlowRenju.exe: Expected time=7793ms
+12) pbrain-SlowRenju.exe: Nodes=329174, Time=7800ms, Evaluation=778
+14) pbrain-SlowRenju.exe: Expected time=7403ms
+14) pbrain-SlowRenju.exe: Nodes=311440, Time=7410ms, Evaluation=3000000
+16) pbrain-SlowRenju.exe: Expected time=7033ms
+16) pbrain-SlowRenju.exe: Nodes=237810, Time=7036ms, Evaluation=1000000
+18) pbrain-SlowRenju.exe: Expected time=6682ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=6681ms
+20) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x0-21(2).psq
+______________________________
+SlowRenju x pisq7
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=458068, Time=8908ms, Evaluation=29
+ 6) pbrain-SlowRenju.exe: Expected time=8451ms
+ 6) pbrain-SlowRenju.exe: Nodes=356556, Time=8456ms, Evaluation=61
+ 8) pbrain-SlowRenju.exe: Expected time=8029ms
+ 8) pbrain-SlowRenju.exe: Nodes=324737, Time=8034ms, Evaluation=58
+10) pbrain-SlowRenju.exe: Expected time=7628ms
+10) pbrain-SlowRenju.exe: Nodes=336908, Time=7628ms, Evaluation=727
+12) pbrain-SlowRenju.exe: Expected time=7246ms
+12) pbrain-SlowRenju.exe: Nodes=319101, Time=7254ms, Evaluation=88
+14) pbrain-SlowRenju.exe: Expected time=6884ms
+14) pbrain-SlowRenju.exe: Nodes=283997, Time=6895ms, Evaluation=103
+16) pbrain-SlowRenju.exe: Expected time=6540ms
+16) pbrain-SlowRenju.exe: Nodes=21075, Time=374ms, Evaluation=100000000
+18) pbrain-SlowRenju.exe: Expected time=6521ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=6521ms
+20) pbrain-SlowRenju.exe: Here it is!
+22) pbrain-SlowRenju.exe: Expected time=6520ms
+22) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x3-23(2).psq
+______________________________
+SlowRenju x Benjamin
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=474239, Time=8908ms, Evaluation=103
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=435472, Time=8455ms, Evaluation=140
+ 8) pbrain-SlowRenju.exe: Expected time=8029ms
+ 8) pbrain-SlowRenju.exe: Nodes=474961, Time=8034ms, Evaluation=3000000
+10) pbrain-SlowRenju.exe: Expected time=7628ms
+10) pbrain-SlowRenju.exe: Nodes=353098, Time=7628ms, Evaluation=10000009
+12) pbrain-SlowRenju.exe: Expected time=7247ms
+12) pbrain-SlowRenju.exe: Nodes=24748, Time=406ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7226ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7226ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x4-17(2).psq
+______________________________
+SlowRenju x LEONARDO
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=514758, Time=8907ms, Evaluation=29
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=329315, Time=8456ms, Evaluation=24
+ 8) pbrain-SlowRenju.exe: Expected time=8031ms
+ 8) pbrain-SlowRenju.exe: Nodes=321657, Time=8034ms, Evaluation=36
+10) pbrain-SlowRenju.exe: Expected time=7629ms
+10) pbrain-SlowRenju.exe: Nodes=68727, Time=2402ms, Evaluation=51
+12) pbrain-SlowRenju.exe: Expected time=7510ms
+12) pbrain-SlowRenju.exe: Nodes=87563, Time=2964ms, Evaluation=38
+14) pbrain-SlowRenju.exe: Expected time=7362ms
+14) pbrain-SlowRenju.exe: Nodes=281324, Time=7364ms, Evaluation=41
+16) pbrain-SlowRenju.exe: Expected time=6994ms
+16) pbrain-SlowRenju.exe: Nodes=322930, Time=7005ms, Evaluation=52
+18) pbrain-SlowRenju.exe: Expected time=6644ms
+18) pbrain-SlowRenju.exe: Nodes=279645, Time=6645ms, Evaluation=95
+20) pbrain-SlowRenju.exe: Expected time=6312ms
+20) pbrain-SlowRenju.exe: Nodes=196360, Time=6318ms, Evaluation=106
+22) pbrain-SlowRenju.exe: Expected time=5997ms
+22) pbrain-SlowRenju.exe: Nodes=64964, Time=6006ms, Evaluation=39602
+24) pbrain-SlowRenju.exe: Expected time=5697ms
+24) pbrain-SlowRenju.exe: Nodes=159390, Time=5710ms, Evaluation=3000000
+26) pbrain-SlowRenju.exe: Expected time=5412ms
+26) pbrain-SlowRenju.exe: Here it is!
+28) pbrain-SlowRenju.exe: Expected time=5411ms
+28) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x2-29(2).psq
+______________________________
+SlowRenju x brutefor
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=464454, Time=8907ms, Evaluation=89
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=417639, Time=8455ms, Evaluation=794
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=139662, Time=3230ms, Evaluation=1000000
+10) pbrain-SlowRenju.exe: Expected time=7869ms
+10) pbrain-SlowRenju.exe: Nodes=388321, Time=7878ms, Evaluation=3000000
+12) pbrain-SlowRenju.exe: Expected time=7475ms
+12) pbrain-SlowRenju.exe: Here it is!
+14) pbrain-SlowRenju.exe: Expected time=7474ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7474ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x5-17(2).psq
+______________________________
+Benjamin x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=435133, Time=8907ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=434942, Time=8456ms, Evaluation=-16
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=356470, Time=8034ms, Evaluation=-32
+ 9) pbrain-SlowRenju.exe: Expected time=7628ms
+ 9) pbrain-SlowRenju.exe: Nodes=387202, Time=7410ms, Evaluation=-43
+11) pbrain-SlowRenju.exe: Expected time=7257ms
+11) pbrain-SlowRenju.exe: Nodes=283581, Time=7270ms, Evaluation=-29
+13) pbrain-SlowRenju.exe: Expected time=6894ms
+13) pbrain-SlowRenju.exe: Nodes=328329, Time=6895ms, Evaluation=-8
+15) pbrain-SlowRenju.exe: Expected time=6549ms
+15) pbrain-SlowRenju.exe: Nodes=305426, Time=6552ms, Evaluation=19
+17) pbrain-SlowRenju.exe: Expected time=6222ms
+17) pbrain-SlowRenju.exe: Nodes=249236, Time=6224ms, Evaluation=46
+19) pbrain-SlowRenju.exe: Expected time=5911ms
+19) pbrain-SlowRenju.exe: Nodes=232408, Time=5912ms, Evaluation=39400
+21) pbrain-SlowRenju.exe: Expected time=5615ms
+21) pbrain-SlowRenju.exe: Nodes=179586, Time=5616ms, Evaluation=1000000
+23) pbrain-SlowRenju.exe: Expected time=5335ms
+23) pbrain-SlowRenju.exe: Nodes=175369, Time=5335ms, Evaluation=3000000
+25) pbrain-SlowRenju.exe: Expected time=5068ms
+25) pbrain-SlowRenju.exe: Nodes=34529, Time=1872ms, Evaluation=10000009
+27) pbrain-SlowRenju.exe: Expected time=4974ms
+27) pbrain-SlowRenju.exe: Nodes=11861, Time=297ms, Evaluation=100000000
+29) pbrain-SlowRenju.exe: Expected time=4959ms
+29) pbrain-SlowRenju.exe: Here it is!
+31) pbrain-SlowRenju.exe: Expected time=4958ms
+31) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\4x1-32(2).psq
+______________________________
+brutefor x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=431511, Time=8907ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=391123, Time=8456ms, Evaluation=0
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=210155, Time=6224ms, Evaluation=19
+ 9) pbrain-SlowRenju.exe: Expected time=7720ms
+ 9) pbrain-SlowRenju.exe: Nodes=285272, Time=7722ms, Evaluation=51
+11) pbrain-SlowRenju.exe: Expected time=7334ms
+11) pbrain-SlowRenju.exe: Nodes=124091, Time=2714ms, Evaluation=79
+13) pbrain-SlowRenju.exe: Expected time=7198ms
+13) pbrain-SlowRenju.exe: Nodes=86110, Time=2215ms, Evaluation=10000009
+15) pbrain-SlowRenju.exe: Expected time=7087ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=7087ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\5x1-18(1).psq
+______________________________
+LEONARDO x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=437160, Time=8908ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=415411, Time=8455ms, Evaluation=-16
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=355708, Time=8034ms, Evaluation=-32
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=350494, Time=7629ms, Evaluation=-43
+11) pbrain-SlowRenju.exe: Expected time=7248ms
+11) pbrain-SlowRenju.exe: Nodes=268694, Time=7254ms, Evaluation=-29
+13) pbrain-SlowRenju.exe: Expected time=6886ms
+13) pbrain-SlowRenju.exe: Nodes=270058, Time=6895ms, Evaluation=-23
+15) pbrain-SlowRenju.exe: Expected time=6541ms
+15) pbrain-SlowRenju.exe: Nodes=218857, Time=6552ms, Evaluation=-5
+17) pbrain-SlowRenju.exe: Expected time=6214ms
+17) pbrain-SlowRenju.exe: Nodes=205056, Time=6225ms, Evaluation=12
+19) pbrain-SlowRenju.exe: Expected time=5903ms
+19) pbrain-SlowRenju.exe: Let me see...
+21) pbrain-SlowRenju.exe: Expected time=5902ms
+21) pbrain-SlowRenju.exe: Let me see...
+23) pbrain-SlowRenju.exe: Expected time=5902ms
+23) pbrain-SlowRenju.exe: Nodes=261541, Time=5913ms, Evaluation=840
+25) pbrain-SlowRenju.exe: Expected time=5606ms
+25) pbrain-SlowRenju.exe: Nodes=206588, Time=5616ms, Evaluation=39586
+27) pbrain-SlowRenju.exe: Expected time=5326ms
+27) pbrain-SlowRenju.exe: Nodes=180251, Time=5335ms, Evaluation=1000000
+29) pbrain-SlowRenju.exe: Expected time=5059ms
+29) pbrain-SlowRenju.exe: Let me see...
+31) pbrain-SlowRenju.exe: Expected time=5059ms
+31) pbrain-SlowRenju.exe: Nodes=148757, Time=4430ms, Evaluation=10000009
+33) pbrain-SlowRenju.exe: Expected time=4837ms
+33) pbrain-SlowRenju.exe: Here it is!
+35) pbrain-SlowRenju.exe: Expected time=4837ms
+35) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\2x1-36(2).psq
+______________________________
+pisq7 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=433661, Time=8908ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=419123, Time=8455ms, Evaluation=0
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=279427, Time=6630ms, Evaluation=15
+ 9) pbrain-SlowRenju.exe: Expected time=7699ms
+ 9) pbrain-SlowRenju.exe: Nodes=306324, Time=7426ms, Evaluation=-6
+11) pbrain-SlowRenju.exe: Expected time=7328ms
+11) pbrain-SlowRenju.exe: Nodes=317181, Time=7332ms, Evaluation=-24
+13) pbrain-SlowRenju.exe: Expected time=6961ms
+13) pbrain-SlowRenju.exe: Nodes=261389, Time=6974ms, Evaluation=-43
+15) pbrain-SlowRenju.exe: Expected time=6613ms
+15) pbrain-SlowRenju.exe: Nodes=244427, Time=6615ms, Evaluation=-73
+17) pbrain-SlowRenju.exe: Expected time=6283ms
+17) pbrain-SlowRenju.exe: Nodes=205477, Time=6286ms, Evaluation=-99
+19) pbrain-SlowRenju.exe: Expected time=5969ms
+19) pbrain-SlowRenju.exe: Nodes=179627, Time=5975ms, Evaluation=-104
+21) pbrain-SlowRenju.exe: Expected time=5670ms
+21) pbrain-SlowRenju.exe: Nodes=175751, Time=5679ms, Evaluation=-110
+23) pbrain-SlowRenju.exe: Expected time=5387ms
+23) pbrain-SlowRenju.exe: Nodes=176136, Time=5397ms, Evaluation=-139
+25) pbrain-SlowRenju.exe: Expected time=5117ms
+25) pbrain-SlowRenju.exe: Nodes=62782, Time=3229ms, Evaluation=-141
+27) pbrain-SlowRenju.exe: Expected time=4956ms
+27) pbrain-SlowRenju.exe: Nodes=119357, Time=4961ms, Evaluation=-94
+29) pbrain-SlowRenju.exe: Expected time=4708ms
+29) pbrain-SlowRenju.exe: Let me see...
+31) pbrain-SlowRenju.exe: Expected time=4708ms
+31) pbrain-SlowRenju.exe: Nodes=131332, Time=4712ms, Evaluation=-34
+33) pbrain-SlowRenju.exe: Expected time=4472ms
+33) pbrain-SlowRenju.exe: Let me see...
+35) pbrain-SlowRenju.exe: Expected time=4472ms
+35) pbrain-SlowRenju.exe: Nodes=61025, Time=3339ms, Evaluation=751
+37) pbrain-SlowRenju.exe: Expected time=4305ms
+37) pbrain-SlowRenju.exe: Nodes=92068, Time=4305ms, Evaluation=751
+39) pbrain-SlowRenju.exe: Expected time=4090ms
+39) pbrain-SlowRenju.exe: Nodes=89873, Time=3760ms, Evaluation=37
+41) pbrain-SlowRenju.exe: Expected time=3901ms
+41) pbrain-SlowRenju.exe: Nodes=85412, Time=3916ms, Evaluation=25
+43) pbrain-SlowRenju.exe: Expected time=3706ms
+43) pbrain-SlowRenju.exe: Let me see...
+45) pbrain-SlowRenju.exe: Expected time=3705ms
+45) pbrain-SlowRenju.exe: Nodes=22988, Time=453ms, Evaluation=100000000
+47) pbrain-SlowRenju.exe: Expected time=3682ms
+47) pbrain-SlowRenju.exe: Here it is!
+49) pbrain-SlowRenju.exe: Expected time=3682ms
+49) pbrain-SlowRenju.exe: Here it is!
+51) pbrain-SlowRenju.exe: Expected time=3681ms
+51) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\3x1-52(2).psq
+______________________________
+SlowRenju x CURNPIS
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=500909, Time=8908ms, Evaluation=96
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=507599, Time=8456ms, Evaluation=39478
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=202282, Time=5288ms, Evaluation=1000000
+10) pbrain-SlowRenju.exe: Expected time=7765ms
+10) pbrain-SlowRenju.exe: Nodes=260115, Time=6131ms, Evaluation=10000009
+12) pbrain-SlowRenju.exe: Expected time=7459ms
+12) pbrain-SlowRenju.exe: Nodes=17245, Time=312ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7443ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7443ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x6-17(2).psq
+______________________________
+SlowRenju x brain-Crusher2010
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=467612, Time=8907ms, Evaluation=63
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=380453, Time=8455ms, Evaluation=107
+ 8) pbrain-SlowRenju.exe: Expected time=8031ms
+ 8) pbrain-SlowRenju.exe: Nodes=440267, Time=8034ms, Evaluation=39631
+10) pbrain-SlowRenju.exe: Expected time=7630ms
+10) pbrain-SlowRenju.exe: Let me see...
+12) pbrain-SlowRenju.exe: Expected time=7628ms
+12) pbrain-SlowRenju.exe: Nodes=122014, Time=2356ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7510ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7509ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=7509ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=7509ms
+20) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x7-21(2).psq
+______________________________
+SlowRenju x mushroom
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=512867, Time=8907ms, Evaluation=63
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=439332, Time=8455ms, Evaluation=133
+ 8) pbrain-SlowRenju.exe: Expected time=8029ms
+ 8) pbrain-SlowRenju.exe: Nodes=353425, Time=8034ms, Evaluation=1000000
+10) pbrain-SlowRenju.exe: Expected time=7627ms
+10) pbrain-SlowRenju.exe: Here it is!
+12) pbrain-SlowRenju.exe: Expected time=7626ms
+12) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x8-13(2).psq
+______________________________
+SlowRenju x valkyrie
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=344750, Time=8908ms, Evaluation=119
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=307074, Time=8455ms, Evaluation=39577
+ 8) pbrain-SlowRenju.exe: Expected time=8029ms
+ 8) pbrain-SlowRenju.exe: Nodes=302387, Time=8034ms, Evaluation=1000000
+10) pbrain-SlowRenju.exe: Expected time=7628ms
+10) pbrain-SlowRenju.exe: Nodes=285876, Time=7629ms, Evaluation=10000009
+12) pbrain-SlowRenju.exe: Expected time=7246ms
+12) pbrain-SlowRenju.exe: Here it is!
+14) pbrain-SlowRenju.exe: Expected time=7245ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7245ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=7245ms
+18) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x9-19(2).psq
+______________________________
+brain-Crusher2010 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=433952, Time=8907ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8452ms
+ 5) pbrain-SlowRenju.exe: Nodes=336151, Time=8456ms, Evaluation=-27
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=306950, Time=8034ms, Evaluation=45
+ 9) pbrain-SlowRenju.exe: Expected time=7628ms
+ 9) pbrain-SlowRenju.exe: Nodes=24658, Time=437ms, Evaluation=100000000
+11) pbrain-SlowRenju.exe: Expected time=7607ms
+11) pbrain-SlowRenju.exe: Here it is!
+13) pbrain-SlowRenju.exe: Expected time=7607ms
+13) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\7x1-14(2).psq
+______________________________
+CURNPIS x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=446910, Time=8908ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=456203, Time=8455ms, Evaluation=47
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=317692, Time=8034ms, Evaluation=58
+ 9) pbrain-SlowRenju.exe: Expected time=7630ms
+ 9) pbrain-SlowRenju.exe: Nodes=266064, Time=7644ms, Evaluation=81
+11) pbrain-SlowRenju.exe: Expected time=7248ms
+11) pbrain-SlowRenju.exe: Nodes=318620, Time=7254ms, Evaluation=28080
+13) pbrain-SlowRenju.exe: Expected time=6885ms
+13) pbrain-SlowRenju.exe: Nodes=251530, Time=6458ms, Evaluation=10000009
+15) pbrain-SlowRenju.exe: Expected time=6562ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6561ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=6561ms
+19) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\6x1-20(2).psq
+______________________________
+LEONARDO x pisq7
+-> C:\TK\gomocup2013\freestyle2\2x3-62(2).psq
+______________________________
+pisq7 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\3x2-121(2).psq
+______________________________
+valkyrie x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=434577, Time=8908ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=422873, Time=8455ms, Evaluation=57
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=426293, Time=8034ms, Evaluation=21196
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=352546, Time=7644ms, Evaluation=3000000
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Let me see...
+13) pbrain-SlowRenju.exe: Expected time=7246ms
+13) pbrain-SlowRenju.exe: Nodes=23612, Time=406ms, Evaluation=100000000
+15) pbrain-SlowRenju.exe: Expected time=7225ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=7225ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\9x1-18(2).psq
+______________________________
+mushroom x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=457930, Time=8907ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=401094, Time=8455ms, Evaluation=5
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=290297, Time=8034ms, Evaluation=57
+ 9) pbrain-SlowRenju.exe: Expected time=7628ms
+ 9) pbrain-SlowRenju.exe: Nodes=302846, Time=7628ms, Evaluation=1000000
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Nodes=287636, Time=7254ms, Evaluation=10000009
+13) pbrain-SlowRenju.exe: Expected time=6884ms
+13) pbrain-SlowRenju.exe: Nodes=14340, Time=297ms, Evaluation=100000000
+15) pbrain-SlowRenju.exe: Expected time=6869ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6869ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\8x1-18(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\2x6-39(2).psq
+______________________________
+LEONARDO x Benjamin
+-> C:\TK\gomocup2013\freestyle2\2x4-129(2).psq
+______________________________
+Benjamin x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\4x2-28(2).psq
+______________________________
+CURNPIS x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\6x2-80(2).psq
+______________________________
+SlowRenju x AI1000
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=504706, Time=8907ms, Evaluation=58
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=468918, Time=7644ms, Evaluation=89
+ 8) pbrain-SlowRenju.exe: Expected time=8070ms
+ 8) pbrain-SlowRenju.exe: Nodes=246842, Time=5539ms, Evaluation=116
+10) pbrain-SlowRenju.exe: Expected time=7793ms
+10) pbrain-SlowRenju.exe: Nodes=463444, Time=7800ms, Evaluation=3000000
+12) pbrain-SlowRenju.exe: Expected time=7404ms
+12) pbrain-SlowRenju.exe: Nodes=426570, Time=7410ms, Evaluation=3000000
+14) pbrain-SlowRenju.exe: Expected time=7033ms
+14) pbrain-SlowRenju.exe: Nodes=23024, Time=250ms, Evaluation=100000000
+16) pbrain-SlowRenju.exe: Expected time=7021ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=7021ms
+18) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x10-19(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\2x7-39(2).psq
+______________________________
+LEONARDO x mushroom
+-> C:\TK\gomocup2013\freestyle2\2x8-13(2).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\7x2-86(2).psq
+______________________________
+mushroom x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\8x2-16(2).psq
+______________________________
+LEONARDO x valkyrie
+-> C:\TK\gomocup2013\freestyle2\2x9-25(2).psq
+______________________________
+valkyrie x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\9x2-22(2).psq
+______________________________
+LEONARDO x AI1000
+-> C:\TK\gomocup2013\freestyle2\2x10-191(1).psq
+______________________________
+pisq7 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\3x4-135(1).psq
+______________________________
+Benjamin x pisq7
+-> C:\TK\gomocup2013\freestyle2\4x3-81(1).psq
+______________________________
+AI1000 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\10x2-115(1).psq
+______________________________
+pisq7 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\3x6-17(1).psq
+______________________________
+CURNPIS x pisq7
+-> C:\TK\gomocup2013\freestyle2\6x3-43(1).psq
+______________________________
+AI1000 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=501784, Time=8907ms, Evaluation=-30
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=370409, Time=8456ms, Evaluation=-27
+ 7) pbrain-SlowRenju.exe: Expected time=7994ms
+ 7) pbrain-SlowRenju.exe: Nodes=228797, Time=7269ms, Evaluation=-6
+ 9) pbrain-SlowRenju.exe: Expected time=7631ms
+ 9) pbrain-SlowRenju.exe: Nodes=279211, Time=7644ms, Evaluation=36
+11) pbrain-SlowRenju.exe: Expected time=7249ms
+11) pbrain-SlowRenju.exe: Nodes=63268, Time=1888ms, Evaluation=3000000
+13) pbrain-SlowRenju.exe: Expected time=7155ms
+13) pbrain-SlowRenju.exe: Nodes=244127, Time=7161ms, Evaluation=10000009
+15) pbrain-SlowRenju.exe: Expected time=6797ms
+15) pbrain-SlowRenju.exe: Nodes=166224, Time=4071ms, Evaluation=10000009
+17) pbrain-SlowRenju.exe: Expected time=6593ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=6593ms
+19) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\10x1-20(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\3x7-19(1).psq
+______________________________
+pisq7 x mushroom
+-> C:\TK\gomocup2013\freestyle2\3x8-11(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> C:\TK\gomocup2013\freestyle2\7x3-32(1).psq
+______________________________
+pisq7 x brutefor
+-> C:\TK\gomocup2013\freestyle2\3x5-19(1).psq
+______________________________
+pisq7 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\3x9-19(1).psq
+______________________________
+mushroom x pisq7
+-> C:\TK\gomocup2013\freestyle2\8x3-14(1).psq
+______________________________
+pisq7 x AI1000
+-> C:\TK\gomocup2013\freestyle2\3x10-21(1).psq
+______________________________
+valkyrie x pisq7
+-> C:\TK\gomocup2013\freestyle2\9x3-26(1).psq
+______________________________
+LEONARDO x brutefor
+-> C:\TK\gomocup2013\freestyle2\2x5-60(1).psq
+______________________________
+AI1000 x pisq7
+-> C:\TK\gomocup2013\freestyle2\10x3-68(1).psq
+______________________________
+Benjamin x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\4x6-185(1).psq
+______________________________
+brutefor x pisq7
+-> C:\TK\gomocup2013\freestyle2\5x3-44(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\4x7-131(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\7x4-142(1).psq
+______________________________
+Benjamin x mushroom
+-> C:\TK\gomocup2013\freestyle2\4x8-15(1).psq
+______________________________
+brutefor x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\5x2-51(1).psq
+______________________________
+mushroom x Benjamin
+-> C:\TK\gomocup2013\freestyle2\8x4-20(1).psq
+______________________________
+Benjamin x brutefor
+-> C:\TK\gomocup2013\freestyle2\4x5-66(1).psq
+______________________________
+CURNPIS x Benjamin
+-> C:\TK\gomocup2013\freestyle2\6x4-400(1).psq
+______________________________
+Benjamin x valkyrie
+-> C:\TK\gomocup2013\freestyle2\4x9-30(1).psq
+______________________________
+valkyrie x Benjamin
+-> C:\TK\gomocup2013\freestyle2\9x4-31(1).psq
+______________________________
+brutefor x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\5x6-13(1).psq
+______________________________
+Benjamin x AI1000
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\4x10-386(1).psq
+______________________________
+brutefor x Benjamin
+-> C:\TK\gomocup2013\freestyle2\5x4-29(1).psq
+______________________________
+AI1000 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\10x4-395(1).psq
+______________________________
+brutefor x mushroom
+-> C:\TK\gomocup2013\freestyle2\5x8-17(1).psq
+______________________________
+brutefor x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\5x7-38(1).psq
+______________________________
+brutefor x valkyrie
+-> C:\TK\gomocup2013\freestyle2\5x9-19(1).psq
+______________________________
+mushroom x brutefor
+-> C:\TK\gomocup2013\freestyle2\8x5-21(1).psq
+______________________________
+valkyrie x brutefor
+-> C:\TK\gomocup2013\freestyle2\9x5-24(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\6x7-119(1).psq
+______________________________
+CURNPIS x brutefor
+-> C:\TK\gomocup2013\freestyle2\6x5-75(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\7x6-24(1).psq
+______________________________
+CURNPIS x mushroom
+-> C:\TK\gomocup2013\freestyle2\6x8-11(1).psq
+______________________________
+CURNPIS x valkyrie
+-> C:\TK\gomocup2013\freestyle2\6x9-24(1).psq
+______________________________
+valkyrie x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\9x6-31(1).psq
+______________________________
+mushroom x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\8x6-27(1).psq
+______________________________
+brain-Crusher2010 x mushroom
+-> C:\TK\gomocup2013\freestyle2\7x8-11(1).psq
+______________________________
+CURNPIS x AI1000
+-> C:\TK\gomocup2013\freestyle2\6x10-98(1).psq
+______________________________
+mushroom x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\8x7-17(1).psq
+______________________________
+AI1000 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\10x6-101(1).psq
+______________________________
+brain-Crusher2010 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\7x9-28(1).psq
+______________________________
+brain-Crusher2010 x brutefor
+-> C:\TK\gomocup2013\freestyle2\7x5-48(2).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> C:\TK\gomocup2013\freestyle2\7x10-52(1).psq
+______________________________
+valkyrie x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\9x7-34(1).psq
+______________________________
+brutefor x AI1000
+-> C:\TK\gomocup2013\freestyle2\5x10-51(1).psq
+______________________________
+mushroom x valkyrie
+-> C:\TK\gomocup2013\freestyle2\8x9-21(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\10x7-141(1).psq
+______________________________
+mushroom x AI1000
+-> C:\TK\gomocup2013\freestyle2\8x10-16(1).psq
+______________________________
+valkyrie x AI1000
+-> C:\TK\gomocup2013\freestyle2\9x10-25(1).psq
+______________________________
+AI1000 x mushroom
+-> C:\TK\gomocup2013\freestyle2\10x8-11(1).psq
+______________________________
+valkyrie x mushroom
+-> C:\TK\gomocup2013\freestyle2\9x8-13(1).psq
+______________________________
+LEONARDO x imro74
+-> C:\TK\gomocup2013\freestyle2\2x0-33(1).psq
+______________________________
+AI1000 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\10x9-34(1).psq
+______________________________
+imro74 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\0x2-38(1).psq
+______________________________
+pisq7 x imro74
+-> C:\TK\gomocup2013\freestyle2\3x0-47(1).psq
+______________________________
+Benjamin x imro74
+-> C:\TK\gomocup2013\freestyle2\4x0-34(1).psq
+______________________________
+imro74 x pisq7
+-> C:\TK\gomocup2013\freestyle2\0x3-81(1).psq
+______________________________
+imro74 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\0x4-47(1).psq
+______________________________
+CURNPIS x imro74
+-> C:\TK\gomocup2013\freestyle2\6x0-35(1).psq
+______________________________
+imro74 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\0x6-39(1).psq
+______________________________
+brain-Crusher2010 x imro74
+-> C:\TK\gomocup2013\freestyle2\7x0-26(1).psq
+______________________________
+imro74 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\0x7-27(1).psq
+______________________________
+SlowRenju x imro74
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=344929, Time=8907ms, Evaluation=-16
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=306272, Time=8456ms, Evaluation=33
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=194254, Time=8034ms, Evaluation=46
+10) pbrain-SlowRenju.exe: Expected time=7628ms
+10) pbrain-SlowRenju.exe: Nodes=149531, Time=5024ms, Evaluation=10000009
+12) pbrain-SlowRenju.exe: Expected time=7377ms
+12) pbrain-SlowRenju.exe: Nodes=12733, Time=281ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7362ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7362ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x0-17(1).psq
+______________________________
+mushroom x imro74
+-> C:\TK\gomocup2013\freestyle2\8x0-12(3).psq
+______________________________
+imro74 x mushroom
+-> C:\TK\gomocup2013\freestyle2\0x8-15(1).psq
+______________________________
+valkyrie x imro74
+-> C:\TK\gomocup2013\freestyle2\9x0-31(1).psq
+______________________________
+imro74 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\0x9-28(3).psq
+______________________________
+AI1000 x brutefor
+-> C:\TK\gomocup2013\freestyle2\10x5-43(1).psq
+______________________________
+AI1000 x imro74
+-> C:\TK\gomocup2013\freestyle2\10x0-36(1).psq
+______________________________
+brutefor x imro74
+-> C:\TK\gomocup2013\freestyle2\5x0-30(1).psq
+______________________________
+imro74 x AI1000
+-> C:\TK\gomocup2013\freestyle2\0x10-65(1).psq
+______________________________
+imro74 x brutefor
+-> C:\TK\gomocup2013\freestyle2\0x5-22(1).psq
+______________________________
+pisq7 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=373566, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=292173, Time=8455ms, Evaluation=10
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=249218, Time=8034ms, Evaluation=11
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=228671, Time=7629ms, Evaluation=11
+11) pbrain-SlowRenju.exe: Expected time=7248ms
+11) pbrain-SlowRenju.exe: Nodes=234706, Time=7254ms, Evaluation=1000000
+13) pbrain-SlowRenju.exe: Expected time=6885ms
+13) pbrain-SlowRenju.exe: Nodes=22039, Time=421ms, Evaluation=100000000
+15) pbrain-SlowRenju.exe: Expected time=6864ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6864ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\3x1-18(1).psq
+______________________________
+LEONARDO x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=455286, Time=8907ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=295078, Time=8455ms, Evaluation=38
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=214536, Time=6771ms, Evaluation=70
+ 9) pbrain-SlowRenju.exe: Expected time=7693ms
+ 9) pbrain-SlowRenju.exe: Nodes=278387, Time=7706ms, Evaluation=104
+11) pbrain-SlowRenju.exe: Expected time=7308ms
+11) pbrain-SlowRenju.exe: Nodes=274781, Time=7317ms, Evaluation=104
+13) pbrain-SlowRenju.exe: Expected time=6942ms
+13) pbrain-SlowRenju.exe: Nodes=259596, Time=6942ms, Evaluation=18705
+15) pbrain-SlowRenju.exe: Expected time=6595ms
+15) pbrain-SlowRenju.exe: Nodes=283476, Time=6599ms, Evaluation=39456
+17) pbrain-SlowRenju.exe: Expected time=6266ms
+17) pbrain-SlowRenju.exe: Nodes=206330, Time=6271ms, Evaluation=10000009
+19) pbrain-SlowRenju.exe: Expected time=5953ms
+19) pbrain-SlowRenju.exe: Here it is!
+21) pbrain-SlowRenju.exe: Expected time=5952ms
+21) pbrain-SlowRenju.exe: Here it is!
+23) pbrain-SlowRenju.exe: Expected time=5952ms
+23) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\2x1-24(1).psq
+______________________________
+imro74 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=404242, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=322547, Time=8456ms, Evaluation=14
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=311408, Time=8034ms, Evaluation=49
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=273475, Time=7644ms, Evaluation=37
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Nodes=229455, Time=7254ms, Evaluation=25
+13) pbrain-SlowRenju.exe: Expected time=6884ms
+13) pbrain-SlowRenju.exe: Nodes=239835, Time=6895ms, Evaluation=0
+15) pbrain-SlowRenju.exe: Expected time=6540ms
+15) pbrain-SlowRenju.exe: Nodes=212538, Time=6552ms, Evaluation=-7
+17) pbrain-SlowRenju.exe: Expected time=6213ms
+17) pbrain-SlowRenju.exe: Nodes=163089, Time=6224ms, Evaluation=-20
+19) pbrain-SlowRenju.exe: Expected time=5902ms
+19) pbrain-SlowRenju.exe: Nodes=172648, Time=5913ms, Evaluation=-16
+21) pbrain-SlowRenju.exe: Expected time=5606ms
+21) pbrain-SlowRenju.exe: Nodes=154414, Time=5616ms, Evaluation=-19
+23) pbrain-SlowRenju.exe: Expected time=5326ms
+23) pbrain-SlowRenju.exe: Nodes=134839, Time=5335ms, Evaluation=-24
+25) pbrain-SlowRenju.exe: Expected time=5059ms
+25) pbrain-SlowRenju.exe: Nodes=102363, Time=5070ms, Evaluation=36
+27) pbrain-SlowRenju.exe: Expected time=4806ms
+27) pbrain-SlowRenju.exe: Let me see...
+29) pbrain-SlowRenju.exe: Expected time=4806ms
+29) pbrain-SlowRenju.exe: Nodes=144296, Time=4820ms, Evaluation=66
+31) pbrain-SlowRenju.exe: Expected time=4565ms
+31) pbrain-SlowRenju.exe: Nodes=171830, Time=4571ms, Evaluation=78
+33) pbrain-SlowRenju.exe: Expected time=4337ms
+33) pbrain-SlowRenju.exe: Nodes=160137, Time=4337ms, Evaluation=78
+35) pbrain-SlowRenju.exe: Expected time=4120ms
+35) pbrain-SlowRenju.exe: Nodes=137923, Time=4134ms, Evaluation=54
+37) pbrain-SlowRenju.exe: Expected time=3914ms
+37) pbrain-SlowRenju.exe: Here it is!
+39) pbrain-SlowRenju.exe: Expected time=3913ms
+39) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\0x1-40(1).psq
+______________________________
+Benjamin x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=373989, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=279296, Time=8456ms, Evaluation=40
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=304111, Time=8035ms, Evaluation=49
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=302800, Time=7644ms, Evaluation=49
+11) pbrain-SlowRenju.exe: Expected time=7248ms
+11) pbrain-SlowRenju.exe: Nodes=252716, Time=7254ms, Evaluation=78
+13) pbrain-SlowRenju.exe: Expected time=6885ms
+13) pbrain-SlowRenju.exe: Nodes=220630, Time=6895ms, Evaluation=91
+15) pbrain-SlowRenju.exe: Expected time=6541ms
+15) pbrain-SlowRenju.exe: Nodes=198799, Time=6552ms, Evaluation=91
+17) pbrain-SlowRenju.exe: Expected time=6214ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=6213ms
+19) pbrain-SlowRenju.exe: Here it is!
+21) pbrain-SlowRenju.exe: Expected time=6213ms
+21) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\4x1-22(1).psq
+______________________________
+SlowRenju x LEONARDO
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8899ms
+ 4) pbrain-SlowRenju.exe: Nodes=330994, Time=8908ms, Evaluation=-16
+ 6) pbrain-SlowRenju.exe: Expected time=8454ms
+ 6) pbrain-SlowRenju.exe: Nodes=274948, Time=8456ms, Evaluation=23
+ 8) pbrain-SlowRenju.exe: Expected time=8031ms
+ 8) pbrain-SlowRenju.exe: Nodes=217840, Time=8034ms, Evaluation=7
+10) pbrain-SlowRenju.exe: Expected time=7629ms
+10) pbrain-SlowRenju.exe: Nodes=217388, Time=7644ms, Evaluation=7
+12) pbrain-SlowRenju.exe: Expected time=7248ms
+12) pbrain-SlowRenju.exe: Nodes=223177, Time=7254ms, Evaluation=75
+14) pbrain-SlowRenju.exe: Expected time=6885ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=6885ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x2-17(1).psq
+______________________________
+SlowRenju x pisq7
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=341011, Time=8908ms, Evaluation=-14
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=321705, Time=8455ms, Evaluation=-5
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=271424, Time=8034ms, Evaluation=3
+10) pbrain-SlowRenju.exe: Expected time=7628ms
+10) pbrain-SlowRenju.exe: Nodes=254175, Time=7629ms, Evaluation=5
+12) pbrain-SlowRenju.exe: Expected time=7247ms
+12) pbrain-SlowRenju.exe: Nodes=256413, Time=7254ms, Evaluation=19
+14) pbrain-SlowRenju.exe: Expected time=6885ms
+14) pbrain-SlowRenju.exe: Nodes=242950, Time=6895ms, Evaluation=37
+16) pbrain-SlowRenju.exe: Expected time=6540ms
+16) pbrain-SlowRenju.exe: Nodes=276279, Time=6552ms, Evaluation=69
+18) pbrain-SlowRenju.exe: Expected time=6213ms
+18) pbrain-SlowRenju.exe: Nodes=156280, Time=6225ms, Evaluation=27
+20) pbrain-SlowRenju.exe: Expected time=5903ms
+20) pbrain-SlowRenju.exe: Nodes=178066, Time=5913ms, Evaluation=35
+22) pbrain-SlowRenju.exe: Expected time=5607ms
+22) pbrain-SlowRenju.exe: Here it is!
+24) pbrain-SlowRenju.exe: Expected time=5607ms
+24) pbrain-SlowRenju.exe: Here it is!
+26) pbrain-SlowRenju.exe: Expected time=5607ms
+26) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x3-27(1).psq
+______________________________
+SlowRenju x Benjamin
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=362532, Time=8908ms, Evaluation=33
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=260242, Time=8456ms, Evaluation=56
+ 8) pbrain-SlowRenju.exe: Expected time=8031ms
+ 8) pbrain-SlowRenju.exe: Nodes=279250, Time=8034ms, Evaluation=87
+10) pbrain-SlowRenju.exe: Expected time=7630ms
+10) pbrain-SlowRenju.exe: Nodes=264671, Time=7207ms, Evaluation=125
+12) pbrain-SlowRenju.exe: Expected time=7269ms
+12) pbrain-SlowRenju.exe: Nodes=321860, Time=7269ms, Evaluation=10000009
+14) pbrain-SlowRenju.exe: Expected time=6905ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=6904ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=6904ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=6904ms
+20) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x4-21(1).psq
+______________________________
+brutefor x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=370138, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=327243, Time=8455ms, Evaluation=59
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=225104, Time=8034ms, Evaluation=119
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Let me see...
+11) pbrain-SlowRenju.exe: Expected time=7628ms
+11) pbrain-SlowRenju.exe: Nodes=167968, Time=5367ms, Evaluation=10000009
+13) pbrain-SlowRenju.exe: Expected time=7359ms
+13) pbrain-SlowRenju.exe: Nodes=22787, Time=453ms, Evaluation=100000000
+15) pbrain-SlowRenju.exe: Expected time=7337ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=7336ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\5x1-18(2).psq
+______________________________
+CURNPIS x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=372885, Time=8907ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=324126, Time=8456ms, Evaluation=40
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=278278, Time=8034ms, Evaluation=32
+ 9) pbrain-SlowRenju.exe: Expected time=7630ms
+ 9) pbrain-SlowRenju.exe: Nodes=178424, Time=5288ms, Evaluation=42
+11) pbrain-SlowRenju.exe: Expected time=7365ms
+11) pbrain-SlowRenju.exe: Nodes=265481, Time=7379ms, Evaluation=91
+13) pbrain-SlowRenju.exe: Expected time=6997ms
+13) pbrain-SlowRenju.exe: Nodes=215403, Time=7004ms, Evaluation=736
+15) pbrain-SlowRenju.exe: Expected time=6647ms
+15) pbrain-SlowRenju.exe: Nodes=192818, Time=6661ms, Evaluation=1000000
+17) pbrain-SlowRenju.exe: Expected time=6314ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=6313ms
+19) pbrain-SlowRenju.exe: Here it is!
+21) pbrain-SlowRenju.exe: Expected time=6313ms
+21) pbrain-SlowRenju.exe: Here it is!
+23) pbrain-SlowRenju.exe: Expected time=6312ms
+23) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\6x1-24(1).psq
+______________________________
+brain-Crusher2010 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=375146, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=282093, Time=8455ms, Evaluation=40
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=278068, Time=8034ms, Evaluation=32
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=178424, Time=5351ms, Evaluation=42
+11) pbrain-SlowRenju.exe: Expected time=7361ms
+11) pbrain-SlowRenju.exe: Nodes=290078, Time=7363ms, Evaluation=91
+13) pbrain-SlowRenju.exe: Expected time=6994ms
+13) pbrain-SlowRenju.exe: Nodes=221355, Time=7004ms, Evaluation=736
+15) pbrain-SlowRenju.exe: Expected time=6644ms
+15) pbrain-SlowRenju.exe: Nodes=230451, Time=6645ms, Evaluation=1000000
+17) pbrain-SlowRenju.exe: Expected time=6312ms
+17) pbrain-SlowRenju.exe: Nodes=191459, Time=6318ms, Evaluation=3000000
+19) pbrain-SlowRenju.exe: Expected time=5997ms
+19) pbrain-SlowRenju.exe: Here it is!
+21) pbrain-SlowRenju.exe: Expected time=5996ms
+21) pbrain-SlowRenju.exe: Here it is!
+23) pbrain-SlowRenju.exe: Expected time=5996ms
+23) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\7x1-24(1).psq
+______________________________
+mushroom x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=387709, Time=8907ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=309498, Time=8456ms, Evaluation=30
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=306824, Time=8034ms, Evaluation=61
+ 9) pbrain-SlowRenju.exe: Expected time=7630ms
+ 9) pbrain-SlowRenju.exe: Nodes=271193, Time=7644ms, Evaluation=773
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Nodes=298218, Time=7254ms, Evaluation=10000009
+13) pbrain-SlowRenju.exe: Expected time=6885ms
+13) pbrain-SlowRenju.exe: Nodes=22993, Time=452ms, Evaluation=100000000
+15) pbrain-SlowRenju.exe: Expected time=6862ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6861ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\8x1-18(2).psq
+______________________________
+SlowRenju x CURNPIS
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=359498, Time=8907ms, Evaluation=33
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=306215, Time=8455ms, Evaluation=22
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=242227, Time=7847ms, Evaluation=28
+10) pbrain-SlowRenju.exe: Expected time=7638ms
+10) pbrain-SlowRenju.exe: Nodes=275817, Time=7644ms, Evaluation=47
+12) pbrain-SlowRenju.exe: Expected time=7256ms
+12) pbrain-SlowRenju.exe: Let me see...
+14) pbrain-SlowRenju.exe: Expected time=7256ms
+14) pbrain-SlowRenju.exe: Nodes=260880, Time=7269ms, Evaluation=62
+16) pbrain-SlowRenju.exe: Expected time=6892ms
+16) pbrain-SlowRenju.exe: Nodes=148428, Time=6895ms, Evaluation=10000009
+18) pbrain-SlowRenju.exe: Expected time=6548ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=6548ms
+20) pbrain-SlowRenju.exe: Here it is!
+22) pbrain-SlowRenju.exe: Expected time=6548ms
+22) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x6-23(1).psq
+______________________________
+SlowRenju x mushroom
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=308717, Time=8908ms, Evaluation=2
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=321343, Time=8455ms, Evaluation=762
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=293098, Time=8034ms, Evaluation=76
+10) pbrain-SlowRenju.exe: Expected time=7629ms
+10) pbrain-SlowRenju.exe: Here it is!
+12) pbrain-SlowRenju.exe: Expected time=7627ms
+12) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x8-13(3).psq
+______________________________
+SlowRenju x brain-Crusher2010
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8899ms
+ 4) pbrain-SlowRenju.exe: Nodes=327091, Time=8908ms, Evaluation=-30
+ 6) pbrain-SlowRenju.exe: Expected time=8454ms
+ 6) pbrain-SlowRenju.exe: Nodes=227121, Time=8455ms, Evaluation=-21
+ 8) pbrain-SlowRenju.exe: Expected time=8032ms
+ 8) pbrain-SlowRenju.exe: Nodes=218889, Time=8034ms, Evaluation=-4
+10) pbrain-SlowRenju.exe: Expected time=7630ms
+10) pbrain-SlowRenju.exe: Nodes=214190, Time=6833ms, Evaluation=121
+12) pbrain-SlowRenju.exe: Expected time=7289ms
+12) pbrain-SlowRenju.exe: Nodes=248177, Time=7301ms, Evaluation=3000000
+14) pbrain-SlowRenju.exe: Expected time=6924ms
+14) pbrain-SlowRenju.exe: Nodes=17660, Time=374ms, Evaluation=100000000
+16) pbrain-SlowRenju.exe: Expected time=6905ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=6905ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=6905ms
+20) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x7-21(3).psq
+______________________________
+pisq7 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\3x2-105(1).psq
+______________________________
+LEONARDO x pisq7
+-> C:\TK\gomocup2013\freestyle2\2x3-46(1).psq
+______________________________
+Benjamin x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\4x2-52(1).psq
+______________________________
+valkyrie x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=370479, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8452ms
+ 5) pbrain-SlowRenju.exe: Nodes=307664, Time=8455ms, Evaluation=92
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=340939, Time=8034ms, Evaluation=42006
+ 9) pbrain-SlowRenju.exe: Expected time=7628ms
+ 9) pbrain-SlowRenju.exe: Nodes=300176, Time=7628ms, Evaluation=1000000
+11) pbrain-SlowRenju.exe: Expected time=7246ms
+11) pbrain-SlowRenju.exe: Nodes=225051, Time=7254ms, Evaluation=10000009
+13) pbrain-SlowRenju.exe: Expected time=6883ms
+13) pbrain-SlowRenju.exe: Here it is!
+15) pbrain-SlowRenju.exe: Expected time=6883ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6882ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\9x1-18(3).psq
+______________________________
+SlowRenju x brutefor
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=328715, Time=8907ms, Evaluation=-30
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=252506, Time=8455ms, Evaluation=5
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=232902, Time=8034ms, Evaluation=1
+10) pbrain-SlowRenju.exe: Expected time=7629ms
+10) pbrain-SlowRenju.exe: Nodes=232198, Time=7629ms, Evaluation=46
+12) pbrain-SlowRenju.exe: Expected time=7248ms
+12) pbrain-SlowRenju.exe: Nodes=145163, Time=7254ms, Evaluation=51
+14) pbrain-SlowRenju.exe: Expected time=6885ms
+14) pbrain-SlowRenju.exe: Nodes=68129, Time=5523ms, Evaluation=42
+16) pbrain-SlowRenju.exe: Expected time=6609ms
+16) pbrain-SlowRenju.exe: Nodes=135890, Time=6615ms, Evaluation=50
+18) pbrain-SlowRenju.exe: Expected time=6279ms
+18) pbrain-SlowRenju.exe: Let me see...
+20) pbrain-SlowRenju.exe: Expected time=6278ms
+20) pbrain-SlowRenju.exe: Nodes=161774, Time=6287ms, Evaluation=18559
+22) pbrain-SlowRenju.exe: Expected time=5965ms
+22) pbrain-SlowRenju.exe: Nodes=96184, Time=5975ms, Evaluation=10000011
+24) pbrain-SlowRenju.exe: Expected time=5666ms
+24) pbrain-SlowRenju.exe: Let me see...
+26) pbrain-SlowRenju.exe: Expected time=5666ms
+26) pbrain-SlowRenju.exe: Here it is!
+28) pbrain-SlowRenju.exe: Expected time=5666ms
+28) pbrain-SlowRenju.exe: Here it is!
+30) pbrain-SlowRenju.exe: Expected time=5666ms
+30) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x5-31(1).psq
+______________________________
+LEONARDO x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\2x4-391(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\6x2-27(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\2x6-40(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\7x2-46(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\2x7-45(1).psq
+______________________________
+AI1000 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=394804, Time=8908ms, Evaluation=8
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=293623, Time=8455ms, Evaluation=38
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=254871, Time=8034ms, Evaluation=54
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=29841, Time=765ms, Evaluation=86
+11) pbrain-SlowRenju.exe: Expected time=7590ms
+11) pbrain-SlowRenju.exe: Nodes=252714, Time=6552ms, Evaluation=132
+13) pbrain-SlowRenju.exe: Expected time=7262ms
+13) pbrain-SlowRenju.exe: Nodes=340949, Time=7270ms, Evaluation=90
+15) pbrain-SlowRenju.exe: Expected time=6899ms
+15) pbrain-SlowRenju.exe: Nodes=239635, Time=6911ms, Evaluation=98
+17) pbrain-SlowRenju.exe: Expected time=6554ms
+17) pbrain-SlowRenju.exe: Nodes=222214, Time=6567ms, Evaluation=21022
+19) pbrain-SlowRenju.exe: Expected time=6226ms
+19) pbrain-SlowRenju.exe: Nodes=252607, Time=6240ms, Evaluation=41919
+21) pbrain-SlowRenju.exe: Expected time=5915ms
+21) pbrain-SlowRenju.exe: Nodes=195625, Time=5928ms, Evaluation=1000000
+23) pbrain-SlowRenju.exe: Expected time=5618ms
+23) pbrain-SlowRenju.exe: Nodes=207363, Time=5631ms, Evaluation=10000009
+25) pbrain-SlowRenju.exe: Expected time=5337ms
+25) pbrain-SlowRenju.exe: Nodes=20859, Time=405ms, Evaluation=100000000
+27) pbrain-SlowRenju.exe: Expected time=5316ms
+27) pbrain-SlowRenju.exe: Here it is!
+29) pbrain-SlowRenju.exe: Expected time=5316ms
+29) pbrain-SlowRenju.exe: Here it is!
+31) pbrain-SlowRenju.exe: Expected time=5316ms
+31) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\10x1-32(1).psq
+______________________________
+mushroom x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\8x2-12(1).psq
+______________________________
+SlowRenju x valkyrie
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=352139, Time=8907ms, Evaluation=50
+ 6) pbrain-SlowRenju.exe: Expected time=8454ms
+ 6) pbrain-SlowRenju.exe: Nodes=296727, Time=8455ms, Evaluation=1000000
+ 8) pbrain-SlowRenju.exe: Expected time=8031ms
+ 8) pbrain-SlowRenju.exe: Nodes=138220, Time=5414ms, Evaluation=3000000
+10) pbrain-SlowRenju.exe: Expected time=7760ms
+10) pbrain-SlowRenju.exe: Nodes=182516, Time=7769ms, Evaluation=10000009
+12) pbrain-SlowRenju.exe: Expected time=7371ms
+12) pbrain-SlowRenju.exe: Nodes=241020, Time=7378ms, Evaluation=10000009
+14) pbrain-SlowRenju.exe: Expected time=7002ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7002ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x9-17(1).psq
+______________________________
+LEONARDO x mushroom
+-> C:\TK\gomocup2013\freestyle2\2x8-11(1).psq
+______________________________
+valkyrie x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\9x2-28(2).psq
+______________________________
+LEONARDO x valkyrie
+-> C:\TK\gomocup2013\freestyle2\2x9-25(3).psq
+______________________________
+Benjamin x pisq7
+-> C:\TK\gomocup2013\freestyle2\4x3-56(1).psq
+______________________________
+AI1000 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\10x2-237(1).psq
+______________________________
+LEONARDO x AI1000
+-> C:\TK\gomocup2013\freestyle2\2x10-67(1).psq
+______________________________
+pisq7 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\3x4-397(1).psq
+______________________________
+CURNPIS x pisq7
+-> C:\TK\gomocup2013\freestyle2\6x3-36(1).psq
+______________________________
+pisq7 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\3x6-55(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> C:\TK\gomocup2013\freestyle2\7x3-24(1).psq
+______________________________
+SlowRenju x AI1000
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=363463, Time=8908ms, Evaluation=-14
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=276781, Time=8455ms, Evaluation=-4
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=303059, Time=8034ms, Evaluation=24
+10) pbrain-SlowRenju.exe: Expected time=7629ms
+10) pbrain-SlowRenju.exe: Nodes=219862, Time=7644ms, Evaluation=29
+12) pbrain-SlowRenju.exe: Expected time=7247ms
+12) pbrain-SlowRenju.exe: Nodes=130579, Time=5194ms, Evaluation=47
+14) pbrain-SlowRenju.exe: Expected time=6987ms
+14) pbrain-SlowRenju.exe: Nodes=228540, Time=6989ms, Evaluation=21113
+16) pbrain-SlowRenju.exe: Expected time=6638ms
+16) pbrain-SlowRenju.exe: Nodes=218429, Time=6646ms, Evaluation=1000000
+18) pbrain-SlowRenju.exe: Expected time=6307ms
+18) pbrain-SlowRenju.exe: Nodes=21948, Time=405ms, Evaluation=100000000
+20) pbrain-SlowRenju.exe: Expected time=6287ms
+20) pbrain-SlowRenju.exe: Here it is!
+22) pbrain-SlowRenju.exe: Expected time=6286ms
+22) pbrain-SlowRenju.exe: Here it is!
+24) pbrain-SlowRenju.exe: Expected time=6286ms
+24) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x10-25(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\3x7-27(1).psq
+______________________________
+mushroom x pisq7
+-> C:\TK\gomocup2013\freestyle2\8x3-10(1).psq
+______________________________
+valkyrie x pisq7
+-> C:\TK\gomocup2013\freestyle2\9x3-22(1).psq
+______________________________
+pisq7 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\3x9-26(1).psq
+______________________________
+pisq7 x mushroom
+-> C:\TK\gomocup2013\freestyle2\3x8-19(1).psq
+______________________________
+AI1000 x pisq7
+-> C:\TK\gomocup2013\freestyle2\10x3-58(1).psq
+______________________________
+pisq7 x AI1000
+-> C:\TK\gomocup2013\freestyle2\3x10-91(1).psq
+______________________________
+CURNPIS x Benjamin
+-> C:\TK\gomocup2013\freestyle2\6x4-120(1).psq
+______________________________
+brutefor x pisq7
+-> C:\TK\gomocup2013\freestyle2\5x3-41(2).psq
+______________________________
+Benjamin x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\4x6-229(1).psq
+______________________________
+brutefor x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\5x2-80(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\7x4-92(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\4x7-83(1).psq
+______________________________
+mushroom x Benjamin
+-> C:\TK\gomocup2013\freestyle2\8x4-26(2).psq
+______________________________
+Benjamin x mushroom
+-> C:\TK\gomocup2013\freestyle2\4x8-13(1).psq
+______________________________
+valkyrie x Benjamin
+-> C:\TK\gomocup2013\freestyle2\9x4-33(1).psq
+______________________________
+Benjamin x valkyrie
+-> C:\TK\gomocup2013\freestyle2\4x9-30(2).psq
+______________________________
+LEONARDO x brutefor
+-> C:\TK\gomocup2013\freestyle2\2x5-31(1).psq
+______________________________
+AI1000 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\10x4-395(2).psq
+______________________________
+Benjamin x AI1000
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\4x10-392(1).psq
+______________________________
+pisq7 x brutefor
+-> C:\TK\gomocup2013\freestyle2\3x5-73(1).psq
+______________________________
+brutefor x Benjamin
+-> C:\TK\gomocup2013\freestyle2\5x4-132(1).psq
+______________________________
+mushroom x brutefor
+-> C:\TK\gomocup2013\freestyle2\8x5-16(1).psq
+______________________________
+Benjamin x brutefor
+-> C:\TK\gomocup2013\freestyle2\4x5-20(1).psq
+______________________________
+CURNPIS x brutefor
+-> C:\TK\gomocup2013\freestyle2\6x5-54(1).psq
+______________________________
+brutefor x mushroom
+-> C:\TK\gomocup2013\freestyle2\5x8-17(2).psq
+______________________________
+valkyrie x brutefor
+-> C:\TK\gomocup2013\freestyle2\9x5-20(1).psq
+______________________________
+brutefor x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\5x6-23(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\7x6-64(1).psq
+______________________________
+brain-Crusher2010 x brutefor
+-> C:\TK\gomocup2013\freestyle2\7x5-67(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\6x7-188(1).psq
+______________________________
+mushroom x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\8x6-14(1).psq
+______________________________
+CURNPIS x mushroom
+-> C:\TK\gomocup2013\freestyle2\6x8-11(2).psq
+______________________________
+brutefor x valkyrie
+-> C:\TK\gomocup2013\freestyle2\5x9-28(1).psq
+______________________________
+valkyrie x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\9x6-60(1).psq
+______________________________
+AI1000 x brutefor
+-> C:\TK\gomocup2013\freestyle2\10x5-47(1).psq
+______________________________
+AI1000 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\10x6-36(1).psq
+______________________________
+CURNPIS x valkyrie
+-> C:\TK\gomocup2013\freestyle2\6x9-24(2).psq
+______________________________
+CURNPIS x AI1000
+-> C:\TK\gomocup2013\freestyle2\6x10-54(1).psq
+______________________________
+mushroom x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\8x7-10(1).psq
+______________________________
+valkyrie x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\9x7-22(1).psq
+______________________________
+brain-Crusher2010 x mushroom
+-> C:\TK\gomocup2013\freestyle2\7x8-11(2).psq
+______________________________
+brutefor x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\5x7-29(1).psq
+______________________________
+brain-Crusher2010 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\7x9-24(1).psq
+______________________________
+AI1000 x mushroom
+-> C:\TK\gomocup2013\freestyle2\10x8-11(2).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\10x7-157(1).psq
+______________________________
+valkyrie x mushroom
+-> C:\TK\gomocup2013\freestyle2\9x8-23(1).psq
+______________________________
+mushroom x AI1000
+-> C:\TK\gomocup2013\freestyle2\8x10-10(1).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> C:\TK\gomocup2013\freestyle2\7x10-47(1).psq
+______________________________
+AI1000 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\10x9-24(1).psq
+______________________________
+mushroom x valkyrie
+-> C:\TK\gomocup2013\freestyle2\8x9-18(1).psq
+______________________________
+imro74 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\0x2-16(1).psq
+______________________________
+valkyrie x AI1000
+-> C:\TK\gomocup2013\freestyle2\9x10-29(1).psq
+______________________________
+LEONARDO x imro74
+-> C:\TK\gomocup2013\freestyle2\2x0-44(1).psq
+______________________________
+imro74 x pisq7
+-> C:\TK\gomocup2013\freestyle2\0x3-53(1).psq
+______________________________
+imro74 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\0x4-26(1).psq
+______________________________
+pisq7 x imro74
+-> C:\TK\gomocup2013\freestyle2\3x0-26(1).psq
+______________________________
+Benjamin x imro74
+-> C:\TK\gomocup2013\freestyle2\4x0-112(1).psq
+______________________________
+imro74 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\0x6-20(1).psq
+______________________________
+CURNPIS x imro74
+-> C:\TK\gomocup2013\freestyle2\6x0-44(1).psq
+______________________________
+imro74 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\0x7-35(1).psq
+______________________________
+brain-Crusher2010 x imro74
+-> C:\TK\gomocup2013\freestyle2\7x0-31(1).psq
+______________________________
+imro74 x mushroom
+-> C:\TK\gomocup2013\freestyle2\0x8-11(3).psq
+______________________________
+mushroom x imro74
+-> C:\TK\gomocup2013\freestyle2\8x0-12(4).psq
+______________________________
+brutefor x AI1000
+-> C:\TK\gomocup2013\freestyle2\5x10-50(1).psq
+______________________________
+imro74 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\0x9-28(4).psq
+______________________________
+imro74 x AI1000
+-> C:\TK\gomocup2013\freestyle2\0x10-33(1).psq
+______________________________
+AI1000 x imro74
+-> C:\TK\gomocup2013\freestyle2\10x0-41(1).psq
+______________________________
+valkyrie x imro74
+-> C:\TK\gomocup2013\freestyle2\9x0-49(1).psq
+______________________________
+imro74 x brutefor
+-> C:\TK\gomocup2013\freestyle2\0x5-31(1).psq
+______________________________
+imro74 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=427401, Time=8907ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=390326, Time=8455ms, Evaluation=-5
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=318937, Time=8034ms, Evaluation=-4
+ 9) pbrain-SlowRenju.exe: Expected time=7628ms
+ 9) pbrain-SlowRenju.exe: Nodes=318710, Time=7628ms, Evaluation=47
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Nodes=337295, Time=7254ms, Evaluation=50
+13) pbrain-SlowRenju.exe: Expected time=6885ms
+13) pbrain-SlowRenju.exe: Nodes=268216, Time=6896ms, Evaluation=58
+15) pbrain-SlowRenju.exe: Expected time=6540ms
+15) pbrain-SlowRenju.exe: Nodes=225467, Time=6552ms, Evaluation=32
+17) pbrain-SlowRenju.exe: Expected time=6213ms
+17) pbrain-SlowRenju.exe: Nodes=58347, Time=1856ms, Evaluation=14
+19) pbrain-SlowRenju.exe: Expected time=6120ms
+19) pbrain-SlowRenju.exe: Nodes=227528, Time=6131ms, Evaluation=7
+21) pbrain-SlowRenju.exe: Expected time=5814ms
+21) pbrain-SlowRenju.exe: Let me see...
+23) pbrain-SlowRenju.exe: Expected time=5813ms
+23) pbrain-SlowRenju.exe: Here it is!
+25) pbrain-SlowRenju.exe: Expected time=5813ms
+25) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\0x1-26(1).psq
+______________________________
+brutefor x imro74
+-> C:\TK\gomocup2013\freestyle2\5x0-19(1).psq
+______________________________
+SlowRenju x pisq7
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=373637, Time=8908ms, Evaluation=-2
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=377706, Time=8455ms, Evaluation=12
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=343616, Time=8034ms, Evaluation=40
+10) pbrain-SlowRenju.exe: Expected time=7628ms
+10) pbrain-SlowRenju.exe: Nodes=328482, Time=7629ms, Evaluation=1000000
+12) pbrain-SlowRenju.exe: Expected time=7247ms
+12) pbrain-SlowRenju.exe: Nodes=23792, Time=437ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7226ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7226ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=7226ms
+18) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x3-19(1).psq
+______________________________
+SlowRenju x imro74
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=413164, Time=8908ms, Evaluation=-19
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=361778, Time=8455ms, Evaluation=-11
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Nodes=336041, Time=8034ms, Evaluation=-30
+10) pbrain-SlowRenju.exe: Expected time=7629ms
+10) pbrain-SlowRenju.exe: Nodes=245746, Time=7644ms, Evaluation=-28
+12) pbrain-SlowRenju.exe: Expected time=7247ms
+12) pbrain-SlowRenju.exe: Let me see...
+14) pbrain-SlowRenju.exe: Expected time=7246ms
+14) pbrain-SlowRenju.exe: Nodes=196375, Time=7254ms, Evaluation=51
+16) pbrain-SlowRenju.exe: Expected time=6883ms
+16) pbrain-SlowRenju.exe: Let me see...
+18) pbrain-SlowRenju.exe: Expected time=6883ms
+18) pbrain-SlowRenju.exe: Here it is!
+20) pbrain-SlowRenju.exe: Expected time=6882ms
+20) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x0-21(3).psq
+______________________________
+pisq7 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=393425, Time=8908ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=325427, Time=8455ms, Evaluation=42
+ 7) pbrain-SlowRenju.exe: Expected time=8032ms
+ 7) pbrain-SlowRenju.exe: Nodes=319697, Time=8034ms, Evaluation=1000000
+ 9) pbrain-SlowRenju.exe: Expected time=7630ms
+ 9) pbrain-SlowRenju.exe: Nodes=294514, Time=7644ms, Evaluation=10000011
+11) pbrain-SlowRenju.exe: Expected time=7248ms
+11) pbrain-SlowRenju.exe: Nodes=75118, Time=1451ms, Evaluation=100000000
+13) pbrain-SlowRenju.exe: Expected time=7175ms
+13) pbrain-SlowRenju.exe: Here it is!
+15) pbrain-SlowRenju.exe: Expected time=7175ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=7175ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=7175ms
+19) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\3x1-20(1).psq
+______________________________
+SlowRenju x Benjamin
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8899ms
+ 4) pbrain-SlowRenju.exe: Nodes=373238, Time=8908ms, Evaluation=45
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=265370, Time=6536ms, Evaluation=75
+ 8) pbrain-SlowRenju.exe: Expected time=8126ms
+ 8) pbrain-SlowRenju.exe: Nodes=445525, Time=8128ms, Evaluation=100
+10) pbrain-SlowRenju.exe: Expected time=7720ms
+10) pbrain-SlowRenju.exe: Nodes=393678, Time=7722ms, Evaluation=89
+12) pbrain-SlowRenju.exe: Expected time=7334ms
+12) pbrain-SlowRenju.exe: Nodes=293652, Time=7348ms, Evaluation=59
+14) pbrain-SlowRenju.exe: Expected time=6967ms
+14) pbrain-SlowRenju.exe: Nodes=319751, Time=6973ms, Evaluation=55
+16) pbrain-SlowRenju.exe: Expected time=6618ms
+16) pbrain-SlowRenju.exe: Nodes=288948, Time=6630ms, Evaluation=1000000
+18) pbrain-SlowRenju.exe: Expected time=6287ms
+18) pbrain-SlowRenju.exe: Nodes=237197, Time=5616ms, Evaluation=10000009
+20) pbrain-SlowRenju.exe: Expected time=6006ms
+20) pbrain-SlowRenju.exe: Nodes=18851, Time=280ms, Evaluation=100000000
+22) pbrain-SlowRenju.exe: Expected time=5992ms
+22) pbrain-SlowRenju.exe: Here it is!
+24) pbrain-SlowRenju.exe: Expected time=5991ms
+24) pbrain-SlowRenju.exe: Here it is!
+26) pbrain-SlowRenju.exe: Expected time=5991ms
+26) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x4-27(1).psq
+______________________________
+SlowRenju x brutefor
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=390091, Time=8907ms, Evaluation=-1
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=175294, Time=4227ms, Evaluation=18647
+ 8) pbrain-SlowRenju.exe: Expected time=8242ms
+ 8) pbrain-SlowRenju.exe: Nodes=329851, Time=6723ms, Evaluation=10000009
+10) pbrain-SlowRenju.exe: Expected time=7905ms
+10) pbrain-SlowRenju.exe: Nodes=21212, Time=343ms, Evaluation=100000000
+12) pbrain-SlowRenju.exe: Expected time=7888ms
+12) pbrain-SlowRenju.exe: Here it is!
+14) pbrain-SlowRenju.exe: Expected time=7888ms
+14) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x5-15(1).psq
+______________________________
+SlowRenju x CURNPIS
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=369131, Time=8908ms, Evaluation=47
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=323163, Time=8455ms, Evaluation=854
+ 8) pbrain-SlowRenju.exe: Expected time=8029ms
+ 8) pbrain-SlowRenju.exe: Nodes=150686, Time=3791ms, Evaluation=29482
+10) pbrain-SlowRenju.exe: Expected time=7839ms
+10) pbrain-SlowRenju.exe: Nodes=69166, Time=1716ms, Evaluation=10000009
+12) pbrain-SlowRenju.exe: Expected time=7753ms
+12) pbrain-SlowRenju.exe: Nodes=18549, Time=312ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7737ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7737ms
+16) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x6-17(3).psq
+______________________________
+SlowRenju x LEONARDO
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=416977, Time=8908ms, Evaluation=0
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=190955, Time=4977ms, Evaluation=33
+ 8) pbrain-SlowRenju.exe: Expected time=8204ms
+ 8) pbrain-SlowRenju.exe: Nodes=193835, Time=5194ms, Evaluation=26
+10) pbrain-SlowRenju.exe: Expected time=7944ms
+10) pbrain-SlowRenju.exe: Nodes=222002, Time=6568ms, Evaluation=10
+12) pbrain-SlowRenju.exe: Expected time=7615ms
+12) pbrain-SlowRenju.exe: Let me see...
+14) pbrain-SlowRenju.exe: Expected time=7615ms
+14) pbrain-SlowRenju.exe: Nodes=257523, Time=7628ms, Evaluation=42
+16) pbrain-SlowRenju.exe: Expected time=7234ms
+16) pbrain-SlowRenju.exe: Nodes=284109, Time=7239ms, Evaluation=61
+18) pbrain-SlowRenju.exe: Expected time=6872ms
+18) pbrain-SlowRenju.exe: Nodes=212137, Time=6879ms, Evaluation=43
+20) pbrain-SlowRenju.exe: Expected time=6528ms
+20) pbrain-SlowRenju.exe: Nodes=200691, Time=6537ms, Evaluation=43
+22) pbrain-SlowRenju.exe: Expected time=6202ms
+22) pbrain-SlowRenju.exe: Let me see...
+24) pbrain-SlowRenju.exe: Expected time=6202ms
+24) pbrain-SlowRenju.exe: Nodes=238413, Time=6209ms, Evaluation=64
+26) pbrain-SlowRenju.exe: Expected time=5892ms
+26) pbrain-SlowRenju.exe: Nodes=159705, Time=5897ms, Evaluation=4
+28) pbrain-SlowRenju.exe: Expected time=5596ms
+28) pbrain-SlowRenju.exe: Nodes=182633, Time=5600ms, Evaluation=61
+30) pbrain-SlowRenju.exe: Expected time=5316ms
+30) pbrain-SlowRenju.exe: Let me see...
+32) pbrain-SlowRenju.exe: Expected time=5316ms
+32) pbrain-SlowRenju.exe: Let me see...
+34) pbrain-SlowRenju.exe: Expected time=5316ms
+34) pbrain-SlowRenju.exe: Nodes=217581, Time=5320ms, Evaluation=39478
+36) pbrain-SlowRenju.exe: Expected time=5050ms
+36) pbrain-SlowRenju.exe: Nodes=160404, Time=5054ms, Evaluation=41957
+38) pbrain-SlowRenju.exe: Expected time=4798ms
+38) pbrain-SlowRenju.exe: Nodes=137441, Time=4805ms, Evaluation=41987
+40) pbrain-SlowRenju.exe: Expected time=4558ms
+40) pbrain-SlowRenju.exe: Nodes=133187, Time=4571ms, Evaluation=41973
+42) pbrain-SlowRenju.exe: Expected time=4330ms
+42) pbrain-SlowRenju.exe: Nodes=108680, Time=4337ms, Evaluation=41950
+44) pbrain-SlowRenju.exe: Expected time=4113ms
+44) pbrain-SlowRenju.exe: Nodes=116617, Time=4118ms, Evaluation=41
+46) pbrain-SlowRenju.exe: Expected time=3907ms
+46) pbrain-SlowRenju.exe: Nodes=67626, Time=3915ms, Evaluation=96
+48) pbrain-SlowRenju.exe: Expected time=3712ms
+48) pbrain-SlowRenju.exe: Nodes=100987, Time=3713ms, Evaluation=72
+50) pbrain-SlowRenju.exe: Expected time=3527ms
+50) pbrain-SlowRenju.exe: Nodes=120054, Time=3541ms, Evaluation=840
+52) pbrain-SlowRenju.exe: Expected time=3350ms
+52) pbrain-SlowRenju.exe: Nodes=118195, Time=3355ms, Evaluation=1000000
+54) pbrain-SlowRenju.exe: Expected time=3183ms
+54) pbrain-SlowRenju.exe: Nodes=94515, Time=3198ms, Evaluation=771
+56) pbrain-SlowRenju.exe: Expected time=3024ms
+56) pbrain-SlowRenju.exe: Nodes=80501, Time=3027ms, Evaluation=3000000
+58) pbrain-SlowRenju.exe: Expected time=2873ms
+58) pbrain-SlowRenju.exe: Nodes=44109, Time=2886ms, Evaluation=10000009
+60) pbrain-SlowRenju.exe: Expected time=2729ms
+60) pbrain-SlowRenju.exe: Here it is!
+62) pbrain-SlowRenju.exe: Expected time=2729ms
+62) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x2-63(1).psq
+______________________________
+CURNPIS x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=391367, Time=8907ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8452ms
+ 5) pbrain-SlowRenju.exe: Nodes=349914, Time=8456ms, Evaluation=8
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=150616, Time=3869ms, Evaluation=8
+ 9) pbrain-SlowRenju.exe: Expected time=7836ms
+ 9) pbrain-SlowRenju.exe: Nodes=293759, Time=6380ms, Evaluation=88
+11) pbrain-SlowRenju.exe: Expected time=7517ms
+11) pbrain-SlowRenju.exe: Here it is!
+13) pbrain-SlowRenju.exe: Expected time=7517ms
+13) pbrain-SlowRenju.exe: Here it is!
+15) pbrain-SlowRenju.exe: Expected time=7516ms
+15) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\6x1-16(1).psq
+______________________________
+brutefor x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=389282, Time=8907ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=358883, Time=8455ms, Evaluation=52
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=317012, Time=8034ms, Evaluation=122
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=117038, Time=2933ms, Evaluation=161
+11) pbrain-SlowRenju.exe: Expected time=7483ms
+11) pbrain-SlowRenju.exe: Nodes=363923, Time=7488ms, Evaluation=3000000
+13) pbrain-SlowRenju.exe: Expected time=7108ms
+13) pbrain-SlowRenju.exe: Nodes=197654, Time=6865ms, Evaluation=10000011
+15) pbrain-SlowRenju.exe: Expected time=6765ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6764ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=6764ms
+19) pbrain-SlowRenju.exe: Here it is!
+21) pbrain-SlowRenju.exe: Expected time=6764ms
+21) pbrain-SlowRenju.exe: Here it is!
+23) pbrain-SlowRenju.exe: Expected time=6764ms
+23) pbrain-SlowRenju.exe: Here it is!
+25) pbrain-SlowRenju.exe: Expected time=6764ms
+25) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\5x1-26(1).psq
+______________________________
+Benjamin x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=394807, Time=8908ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=363156, Time=8455ms, Evaluation=8
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=150616, Time=3760ms, Evaluation=8
+ 9) pbrain-SlowRenju.exe: Expected time=7843ms
+ 9) pbrain-SlowRenju.exe: Nodes=331762, Time=7847ms, Evaluation=-13
+11) pbrain-SlowRenju.exe: Expected time=7451ms
+11) pbrain-SlowRenju.exe: Nodes=204497, Time=4758ms, Evaluation=3
+13) pbrain-SlowRenju.exe: Expected time=7213ms
+13) pbrain-SlowRenju.exe: Nodes=360173, Time=7223ms, Evaluation=56
+15) pbrain-SlowRenju.exe: Expected time=6853ms
+15) pbrain-SlowRenju.exe: Nodes=233830, Time=6256ms, Evaluation=55
+17) pbrain-SlowRenju.exe: Expected time=6540ms
+17) pbrain-SlowRenju.exe: Nodes=156826, Time=4118ms, Evaluation=72
+19) pbrain-SlowRenju.exe: Expected time=6334ms
+19) pbrain-SlowRenju.exe: Let me see...
+21) pbrain-SlowRenju.exe: Expected time=6334ms
+21) pbrain-SlowRenju.exe: Nodes=270855, Time=6334ms, Evaluation=83
+23) pbrain-SlowRenju.exe: Expected time=6017ms
+23) pbrain-SlowRenju.exe: Nodes=248544, Time=6022ms, Evaluation=67
+25) pbrain-SlowRenju.exe: Expected time=5716ms
+25) pbrain-SlowRenju.exe: Nodes=245641, Time=5725ms, Evaluation=58
+27) pbrain-SlowRenju.exe: Expected time=5430ms
+27) pbrain-SlowRenju.exe: Nodes=227579, Time=5444ms, Evaluation=69
+29) pbrain-SlowRenju.exe: Expected time=5157ms
+29) pbrain-SlowRenju.exe: Nodes=176668, Time=5164ms, Evaluation=46
+31) pbrain-SlowRenju.exe: Expected time=4900ms
+31) pbrain-SlowRenju.exe: Nodes=171183, Time=4915ms, Evaluation=108
+33) pbrain-SlowRenju.exe: Expected time=4654ms
+33) pbrain-SlowRenju.exe: Nodes=147091, Time=4665ms, Evaluation=122
+35) pbrain-SlowRenju.exe: Expected time=4421ms
+35) pbrain-SlowRenju.exe: Let me see...
+37) pbrain-SlowRenju.exe: Expected time=4420ms
+37) pbrain-SlowRenju.exe: Here it is!
+39) pbrain-SlowRenju.exe: Expected time=4420ms
+39) pbrain-SlowRenju.exe: Here it is!
+41) pbrain-SlowRenju.exe: Expected time=4420ms
+41) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\4x1-42(1).psq
+______________________________
+LEONARDO x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=433135, Time=8907ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=351661, Time=8455ms, Evaluation=8
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=150616, Time=3853ms, Evaluation=8
+ 9) pbrain-SlowRenju.exe: Expected time=7837ms
+ 9) pbrain-SlowRenju.exe: Let me see...
+11) pbrain-SlowRenju.exe: Expected time=7837ms
+11) pbrain-SlowRenju.exe: Nodes=293215, Time=7847ms, Evaluation=23
+13) pbrain-SlowRenju.exe: Expected time=7444ms
+13) pbrain-SlowRenju.exe: Nodes=247145, Time=7456ms, Evaluation=39
+15) pbrain-SlowRenju.exe: Expected time=7071ms
+15) pbrain-SlowRenju.exe: Nodes=119592, Time=3105ms, Evaluation=1000000
+17) pbrain-SlowRenju.exe: Expected time=6915ms
+17) pbrain-SlowRenju.exe: Nodes=269385, Time=6927ms, Evaluation=1000000
+19) pbrain-SlowRenju.exe: Expected time=6569ms
+19) pbrain-SlowRenju.exe: Nodes=267007, Time=6584ms, Evaluation=3000000
+21) pbrain-SlowRenju.exe: Expected time=6241ms
+21) pbrain-SlowRenju.exe: Nodes=22510, Time=406ms, Evaluation=100000000
+23) pbrain-SlowRenju.exe: Expected time=6220ms
+23) pbrain-SlowRenju.exe: Here it is!
+25) pbrain-SlowRenju.exe: Expected time=6220ms
+25) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\2x1-26(1).psq
+______________________________
+SlowRenju x mushroom
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8896ms
+ 4) pbrain-SlowRenju.exe: Nodes=365561, Time=8907ms, Evaluation=47
+ 6) pbrain-SlowRenju.exe: Expected time=8451ms
+ 6) pbrain-SlowRenju.exe: Nodes=369748, Time=8455ms, Evaluation=21092
+ 8) pbrain-SlowRenju.exe: Expected time=8028ms
+ 8) pbrain-SlowRenju.exe: Nodes=217596, Time=5772ms, Evaluation=10000009
+10) pbrain-SlowRenju.exe: Expected time=7740ms
+10) pbrain-SlowRenju.exe: Nodes=24645, Time=452ms, Evaluation=100000000
+12) pbrain-SlowRenju.exe: Expected time=7717ms
+12) pbrain-SlowRenju.exe: Here it is!
+14) pbrain-SlowRenju.exe: Expected time=7717ms
+14) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x8-15(1).psq
+______________________________
+SlowRenju x brain-Crusher2010
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=351071, Time=8907ms, Evaluation=-5
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=343008, Time=8455ms, Evaluation=-15
+ 8) pbrain-SlowRenju.exe: Expected time=8030ms
+ 8) pbrain-SlowRenju.exe: Let me see...
+10) pbrain-SlowRenju.exe: Expected time=8029ms
+10) pbrain-SlowRenju.exe: Nodes=290681, Time=8034ms, Evaluation=47
+12) pbrain-SlowRenju.exe: Expected time=7628ms
+12) pbrain-SlowRenju.exe: Nodes=289638, Time=7628ms, Evaluation=62
+14) pbrain-SlowRenju.exe: Expected time=7247ms
+14) pbrain-SlowRenju.exe: Nodes=284566, Time=7254ms, Evaluation=67
+16) pbrain-SlowRenju.exe: Expected time=6884ms
+16) pbrain-SlowRenju.exe: Nodes=276647, Time=6896ms, Evaluation=39464
+18) pbrain-SlowRenju.exe: Expected time=6540ms
+18) pbrain-SlowRenju.exe: Nodes=300426, Time=6552ms, Evaluation=39451
+20) pbrain-SlowRenju.exe: Expected time=6212ms
+20) pbrain-SlowRenju.exe: Nodes=200568, Time=6224ms, Evaluation=1000000
+22) pbrain-SlowRenju.exe: Expected time=5901ms
+22) pbrain-SlowRenju.exe: Nodes=183949, Time=5647ms, Evaluation=10000009
+24) pbrain-SlowRenju.exe: Expected time=5619ms
+24) pbrain-SlowRenju.exe: Here it is!
+26) pbrain-SlowRenju.exe: Expected time=5617ms
+26) pbrain-SlowRenju.exe: Here it is!
+28) pbrain-SlowRenju.exe: Expected time=5617ms
+28) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x7-29(1).psq
+______________________________
+SlowRenju x valkyrie
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8897ms
+ 4) pbrain-SlowRenju.exe: Nodes=308800, Time=8908ms, Evaluation=74
+ 6) pbrain-SlowRenju.exe: Expected time=8452ms
+ 6) pbrain-SlowRenju.exe: Nodes=323066, Time=8456ms, Evaluation=39441
+ 8) pbrain-SlowRenju.exe: Expected time=8029ms
+ 8) pbrain-SlowRenju.exe: Nodes=253975, Time=8034ms, Evaluation=1000000
+10) pbrain-SlowRenju.exe: Expected time=7627ms
+10) pbrain-SlowRenju.exe: Nodes=261130, Time=7629ms, Evaluation=1000000
+12) pbrain-SlowRenju.exe: Expected time=7246ms
+12) pbrain-SlowRenju.exe: Nodes=25252, Time=531ms, Evaluation=100000000
+14) pbrain-SlowRenju.exe: Expected time=7219ms
+14) pbrain-SlowRenju.exe: Here it is!
+16) pbrain-SlowRenju.exe: Expected time=7219ms
+16) pbrain-SlowRenju.exe: Here it is!
+18) pbrain-SlowRenju.exe: Expected time=7218ms
+18) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x9-19(3).psq
+______________________________
+mushroom x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=390455, Time=8908ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=371463, Time=8455ms, Evaluation=51
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=384733, Time=8034ms, Evaluation=124
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Here it is!
+11) pbrain-SlowRenju.exe: Expected time=7628ms
+11) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\8x1-12(1).psq
+______________________________
+LEONARDO x pisq7
+-> C:\TK\gomocup2013\freestyle2\2x3-27(1).psq
+______________________________
+pisq7 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\3x2-47(1).psq
+______________________________
+valkyrie x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8898ms
+ 3) pbrain-SlowRenju.exe: Nodes=429227, Time=8908ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8452ms
+ 5) pbrain-SlowRenju.exe: Nodes=371169, Time=8455ms, Evaluation=82
+ 7) pbrain-SlowRenju.exe: Expected time=8029ms
+ 7) pbrain-SlowRenju.exe: Nodes=325519, Time=8034ms, Evaluation=1000000
+ 9) pbrain-SlowRenju.exe: Expected time=7628ms
+ 9) pbrain-SlowRenju.exe: Nodes=307281, Time=7629ms, Evaluation=3000000
+11) pbrain-SlowRenju.exe: Expected time=7247ms
+11) pbrain-SlowRenju.exe: Nodes=300743, Time=7254ms, Evaluation=10000009
+13) pbrain-SlowRenju.exe: Expected time=6884ms
+13) pbrain-SlowRenju.exe: Nodes=24504, Time=453ms, Evaluation=100000000
+15) pbrain-SlowRenju.exe: Expected time=6861ms
+15) pbrain-SlowRenju.exe: Here it is!
+17) pbrain-SlowRenju.exe: Expected time=6861ms
+17) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\9x1-18(4).psq
+______________________________
+LEONARDO x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> C:\TK\gomocup2013\freestyle2\2x4-395(1).psq
+______________________________
+Benjamin x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\4x2-30(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\2x6-37(1).psq
+______________________________
+brain-Crusher2010 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8897ms
+ 3) pbrain-SlowRenju.exe: Nodes=392418, Time=8908ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8453ms
+ 5) pbrain-SlowRenju.exe: Nodes=350899, Time=8455ms, Evaluation=8
+ 7) pbrain-SlowRenju.exe: Expected time=8030ms
+ 7) pbrain-SlowRenju.exe: Nodes=336292, Time=8034ms, Evaluation=53
+ 9) pbrain-SlowRenju.exe: Expected time=7629ms
+ 9) pbrain-SlowRenju.exe: Nodes=367191, Time=7644ms, Evaluation=49
+11) pbrain-SlowRenju.exe: Expected time=7248ms
+11) pbrain-SlowRenju.exe: Nodes=326984, Time=7254ms, Evaluation=49
+13) pbrain-SlowRenju.exe: Expected time=6885ms
+13) pbrain-SlowRenju.exe: Nodes=301903, Time=6895ms, Evaluation=696
+15) pbrain-SlowRenju.exe: Expected time=6540ms
+15) pbrain-SlowRenju.exe: Nodes=295753, Time=6552ms, Evaluation=76
+17) pbrain-SlowRenju.exe: Expected time=6213ms
+17) pbrain-SlowRenju.exe: Nodes=279674, Time=6224ms, Evaluation=713
+19) pbrain-SlowRenju.exe: Expected time=5902ms
+19) pbrain-SlowRenju.exe: Nodes=282891, Time=5913ms, Evaluation=43
+21) pbrain-SlowRenju.exe: Expected time=5606ms
+21) pbrain-SlowRenju.exe: Nodes=259272, Time=5617ms, Evaluation=1000000
+23) pbrain-SlowRenju.exe: Expected time=5326ms
+23) pbrain-SlowRenju.exe: Nodes=64570, Time=1934ms, Evaluation=10000009
+25) pbrain-SlowRenju.exe: Expected time=5229ms
+25) pbrain-SlowRenju.exe: Nodes=8385, Time=187ms, Evaluation=100000000
+27) pbrain-SlowRenju.exe: Expected time=5219ms
+27) pbrain-SlowRenju.exe: Here it is!
+29) pbrain-SlowRenju.exe: Expected time=5218ms
+29) pbrain-SlowRenju.exe: Here it is!
+31) pbrain-SlowRenju.exe: Expected time=5218ms
+31) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\7x1-32(1).psq
+______________________________
+SlowRenju x AI1000
+ 4) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 4) pbrain-SlowRenju.exe: Expected time=8898ms
+ 4) pbrain-SlowRenju.exe: Nodes=372816, Time=8908ms, Evaluation=0
+ 6) pbrain-SlowRenju.exe: Expected time=8453ms
+ 6) pbrain-SlowRenju.exe: Nodes=190955, Time=4992ms, Evaluation=33
+ 8) pbrain-SlowRenju.exe: Expected time=8203ms
+ 8) pbrain-SlowRenju.exe: Nodes=288167, Time=6037ms, Evaluation=37
+10) pbrain-SlowRenju.exe: Expected time=7901ms
+10) pbrain-SlowRenju.exe: Nodes=290090, Time=6864ms, Evaluation=63
+12) pbrain-SlowRenju.exe: Expected time=7557ms
+12) pbrain-SlowRenju.exe: Nodes=331962, Time=7566ms, Evaluation=68
+14) pbrain-SlowRenju.exe: Expected time=7179ms
+14) pbrain-SlowRenju.exe: Nodes=341319, Time=7191ms, Evaluation=68
+16) pbrain-SlowRenju.exe: Expected time=6819ms
+16) pbrain-SlowRenju.exe: Nodes=294090, Time=6832ms, Evaluation=84
+18) pbrain-SlowRenju.exe: Expected time=6478ms
+18) pbrain-SlowRenju.exe: Nodes=288592, Time=6490ms, Evaluation=84
+20) pbrain-SlowRenju.exe: Expected time=6154ms
+20) pbrain-SlowRenju.exe: Nodes=246701, Time=6162ms, Evaluation=80
+22) pbrain-SlowRenju.exe: Expected time=5846ms
+22) pbrain-SlowRenju.exe: Nodes=243399, Time=5850ms, Evaluation=1000000
+24) pbrain-SlowRenju.exe: Expected time=5553ms
+24) pbrain-SlowRenju.exe: Nodes=227372, Time=5554ms, Evaluation=1000000
+26) pbrain-SlowRenju.exe: Expected time=5276ms
+26) pbrain-SlowRenju.exe: Nodes=216923, Time=5288ms, Evaluation=20
+28) pbrain-SlowRenju.exe: Expected time=5012ms
+28) pbrain-SlowRenju.exe: Nodes=202567, Time=5023ms, Evaluation=11
+30) pbrain-SlowRenju.exe: Expected time=4760ms
+30) pbrain-SlowRenju.exe: Nodes=172068, Time=4773ms, Evaluation=68
+32) pbrain-SlowRenju.exe: Expected time=4522ms
+32) pbrain-SlowRenju.exe: Let me see...
+34) pbrain-SlowRenju.exe: Expected time=4521ms
+34) pbrain-SlowRenju.exe: Nodes=205922, Time=4524ms, Evaluation=148
+36) pbrain-SlowRenju.exe: Expected time=4295ms
+36) pbrain-SlowRenju.exe: Nodes=24471, Time=483ms, Evaluation=100000000
+38) pbrain-SlowRenju.exe: Expected time=4271ms
+38) pbrain-SlowRenju.exe: Here it is!
+40) pbrain-SlowRenju.exe: Expected time=4271ms
+40) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\1x10-41(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\2x7-33(2).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\7x2-60(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\6x2-187(1).psq
+______________________________
+LEONARDO x mushroom
+-> C:\TK\gomocup2013\freestyle2\2x8-11(2).psq
+______________________________
+mushroom x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\8x2-10(1).psq
+______________________________
+LEONARDO x brutefor
+-> C:\TK\gomocup2013\freestyle2\2x5-25(1).psq
+______________________________
+LEONARDO x AI1000
+-> C:\TK\gomocup2013\freestyle2\2x10-60(1).psq
+______________________________
+LEONARDO x valkyrie
+-> C:\TK\gomocup2013\freestyle2\2x9-64(1).psq
+______________________________
+valkyrie x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\9x2-22(3).psq
+______________________________
+AI1000 x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\10x2-121(1).psq
+______________________________
+AI1000 x SlowRenju
+ 3) pbrain-SlowRenju.exe: SlowRenju 3.1 is ready.
+ 3) pbrain-SlowRenju.exe: Expected time=8899ms
+ 3) pbrain-SlowRenju.exe: Nodes=400312, Time=8907ms, Evaluation=-6
+ 5) pbrain-SlowRenju.exe: Expected time=8454ms
+ 5) pbrain-SlowRenju.exe: Nodes=425544, Time=8455ms, Evaluation=8
+ 7) pbrain-SlowRenju.exe: Expected time=8031ms
+ 7) pbrain-SlowRenju.exe: Nodes=150616, Time=3432ms, Evaluation=8
+ 9) pbrain-SlowRenju.exe: Expected time=7860ms
+ 9) pbrain-SlowRenju.exe: Let me see...
+11) pbrain-SlowRenju.exe: Expected time=7860ms
+11) pbrain-SlowRenju.exe: Nodes=318568, Time=7862ms, Evaluation=132
+13) pbrain-SlowRenju.exe: Expected time=7467ms
+13) pbrain-SlowRenju.exe: Nodes=74222, Time=1950ms, Evaluation=10000009
+15) pbrain-SlowRenju.exe: Expected time=7369ms
+15) pbrain-SlowRenju.exe: Nodes=12867, Time=281ms, Evaluation=100000000
+17) pbrain-SlowRenju.exe: Expected time=7356ms
+17) pbrain-SlowRenju.exe: Here it is!
+19) pbrain-SlowRenju.exe: Expected time=7356ms
+19) pbrain-SlowRenju.exe: Here it is!
+-> C:\TK\gomocup2013\freestyle2\10x1-20(2).psq
+______________________________
+pisq7 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\3x4-85(1).psq
+______________________________
+pisq7 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\3x6-43(1).psq
+______________________________
+Benjamin x pisq7
+-> C:\TK\gomocup2013\freestyle2\4x3-108(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\3x7-21(1).psq
+______________________________
+CURNPIS x pisq7
+-> C:\TK\gomocup2013\freestyle2\6x3-70(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> C:\TK\gomocup2013\freestyle2\7x3-30(1).psq
+______________________________
+pisq7 x mushroom
+-> C:\TK\gomocup2013\freestyle2\3x8-17(1).psq
+______________________________
+pisq7 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\3x9-22(1).psq
+______________________________
+valkyrie x pisq7
+-> C:\TK\gomocup2013\freestyle2\9x3-18(1).psq
+______________________________
+mushroom x pisq7
+-> C:\TK\gomocup2013\freestyle2\8x3-20(1).psq
+______________________________
+pisq7 x AI1000
+-> C:\TK\gomocup2013\freestyle2\3x10-37(1).psq
+______________________________
+AI1000 x pisq7
+-> C:\TK\gomocup2013\freestyle2\10x3-38(1).psq
+______________________________
+pisq7 x brutefor
+-> C:\TK\gomocup2013\freestyle2\3x5-27(1).psq
+______________________________
+Benjamin x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\4x6-287(1).psq
+______________________________
+brutefor x pisq7
+-> C:\TK\gomocup2013\freestyle2\5x3-27(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\4x7-24(1).psq
+______________________________
+CURNPIS x Benjamin
+-> C:\TK\gomocup2013\freestyle2\6x4-284(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\7x4-196(1).psq
+______________________________
+Benjamin x mushroom
+-> C:\TK\gomocup2013\freestyle2\4x8-27(1).psq
+______________________________
+mushroom x Benjamin
+-> C:\TK\gomocup2013\freestyle2\8x4-10(1).psq
+______________________________
+Benjamin x valkyrie
+-> C:\TK\gomocup2013\freestyle2\4x9-30(3).psq
+______________________________
+Benjamin x AI1000
+-> C:\TK\gomocup2013\freestyle2\4x10-62(1).psq
+______________________________
+valkyrie x Benjamin
+-> C:\TK\gomocup2013\freestyle2\9x4-49(1).psq
+______________________________
+brutefor x LEONARDO
+-> C:\TK\gomocup2013\freestyle2\5x2-90(1).psq
+______________________________
+AI1000 x Benjamin
+-> C:\TK\gomocup2013\freestyle2\10x4-400(1).psq
+______________________________
+brutefor x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\5x7-36(1).psq
+______________________________
+Benjamin x brutefor
+-> C:\TK\gomocup2013\freestyle2\4x5-120(1).psq
+______________________________
+brutefor x mushroom
+-> C:\TK\gomocup2013\freestyle2\5x8-17(3).psq
+______________________________
+mushroom x brutefor
+-> C:\TK\gomocup2013\freestyle2\8x5-14(1).psq
+______________________________
+brutefor x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\5x6-82(1).psq
+______________________________
+brutefor x Benjamin
+-> C:\TK\gomocup2013\freestyle2\5x4-43(1).psq
+______________________________
+brutefor x valkyrie
+-> C:\TK\gomocup2013\freestyle2\5x9-24(1).psq
+______________________________
+brain-Crusher2010 x brutefor
+-> C:\TK\gomocup2013\freestyle2\7x5-54(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\6x7-53(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\7x6-19(1).psq
+______________________________
+CURNPIS x mushroom
+-> C:\TK\gomocup2013\freestyle2\6x8-11(3).psq
+______________________________
+mushroom x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\8x6-10(1).psq
+______________________________
+brutefor x AI1000
+-> C:\TK\gomocup2013\freestyle2\5x10-24(1).psq
+______________________________
+CURNPIS x valkyrie
+-> C:\TK\gomocup2013\freestyle2\6x9-24(3).psq
+______________________________
+CURNPIS x brutefor
+-> C:\TK\gomocup2013\freestyle2\6x5-35(1).psq
+______________________________
+CURNPIS x AI1000
+-> C:\TK\gomocup2013\freestyle2\6x10-107(1).psq
+______________________________
+valkyrie x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\9x6-59(1).psq
+______________________________
+brain-Crusher2010 x mushroom
+-> C:\TK\gomocup2013\freestyle2\7x8-11(3).psq
+______________________________
+AI1000 x CURNPIS
+-> C:\TK\gomocup2013\freestyle2\10x6-95(1).psq
+______________________________
+mushroom x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\8x7-10(2).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> C:\TK\gomocup2013\freestyle2\7x10-57(1).psq
+______________________________
+brain-Crusher2010 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\7x9-42(1).psq
+______________________________
+AI1000 x brutefor
+-> C:\TK\gomocup2013\freestyle2\10x5-26(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\10x7-67(1).psq
+______________________________
+mushroom x AI1000
+-> C:\TK\gomocup2013\freestyle2\8x10-10(2).psq
+______________________________
+mushroom x valkyrie
+-> C:\TK\gomocup2013\freestyle2\8x9-21(2).psq
+______________________________
+valkyrie x brain-Crusher2010
+-> C:\TK\gomocup2013\freestyle2\9x7-59(1).psq
+______________________________
+AI1000 x mushroom
+-> C:\TK\gomocup2013\freestyle2\10x8-11(3).psq
+______________________________
+valkyrie x AI1000
+-> C:\TK\gomocup2013\freestyle2\9x10-20(1).psq
+______________________________
+valkyrie x mushroom
+-> C:\TK\gomocup2013\freestyle2\9x8-17(1).psq
+______________________________
+valkyrie x brutefor
+-> C:\TK\gomocup2013\freestyle2\9x5-52(1).psq
+______________________________
+AI1000 x valkyrie
+-> C:\TK\gomocup2013\freestyle2\10x9-36(1).psq

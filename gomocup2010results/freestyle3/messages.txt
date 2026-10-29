@@ -1,0 +1,658 @@
+______________________________
+Pecuchet x Noesis
+-> F:\projekty\gomocup2010\freestyle3\0x3-29(1).psq
+______________________________
+Pecuchet x fiverow
+-> F:\projekty\gomocup2010\freestyle3\0x4-21(1).psq
+______________________________
+Noesis x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\3x0-46(1).psq
+______________________________
+Pecuchet x trunkat
+-> F:\projekty\gomocup2010\freestyle3\0x2-42(1).psq
+______________________________
+trunkat x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\2x0-26(1).psq
+______________________________
+fiverow x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\4x0-28(1).psq
+______________________________
+Pecuchet x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\0x1-31(1).psq
+______________________________
+Pecuchet x jude
+-> F:\projekty\gomocup2010\freestyle3\0x5-31(1).psq
+______________________________
+Pecuchet x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\0x7-25(1).psq
+______________________________
+Pecuchet x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\0x6-19(1).psq
+______________________________
+Puskvorec x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\7x0-26(1).psq
+______________________________
+jude x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\5x0-33(1).psq
+______________________________
+QMENTAT6 x trunkat
+-> F:\projekty\gomocup2010\freestyle3\1x2-27(1).psq
+______________________________
+trunkat x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\2x1-32(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> F:\projekty\gomocup2010\freestyle3\1x3-30(1).psq
+______________________________
+Noesis x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\3x1-19(1).psq
+______________________________
+QMENTAT6 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\1x0-49(1).psq
+______________________________
+BRUTEFOR x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\6x0-42(1).psq
+______________________________
+Pecuchet x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\0x8-37(1).psq
+______________________________
+QMENTAT6 x fiverow
+pbrain-fiverow.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle3\1x4-29(1).psq
+______________________________
+nabamoku x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\8x0-22(1).psq
+______________________________
+fiverow x QMENTAT6
+pbrain-fiverow.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle3\4x1-62(1).psq
+______________________________
+QMENTAT6 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\1x6-43(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\1x8-36(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\1x7-65(1).psq
+______________________________
+QMENTAT6 x jude
+-> F:\projekty\gomocup2010\freestyle3\1x5-36(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\7x1-42(1).psq
+______________________________
+trunkat x Noesis
+-> F:\projekty\gomocup2010\freestyle3\2x3-24(1).psq
+______________________________
+BRUTEFOR x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\6x1-64(1).psq
+______________________________
+trunkat x fiverow
+-> F:\projekty\gomocup2010\freestyle3\2x4-27(1).psq
+______________________________
+Noesis x trunkat
+-> F:\projekty\gomocup2010\freestyle3\3x2-41(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\8x1-42(1).psq
+______________________________
+fiverow x trunkat
+-> F:\projekty\gomocup2010\freestyle3\4x2-26(1).psq
+______________________________
+trunkat x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\2x7-19(1).psq
+______________________________
+Puskvorec x trunkat
+-> F:\projekty\gomocup2010\freestyle3\7x2-37(1).psq
+______________________________
+trunkat x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\2x8-17(1).psq
+______________________________
+trunkat x jude
+-> F:\projekty\gomocup2010\freestyle3\2x5-48(1).psq
+______________________________
+trunkat x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\2x6-43(1).psq
+______________________________
+jude x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\5x1-78(1).psq
+______________________________
+nabamoku x trunkat
+-> F:\projekty\gomocup2010\freestyle3\8x2-25(1).psq
+______________________________
+BRUTEFOR x trunkat
+-> F:\projekty\gomocup2010\freestyle3\6x2-23(1).psq
+______________________________
+Noesis x fiverow
+-> F:\projekty\gomocup2010\freestyle3\3x4-25(1).psq
+______________________________
+Noesis x jude
+-> F:\projekty\gomocup2010\freestyle3\3x5-58(1).psq
+______________________________
+jude x trunkat
+-> F:\projekty\gomocup2010\freestyle3\5x2-47(1).psq
+______________________________
+Noesis x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\3x6-15(1).psq
+______________________________
+fiverow x Noesis
+-> F:\projekty\gomocup2010\freestyle3\4x3-35(1).psq
+______________________________
+Noesis x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\3x7-17(1).psq
+______________________________
+Puskvorec x Noesis
+-> F:\projekty\gomocup2010\freestyle3\7x3-35(1).psq
+______________________________
+jude x Noesis
+-> F:\projekty\gomocup2010\freestyle3\5x3-56(1).psq
+______________________________
+Noesis x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\3x8-19(1).psq
+______________________________
+fiverow x jude
+-> F:\projekty\gomocup2010\freestyle3\4x5-36(1).psq
+______________________________
+BRUTEFOR x Noesis
+-> F:\projekty\gomocup2010\freestyle3\6x3-37(1).psq
+______________________________
+fiverow x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\4x7-29(1).psq
+______________________________
+nabamoku x Noesis
+-> F:\projekty\gomocup2010\freestyle3\8x3-18(1).psq
+______________________________
+Puskvorec x fiverow
+-> F:\projekty\gomocup2010\freestyle3\7x4-32(1).psq
+______________________________
+jude x fiverow
+-> F:\projekty\gomocup2010\freestyle3\5x4-27(1).psq
+______________________________
+jude x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\5x7-19(1).psq
+______________________________
+fiverow x BRUTEFOR
+pbrain-fiverow.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle3\4x6-34(1).psq
+______________________________
+fiverow x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\4x8-55(1).psq
+______________________________
+Puskvorec x jude
+-> F:\projekty\gomocup2010\freestyle3\7x5-34(1).psq
+______________________________
+BRUTEFOR x fiverow
+-> F:\projekty\gomocup2010\freestyle3\6x4-50(1).psq
+______________________________
+jude x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\5x6-41(1).psq
+______________________________
+nabamoku x fiverow
+-> F:\projekty\gomocup2010\freestyle3\8x4-41(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\6x7-31(1).psq
+______________________________
+BRUTEFOR x jude
+-> F:\projekty\gomocup2010\freestyle3\6x5-36(1).psq
+______________________________
+Puskvorec x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\7x8-24(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\7x6-57(1).psq
+______________________________
+nabamoku x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\8x7-31(1).psq
+______________________________
+BRUTEFOR x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\6x8-48(1).psq
+______________________________
+jude x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\5x8-118(1).psq
+______________________________
+trunkat x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\2x0-30(1).psq
+______________________________
+Pecuchet x trunkat
+-> F:\projekty\gomocup2010\freestyle3\0x2-21(1).psq
+______________________________
+QMENTAT6 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\1x0-59(1).psq
+______________________________
+Noesis x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\3x0-34(1).psq
+______________________________
+Pecuchet x Noesis
+-> F:\projekty\gomocup2010\freestyle3\0x3-21(1).psq
+______________________________
+nabamoku x jude
+-> F:\projekty\gomocup2010\freestyle3\8x5-19(1).psq
+______________________________
+Pecuchet x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\0x1-31(2).psq
+______________________________
+fiverow x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\4x0-36(1).psq
+______________________________
+Pecuchet x fiverow
+-> F:\projekty\gomocup2010\freestyle3\0x4-35(1).psq
+______________________________
+Puskvorec x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\7x0-16(1).psq
+______________________________
+Pecuchet x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\0x7-23(1).psq
+______________________________
+jude x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\5x0-23(1).psq
+______________________________
+BRUTEFOR x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\6x0-34(1).psq
+______________________________
+Pecuchet x jude
+-> F:\projekty\gomocup2010\freestyle3\0x5-33(1).psq
+______________________________
+trunkat x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\2x1-32(2).psq
+______________________________
+Pecuchet x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\0x6-25(1).psq
+______________________________
+nabamoku x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\8x0-32(1).psq
+______________________________
+QMENTAT6 x trunkat
+-> F:\projekty\gomocup2010\freestyle3\1x2-25(1).psq
+______________________________
+Noesis x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\3x1-54(1).psq
+______________________________
+fiverow x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\4x1-32(1).psq
+______________________________
+nabamoku x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle3\8x6-53(1).psq
+______________________________
+Pecuchet x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\0x8-21(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> F:\projekty\gomocup2010\freestyle3\1x4-27(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> F:\projekty\gomocup2010\freestyle3\1x3-44(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\7x1-16(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\1x7-27(1).psq
+______________________________
+jude x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\5x1-32(1).psq
+______________________________
+Noesis x trunkat
+-> F:\projekty\gomocup2010\freestyle3\3x2-29(1).psq
+______________________________
+BRUTEFOR x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\6x1-38(1).psq
+______________________________
+QMENTAT6 x jude
+-> F:\projekty\gomocup2010\freestyle3\1x5-29(1).psq
+______________________________
+trunkat x Noesis
+-> F:\projekty\gomocup2010\freestyle3\2x3-58(1).psq
+______________________________
+fiverow x trunkat
+-> F:\projekty\gomocup2010\freestyle3\4x2-41(1).psq
+______________________________
+trunkat x fiverow
+-> F:\projekty\gomocup2010\freestyle3\2x4-28(1).psq
+______________________________
+jude x trunkat
+-> F:\projekty\gomocup2010\freestyle3\5x2-63(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\8x1-116(1).psq
+______________________________
+QMENTAT6 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\1x6-69(1).psq
+______________________________
+Puskvorec x trunkat
+-> F:\projekty\gomocup2010\freestyle3\7x2-81(1).psq
+______________________________
+trunkat x jude
+-> F:\projekty\gomocup2010\freestyle3\2x5-43(1).psq
+______________________________
+trunkat x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\2x7-33(1).psq
+______________________________
+fiverow x Noesis
+-> F:\projekty\gomocup2010\freestyle3\4x3-25(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\1x8-31(1).psq
+______________________________
+Noesis x fiverow
+-> F:\projekty\gomocup2010\freestyle3\3x4-55(1).psq
+______________________________
+nabamoku x trunkat
+-> F:\projekty\gomocup2010\freestyle3\8x2-25(2).psq
+______________________________
+BRUTEFOR x trunkat
+-> F:\projekty\gomocup2010\freestyle3\6x2-40(1).psq
+______________________________
+jude x Noesis
+-> F:\projekty\gomocup2010\freestyle3\5x3-72(1).psq
+______________________________
+BRUTEFOR x Noesis
+-> F:\projekty\gomocup2010\freestyle3\6x3-36(1).psq
+______________________________
+Noesis x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\3x6-19(1).psq
+______________________________
+Noesis x jude
+-> F:\projekty\gomocup2010\freestyle3\3x5-92(1).psq
+______________________________
+trunkat x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\2x8-39(1).psq
+______________________________
+Puskvorec x Noesis
+-> F:\projekty\gomocup2010\freestyle3\7x3-16(1).psq
+______________________________
+Noesis x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\3x7-21(1).psq
+______________________________
+trunkat x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\2x6-29(1).psq
+______________________________
+jude x fiverow
+-> F:\projekty\gomocup2010\freestyle3\5x4-25(1).psq
+______________________________
+nabamoku x Noesis
+-> F:\projekty\gomocup2010\freestyle3\8x3-35(1).psq
+______________________________
+BRUTEFOR x fiverow
+-> F:\projekty\gomocup2010\freestyle3\6x4-26(1).psq
+______________________________
+fiverow x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\4x6-21(1).psq
+______________________________
+Puskvorec x fiverow
+-> F:\projekty\gomocup2010\freestyle3\7x4-43(1).psq
+______________________________
+Noesis x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\3x8-40(1).psq
+______________________________
+fiverow x jude
+pbrain-fiverow.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle3\4x5-28(1).psq
+______________________________
+fiverow x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\4x7-25(1).psq
+______________________________
+Puskvorec x jude
+-> F:\projekty\gomocup2010\freestyle3\7x5-36(1).psq
+______________________________
+jude x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\5x7-27(1).psq
+______________________________
+BRUTEFOR x jude
+-> F:\projekty\gomocup2010\freestyle3\6x5-42(1).psq
+______________________________
+nabamoku x fiverow
+-> F:\projekty\gomocup2010\freestyle3\8x4-79(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\7x6-18(1).psq
+______________________________
+jude x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\5x6-17(1).psq
+______________________________
+nabamoku x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\8x6-19(1).psq
+______________________________
+fiverow x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\4x8-57(1).psq
+______________________________
+nabamoku x jude
+-> F:\projekty\gomocup2010\freestyle3\8x5-81(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\6x7-27(1).psq
+______________________________
+BRUTEFOR x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\6x8-15(1).psq
+______________________________
+Pecuchet x trunkat
+-> F:\projekty\gomocup2010\freestyle3\0x2-29(1).psq
+______________________________
+nabamoku x Puskvorec
+pbrain-nabamoku.exe nevrátilo souøadnice svého tahu
+#
+-> F:\projekty\gomocup2010\freestyle3\8x7-30(1).psq
+______________________________
+trunkat x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\2x0-30(2).psq
+______________________________
+Pecuchet x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\0x1-39(1).psq
+______________________________
+Pecuchet x Noesis
+-> F:\projekty\gomocup2010\freestyle3\0x3-33(1).psq
+______________________________
+Noesis x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\3x0-34(2).psq
+______________________________
+Puskvorec x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\7x8-42(1).psq
+______________________________
+QMENTAT6 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\1x0-30(1).psq
+______________________________
+jude x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\5x8-36(1).psq
+______________________________
+Pecuchet x fiverow
+-> F:\projekty\gomocup2010\freestyle3\0x4-35(2).psq
+______________________________
+Pecuchet x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\0x7-31(1).psq
+______________________________
+fiverow x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\4x0-34(1).psq
+______________________________
+Pecuchet x jude
+-> F:\projekty\gomocup2010\freestyle3\0x5-35(1).psq
+______________________________
+Puskvorec x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\7x0-26(2).psq
+______________________________
+QMENTAT6 x trunkat
+-> F:\projekty\gomocup2010\freestyle3\1x2-27(2).psq
+______________________________
+jude x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\5x0-31(1).psq
+______________________________
+Pecuchet x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\0x8-31(1).psq
+______________________________
+trunkat x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\2x1-26(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> F:\projekty\gomocup2010\freestyle3\1x3-38(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> F:\projekty\gomocup2010\freestyle3\1x4-23(1).psq
+______________________________
+Noesis x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\3x1-21(1).psq
+______________________________
+Pecuchet x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\0x6-31(1).psq
+______________________________
+QMENTAT6 x jude
+-> F:\projekty\gomocup2010\freestyle3\1x5-28(1).psq
+______________________________
+fiverow x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\4x1-50(1).psq
+______________________________
+QMENTAT6 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\1x6-27(1).psq
+______________________________
+BRUTEFOR x Pecuchet
+-> F:\projekty\gomocup2010\freestyle3\6x0-30(1).psq
+______________________________
+jude x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\5x1-80(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\1x7-29(1).psq
+______________________________
+nabamoku x Pecuchet
+pbrain-nabamoku.exe nevrátilo souøadnice svého tahu
+Exception in thread "Thread-35" java.lang.NullPointerException
+-> F:\projekty\gomocup2010\freestyle3\8x0-40(1).psq
+______________________________
+trunkat x Noesis
+-> F:\projekty\gomocup2010\freestyle3\2x3-22(1).psq
+______________________________
+Noesis x trunkat
+-> F:\projekty\gomocup2010\freestyle3\3x2-19(1).psq
+______________________________
+trunkat x fiverow
+-> F:\projekty\gomocup2010\freestyle3\2x4-45(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\7x1-34(1).psq
+______________________________
+fiverow x trunkat
+-> F:\projekty\gomocup2010\freestyle3\4x2-18(1).psq
+______________________________
+trunkat x jude
+-> F:\projekty\gomocup2010\freestyle3\2x5-30(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\1x8-47(1).psq
+______________________________
+BRUTEFOR x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\6x1-28(1).psq
+______________________________
+trunkat x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\2x7-19(2).psq
+______________________________
+Puskvorec x trunkat
+-> F:\projekty\gomocup2010\freestyle3\7x2-28(1).psq
+______________________________
+jude x trunkat
+-> F:\projekty\gomocup2010\freestyle3\5x2-63(2).psq
+______________________________
+trunkat x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\2x8-27(1).psq
+______________________________
+trunkat x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\2x6-53(1).psq
+______________________________
+Noesis x fiverow
+-> F:\projekty\gomocup2010\freestyle3\3x4-25(2).psq
+______________________________
+nabamoku x trunkat
+-> F:\projekty\gomocup2010\freestyle3\8x2-27(1).psq
+______________________________
+BRUTEFOR x trunkat
+-> F:\projekty\gomocup2010\freestyle3\6x2-23(2).psq
+______________________________
+fiverow x Noesis
+-> F:\projekty\gomocup2010\freestyle3\4x3-43(1).psq
+______________________________
+Noesis x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\3x7-25(1).psq
+______________________________
+Noesis x jude
+-> F:\projekty\gomocup2010\freestyle3\3x5-46(1).psq
+______________________________
+Puskvorec x Noesis
+-> F:\projekty\gomocup2010\freestyle3\7x3-35(2).psq
+______________________________
+nabamoku x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle3\8x1-142(1).psq
+______________________________
+Noesis x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\3x6-31(1).psq
+______________________________
+Noesis x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\3x8-23(1).psq
+______________________________
+jude x Noesis
+-> F:\projekty\gomocup2010\freestyle3\5x3-50(1).psq
+______________________________
+BRUTEFOR x Noesis
+-> F:\projekty\gomocup2010\freestyle3\6x3-32(1).psq
+______________________________
+fiverow x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\4x7-27(1).psq
+______________________________
+Puskvorec x fiverow
+-> F:\projekty\gomocup2010\freestyle3\7x4-16(1).psq
+______________________________
+fiverow x jude
+-> F:\projekty\gomocup2010\freestyle3\4x5-44(1).psq
+______________________________
+nabamoku x Noesis
+-> F:\projekty\gomocup2010\freestyle3\8x3-46(1).psq
+______________________________
+fiverow x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\4x8-49(1).psq
+______________________________
+nabamoku x fiverow
+-> F:\projekty\gomocup2010\freestyle3\8x4-25(1).psq
+______________________________
+jude x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\5x6-19(1).psq
+______________________________
+fiverow x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle3\4x6-49(1).psq
+______________________________
+jude x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\5x7-29(1).psq
+______________________________
+Puskvorec x jude
+-> F:\projekty\gomocup2010\freestyle3\7x5-24(1).psq
+______________________________
+BRUTEFOR x fiverow
+-> F:\projekty\gomocup2010\freestyle3\6x4-16(1).psq
+______________________________
+jude x fiverow
+-> F:\projekty\gomocup2010\freestyle3\5x4-97(1).psq
+______________________________
+jude x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\5x8-33(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\6x7-37(1).psq
+______________________________
+BRUTEFOR x jude
+-> F:\projekty\gomocup2010\freestyle3\6x5-35(1).psq
+______________________________
+BRUTEFOR x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\6x8-31(1).psq
+______________________________
+nabamoku x jude
+-> F:\projekty\gomocup2010\freestyle3\8x5-38(1).psq
+______________________________
+Puskvorec x nabamoku
+-> F:\projekty\gomocup2010\freestyle3\7x8-24(2).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\7x6-18(2).psq
+______________________________
+nabamoku x Puskvorec
+-> F:\projekty\gomocup2010\freestyle3\8x7-25(1).psq
+______________________________
+nabamoku x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle3\8x6-41(1).psq

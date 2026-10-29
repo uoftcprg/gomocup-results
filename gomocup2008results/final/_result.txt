@@ -1,0 +1,68 @@
+-------------------------------------
+20.4.2008  21:43 - 21.4.2008  19:52
+Èas na tah: 300 s,   Èas na partii: 1200 s
+Tolerance: 1 s,   Pamì: 350 MB
+Zahájení: zaèíná se od 1., pouito 3, celkem 3 
+Poèet her: 391  (98%)
+-------------------------------------
+
+TITO
+vıhry: 55=29+24+2,  prohry: 11=3+8
+èas/tah: 13 s (max: 254.0 s),  èas/partii: 344 s
+tahù/partii: 25,  CRC: 8fba3aab,   pamì: 1.38 MB
+
+Onix
+vıhry: 56=30+26,  prohry: 10=2+5+3,  chyby: 3
+èas/tah: 14 s (max: 147.7 s),  èas/partii: 352 s
+tahù/partii: 24,  CRC: 2090209,   pamì: 356.30 MB
+
+HGarden07
+vıhry: 47=24+23,  prohry: 16=6+10
+èas/tah: 20 s (max: 59.2 s),  èas/partii: 525 s
+tahù/partii: 26,  CRC: 8a2bc0e7,   pamì: 30.30 MB
+
+hewer
+vıhry: 40=22+17+1,  prohry: 25=10+15
+èas/tah: 13 s (max: 138.8 s),  èas/partii: 340 s
+tahù/partii: 24,  CRC: 4a8cab28,   pamì: 199.55 MB
+
+HfM
+vıhry: 40=20+18+2,  prohry: 24=11+13
+èas/tah: 17 s (max: 40.6 s),  èas/partii: 453 s
+tahù/partii: 25,  CRC: 10e0ff75,   pamì: 68.86 MB
+
+swine
+vıhry: 39=20+19,  prohry: 27=13+14
+èas/tah: 2612 ms (max: 45.7 s),  èas/partii: 60 s
+tahù/partii: 23,  CRC: 8270b013,   pamì: 66.55 MB
+
+PELA
+vıhry: 36=20+15+1,  prohry: 27=12+15
+èas/tah: 27 s (max: 171.8 s),  èas/partii: 849 s
+tahù/partii: 31,  CRC: 8ca722ad,   pamì: 1.89 MB
+
+Kanec
+vıhry: 20=13+7,  prohry: 46=19+23+4,  chyby: 2
+èas/tah: 8939 ms (max: 70.4 s),  èas/partii: 248 s
+tahù/partii: 27,  CRC: f5824826,   pamì: 232.63 MB
+
+GMOTOR
+vıhry: 18=9+7+2,  prohry: 48=22+26
+èas/tah: 24 s (max: 51.1 s),  èas/partii: 621 s
+tahù/partii: 25,  CRC: e7777dcf,   pamì: 18.39 MB
+
+JUDE
+vıhry: 13=8+5,  prohry: 53=25+28
+èas/tah: 7453 ms (max: 232.1 s),  èas/partii: 163 s
+tahù/partii: 21,  CRC: 73f7c3eb,   pamì: 64.02 MB
+
+BESTMOVE
+vıhry: 16=10+6,  prohry: 49=22+26+1
+èas/tah: 10 s (max: 31.3 s),  èas/partii: 272 s
+tahù/partii: 25,  CRC: f1554cf5,   pamì: 65.23 MB
+
+PECUCHET
+vıhry: 11=8+3,  prohry: 55=25+30
+èas/tah: 8099 ms (max: 65.0 s),  èas/partii: 165 s
+tahù/partii: 20,  CRC: 5bf9da1e,   pamì: 200.10 MB
+

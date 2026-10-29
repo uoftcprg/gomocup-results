@@ -1,0 +1,60 @@
+1. RAPFI25 2121
+    wins: 109+113, losses: 6+8, draws: 17+11
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 477s, time/turn: 13288ms, move/game: 36
+
+2. KATAGOMO26 2112
+    wins: 110+108, losses: 8+5, draws: 14+19
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 705s, time/turn: 17091ms, move/game: 41
+
+3. ALPHAGOMOKU.MK26 2028
+    wins: 99+101, losses: 17+17, draws: 16+14
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 709s, time/turn: 18352ms, move/game: 39
+
+4. JAX25 2009
+    wins: 96+98, losses: 23+14, draws: 13+20
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 504s, time/turn: 12910ms, move/game: 39
+
+5. EMBRYO26 1659
+    wins: 76+65, losses: 47+61, draws: 9+6
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 508s, time/turn: 14165ms, move/game: 36
+
+6. VIBEFIVE 1552
+    wins: 61+59, losses: 64+72, draws: 7+1
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 623s, time/turn: 19179ms, move/game: 32
+
+7. YIXIN18 1537
+    wins: 62+51, losses: 67+69, draws: 3+12
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 486s, time/turn: 14075ms, move/game: 35
+
+8. STARPOINT 1459
+    wins: 49+46, losses: 73+81, draws: 10+5
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 396s, time/turn: 12817ms, move/game: 31
+
+9. SKYZERO 1364
+    wins: 42+37, losses: 89+91, draws: 1+4
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 592s, time/turn: 22329ms, move/game: 26
+
+10. WINE18 1217
+    wins: 21+29, losses: 109+102, draws: 2+1
+    timeouts: 0, errors: 1, total games: 264
+    time/game: 587s, time/turn: 23501ms, move/game: 25
+
+11. SLOWRENJU20 1202
+    wins: 21+25, losses: 109+104, draws: 2+3
+    timeouts: 1, errors: 0, total games: 264
+    time/game: 563s, time/turn: 21598ms, move/game: 26
+
+12. WHOSE19 942
+    wins: 6+4, losses: 124+128, draws: 2+0
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 508s, time/turn: 17509ms, move/game: 29
+

@@ -1,0 +1,843 @@
+______________________________
+AI1000 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\0x1-391(1).psq
+______________________________
+Benjamin x AI1000
+-> F:\projekty\gomocup2010\freestyle4\1x0-164(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\0x2-57(1).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\2x0-114(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\0x3-76(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> F:\projekty\gomocup2010\freestyle4\3x0-65(1).psq
+______________________________
+AI1000 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\0x4-115(1).psq
+______________________________
+CURNPIS x AI1000
+-> F:\projekty\gomocup2010\freestyle4\4x0-17(1).psq
+______________________________
+AI1000 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\0x5-78(1).psq
+______________________________
+LEONARDO x AI1000
+-> F:\projekty\gomocup2010\freestyle4\5x0-74(1).psq
+______________________________
+AI1000 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\0x6-44(1).psq
+______________________________
+nabamoku_java-client x AI1000
+-> F:\projekty\gomocup2010\freestyle4\6x0-29(1).psq
+______________________________
+AI1000 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\0x7-41(1).psq
+______________________________
+PureGM2 x AI1000
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\7x0-96(1).psq
+______________________________
+AI1000 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\0x8-56(1).psq
+______________________________
+pisq7 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\8x0-73(1).psq
+______________________________
+AI1000 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\0x9-20(1).psq
+______________________________
+Puskvorec x AI1000
+-> F:\projekty\gomocup2010\freestyle4\9x0-17(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\1x2-211(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\2x1-196(1).psq
+______________________________
+Benjamin x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\1x3-91(1).psq
+______________________________
+BRUTEFOR x Benjamin
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\3x1-100(1).psq
+______________________________
+Benjamin x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\1x4-259(1).psq
+______________________________
+CURNPIS x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\4x1-74(1).psq
+______________________________
+Benjamin x LEONARDO
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\1x5-398(1).psq
+______________________________
+LEONARDO x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\5x1-397(1).psq
+______________________________
+Benjamin x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\1x6-96(1).psq
+______________________________
+nabamoku_java-client x Benjamin
+pbrain-nabamoku_java-client.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\6x1-346(1).psq
+______________________________
+Benjamin x PureGM2
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\1x7-69(1).psq
+______________________________
+PureGM2 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\7x1-35(1).psq
+______________________________
+Benjamin x pisq7
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\1x8-390(1).psq
+______________________________
+pisq7 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\8x1-120(1).psq
+______________________________
+Benjamin x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\1x9-115(1).psq
+______________________________
+Puskvorec x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\9x1-67(1).psq
+______________________________
+brain-Crusher2010 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\2x3-24(1).psq
+______________________________
+BRUTEFOR x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\3x2-29(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\2x4-101(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\4x2-17(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\2x5-52(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\5x2-33(1).psq
+______________________________
+brain-Crusher2010 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\2x6-30(1).psq
+______________________________
+nabamoku_java-client x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\6x2-66(1).psq
+______________________________
+brain-Crusher2010 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\2x7-70(1).psq
+______________________________
+PureGM2 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\7x2-25(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\2x8-54(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\8x2-43(1).psq
+______________________________
+brain-Crusher2010 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\2x9-48(1).psq
+______________________________
+Puskvorec x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\9x2-37(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\3x4-91(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\4x3-89(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\3x5-41(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\5x3-25(1).psq
+______________________________
+BRUTEFOR x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\3x6-26(1).psq
+______________________________
+nabamoku_java-client x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\6x3-39(1).psq
+______________________________
+BRUTEFOR x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\3x7-41(1).psq
+______________________________
+PureGM2 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\7x3-19(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> F:\projekty\gomocup2010\freestyle4\3x8-50(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\8x3-32(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\3x9-31(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\4x5-17(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\9x3-57(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\5x4-83(1).psq
+______________________________
+CURNPIS x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\4x7-29(1).psq
+______________________________
+CURNPIS x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\4x6-32(1).psq
+______________________________
+PureGM2 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\7x4-21(1).psq
+______________________________
+CURNPIS x pisq7
+-> F:\projekty\gomocup2010\freestyle4\4x8-79(1).psq
+______________________________
+pisq7 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\8x4-33(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\4x9-30(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\9x4-47(1).psq
+______________________________
+nabamoku_java-client x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\6x4-49(1).psq
+______________________________
+LEONARDO x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\5x6-52(1).psq
+______________________________
+LEONARDO x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\5x7-32(1).psq
+______________________________
+PureGM2 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\7x5-21(1).psq
+______________________________
+LEONARDO x pisq7
+-> F:\projekty\gomocup2010\freestyle4\5x8-33(1).psq
+______________________________
+pisq7 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\8x5-99(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\5x9-29(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\9x5-28(1).psq
+______________________________
+nabamoku_java-client x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\6x5-58(1).psq
+______________________________
+nabamoku_java-client x pisq7
+-> F:\projekty\gomocup2010\freestyle4\6x8-78(1).psq
+______________________________
+pisq7 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\8x6-23(1).psq
+______________________________
+nabamoku_java-client x PureGM2
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\6x7-35(1).psq
+______________________________
+nabamoku_java-client x Puskvorec
+pbrain-nabamoku_java-client.exe nevrátilo souøadnice svého tahu
+#
+-> F:\projekty\gomocup2010\freestyle4\6x9-6(1).psq
+______________________________
+Puskvorec x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\9x6-24(1).psq
+______________________________
+PureGM2 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\7x8-23(1).psq
+______________________________
+pisq7 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\8x7-23(1).psq
+______________________________
+PureGM2 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\7x9-23(1).psq
+______________________________
+Puskvorec x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\9x7-21(1).psq
+______________________________
+pisq7 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\8x9-27(1).psq
+______________________________
+Puskvorec x pisq7
+-> F:\projekty\gomocup2010\freestyle4\9x8-63(1).psq
+______________________________
+PureGM2 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\7x6-44(1).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\2x0-120(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\0x2-37(1).psq
+______________________________
+Benjamin x AI1000
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\1x0-398(1).psq
+______________________________
+AI1000 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\0x1-389(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> F:\projekty\gomocup2010\freestyle4\3x0-70(1).psq
+______________________________
+CURNPIS x AI1000
+-> F:\projekty\gomocup2010\freestyle4\4x0-160(1).psq
+______________________________
+AI1000 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\0x4-74(1).psq
+______________________________
+LEONARDO x AI1000
+-> F:\projekty\gomocup2010\freestyle4\5x0-45(1).psq
+______________________________
+AI1000 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\0x5-139(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\0x3-70(1).psq
+______________________________
+nabamoku_java-client x AI1000
+-> F:\projekty\gomocup2010\freestyle4\6x0-47(1).psq
+______________________________
+AI1000 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\0x6-36(1).psq
+______________________________
+pisq7 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\8x0-35(1).psq
+______________________________
+AI1000 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\0x8-58(1).psq
+______________________________
+Puskvorec x AI1000
+-> F:\projekty\gomocup2010\freestyle4\9x0-47(1).psq
+______________________________
+PureGM2 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\7x0-64(1).psq
+______________________________
+AI1000 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\0x9-48(1).psq
+______________________________
+AI1000 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\0x7-20(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\2x1-152(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\1x2-47(1).psq
+______________________________
+BRUTEFOR x Benjamin
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\3x1-80(1).psq
+______________________________
+CURNPIS x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\4x1-400(1).psq
+______________________________
+Benjamin x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\1x4-193(1).psq
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\1x3-73(1).psq
+______________________________
+nabamoku_java-client x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\6x1-23(1).psq
+______________________________
+LEONARDO x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\5x1-295(1).psq
+______________________________
+pisq7 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\8x1-26(1).psq
+______________________________
+Benjamin x pisq7
+-> F:\projekty\gomocup2010\freestyle4\1x8-208(1).psq
+______________________________
+Puskvorec x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\9x1-31(1).psq
+______________________________
+PureGM2 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\7x1-27(1).psq
+______________________________
+Benjamin x LEONARDO
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\1x5-396(1).psq
+______________________________
+Benjamin x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\1x9-92(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\4x2-244(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\2x4-136(1).psq
+______________________________
+BRUTEFOR x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\3x2-33(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\5x2-75(1).psq
+______________________________
+Benjamin x nabamoku_java-client
+pbrain-nabamoku_java-client.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\1x6-325(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\2x5-47(1).psq
+______________________________
+Benjamin x PureGM2
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\1x7-39(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\8x2-23(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\2x8-48(1).psq
+______________________________
+nabamoku_java-client x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\6x2-37(1).psq
+______________________________
+Puskvorec x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\9x2-27(1).psq
+______________________________
+brain-Crusher2010 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\2x3-51(1).psq
+______________________________
+brain-Crusher2010 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\2x9-42(1).psq
+______________________________
+PureGM2 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\7x2-33(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\4x3-46(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\3x4-17(1).psq
+______________________________
+brain-Crusher2010 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\2x6-64(1).psq
+______________________________
+brain-Crusher2010 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\2x7-32(1).psq
+______________________________
+nabamoku_java-client x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\6x3-19(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\5x3-51(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\8x3-22(1).psq
+______________________________
+BRUTEFOR x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\3x6-25(1).psq
+______________________________
+PureGM2 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\7x3-36(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\3x5-23(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\9x3-18(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\5x4-49(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> F:\projekty\gomocup2010\freestyle4\3x8-23(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\4x5-22(1).psq
+______________________________
+BRUTEFOR x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\3x7-19(1).psq
+______________________________
+pisq7 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\8x4-26(1).psq
+______________________________
+CURNPIS x pisq7
+-> F:\projekty\gomocup2010\freestyle4\4x8-37(1).psq
+______________________________
+nabamoku_java-client x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\6x4-19(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\3x9-27(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\9x4-23(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\4x9-47(1).psq
+______________________________
+PureGM2 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\7x5-27(1).psq
+______________________________
+nabamoku_java-client x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\6x5-29(1).psq
+______________________________
+LEONARDO x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\5x6-24(1).psq
+______________________________
+pisq7 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\8x5-32(1).psq
+______________________________
+LEONARDO x pisq7
+-> F:\projekty\gomocup2010\freestyle4\5x8-86(1).psq
+______________________________
+LEONARDO x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\5x7-30(1).psq
+______________________________
+PureGM2 x CURNPIS
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\7x4-38(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\9x5-24(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\5x9-48(1).psq
+______________________________
+CURNPIS x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\4x6-104(1).psq
+______________________________
+pisq7 x nabamoku_java-client
+pbrain-nabamoku_java-client.exe nevrátilo souøadnice svého tahu
+#
+-> F:\projekty\gomocup2010\freestyle4\8x6-13(1).psq
+______________________________
+nabamoku_java-client x pisq7
+-> F:\projekty\gomocup2010\freestyle4\6x8-17(1).psq
+______________________________
+pisq7 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\8x7-27(1).psq
+______________________________
+CURNPIS x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\4x7-26(1).psq
+______________________________
+PureGM2 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\7x8-23(2).psq
+______________________________
+Puskvorec x pisq7
+-> F:\projekty\gomocup2010\freestyle4\9x8-21(1).psq
+______________________________
+pisq7 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\8x9-20(1).psq
+______________________________
+PureGM2 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\7x6-49(1).psq
+______________________________
+Puskvorec x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\9x6-66(1).psq
+______________________________
+nabamoku_java-client x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\6x9-25(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\0x2-57(2).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\2x0-44(1).psq
+______________________________
+AI1000 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\0x1-389(2).psq
+______________________________
+Benjamin x AI1000
+-> F:\projekty\gomocup2010\freestyle4\1x0-23(1).psq
+______________________________
+nabamoku_java-client x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\6x7-32(1).psq
+______________________________
+AI1000 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\0x5-48(1).psq
+______________________________
+Puskvorec x PureGM2
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\9x7-31(1).psq
+______________________________
+LEONARDO x AI1000
+-> F:\projekty\gomocup2010\freestyle4\5x0-63(1).psq
+______________________________
+AI1000 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\0x4-195(1).psq
+______________________________
+PureGM2 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\7x9-27(1).psq
+______________________________
+CURNPIS x AI1000
+-> F:\projekty\gomocup2010\freestyle4\4x0-104(1).psq
+______________________________
+AI1000 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\0x8-72(1).psq
+______________________________
+pisq7 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\8x0-18(1).psq
+______________________________
+AI1000 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\0x9-37(1).psq
+______________________________
+Puskvorec x AI1000
+-> F:\projekty\gomocup2010\freestyle4\9x0-31(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\1x2-35(1).psq
+______________________________
+AI1000 x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\0x3-51(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\2x1-78(1).psq
+______________________________
+AI1000 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\0x6-86(1).psq
+______________________________
+nabamoku_java-client x AI1000
+-> F:\projekty\gomocup2010\freestyle4\6x0-23(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> F:\projekty\gomocup2010\freestyle4\3x0-31(1).psq
+______________________________
+AI1000 x PureGM2
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\0x7-71(1).psq
+______________________________
+Benjamin x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\1x4-129(1).psq
+______________________________
+Benjamin x LEONARDO
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\1x5-390(1).psq
+______________________________
+LEONARDO x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\5x1-122(1).psq
+______________________________
+Benjamin x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\1x3-67(1).psq
+______________________________
+PureGM2 x AI1000
+-> F:\projekty\gomocup2010\freestyle4\7x0-28(1).psq
+______________________________
+CURNPIS x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> F:\projekty\gomocup2010\freestyle4\4x1-397(1).psq
+______________________________
+Benjamin x pisq7
+-> F:\projekty\gomocup2010\freestyle4\1x8-25(1).psq
+______________________________
+pisq7 x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\8x1-66(1).psq
+______________________________
+BRUTEFOR x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\3x1-61(1).psq
+______________________________
+Benjamin x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\1x9-66(1).psq
+______________________________
+Benjamin x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\1x6-112(1).psq
+______________________________
+Benjamin x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\1x7-46(1).psq
+______________________________
+Puskvorec x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\9x1-135(1).psq
+______________________________
+nabamoku_java-client x Benjamin
+-> F:\projekty\gomocup2010\freestyle4\6x1-25(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\2x5-55(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\2x4-98(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\5x2-79(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\4x2-135(1).psq
+______________________________
+brain-Crusher2010 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\2x6-30(2).psq
+______________________________
+brain-Crusher2010 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\2x3-71(1).psq
+______________________________
+brain-Crusher2010 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\2x7-24(1).psq
+______________________________
+PureGM2 x Benjamin
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\7x1-48(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\2x8-28(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\8x2-29(1).psq
+______________________________
+brain-Crusher2010 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\2x9-38(1).psq
+______________________________
+nabamoku_java-client x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\6x2-46(1).psq
+______________________________
+BRUTEFOR x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\3x2-47(1).psq
+______________________________
+Puskvorec x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\9x2-41(1).psq
+______________________________
+PureGM2 x brain-Crusher2010
+-> F:\projekty\gomocup2010\freestyle4\7x2-33(2).psq
+______________________________
+BRUTEFOR x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\3x7-20(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\3x5-60(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\3x4-43(1).psq
+______________________________
+BRUTEFOR x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\3x6-31(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\5x3-46(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> F:\projekty\gomocup2010\freestyle4\3x8-23(2).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\4x3-36(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\8x3-27(1).psq
+______________________________
+PureGM2 x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\7x3-41(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\4x5-180(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\5x4-29(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\3x9-37(1).psq
+______________________________
+CURNPIS x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\4x6-60(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> F:\projekty\gomocup2010\freestyle4\9x3-18(2).psq
+______________________________
+CURNPIS x pisq7
+-> F:\projekty\gomocup2010\freestyle4\4x8-19(1).psq
+______________________________
+nabamoku_java-client x BRUTEFOR
+BRUTEFOR.EXE: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\6x3-47(1).psq
+______________________________
+nabamoku_java-client x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\6x4-33(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\4x9-21(1).psq
+______________________________
+pisq7 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\8x4-81(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\9x4-25(1).psq
+______________________________
+LEONARDO x pisq7
+-> F:\projekty\gomocup2010\freestyle4\5x8-29(1).psq
+______________________________
+pisq7 x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\8x5-47(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\5x9-38(1).psq
+______________________________
+CURNPIS x PureGM2
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\4x7-53(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\9x5-23(1).psq
+______________________________
+LEONARDO x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\5x6-30(1).psq
+______________________________
+PureGM2 x CURNPIS
+-> F:\projekty\gomocup2010\freestyle4\7x4-17(1).psq
+______________________________
+nabamoku_java-client x LEONARDO
+-> F:\projekty\gomocup2010\freestyle4\6x5-37(1).psq
+______________________________
+LEONARDO x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\5x7-41(1).psq
+______________________________
+nabamoku_java-client x pisq7
+-> F:\projekty\gomocup2010\freestyle4\6x8-53(1).psq
+______________________________
+nabamoku_java-client x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\6x9-27(1).psq
+______________________________
+pisq7 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\8x6-16(1).psq
+______________________________
+PureGM2 x pisq7
+-> F:\projekty\gomocup2010\freestyle4\7x8-25(1).psq
+______________________________
+nabamoku_java-client x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\6x7-37(1).psq
+______________________________
+Puskvorec x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\9x6-24(2).psq
+______________________________
+pisq7 x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\8x7-28(1).psq
+______________________________
+pisq7 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\8x9-24(1).psq
+______________________________
+Puskvorec x pisq7
+-> F:\projekty\gomocup2010\freestyle4\9x8-25(1).psq
+______________________________
+PureGM2 x LEONARDO
+pbrain-PureGM2.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle4\7x5-36(1).psq
+______________________________
+PureGM2 x nabamoku_java-client
+-> F:\projekty\gomocup2010\freestyle4\7x6-29(1).psq
+______________________________
+PureGM2 x Puskvorec
+-> F:\projekty\gomocup2010\freestyle4\7x9-52(1).psq
+______________________________
+Puskvorec x PureGM2
+-> F:\projekty\gomocup2010\freestyle4\9x7-22(1).psq

@@ -1,0 +1,80 @@
+1. RAPFI 2453
+    wins: 177+174, losses: 3+6, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 34s, time/turn: 2562ms, move/game: 13
+
+2. ALPHAGOMOKU.MK 2194
+    wins: 160+160, losses: 20+20, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 54s, time/turn: 4132ms, move/game: 13
+
+3. GOFIVE 2109
+    wins: 158+149, losses: 22+31, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 57s, time/turn: 4344ms, move/game: 13
+
+4. DEEPFIRE 2071
+    wins: 152+149, losses: 28+31, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 73s, time/turn: 5079ms, move/game: 14
+
+5. EGO 1843
+    wins: 136+127, losses: 44+53, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 82s, time/turn: 5781ms, move/game: 14
+
+6. DJALL18 1503
+    wins: 90+87, losses: 77+87, draws: 13+6
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 1s, time/turn: 42ms, move/game: 29
+
+7. QMENTAT6 1478
+    wins: 93+81, losses: 85+97, draws: 2+2
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 12s, time/turn: 513ms, move/game: 24
+
+8. PUSKVOREC 1409
+    wins: 83+70, losses: 97+110, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 5s, time/turn: 392ms, move/game: 14
+
+9. NOESIS 1401
+    wins: 99+45, losses: 81+115, draws: 0+20
+    timeouts: 0, errors: 3, total games: 360
+    time/game: 21s, time/turn: 675ms, move/game: 30
+
+10. IMRO15 1378
+    wins: 71+59, losses: 100+113, draws: 9+8
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 6ms, move/game: 28
+
+11. LICHT 1341
+    wins: 76+52, losses: 104+128, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 157s, time/turn: 16929ms, move/game: 9
+
+12. FASTGOMOKU14 1336
+    wins: 55+65, losses: 116+111, draws: 9+4
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 4ms, move/game: 26
+
+13. PISQ7 1249
+    wins: 48+50, losses: 132+130, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 3s, time/turn: 238ms, move/game: 15
+
+14. LIGHTBLUE 1141
+    wins: 32+28, losses: 143+152, draws: 5+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 7ms, move/game: 20
+
+15. STAHLFAUST 1094
+    wins: 29+26, losses: 151+154, draws: 0+0
+    timeouts: 0, errors: 16, total games: 360
+    time/game: 71, time/turn: 5115ms, move/game: 14
+
+16. PUREROCKY -
+    wins: 34+25, losses: 144+155, draws: 2+0
+    timeouts: 0, errors: 52, total games: 360
+    time/game: 8s, time/turn: 478ms, move/game: 16
+

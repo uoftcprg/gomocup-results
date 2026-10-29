@@ -1,0 +1,60 @@
+-------------------------------------
+6.4.2013  1:16 - 2:38
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: ee26c8cd
+Games played: 270
+-------------------------------------
+
+goro2013
+wins: 52=26+26,   losses: 2=1+1
+time/turn: 3126 ms (max: 16.9 s),  time/game: 62 s
+moves/game: 20,  CRC: 8b97f79b,   memory: 2.57 MB
+
+gmotor2011
+wins: 40=20+20,   losses: 14=7+7
+time/turn: 2737 ms (max: 16.1 s),  time/game: 64 s
+moves/game: 23,  CRC: 46cbdb0c,   memory: 67.27 MB
+
+pela
+wins: 37=20+17,   losses: 17=7+10
+time/turn: 4289 ms (max: 25.8 s),  time/game: 119 s
+moves/game: 27,  CRC: 8ca722ad,   memory: 3.70 MB
+
+SlowRenju
+wins: 33=17+16,   losses: 21=10+11
+time/turn: 3714 ms (max: 16.3 s),  time/game: 93 s
+moves/game: 25,  CRC: 999858d3,   memory: 22.54 MB
+
+kanec
+wins: 33=18+15,   losses: 21=9+12
+time/turn: 3748 ms (max: 15.9 s),  time/game: 109 s
+moves/game: 29,  CRC: 6708b09e,   memory: 253.20 MB
+
+jude
+wins: 24=11+13,   losses: 30=16+14
+time/turn: 1802 ms (max: 29.2 s),  time/game: 40 s
+moves/game: 22,  CRC: 73f7c3eb,   memory: 41.80 MB
+
+amoeba2010
+wins: 24=14+10,   losses: 30=13+17
+time/turn: 3011 ms (max: 17.7 s),  time/game: 75 s
+moves/game: 25,  CRC: c7120cd8,   memory: 337.23 MB
+
+Pecuchet
+wins: 10=6+4,   losses: 44=21+23
+time/turn: 3875 ms (max: 13.3 s),  time/game: 78 s
+moves/game: 20,  CRC: 5bf9da1e,   memory: 204.86 MB
+
+NOESIS
+wins: 9=5+4,   losses: 45=22+23
+time/turn: 843 ms (max: 9.7 s),  time/game: 15 s
+moves/game: 18,  CRC: 6bc58455,   memory: 8.34 MB
+
+QMENTAT6
+wins: 8=5+3,   losses: 46=22+24
+time/turn: 524 ms (max: 17.3 s),  time/game: 12 s
+moves/game: 22,  CRC: 4509490a,   memory: 2.40 MB
+

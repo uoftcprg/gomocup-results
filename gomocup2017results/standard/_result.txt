@@ -1,0 +1,50 @@
+1. YIXIN17 2185
+    wins: 104+106, losses: 3+1, draws: 1+1
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 269s, time/turn: 11582ms, move/game: 23
+
+2. RENJUSOLVER.S 1751
+    wins: 72+73, losses: 31+32, draws: 5+3
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 213s, time/turn: 8369ms, move/game: 25
+
+3. SLOWRENJU17 1742
+    wins: 73+70, losses: 30+37, draws: 5+1
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 501s, time/turn: 19398ms, move/game: 26
+
+4. HEWER15 1716
+    wins: 70+67, losses: 35+34, draws: 3+7
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 362s, time/turn: 12485ms, move/game: 29
+
+5. TITO14 1705
+    wins: 71+66, losses: 37+40, draws: 0+2
+    timeouts: 0, errors: 3, total games: 216
+    time/game: 199s, time/turn: 7937ms, move/game: 25
+
+6. WHOSE 1458
+    wins: 44+33, losses: 63+75, draws: 1+0
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 510s, time/turn: 19765ms, move/game: 26
+
+7. CARBON17 1418
+    wins: 35+31, losses: 71+74, draws: 2+3
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 490s, time/turn: 22967ms, move/game: 21
+
+8. GMOTOR11 1416
+    wins: 39+27, losses: 68+79, draws: 1+2
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 318s, time/turn: 15103ms, move/game: 21
+
+9. PELA17 1304
+    wins: 18+14, losses: 83+88, draws: 7+6
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 688s, time/turn: 23795ms, move/game: 29
+
+10. ZETOR17 1303
+    wins: 26+16, losses: 82+92, draws: 0+0
+    timeouts: 0, errors: 5, total games: 216
+    time/game: 404s, time/turn: 16571ms, move/game: 24
+

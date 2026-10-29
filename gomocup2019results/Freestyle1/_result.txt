@@ -1,0 +1,80 @@
+1. EMBRYO19.F 2105
+    wins: 165+173, losses: 15+7, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 258s, time/turn: 10596ms, move/game: 24
+
+2. RAPFI19 1987
+    wins: 155+162, losses: 25+18, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 372s, time/turn: 14909ms, move/game: 25
+
+3. YIXIN18 1844
+    wins: 141+140, losses: 39+40, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 330s, time/turn: 13000ms, move/game: 25
+
+4. STARDUST 1670
+    wins: 93+126, losses: 87+54, draws: 0+0
+    timeouts: 0, errors: 23, total games: 360
+    time/game: 389s, time/turn: 16486ms, move/game: 24
+
+5. ALPHAGOMOKU.MK19.F 1637
+    wins: 104+101, losses: 76+79, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 593s, time/turn: 25550ms, move/game: 23
+
+6. WULIN 1621
+    wins: 94+104, losses: 86+76, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 351s, time/turn: 14395ms, move/game: 24
+
+7. WINE18 1578
+    wins: 92+87, losses: 88+93, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 570s, time/turn: 23192ms, move/game: 25
+
+8. SLOWRENJU19 1539
+    wins: 82+79, losses: 98+101, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 521s, time/turn: 22165ms, move/game: 23
+
+9. HEWER18 1515
+    wins: 80+70, losses: 100+110, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 352s, time/turn: 13720ms, move/game: 26
+
+10. XOXO19 1499
+    wins: 78+65, losses: 102+115, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 679s, time/turn: 28835ms, move/game: 24
+
+11. RENJUSOLVER.F 1495
+    wins: 86+55, losses: 94+125, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 253s, time/turn: 9905ms, move/game: 26
+
+12. DEEPFIRE19 1454
+    wins: 63+60, losses: 117+120, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 651s, time/turn: 25865ms, move/game: 25
+
+13. WHOSE19 1454
+    wins: 68+55, losses: 112+125, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 276s, time/turn: 10728ms, move/game: 26
+
+14. TITO14 1450
+    wins: 63+58, losses: 117+122, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 202s, time/turn: 8571ms, move/game: 24
+
+15. ONIX16 1392
+    wins: 46+51, losses: 134+129, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 332s, time/turn: 14732ms, move/game: 23
+
+16. SWINE17 1359
+    wins: 42+42, losses: 138+138, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 423s, time/turn: 17425ms, move/game: 24
+

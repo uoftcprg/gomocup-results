@@ -1,0 +1,133 @@
+-------------------------------------
+24.4.2010  17:18 - 23:27
+Time for turn: 5 s,   Time for match: 120 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 1800
+-------------------------------------
+
+goro2010
+wins: 122=62+56+4,   losses: 22=8+13+1
+time/turn: 1821 ms (max: 5.9 s),  time/game: 31 s
+moves/game: 17,  CRC: 613741b3,   memory: 2.71 MB
+
+hewer2010
+wins: 128=63+57+8,   losses: 16=5+10+1
+time/turn: 1255 ms (max: 5.4 s),  time/game: 21 s
+moves/game: 17,  CRC: 866b172e,   memory: 339.32 MB
+
+Tito2010
+wins: 125=65+56+4,   losses: 19=3+15+1
+time/turn: 404 ms (max: 4.8 s),  time/game: 7 s
+moves/game: 17,  CRC: 8b105cab,   memory: 130.86 MB
+
+pela
+wins: 119=57+55+7,   losses: 25=11+14
+time/turn: 1551 ms (max: 5.1 s),  time/game: 37 s
+moves/game: 24,  CRC: dd888743,   memory: 2.86 MB
+
+HGarden07
+wins: 118=63+54+1,   losses: 26=9+17
+time/turn: 1971 ms (max: 6.8 s),  time/game: 36 s
+moves/game: 18,  CRC: f883b408,   memory: 31.48 MB
+
+swine2010
+wins: 111=59+49+3,   losses: 33=10+22+1
+time/turn: 1640 ms (max: 10.6 s),  time/game: 28 s
+moves/game: 17,  CRC: fe5d3f62,   memory: 238.68 MB
+
+Kanec
+wins: 107=54+49+4,   losses: 37=14+21+2,  1 errors
+time/turn: 1891 ms (max: 7.6 s),  time/game: 38 s
+moves/game: 20,  CRC: 572ea92,   memory: 249.10 MB
+
+gmotor
+wins: 95=52+38+5,   losses: 49=17+32
+time/turn: 2354 ms (max: 7.9 s),  time/game: 45 s
+moves/game: 19,  CRC: a2d2a41,   memory: 10.52 MB
+
+OniX2010
+wins: 88=56+29+3,   losses: 56=2+5+49,  1 errors
+time/turn: 1306 ms (max: 11.8 s),  time/game: 17 s
+moves/game: 13,  CRC: a2e6136d,   memory: 162.54 MB
+
+HfM2010
+wins: 98=55+40+3,   losses: 46=14+30+2
+time/turn: 1799 ms (max: 5.8 s),  time/game: 32 s
+moves/game: 17,  CRC: e8106e79,   memory: 292.66 MB
+
+Pecuchet
+wins: 85=46+36+3,   losses: 59=23+36
+time/turn: 2039 ms (max: 6.3 s),  time/game: 35 s
+moves/game: 17,  CRC: a81e076b,   memory: 201.01 MB
+
+amoeba2010
+wins: 83=42+39+2,   losses: 61=29+32
+time/turn: 1880 ms (max: 5.9 s),  time/game: 37 s
+moves/game: 19,  CRC: 74e05c52,   memory: 335.48 MB
+
+QMENTAT6
+wins: 68=32+30+6,   losses: 76=36+37+3,  2 errors
+time/turn: 753 ms (max: 5.5 s),  time/game: 20 s
+moves/game: 26,  CRC: 7825efaf,   memory: 2.02 MB
+
+trunkat
+wins: 61=33+24+4,   losses: 83=35+42+6
+time/turn: 381 ms (max: 5.9 s),  time/game: 6 s
+moves/game: 16,  CRC: 78aa5afe,   memory: 3.47 MB
+
+jude
+wins: 68=35+29+4,   losses: 76=33+43
+time/turn: 1622 ms (max: 9.5 s),  time/game: 34 s
+moves/game: 21,  CRC: 96fded42,   memory: 32.21 MB
+
+nabamoku
+wins: 50=22+23+5,   losses: 94=46+46+2
+time/turn: 2419 ms (max: 10.6 s),  time/game: 53 s
+moves/game: 21,  CRC: bb4c2405,   memory: 2.73 MB
+
+Puskvorec
+wins: 40=20+13+7,   losses: 104=47+57
+time/turn: 438 ms (max: 3.7 s),  time/game: 6 s
+moves/game: 14,  CRC: b89a06e8,   memory: 3.62 MB
+
+fiverow
+wins: 39=26+12+1,   losses: 105=36+44+25
+time/turn: 318 ms (max: 6.1 s),  time/game: 5 s
+moves/game: 16,  CRC: 4b2b1e96,   memory: 2.23 MB
+
+Benjamin
+wins: 33=15+11+7,   losses: 110=47+51+12,  12 errors
+time/turn: 120 ms (max: 4.1 s),  time/game: 5 s
+moves/game: 48,  CRC: 1c74aee4,   memory: 2.03 MB
+
+LEONARDO
+wins: 31=16+10+5,   losses: 113=54+59
+time/turn: 227 ms (max: 3.3 s),  time/game: 5 s
+moves/game: 26,  CRC: 96a303fe,   memory: 2.73 MB
+
+PureGM2
+wins: 35=20+12+3,   losses: 109=46+59+4
+time/turn: 1669 ms (max: 5.3 s),  time/game: 30 s
+moves/game: 18,  CRC: 99402e54,   memory: 3.45 MB
+
+AI1000
+wins: 28=11+10+7,   losses: 116=55+60+1
+time/turn: 327 ms (max: 3.2 s),  time/game: 8 s
+moves/game: 26,  CRC: 90fb8ea7,   memory: 2.74 MB
+
+pisq7
+wins: 33=14+13+6,   losses: 111=54+57
+time/turn: 48 ms (max: 4.1 s),  time/game: 0 s
+moves/game: 17,  CRC: da9c561,   memory: 1.75 MB
+
+CURNPIS
+wins: 22=12+5+5,   losses: 121=55+64+2
+time/turn: 219 ms (max: 3.5 s),  time/game: 5 s
+moves/game: 26,  CRC: f2623dd9,   memory: 2.78 MB
+
+brain-Crusher2010
+wins: 12=5+2+5,   losses: 132=63+69
+time/turn: 116 ms (max: 3.6 s),  time/game: 2 s
+moves/game: 19,  CRC: ecd8392,   memory: 3.73 MB
+

@@ -1,0 +1,80 @@
+1. WINE 1998
+    wins: 153+159, losses: 27+21, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 68s, time/turn: 4555ms, move/game: 15
+
+2. WHOSE 1986
+    wins: 150+159, losses: 30+21, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 42s, time/turn: 2309ms, move/game: 18
+
+3. EMBRYO 1943
+    wins: 149+149, losses: 31+31, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 81s, time/turn: 5161ms, move/game: 16
+
+4. ZETOR17 1800
+    wins: 129+126, losses: 51+54, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 60s, time/turn: 3297ms, move/game: 18
+
+5. KANEC09 1791
+    wins: 125+127, losses: 55+53, draws: 0+0
+    timeouts: 0, errors: 7, total games: 360
+    time/game: 67s, time/turn: 2750ms, move/game: 24
+
+6. XOXO17 1785
+    wins: 130+120, losses: 50+60, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 81s, time/turn: 4821ms, move/game: 17
+
+7. EULRING 1629
+    wins: 97+97, losses: 83+83, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 86s, time/turn: 4917ms, move/game: 17
+
+8. JUDE 1573
+    wins: 90+83, losses: 90+97, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 26s, time/turn: 1402ms, move/game: 18
+
+9. PECUCHET 1547
+    wins: 87+76, losses: 93+104, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 36s, time/turn: 2174ms, move/game: 17
+
+10. SPARKLE 1522
+    wins: 79+74, losses: 101+105, draws: 0+1
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 24s, time/turn: 1101ms, move/game: 22
+
+11. QMENTAT6 1440
+    wins: 61+60, losses: 115+120, draws: 4+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 12s, time/turn: 467ms, move/game: 26
+
+12. PUSKVOREC 1358
+    wins: 54+39, losses: 126+141, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 4s, time/turn: 301ms, move/game: 14
+
+13. NOESIS 1352
+    wins: 66+19, losses: 114+148, draws: 0+13
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 15s, time/turn: 557ms, move/game: 28
+
+14. IMRO15 1315
+    wins: 43+34, losses: 135+145, draws: 2+1
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 6ms, move/game: 24
+
+15. FASTGOMOKU14 1283
+    wins: 42+22, losses: 130+158, draws: 8+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 0s, time/turn: 6ms, move/game: 25
+
+16. PISQ7 1276
+    wins: 38+28, losses: 141+152, draws: 1+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 2s, time/turn: 122ms, move/game: 16
+

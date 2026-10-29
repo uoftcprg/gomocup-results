@@ -1,0 +1,2760 @@
+______________________________
+PureGM x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x2-18(1).psq
+______________________________
+TRUNKAT x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x0-33(1).psq
+______________________________
+PureGM x swine
+ 5) swine.zip:   5.[15,14] 16297 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[16,13]  9125 ms...Val=   192 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[14,12]  4375 ms...Val=   113 (1/1/4) - toa: 30000
+11) swine.zip:  11.[19,12]     0 ms...Baví tì to? - toa: 30000
+13) swine.zip:  13.[17,11]  3562 ms...Val=   201 (1/1/3) - toa: 30000
+15) swine.zip:  15.[14,13]    63 ms...WIN PN1 8316/3014 Chro chro. - toa: 30000
+17) swine.zip:  17.[16,11]    16 ms...Tohle mì nebaví. - toa: 30000
+19) swine.zip:  19.[14,11]     0 ms...To se musíte víc snažit, pane správce. - toa: 30000
+21) swine.zip:  21.[13,11]    15 ms...Ale to je mi líto. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x1-22(1).psq
+______________________________
+swine x PureGM
+ 6) swine.zip:   6.[15,10] 13156 ms...Val=   540 (1/2/4) - toa: 30000
+ 8) swine.zip:   8.[15,15]     0 ms...Baví tì to? - toa: 30000
+10) swine.zip:  10.[13,11]  5828 ms...Val=   777 (1/7/16) - toa: 30000
+12) swine.zip:  12.[13,10]     0 ms...WIN PN3 163/66 Že by?. - toa: 30000
+14) swine.zip:  14.[13,13]     0 ms...WIN PN1 58/22 :-)) - toa: 30000
+16) swine.zip:  16.[12,12]     0 ms...Nechceš si o tom promluvit? - toa: 30000
+18) swine.zip:  18.[16,16]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x0-19(1).psq
+______________________________
+PureGM x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x4-28(1).psq
+______________________________
+PureGM x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x3-28(1).psq
+______________________________
+nabamoku_java-client x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x0-26(1).psq
+______________________________
+PureGM x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x5-20(1).psq
+______________________________
+BENJAMIN x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x0-41(1).psq
+______________________________
+fiverow x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x0-27(1).psq
+______________________________
+PureGM x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x6-28(1).psq
+______________________________
+PureGM x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0,819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:  150,000
+ 7) Onix.zip: 16, 13
+ 9) Onix.zip: Szint: 1 Érték:  150,000
+ 9) Onix.zip: 15, 12
+11) Onix.zip: Szint: 1 Érték:  150,000
+11) Onix.zip: 16, 15
+13) Onix.zip: Szint: 1 Érték:  150,000
+13) Onix.zip: 17, 14
+15) Onix.zip: Szint: 1 Érték:  150,000
+15) Onix.zip: 19, 12
+17) Onix.zip: Szint: 1 Érték:  199,650
+17) Onix.zip: 18, 13
+19) Onix.zip: Szint: 1 Érték:   80,208
+19) Onix.zip: 20, 11
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x7-20(1).psq
+______________________________
+Onix x PureGM
+ 6) Onix.zip: Szint: 1 Érték:    1,038
+ 6) Onix.zip: 16, 11
+ 8) Onix.zip: Szint: 1 Érték:   40,336
+ 8) Onix.zip: 16, 16
+10) Onix.zip: Szint: 1 Érték:  150,000
+10) Onix.zip: 17, 10
+12) Onix.zip: Szint: 1 Érték:  150,000
+12) Onix.zip: 18, 11
+14) Onix.zip: Szint: 1 Érték:  150,000
+14) Onix.zip: 19, 11
+16) Onix.zip: Szint: 1 Érték:  150,000
+16) Onix.zip: 19, 12
+18) Onix.zip: Szint: 1 Érték:  150,000
+18) Onix.zip: 19, 10
+20) Onix.zip: Szint: 1 Érték:  199,650
+20) Onix.zip: 19, 13
+22) Onix.zip: Szint: 1 Érték:   80,096
+22) Onix.zip: 19, 9
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x0-23(1).psq
+______________________________
+JUDE x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x0-23(1).psq
+______________________________
+PureGM x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x8-20(1).psq
+______________________________
+swine x TRUNKAT
+ 6) swine.zip:   6.[16,11]  7218 ms...Val=   794 (1/2/16) - toa: 30000
+ 8) swine.zip:   8.[14,13]  3062 ms...Val=   779 (1/1/5) - toa: 30000
+10) swine.zip:  10.[16, 9]  1641 ms...WIN PN1 72463/27860 Tøi èuníci jdou... - toa: 30000
+12) swine.zip:  12.[17,10]  1766 ms...WIN PN1 71818/27635 Vypadá to výbornì. - toa: 30000
+14) swine.zip:  14.[15,10]   453 ms...WIN PN3 30611/11314 Že by?. - toa: 30000
+16) swine.zip:  16.[18,10]     0 ms...WIN PN1 1447/493 Je to na dobré cestì.! - toa: 30000
+18) swine.zip:  18.[18,11]   469 ms...WIN AB 0 :-) - toa: 30000
+20) swine.zip:  20.[18,13]    16 ms...WIN PN1 264/90 To by mìlo vyjít. - toa: 30000
+22) swine.zip:  22.[11,15]     0 ms...No to je zábava. - toa: 30000
+24) swine.zip:  24.[15,15]     0 ms...Jen si hraj. - toa: 30000
+26) swine.zip:  26.[18,12]     0 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+28) swine.zip:  28.[18,14]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x2-29(1).psq
+______________________________
+PECUCHET x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x0-25(1).psq
+______________________________
+TRUNKAT x swine
+ 5) swine.zip:   5.[15,14] 16828 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[16,11] 13125 ms...Val=   341 (2/4/16) - toa: 30000
+ 9) swine.zip:   9.[15,10]    47 ms...WIN PN1 7412/2673 :-)) - toa: 30000
+11) swine.zip:  11.[14,11]    32 ms...WIN PN1 3722/1345 Je to na dobré cestì.! - toa: 30000
+13) swine.zip:  13.[17,11]    31 ms...WIN PN1 3976/1437 To snad pude. - toa: 30000
+15) swine.zip:  15.[17,12]    15 ms...WIN PN1 3172/1166 :-)) - toa: 30000
+17) swine.zip:  17.[14, 9]    16 ms...WIN PN1 674/240 :-)) - toa: 30000
+19) swine.zip:  19.[16, 9]    15 ms...WIN PN1 658/233 Držte si klobouky... - toa: 30000
+21) swine.zip:  21.[15, 9]     0 ms...WIN PN1 665/232 Chro chro. - toa: 30000
+23) swine.zip:  23.[13, 9]    16 ms...WIN PN1 159/57 Tøi èuníci jdou... - toa: 30000
+25) swine.zip:  25.[15, 7]     0 ms...WIN PN1 95/33 To snad pude. - toa: 30000
+27) swine.zip:  27.[14, 8]     0 ms...WIN PN1 68/25 Tøi èuníci jdou... - toa: 30000
+29) swine.zip:  29.[12,10]     0 ms...Prohrál jste, saláte! - toa: 30000
+31) swine.zip:  31.[11,11]     0 ms...Ale to je mi líto. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x1-32(1).psq
+______________________________
+swine x nabamoku_java-client
+ 6) swine.zip:   6.[15, 9]  7375 ms...Val=   557 (1/3/3) - toa: 30000
+ 8) swine.zip:   8.[14,13] 14735 ms...Val=   785 (1/7/16) - toa: 30000
+10) swine.zip:  10.[15,12]  1719 ms...Val=   769 (1/1/16) - toa: 30000
+12) swine.zip:  12.[13,12]    16 ms...WIN PN3 2345/817 To snad pude. - toa: 30000
+14) swine.zip:  14.[16,11]     0 ms...WIN PN1 509/183 To snad pude. - toa: 30000
+16) swine.zip:  16.[18, 9]     0 ms...WIN fours seq 2 Je to na dobré cestì.! - toa: 30000
+18) swine.zip:  18.[16, 9]     0 ms...WIN fours seq 1 Snad jsem nic nepøehlídla.. - toa: 30000
+20) swine.zip:  20.[17, 9]    16 ms...Zkus to znova - toa: 30000
+22) swine.zip:  22.[19, 9]    16 ms...Hmm, to máš blbý. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x3-23(1).psq
+______________________________
+swine x BENJAMIN
+ 6) swine.zip:   6.[14,11] 13578 ms...Val=   399 (1/4/16) - toa: 30000
+ 8) swine.zip:   8.[15,10]  3641 ms...Val=   233 (1/1/4) - toa: 30000
+10) swine.zip:  10.[17,10]   891 ms...Val=   563 (1/1/6) - toa: 30000
+12) swine.zip:  12.[18,10]  6453 ms...Val=   571 (1/13/16) - toa: 30000
+14) swine.zip:  14.[15,15]  5484 ms...Val=   331 (1/6/16) - toa: 30000
+16) swine.zip:  16.[13,14]  4046 ms...Val=   822 (1/6/16) - toa: 30000
+18) swine.zip:  18.[12,13]   578 ms...Val=   766 (1/1/16) - toa: 30000
+20) swine.zip:  20.[14,15]  5562 ms...Val=   735 (2/1/16) - toa: 30000
+22) swine.zip:  22.[11,15]  2718 ms...Val=   914 (1/1/16) - toa: 30000
+24) swine.zip:  24.[11,14]    16 ms...WIN fours seq 2 To by mìlo vyjít. - toa: 30000
+26) swine.zip:  26.[11,12]    16 ms...WIN fours seq 1 Vypadá to výbornì. - toa: 30000
+28) swine.zip:  28.[11,13]     0 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+30) swine.zip:  30.[11,16]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x4-31(1).psq
+______________________________
+nabamoku_java-client x swine
+ 5) swine.zip:   5.[15,14] 16407 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[16,13]  8766 ms...Val=   192 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[17,12]   407 ms...Val=   152 (1/1/4) - toa: 30000
+11) swine.zip:  11.[14,13]   375 ms...Val=   874 (1/1/7) - toa: 30000
+13) swine.zip:  13.[12,12]     0 ms...No to je zábava. - toa: 30000
+15) swine.zip:  15.[14, 9]  4297 ms...Val=   730 (1/12/16) - toa: 30000
+17) swine.zip:  17.[12,13]    94 ms...WIN PN1 9494/3354 Chro chro. - toa: 30000
+19) swine.zip:  19.[12,11]    94 ms...WIN PN1 9098/3207 Držte si klobouky... - toa: 30000
+21) swine.zip:  21.[12, 9]    62 ms...WIN PN1 5873/2048 Chro chro. - toa: 30000
+23) swine.zip:  23.[13,11]    31 ms...WIN PN1 2547/890 :-)) - toa: 30000
+25) swine.zip:  25.[11,11]     0 ms...WIN PN1 650/221 Držte si klobouky... - toa: 30000
+27) swine.zip:  27.[10,11]    15 ms...WIN PN1 445/153 Tøi èuníci jdou... - toa: 30000
+29) swine.zip:  29.[11,10]    16 ms...WIN PN1 208/70 :-)) - toa: 30000
+31) swine.zip:  31.[16, 8]    15 ms...Jen si hraj. - toa: 30000
+33) swine.zip:  33.[17, 8]    16 ms...No to je zábava. - toa: 30000
+35) swine.zip:  35.[13,10]    16 ms...Necht toho. - toa: 30000
+37) swine.zip:  37.[11,15]     0 ms...Kolik jich tam ještì máš? - toa: 30000
+39) swine.zip:  39.[18,10]     0 ms...No jo. - toa: 30000
+41) swine.zip:  41.[19, 8]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+43) swine.zip:  43.[13, 8]     0 ms...Nechceš si o tom promluvit? - toa: 30000
+45) swine.zip:  45.[ 9,12]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x1-46(1).psq
+______________________________
+BENJAMIN x swine
+ 5) swine.zip:   5.[15,14] 16281 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[16,13]  8672 ms...Val=   192 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[14,12]  5266 ms...Val=    70 (1/3/16) - toa: 30000
+11) swine.zip:  11.[16,11]  5656 ms...Val=   -55 (1/5/16) - toa: 30000
+13) swine.zip:  13.[15,15]  5703 ms...Val=   -82 (1/6/16) - toa: 30000
+15) swine.zip:  15.[18,12]  1156 ms...Val=   170 (1/1/16) - toa: 30000
+17) swine.zip:  17.[17,10]  1688 ms...Val=   113 (1/1/16) - toa: 30000
+19) swine.zip:  19.[17,15]  3344 ms...Val=   157 (1/1/16) - toa: 30000
+21) swine.zip:  21.[14,17]  7234 ms...Val=   273 (1/4/16) - toa: 30000
+23) swine.zip:  23.[12,15] 11531 ms...Val=   595 (1/13/16) - toa: 30000
+25) swine.zip:  25.[11,15]  4391 ms...Val=   765 (1/9/16) - toa: 30000
+27) swine.zip:  27.[13,17]   500 ms...Val=   807 (1/1/16) - toa: 30000
+29) swine.zip:  29.[14,16]   735 ms...Val=   598 (1/1/16) - toa: 30000
+31) swine.zip:  31.[10,16]  9094 ms...Val=   746 (1/14/16) - toa: 30000
+33) swine.zip:  33.[10,15]  9687 ms...Val=   914 (1/13/16) - toa: 30000
+35) swine.zip:  35.[10,18]     0 ms...No jo. - toa: 29579
+37) swine.zip:  37.[ 9,17]  1438 ms...WIN AB 3 Vypadá to výbornì. - toa: 29574
+39) swine.zip:  39.[ 8,18]    16 ms...WIN PN1 1240/423 Že by?. - toa: 29083
+41) swine.zip:  41.[ 7,18]    16 ms...WIN PN1 1021/358 Snad jsem nic nepøehlídla.. - toa: 29074
+43) swine.zip:  43.[ 8,16]    16 ms...WIN PN1 226/77 To by mìlo vyjít. - toa: 29065
+45) swine.zip:  45.[ 8,17]    15 ms...WIN PN1 73/25 Tøi èuníci jdou... - toa: 29060
+47) swine.zip:  47.[ 8,15]    15 ms...Nechceš si o tom promluvit? - toa: 29055
+49) swine.zip:  49.[ 8,14]    16 ms...Nechceš si o tom promluvit? - toa: 29050
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x1-50(1).psq
+______________________________
+swine x fiverow
+ 6) swine.zip:   6.[15,12] 11828 ms...Val=   747 (1/3/16) - toa: 30000
+ 8) swine.zip:   8.[13,14] 11015 ms...Val=   893 (1/12/16) - toa: 30000
+10) swine.zip:  10.[14,11]  7093 ms...Val=   854 (1/1/16) - toa: 30000
+12) swine.zip:  12.[15,14]  2140 ms...Val=   808 (1/1/16) - toa: 30000
+14) swine.zip:  14.[11,14]    16 ms...WIN PN1 387/154 :-) - toa: 30000
+16) swine.zip:  16.[12,13]    15 ms...WIN PN1 403/158 Je to na dobré cestì.! - toa: 30000
+18) swine.zip:  18.[14,15]    16 ms...WIN PN1 209/85 Tøi èuníci jdou... - toa: 30000
+20) swine.zip:  20.[14,13]    16 ms...WIN fours seq 3 To by mìlo vyjít. - toa: 30000
+22) swine.zip:  22.[14,17]     0 ms...WIN fours seq 2 Držte si klobouky... - toa: 30000
+24) swine.zip:  24.[14,16]     0 ms...Hmm, to máš blbý. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x5-25(1).psq
+______________________________
+swine x JUDE
+ 6) swine.zip:   6.[14,11] 13578 ms...Val=   399 (1/4/16) - toa: 30000
+ 8) swine.zip:   8.[15,12]  1672 ms...Val=   484 (1/1/3) - toa: 30000
+10) swine.zip:  10.[18,13] 11281 ms...Val=   627 (1/2/4) - toa: 30000
+12) swine.zip:  12.[17,14] 10640 ms...Val=   593 (1/7/16) - toa: 30000
+14) swine.zip:  14.[13, 8]     0 ms...Necht toho. - toa: 30000
+16) swine.zip:  16.[16,13]     0 ms...WIN PN1 168/63 :-) - toa: 30000
+18) swine.zip:  18.[16,14]     0 ms...WIN PN1 69/27 Že by?. - toa: 30000
+20) swine.zip:  20.[16,15]    16 ms...WIN fours seq 1 Držte si klobouky... - toa: 30000
+22) swine.zip:  22.[15,16]     0 ms...Ale to je mi líto. - toa: 30000
+24) swine.zip:  24.[14,17]     0 ms...Prohrál jste, saláte! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x6-25(1).psq
+______________________________
+JUDE x swine
+ 5) swine.zip:   5.[15,14] 16312 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[13,13] 13000 ms...Val=   341 (2/4/16) - toa: 30000
+ 9) swine.zip:   9.[16,13]  1797 ms...Val=   213 (1/1/6) - toa: 30000
+11) swine.zip:  11.[14,12]  4484 ms...Val=    58 (1/6/16) - toa: 30000
+13) swine.zip:  13.[16, 8]     0 ms...No to je zábava. - toa: 30000
+15) swine.zip:  15.[11,15]   500 ms...Val= -1010 (1/11/16) - toa: 30000
+17) swine.zip:  17.[18, 9]   500 ms...:-( - toa: 30000
+19) swine.zip:  19.[18,10]    31 ms...Aj vaj - toa: 30000
+21) swine.zip:  21.[17, 8]     0 ms...To už asi nedoženu. - toa: 30000
+23) swine.zip:  23.[15,12]     0 ms...Baví tì to? - toa: 30000
+25) swine.zip:  25.[11,14]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+27) swine.zip:  27.[14,10]     0 ms...Dej mi pokoj. - toa: 30000
+29) swine.zip:  29.[14, 9]    47 ms...WIN AB 1 Vypadá to výbornì. - toa: 30000
+31) swine.zip:  31.[19,14]     0 ms...No jo. - toa: 30000
+33) swine.zip:  33.[14,11]     0 ms...WIN fours seq 3 :-) - toa: 30000
+35) swine.zip:  35.[17,14]     0 ms...WIN fours seq 2 Tøi èuníci jdou... - toa: 30000
+37) swine.zip:  37.[16,14]     0 ms...WIN fours seq 1 Že by?. - toa: 30000
+39) swine.zip:  39.[13,11]     0 ms...Hmm, to máš blbý. - toa: 30000
+41) swine.zip:  41.[17,15]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x1-42(1).psq
+______________________________
+fiverow x swine
+ 5) swine.zip:   5.[15,14] 16360 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[13,13] 13094 ms...Val=   341 (2/4/16) - toa: 30000
+ 9) swine.zip:   9.[16,11]  5984 ms...Val=   213 (1/5/16) - toa: 30000
+11) swine.zip:  11.[14,15]  9328 ms...Val=   113 (1/3/16) - toa: 30000
+13) swine.zip:  13.[17,10]  5859 ms...Val=   194 (1/8/16) - toa: 30000
+15) swine.zip:  15.[14,11]  9109 ms...Val=   358 (1/5/16) - toa: 30000
+17) swine.zip:  17.[14, 8]  8656 ms...Val=   411 (1/2/16) - toa: 30000
+19) swine.zip:  19.[14, 9] 25000 ms...Val=   613 (1/2/8) - toa: 30000
+21) swine.zip:  21.[14, 7]  2656 ms...Val=   707 (1/2/16) - toa: 28797
+23) swine.zip:  23.[15, 8]   922 ms...Val=   483 (1/1/16) - toa: 27903
+25) swine.zip:  25.[13,10]   813 ms...Val=   712 (3/1/16) - toa: 27591
+27) swine.zip:  27.[16, 8]   969 ms...Val=   712 (2/1/16) - toa: 27319
+29) swine.zip:  29.[11,12]  4296 ms...Val=   636 (1/3/16) - toa: 26993
+31) swine.zip:  31.[13,14]  4797 ms...Val=   617 (1/13/16) - toa: 25557
+33) swine.zip:  33.[15, 7]  5266 ms...Val=  1197 (1/9/16) - toa: 23952
+35) swine.zip:  35.[ 9,11]     0 ms...No jo. - toa: 22192
+37) swine.zip:  37.[13, 9]  2797 ms...WIN AB 3 Že by?. - toa: 22186
+39) swine.zip:  39.[16, 6]   219 ms...WIN AB 3 Je to na dobré cestì.! - toa: 21247
+41) swine.zip:  41.[15, 6]   203 ms...WIN AB 5 :-)) - toa: 21171
+43) swine.zip:  43.[18, 8]   469 ms...WIN AB 5 Chro chro. - toa: 21097
+45) swine.zip:  45.[12, 9]    94 ms...Val=    78 (1/1/16) - toa: 20936
+47) swine.zip:  47.[10, 8]     0 ms...Jen si hraj. - toa: 20897
+49) swine.zip:  49.[15,16]   547 ms...Val= -1793 (1/11/16) - toa: 20891
+51) swine.zip:  51.[17,18]   219 ms...To vypadá zle. - toa: 20700
+53) swine.zip:  53.[16, 4]    32 ms...Tady to smrdí. - toa: 20627
+55) swine.zip:  55.[12, 8]    16 ms...Necht toho. - toa: 20610
+57) swine.zip:  57.[11,10]     0 ms...Co se dá dìlat? - toa: 20604
+59) swine.zip:  59.[11, 6]     0 ms...Tohle mì nebaví. - toa: 20597
+61) swine.zip:  61.[12,14]     0 ms...Co se dá dìlat? - toa: 20591
+63) swine.zip:  63.[15,12]     0 ms...Baví tì to? - toa: 20585
+65) swine.zip:  65.[ 0, 0]    16 ms...Docela ti to de. - toa: 20579
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x1-67(1).psq
+______________________________
+swine x PECUCHET
+ 6) swine.zip:   6.[14,11] 13422 ms...Val=   399 (1/4/16) - toa: 30000
+ 8) swine.zip:   8.[15,10]  3563 ms...Val=   233 (1/1/4) - toa: 30000
+10) swine.zip:  10.[17,10]   937 ms...Val=   563 (1/1/6) - toa: 30000
+12) swine.zip:  12.[18,10]  6421 ms...Val=   571 (1/13/16) - toa: 30000
+14) swine.zip:  14.[15,15]  5469 ms...Val=   331 (1/6/16) - toa: 30000
+16) swine.zip:  16.[12,15]     0 ms...Dej mi pokoj. - toa: 30000
+18) swine.zip:  18.[12,13]   891 ms...Val=  -524 (1/1/16) - toa: 30000
+20) swine.zip:  20.[13,15]   266 ms...To vypadá zle. - toa: 30000
+22) swine.zip:  22.[11,15]    31 ms...Val=  -765 (1/4/16) - toa: 30000
+24) swine.zip:  24.[ 9,15]     0 ms...Val=  -946 (1/6/16) - toa: 30000
+26) swine.zip:  26.[15,14]     0 ms...To už asi nedoženu. - toa: 30000
+28) swine.zip:  28.[13,10]     0 ms...No jo. - toa: 30000
+30) swine.zip:  30.[11,13]    15 ms...Tohle zkonèí špatnì - toa: 30000
+32) swine.zip:  32.[11,12]     0 ms...No to je zábava. - toa: 30000
+34) swine.zip:  34.[ 0,19]    16 ms...Docela ti to de. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x8-36(1).psq
+______________________________
+swine x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0,819
+ 5) Onix.zip: 17, 12
+ 6) swine.zip:   6.[14,11] 13546 ms...Val=   399 (1/4/16) - toa: 30000
+ 7) Onix.zip: Szint: 1 Érték:   -0,765
+ 7) Onix.zip: 16, 11
+ 8) swine.zip:   8.[15,12]  1688 ms...Val=   484 (1/1/3) - toa: 30000
+ 9) Onix.zip: Szint: 1 Érték:   -1,430
+ 9) Onix.zip: 15, 13
+10) swine.zip:  10.[17,12] 11625 ms...Val=   610 (1/6/16) - toa: 30000
+11) Onix.zip: Szint: 1 Érték:   -4,037
+11) Onix.zip: 17, 14
+12) swine.zip:  12.[18,12]  6625 ms...Val=   635 (1/10/16) - toa: 30000
+13) Onix.zip: Szint: 1 Érték:   40,072
+13) Onix.zip: 20, 13
+14) swine.zip:  14.[16,14]  2532 ms...Val=   634 (1/3/16) - toa: 30000
+15) Onix.zip: Szint: 1 Érték:   -3,054
+15) Onix.zip: 18, 12
+16) swine.zip:  16.[13,14]  4016 ms...Val=   534 (1/4/16) - toa: 30000
+17) Onix.zip: Szint: 1 Érték:   -2,392
+17) Onix.zip: 13, 15
+18) swine.zip:  18.[13,13]  4578 ms...Val=   658 (1/2/16) - toa: 30000
+19) Onix.zip: Szint: 1 Érték:   -2,392
+19) Onix.zip: 16, 16
+20) swine.zip:  20.[12,15]  9969 ms...Val=   635 (1/8/16) - toa: 30000
+21) Onix.zip: Szint: 1 Érték:   -3,449
+21) Onix.zip: 19, 12
+22) swine.zip:  22.[19,11]     0 ms...Necht toho. - toa: 30000
+23) Onix.zip: Szint: 1 Érték:   -6,446
+23) Onix.zip: 14, 16
+24) swine.zip:  24.[11,13]  7109 ms...Val=   949 (2/4/16) - toa: 30000
+25) Onix.zip: Szint: 1 Érték:   -6,639
+25) Onix.zip: 12, 15
+26) swine.zip:  26.[13,11]  1844 ms...WIN AB 0 :-)) - toa: 30000
+27) Onix.zip: Szint: 1 Érték: -170,000
+27) Onix.zip: 13, 13
+28) swine.zip:  28.[15,14]     0 ms...WIN fours seq 3 :-) - toa: 30000
+29) Onix.zip: Szint: 1 Érték:   40,112
+29) Onix.zip: 18, 15
+30) swine.zip:  30.[14,13]     0 ms...WIN fours seq 2 :-) - toa: 30000
+31) Onix.zip: Szint: 1 Érték:   40,144
+31) Onix.zip: 12, 17
+32) swine.zip:  32.[13,12]     0 ms...WIN fours seq 1 Snad jsem nic nepøehlídla.. - toa: 30000
+33) Onix.zip: Szint: 1 Érték:   40,272
+33) Onix.zip: 14, 11
+34) swine.zip:  34.[12,11]    16 ms...Hmm, to máš blbý. - toa: 30000
+35) Onix.zip: Szint: 1 Érték:   41,112
+35) Onix.zip: 17, 16
+36) swine.zip:  36.[11,10]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x7-37(1).psq
+______________________________
+PECUCHET x swine
+ 5) swine.zip:   5.[15,14] 16329 ms...Val=   345 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[16,13]  8656 ms...Val=   192 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[14,12]  4406 ms...Val=   113 (1/1/4) - toa: 30000
+11) swine.zip:  11.[19,12]     0 ms...Co se dá dìlat? - toa: 30000
+13) swine.zip:  13.[15, 9]  2343 ms...Val=   229 (1/1/3) - toa: 30000
+15) swine.zip:  15.[17,13]    78 ms...Val=   300 (1/1/16) - toa: 30000
+17) swine.zip:  17.[16,11]  1141 ms...Val=   362 (1/1/16) - toa: 30000
+19) swine.zip:  19.[17, 9]     0 ms...Jen si hraj. - toa: 30000
+21) swine.zip:  21.[19,13]  1468 ms...Val=   467 (1/5/16) - toa: 30000
+23) swine.zip:  23.[18,10]  1093 ms...Val=   128 (1/1/16) - toa: 30000
+25) swine.zip:  25.[13,10]     0 ms...Jen si hraj. - toa: 30000
+27) swine.zip:  27.[14,11]  1141 ms...Val=   617 (1/2/16) - toa: 30000
+29) swine.zip:  29.[14, 7]  6141 ms...Val=   590 (1/10/16) - toa: 30000
+31) swine.zip:  31.[14, 8] 12312 ms...Val=   711 (1/8/16) - toa: 30000
+33) swine.zip:  33.[16, 6]     0 ms...Dej mi pokoj. - toa: 30000
+35) swine.zip:  35.[19, 6]     0 ms...Kolik jich tam ještì máš? - toa: 30000
+37) swine.zip:  37.[18,15]  3594 ms...Val=  1390 (1/1/16) - toa: 30000
+39) swine.zip:  39.[14, 5]   656 ms...Val=  1408 (1/1/16) - toa: 30000
+41) swine.zip:  41.[11, 8]  6219 ms...Val=  1684 (1/10/16) - toa: 30000
+43) swine.zip:  43.[13, 6]  4531 ms...WIN AB 0 Je to na dobré cestì.! - toa: 30000
+45) swine.zip:  45.[18, 9]    15 ms...Nedráždi svini bosou nohou. - toa: 30000
+47) swine.zip:  47.[12, 4]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+49) swine.zip:  49.[17, 7]     0 ms...Tohle mì nebaví. - toa: 30000
+51) swine.zip:  51.[12, 7]    16 ms...WIN fours seq 4 Je to na dobré cestì.! - toa: 30000
+53) swine.zip:  53.[10, 7]     0 ms...WIN fours seq 3 :-) - toa: 30000
+55) swine.zip:  55.[13, 7]     0 ms...WIN fours seq 2 Tøi èuníci jdou... - toa: 30000
+57) swine.zip:  57.[13, 8]     0 ms...WIN fours seq 1 To snad pude. - toa: 30000
+59) swine.zip:  59.[12, 8]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+61) swine.zip:  61.[10, 8]     0 ms...To se musíte víc snažit, pane správce. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x1-62(1).psq
+______________________________
+TRUNKAT x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x3-26(1).psq
+______________________________
+TRUNKAT x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x5-42(1).psq
+______________________________
+TRUNKAT x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x4-49(1).psq
+______________________________
+BENJAMIN x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x2-86(1).psq
+______________________________
+nabamoku_java-client x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x2-31(1).psq
+______________________________
+fiverow x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x2-49(1).psq
+______________________________
+TRUNKAT x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x8-32(1).psq
+______________________________
+TRUNKAT x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x6-24(1).psq
+______________________________
+Onix x swine
+ 5) swine.zip:   5.[15,14] 16438 ms...Val=   345 (1/1/16) - toa: 30000
+ 6) Onix.zip: Szint: 1 Érték:   -0,038
+ 6) Onix.zip: 16, 16
+ 7) swine.zip:   7.[13,13] 12938 ms...Val=   341 (2/4/16) - toa: 30000
+ 8) Onix.zip: Szint: 1 Érték:    0,892
+ 8) Onix.zip: 15, 14
+ 9) swine.zip:   9.[16,11]  5937 ms...Val=   213 (1/5/16) - toa: 30000
+10) Onix.zip: Szint: 1 Érték:    0,462
+10) Onix.zip: 16, 11
+11) swine.zip:  11.[14,15]  9360 ms...Val=   113 (1/3/16) - toa: 30000
+12) Onix.zip: Szint: 1 Érték:    1,919
+12) Onix.zip: 15, 12
+13) swine.zip:  13.[14,10]  6703 ms...Val=   107 (1/1/16) - toa: 30000
+14) Onix.zip: Szint: 1 Érték:    1,689
+14) Onix.zip: 14, 17
+15) swine.zip:  15.[13,12]  9343 ms...Val=   129 (1/1/16) - toa: 30000
+16) Onix.zip: Szint: 1 Érték:    0,214
+16) Onix.zip: 16, 10
+17) swine.zip:  17.[14, 8]  8547 ms...Val=   253 (1/2/16) - toa: 30000
+18) Onix.zip: Szint: 1 Érték:    1,963
+18) Onix.zip: 14, 10
+19) swine.zip:  19.[14,12]  9547 ms...Val=   344 (1/8/16) - toa: 30000
+20) Onix.zip: Szint: 1 Érték:    2,206
+20) Onix.zip: 14, 15
+21) swine.zip:  21.[14, 9]  7750 ms...Val=   333 (1/8/16) - toa: 30000
+22) Onix.zip: Szint: 1 Érték:    3,243
+22) Onix.zip: 13, 15
+23) swine.zip:  23.[16,14]  4469 ms...Val=   251 (1/3/16) - toa: 30000
+24) Onix.zip: Szint: 1 Érték:    4,833
+24) Onix.zip: 18, 16
+25) swine.zip:  25.[11,12]  2203 ms...Val=  -238 (2/2/16) - toa: 29540
+26) Onix.zip: Szint: 1 Érték:    7,134
+26) Onix.zip: 13, 13
+27) swine.zip:  27.[12,10]  1313 ms...Val=  -474 (2/2/16) - toa: 28800
+28) Onix.zip: Szint: 1 Érték:   40,272
+28) Onix.zip: 14, 12
+29) swine.zip:  29.[14, 7]  1016 ms...Val=  -711 (2/1/16) - toa: 28357
+30) Onix.zip: Szint: 1 Érték:   40,128
+30) Onix.zip: 15, 7
+31) swine.zip:  31.[13,10]   578 ms...Val=  -792 (1/1/16) - toa: 28012
+32) Onix.zip: Szint: 1 Érték:   78,194
+32) Onix.zip: 13, 12
+33) swine.zip:  33.[12,15]   234 ms...Tohle zkonèí špatnì - toa: 27813
+34) Onix.zip: Szint: 1 Érték:  150,000
+34) Onix.zip: 11, 15
+35) swine.zip:  35.[11,14]    16 ms...Co se dá dìlat? - toa: 27730
+36) Onix.zip: Szint: 1 Érték:  150,000
+36) Onix.zip: 12, 14
+37) swine.zip:  37.[ 9,15]    15 ms...Baví tì to? - toa: 27724
+38) Onix.zip: Szint: 1 Érték:  150,000
+38) Onix.zip: 14, 16
+39) swine.zip:  39.[11,10]    15 ms...Val= -2728 (1/3/16) - toa: 27718
+40) Onix.zip: Szint: 1 Érték:   40,312
+40) Onix.zip: 11, 11
+41) swine.zip:  41.[14,16]    16 ms...:-( - toa: 27711
+42) Onix.zip: Szint: 1 Érték:  150,000
+42) Onix.zip: 11, 12
+43) swine.zip:  43.[11,11]    16 ms...Jen si hraj. - toa: 27704
+44) Onix.zip: Szint: 1 Érték:  199,650
+44) Onix.zip: 11, 13
+45) swine.zip:  45.[19,19]    15 ms...Gratuluju - toa: 27698
+46) Onix.zip: Szint: 1 Érték:   80,472
+46) Onix.zip: 11, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x1-47(1).psq
+______________________________
+JUDE x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x2-29(1).psq
+______________________________
+PECUCHET x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x2-37(1).psq
+______________________________
+TRUNKAT x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0.819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:  150.000
+ 7) Onix.zip: 16, 11
+ 9) Onix.zip: Szint: 1 Érték:  150.000
+ 9) Onix.zip: 18, 13
+11) Onix.zip: Szint: 1 Érték:  150.000
+11) Onix.zip: 15, 10
+13) Onix.zip: Szint: 1 Érték:  150.000
+13) Onix.zip: 15, 12
+15) Onix.zip: Szint: 1 Érték:  150.000
+15) Onix.zip: 17, 10
+17) Onix.zip: Szint: 1 Érték:  150.000
+17) Onix.zip: 18, 12
+19) Onix.zip: Szint: 1 Érték:  150.000
+19) Onix.zip: 18, 9
+21) Onix.zip: Szint: 1 Érték:  150.000
+21) Onix.zip: 18, 10
+23) Onix.zip: Szint: 1 Érték:  199.650
+23) Onix.zip: 16, 10
+25) Onix.zip: Szint: 1 Érték:   80.624
+25) Onix.zip: 19, 10
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x7-26(1).psq
+______________________________
+nabamoku_java-client x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x5-38(1).psq
+______________________________
+nabamoku_java-client x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x6-36(1).psq
+______________________________
+Onix x TRUNKAT
+ 6) Onix.zip: Szint: 1 Érték:    0.610
+ 6) Onix.zip: 15, 14
+ 8) Onix.zip: Szint: 1 Érték:  150.000
+ 8) Onix.zip: 15, 13
+10) Onix.zip: Szint: 1 Érték:  150.000
+10) Onix.zip: 16, 13
+12) Onix.zip: Szint: 1 Érték:  150.000
+12) Onix.zip: 18, 13
+14) Onix.zip: Szint: 1 Érték:  150.000
+14) Onix.zip: 17, 14
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 15, 16
+18) Onix.zip: Szint: 1 Érték:  199.650
+18) Onix.zip: 16, 15
+20) Onix.zip: Szint: 1 Érték:   80.424
+20) Onix.zip: 14, 17
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x2-21(1).psq
+______________________________
+JUDE x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x3-27(1).psq
+______________________________
+nabamoku_java-client x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0.819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:    1.447
+ 7) Onix.zip: 17, 15
+ 9) Onix.zip: Szint: 1 Érték:    2.260
+ 9) Onix.zip: 15, 12
+11) Onix.zip: Szint: 1 Érték:    1.975
+11) Onix.zip: 16, 11
+13) Onix.zip: Szint: 1 Érték:   -1.309
+13) Onix.zip: 19, 13
+15) Onix.zip: Szint: 1 Érték:   40.160
+15) Onix.zip: 15, 9
+17) Onix.zip: Szint: 1 Érték:    4.702
+17) Onix.zip: 16, 13
+19) Onix.zip: Szint: 1 Érték:  150.000
+19) Onix.zip: 15, 14
+21) Onix.zip: Szint: 1 Érték:  150.000
+21) Onix.zip: 17, 14
+23) Onix.zip: Szint: 1 Érték:   40.208
+23) Onix.zip: 13, 15
+25) Onix.zip: Szint: 1 Érték:  199.650
+25) Onix.zip: 18, 14
+27) Onix.zip: Szint: 1 Érték:   81.048
+27) Onix.zip: 19, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x7-28(1).psq
+______________________________
+Onix x nabamoku_java-client
+ 6) Onix.zip: Szint: 1 Érték:    0.176
+ 6) Onix.zip: 16, 15
+ 8) Onix.zip: Szint: 1 Érték:   40.336
+ 8) Onix.zip: 16, 10
+10) Onix.zip: Szint: 1 Érték:  150.000
+10) Onix.zip: 17, 15
+12) Onix.zip: Szint: 1 Érték:  150.000
+12) Onix.zip: 17, 14
+14) Onix.zip: Szint: 1 Érték:  150.000
+14) Onix.zip: 17, 17
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 16, 16
+18) Onix.zip: Szint: 1 Érték:  150.000
+18) Onix.zip: 19, 13
+20) Onix.zip: Szint: 1 Érték:  199.650
+20) Onix.zip: 18, 12
+22) Onix.zip: Szint: 1 Érték:   80.088
+22) Onix.zip: 20, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x3-23(1).psq
+______________________________
+BENJAMIN x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x5-29(1).psq
+______________________________
+fiverow x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x4-57(1).psq
+______________________________
+fiverow x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x3-74(1).psq
+______________________________
+nabamoku_java-client x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x8-32(1).psq
+______________________________
+PECUCHET x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x3-15(1).psq
+______________________________
+nabamoku_java-client x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x4-234(1).psq
+______________________________
+BENJAMIN x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x6-60(1).psq
+______________________________
+BENJAMIN x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x8-58(1).psq
+______________________________
+BENJAMIN x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0.819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:   -0.511
+ 7) Onix.zip: 15, 13
+ 9) Onix.zip: Szint: 1 Érték:   -1.529
+ 9) Onix.zip: 16, 11
+11) Onix.zip: Szint: 1 Érték:   -1.221
+11) Onix.zip: 16, 10
+13) Onix.zip: Szint: 1 Érték:   -0.831
+13) Onix.zip: 14, 14
+15) Onix.zip: Szint: 1 Érték:   -0.968
+15) Onix.zip: 14, 15
+17) Onix.zip: Szint: 1 Érték:   -1.594
+17) Onix.zip: 14, 11
+19) Onix.zip: Szint: 1 Érték:   -2.024
+19) Onix.zip: 15, 16
+21) Onix.zip: Szint: 1 Érték:   -3.872
+21) Onix.zip: 13, 14
+23) Onix.zip: Szint: 1 Érték:   -3.629
+23) Onix.zip: 12, 14
+25) Onix.zip: Szint: 1 Érték:   -1.999
+25) Onix.zip: 12, 11
+27) Onix.zip: Szint: 1 Érték:   -3.756
+27) Onix.zip: 15, 8
+29) Onix.zip: Szint: 1 Érték:   -3.018
+29) Onix.zip: 13, 8
+31) Onix.zip: Szint: 1 Érték:   -3.080
+31) Onix.zip: 12, 9
+33) Onix.zip: Szint: 1 Érték:   -2.948
+33) Onix.zip: 11, 10
+35) Onix.zip: Szint: 1 Érték:   -2.295
+35) Onix.zip: 11, 9
+37) Onix.zip: Szint: 1 Érték:    0.731
+37) Onix.zip: 13, 9
+39) Onix.zip: Szint: 1 Érték:    0.506
+39) Onix.zip: 12, 7
+41) Onix.zip: Szint: 1 Érték:    4.977
+41) Onix.zip: 14, 6
+43) Onix.zip: Szint: 1 Érték:    8.089
+43) Onix.zip: 13, 6
+45) Onix.zip: Szint: 1 Érték:    4.407
+45) Onix.zip: 10, 12
+47) Onix.zip: Szint: 1 Érték:  150.000
+47) Onix.zip: 10, 11
+49) Onix.zip: Szint: 1 Érték:  150.000
+49) Onix.zip: 10, 14
+51) Onix.zip: Szint: 1 Érték:  199.650
+51) Onix.zip: 10, 13
+53) Onix.zip: Szint: 1 Érték:   80.328
+53) Onix.zip: 10, 10
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x7-54(1).psq
+______________________________
+JUDE x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x4-45(1).psq
+______________________________
+Onix x BENJAMIN
+ 6) Onix.zip: Szint: 1 Érték:   -2.226
+ 6) Onix.zip: 16, 15
+ 8) Onix.zip: Szint: 1 Érték:   -0.247
+ 8) Onix.zip: 15, 12
+10) Onix.zip: Szint: 1 Érték:   -0.544
+10) Onix.zip: 14, 12
+12) Onix.zip: Szint: 1 Érték:    3.076
+12) Onix.zip: 16, 10
+14) Onix.zip: Szint: 1 Érték:    3.542
+14) Onix.zip: 15, 10
+16) Onix.zip: Szint: 1 Érték:    2.772
+16) Onix.zip: 15, 16
+18) Onix.zip: Szint: 1 Érték:    1.689
+18) Onix.zip: 16, 16
+20) Onix.zip: Szint: 1 Érték:    3.758
+20) Onix.zip: 15, 14
+22) Onix.zip: Szint: 1 Érték:    4.374
+22) Onix.zip: 16, 17
+24) Onix.zip: Szint: 1 Érték:    4.983
+24) Onix.zip: 14, 17
+26) Onix.zip: Szint: 1 Érték:    3.340
+26) Onix.zip: 13, 15
+28) Onix.zip: Szint: 1 Érték:  150.000
+28) Onix.zip: 13, 18
+30) Onix.zip: Szint: 1 Érték:  150.000
+30) Onix.zip: 13, 16
+32) Onix.zip: Szint: 1 Érték:  150.000
+32) Onix.zip: 16, 19
+34) Onix.zip: Szint: 1 Érték:  199.650
+34) Onix.zip: 15, 18
+36) Onix.zip: Szint: 1 Érték:   80.064
+36) Onix.zip: 17, 20
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x4-37(1).psq
+______________________________
+fiverow x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0.819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:   -0.511
+ 7) Onix.zip: 15, 13
+ 9) Onix.zip: Szint: 1 Érték:   -1.430
+ 9) Onix.zip: 14, 11
+11) Onix.zip: Szint: 1 Érték:   -0.792
+11) Onix.zip: 12, 11
+13) Onix.zip: Szint: 1 Érték:    3.064
+13) Onix.zip: 11, 12
+15) Onix.zip: Szint: 1 Érték:    3.872
+15) Onix.zip: 12, 13
+17) Onix.zip: Szint: 1 Érték:    7.535
+17) Onix.zip: 15, 10
+19) Onix.zip: Szint: 1 Érték:    7.673
+19) Onix.zip: 9, 12
+21) Onix.zip: Szint: 1 Érték:   40.120
+21) Onix.zip: 14, 17
+23) Onix.zip: Szint: 1 Érték:  150.000
+23) Onix.zip: 14, 9
+25) Onix.zip: Szint: 1 Érték:  150.000
+25) Onix.zip: 13, 10
+27) Onix.zip: Szint: 1 Érték:  150.000
+27) Onix.zip: 12, 10
+29) Onix.zip: Szint: 1 Érték:  199.650
+29) Onix.zip: 12, 12
+31) Onix.zip: Szint: 1 Érték:   80.464
+31) Onix.zip: 12, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x7-32(1).psq
+______________________________
+Onix x fiverow
+ 6) Onix.zip: Szint: 1 Érték:    2.464
+ 6) Onix.zip: 16, 13
+ 8) Onix.zip: Szint: 1 Érték:    5.203
+ 8) Onix.zip: 14, 15
+10) Onix.zip: Szint: 1 Érték:    3.372
+10) Onix.zip: 15, 12
+12) Onix.zip: Szint: 1 Érték:  150.000
+12) Onix.zip: 16, 15
+14) Onix.zip: Szint: 1 Érték:  150.000
+14) Onix.zip: 12, 15
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 14, 13
+18) Onix.zip: Szint: 1 Érték:  150.000
+18) Onix.zip: 15, 13
+20) Onix.zip: Szint: 1 Érték:  199.650
+20) Onix.zip: 15, 14
+22) Onix.zip: Szint: 1 Érték:   80.424
+22) Onix.zip: 15, 16
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x5-23(1).psq
+______________________________
+fiverow x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x6-36(1).psq
+______________________________
+JUDE x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x5-26(1).psq
+______________________________
+fiverow x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x8-16(1).psq
+______________________________
+PECUCHET x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x5-33(1).psq
+______________________________
+BENJAMIN x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x3-251(1).psq
+______________________________
+JUDE x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0.819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:   -0.511
+ 7) Onix.zip: 15, 13
+ 9) Onix.zip: Szint: 1 Érték:   -1.529
+ 9) Onix.zip: 16, 11
+11) Onix.zip: Szint: 1 Érték:   -1.100
+11) Onix.zip: 18, 13
+13) Onix.zip: Szint: 1 Érték:   -2.464
+13) Onix.zip: 14, 14
+15) Onix.zip: Szint: 1 Érték:   -3.536
+15) Onix.zip: 13, 14
+17) Onix.zip: Szint: 1 Érték:   -3.382
+17) Onix.zip: 14, 15
+19) Onix.zip: Szint: 1 Érték:   -9.247
+19) Onix.zip: 19, 11
+21) Onix.zip: Szint: 1 Érték:  -11.434
+21) Onix.zip: 12, 16
+23) Onix.zip: Szint: 1 Érték: -170.000
+23) Onix.zip: 19, 16
+25) Onix.zip: Szint: 1 Érték:  -14.735
+25) Onix.zip: 16, 17
+27) Onix.zip: Szint: 1 Érték: -170.000
+27) Onix.zip: 18, 17
+29) Onix.zip: Szint: 1 Érték:   40.080
+29) Onix.zip: 15, 18
+31) Onix.zip: Szint: 1 Érték: -170.000
+31) Onix.zip: 16, 18
+33) Onix.zip: Szint: 1 Érték:   40.792
+33) Onix.zip: 18, 16
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x7-35(1).psq
+______________________________
+Onix x JUDE
+ 6) Onix.zip: Szint: 1 Érték:   -2.226
+ 6) Onix.zip: 16, 15
+ 8) Onix.zip: Szint: 1 Érték:   -0.402
+ 8) Onix.zip: 16, 10
+10) Onix.zip: Szint: 1 Érték:   -0.215
+10) Onix.zip: 19, 14
+12) Onix.zip: Szint: 1 Érték:   40.128
+12) Onix.zip: 14, 9
+14) Onix.zip: Szint: 1 Érték:   -0.044
+14) Onix.zip: 18, 12
+16) Onix.zip: Szint: 1 Érték:   40.344
+16) Onix.zip: 13, 12
+18) Onix.zip: Szint: 1 Érték:   -0.412
+18) Onix.zip: 15, 11
+20) Onix.zip: Szint: 1 Érték:    1.314
+20) Onix.zip: 13, 14
+22) Onix.zip: Szint: 1 Érték:    2.601
+22) Onix.zip: 14, 14
+24) Onix.zip: Szint: 1 Érték:    5.445
+24) Onix.zip: 19, 13
+26) Onix.zip: Szint: 1 Érték:    5.553
+26) Onix.zip: 15, 14
+28) Onix.zip: Szint: 1 Érték:   12.377
+28) Onix.zip: 18, 15
+30) Onix.zip: Szint: 1 Érték:   21.615
+30) Onix.zip: 15, 13
+32) Onix.zip: Szint: 1 Érték:   40.808
+32) Onix.zip: 13, 10
+34) Onix.zip: Szint: 1 Érték:   40.160
+34) Onix.zip: 18, 9
+36) Onix.zip: Szint: 1 Érték:  150.000
+36) Onix.zip: 15, 16
+38) Onix.zip: Szint: 1 Érték:  150.000
+38) Onix.zip: 17, 16
+40) Onix.zip: Szint: 1 Érték:  150.000
+40) Onix.zip: 18, 16
+42) Onix.zip: Szint: 1 Érték:  150.000
+42) Onix.zip: 18, 17
+44) Onix.zip: Szint: 1 Érték:  199.650
+44) Onix.zip: 18, 18
+46) Onix.zip: Szint: 1 Érték:   80.280
+46) Onix.zip: 18, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x6-47(1).psq
+______________________________
+JUDE x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x8-53(1).psq
+______________________________
+Onix x PECUCHET
+ 6) Onix.zip: Szint: 1 Érték:   -2,226
+ 6) Onix.zip: 16, 15
+ 8) Onix.zip: Szint: 1 Érték:   -0,402
+ 8) Onix.zip: 16, 10
+10) Onix.zip: Szint: 1 Érték:   -0,215
+10) Onix.zip: 19, 14
+12) Onix.zip: Szint: 1 Érték:   40,128
+12) Onix.zip: 14, 9
+14) Onix.zip: Szint: 1 Érték:   -0,044
+14) Onix.zip: 18, 12
+16) Onix.zip: Szint: 1 Érték:   -0,044
+16) Onix.zip: 15, 11
+18) Onix.zip: Szint: 1 Érték:   40,344
+18) Onix.zip: 13, 12
+20) Onix.zip: Szint: 1 Érték:    1,314
+20) Onix.zip: 13, 14
+22) Onix.zip: Szint: 1 Érték:    7,012
+22) Onix.zip: 14, 15
+24) Onix.zip: Szint: 1 Érték:    8,235
+24) Onix.zip: 14, 14
+26) Onix.zip: Szint: 1 Érték:    7,464
+26) Onix.zip: 12, 9
+28) Onix.zip: Szint: 1 Érték:  150,000
+28) Onix.zip: 12, 12
+30) Onix.zip: Szint: 1 Érték:   40,336
+30) Onix.zip: 13, 11
+32) Onix.zip: Szint: 1 Érték:   40,136
+32) Onix.zip: 18, 16
+34) Onix.zip: Szint: 1 Érték:   40,088
+34) Onix.zip: 17, 14
+36) Onix.zip: Szint: 1 Érték:   41,472
+36) Onix.zip: 12, 13
+38) Onix.zip: Szint: 1 Érték:   40,400
+38) Onix.zip: 11, 10
+40) Onix.zip: Szint: 1 Érték:   40,160
+40) Onix.zip: 18, 9
+42) Onix.zip: Szint: 1 Érték:  150,000
+42) Onix.zip: 15, 16
+44) Onix.zip: Szint: 1 Érték:  150,000
+44) Onix.zip: 14, 17
+46) Onix.zip: Szint: 1 Érték:  150,000
+46) Onix.zip: 14, 16
+48) Onix.zip: Szint: 1 Érték:  150,000
+48) Onix.zip: 16, 16
+50) Onix.zip: Szint: 1 Érték:  150,000
+50) Onix.zip: 12, 16
+52) Onix.zip: Szint: 1 Érték:  150,000
+52) Onix.zip: 12, 14
+54) Onix.zip: Szint: 1 Érték:  199,650
+54) Onix.zip: 11, 14
+56) Onix.zip: Szint: 1 Érték:   80,496
+56) Onix.zip: 15, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x8-57(1).psq
+______________________________
+swine x PureGM
+ 6) swine.zip:   6.[ 6, 4]  5516 ms...Val=   580 (1/2/2) - toa: 30000
+ 8) swine.zip:   8.[ 4, 3]  5453 ms...Val=   542 (1/4/16) - toa: 30000
+10) swine.zip:  10.[ 6, 6] 13890 ms...Val=   849 (1/5/16) - toa: 30000
+12) swine.zip:  12.[ 6, 5]    16 ms...WIN PN1 391/131 Tøi èuníci jdou... - toa: 30000
+14) swine.zip:  14.[ 7, 5]     0 ms...WIN PN1 113/40 Chro chro. - toa: 30000
+16) swine.zip:  16.[ 8, 6]    15 ms...WIN PN1 145/51 Vypadá to výbornì. - toa: 30000
+18) swine.zip:  18.[ 5, 3]     0 ms...Tak snad nìkdy pøíštì. - toa: 30000
+20) swine.zip:  20.[ 9, 7]    16 ms...Nechceš si o tom promluvit? - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x0-21(1).psq
+______________________________
+PureGM x swine
+ 5) swine.zip:   5.[ 5, 5]  4344 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 4]  3609 ms...Val=   418 (1/2/16) - toa: 30000
+ 9) swine.zip:   9.[ 7, 3]  2547 ms...Val=   525 (1/7/16) - toa: 30000
+11) swine.zip:  11.[ 6, 6]    31 ms...WIN PN1 3238/1153 Chro chro. - toa: 30000
+13) swine.zip:  13.[ 6, 3]    16 ms...WIN PN1 2093/745 Že by?. - toa: 30000
+15) swine.zip:  15.[ 8, 2]     0 ms...WIN PN1 541/190 Tøi èuníci jdou... - toa: 30000
+17) swine.zip:  17.[ 8, 3]     0 ms...WIN PN1 470/165 Snad jsem nic nepøehlídla.. - toa: 30000
+19) swine.zip:  19.[ 9, 3]    15 ms...WIN PN1 121/42 Chro chro. - toa: 30000
+21) swine.zip:  21.[ 8, 8]     0 ms...WIN PN1 112/36 To snad pude. - toa: 30000
+23) swine.zip:  23.[ 8, 4]     0 ms...WIN PN1 90/29 To snad pude. - toa: 30000
+25) swine.zip:  25.[ 8, 5]     0 ms...Ale to je mi líto. - toa: 30000
+27) swine.zip:  27.[ 8, 1]     0 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x1-28(1).psq
+______________________________
+TRUNKAT x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x0-15(1).psq
+______________________________
+PureGM x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x2-16(1).psq
+______________________________
+nabamoku_java-client x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x0-15(1).psq
+______________________________
+PureGM x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x3-24(1).psq
+______________________________
+BENJAMIN x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x0-97(1).psq
+______________________________
+PECUCHET x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x6-46(1).psq
+______________________________
+PureGM x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x4-52(1).psq
+______________________________
+fiverow x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x0-12(1).psq
+______________________________
+JUDE x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x0-19(1).psq
+______________________________
+PureGM x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x5-53(1).psq
+______________________________
+PECUCHET x Onix
+ 5) Onix.zip: Szint: 1 Érték:    0,819
+ 5) Onix.zip: 17, 12
+ 7) Onix.zip: Szint: 1 Érték:   -0,511
+ 7) Onix.zip: 15, 13
+ 9) Onix.zip: Szint: 1 Érték:   -1,430
+ 9) Onix.zip: 14, 11
+11) Onix.zip: Szint: 1 Érték:   -0,836
+11) Onix.zip: 16, 15
+13) Onix.zip: Szint: 1 Érték:   -0,583
+13) Onix.zip: 14, 14
+15) Onix.zip: Szint: 1 Érték:   -1,029
+15) Onix.zip: 15, 16
+17) Onix.zip: Szint: 1 Érték:   40,232
+17) Onix.zip: 17, 17
+19) Onix.zip: Szint: 1 Érték:   40,216
+19) Onix.zip: 19, 16
+21) Onix.zip: Szint: 1 Érték:    2,954
+21) Onix.zip: 19, 14
+23) Onix.zip: Szint: 1 Érték:   40,088
+23) Onix.zip: 14, 19
+25) Onix.zip: Szint: 1 Érték:    7,810
+25) Onix.zip: 18, 14
+27) Onix.zip: Szint: 1 Érték:    8,575
+27) Onix.zip: 13, 18
+29) Onix.zip: Szint: 1 Érték:   40,088
+29) Onix.zip: 16, 20
+31) Onix.zip: Szint: 1 Érték:   12,479
+31) Onix.zip: 13, 16
+33) Onix.zip: Szint: 1 Érték:   40,352
+33) Onix.zip: 15, 17
+35) Onix.zip: Szint: 1 Érték:   40,096
+35) Onix.zip: 18, 18
+37) Onix.zip: Szint: 1 Érték:  150,000
+37) Onix.zip: 13, 15
+39) Onix.zip: Szint: 1 Érték:  150,000
+39) Onix.zip: 13, 14
+41) Onix.zip: Szint: 1 Érték:  150,000
+41) Onix.zip: 13, 12
+43) Onix.zip: Szint: 1 Érték:  150,000
+43) Onix.zip: 15, 14
+45) Onix.zip: Szint: 1 Érték:  150,000
+45) Onix.zip: 14, 13
+47) Onix.zip: Szint: 1 Érték:  199,650
+47) Onix.zip: 14, 12
+49) Onix.zip: Szint: 1 Érték:   80,152
+49) Onix.zip: 14, 10
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x7-50(1).psq
+______________________________
+Onix x PureGM
+ 6) Onix.zip: Szint: 1 Érték:    1.397
+ 6) Onix.zip: 3, 5
+ 8) Onix.zip: Szint: 1 Érték:   40.288
+ 8) Onix.zip: 8, 5
+10) Onix.zip: Szint: 1 Érték:  150.000
+10) Onix.zip: 5, 7
+12) Onix.zip: Szint: 1 Érték:  150.000
+12) Onix.zip: 7, 6
+14) Onix.zip: Szint: 1 Érték:  150.000
+14) Onix.zip: 8, 7
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 8, 6
+18) Onix.zip: Szint: 1 Érték:  199.650
+18) Onix.zip: 8, 8
+20) Onix.zip: Szint: 1 Érték:   80.232
+20) Onix.zip: 8, 4
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x0-21(1).psq
+______________________________
+PureGM x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x6-22(1).psq
+______________________________
+PureGM x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -0.088
+ 7) Onix.zip: 7, 7
+ 9) Onix.zip: Szint: 1 Érték:   -0.952
+ 9) Onix.zip: 4, 4
+11) Onix.zip: Szint: 1 Érték:   -1.892
+11) Onix.zip: 5, 4
+13) Onix.zip: Szint: 1 Érték:   40.072
+13) Onix.zip: 1, 6
+15) Onix.zip: Szint: 1 Érték:    0.649
+15) Onix.zip: 3, 5
+17) Onix.zip: Szint: 1 Érték:    0.649
+17) Onix.zip: 7, 4
+19) Onix.zip: Szint: 1 Érték:  150.000
+19) Onix.zip: 7, 5
+21) Onix.zip: Szint: 1 Érték:  150.000
+21) Onix.zip: 8, 4
+23) Onix.zip: Szint: 1 Érték:  199.650
+23) Onix.zip: 9, 3
+25) Onix.zip: Szint: 1 Érték:   80.088
+25) Onix.zip: 10, 2
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x7-26(1).psq
+______________________________
+PECUCHET x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x0-31(1).psq
+______________________________
+TRUNKAT x swine
+ 5) swine.zip:   5.[ 5, 5]  4422 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 6]  6047 ms...Val=   273 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[ 6, 3]  8656 ms...Val=   340 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 7, 4]  8484 ms...Val=   496 (1/5/16) - toa: 30000
+13) swine.zip:  13.[ 7, 6]   672 ms...Val=   997 (1/1/6) - toa: 30000
+15) swine.zip:  15.[ 8, 5]    93 ms...WIN PN1 5824/2046 Tøi èuníci jdou... - toa: 30000
+17) swine.zip:  17.[ 9, 4]    32 ms...WIN PN1 3837/1347 :-) - toa: 30000
+19) swine.zip:  19.[ 8, 4]    15 ms...WIN PN1 2358/815 Tøi èuníci jdou... - toa: 30000
+21) swine.zip:  21.[10, 3]     0 ms...WIN PN1 827/267 Snad jsem nic nepøehlídla.. - toa: 30000
+23) swine.zip:  23.[10, 4]     0 ms...WIN PN1 552/178 Že by?. - toa: 30000
+25) swine.zip:  25.[10, 5]    16 ms...WIN PN1 367/114 Vypadá to výbornì. - toa: 30000
+27) swine.zip:  27.[10, 6]    16 ms...WIN PN1 145/47 Tøi èuníci jdou... - toa: 30000
+29) swine.zip:  29.[ 8, 3]    15 ms...WIN PN1 87/29 Vypadá to výbornì. - toa: 30000
+31) swine.zip:  31.[ 9, 7]     0 ms...No jo. - toa: 30000
+33) swine.zip:  33.[ 4, 7]     0 ms...Už to nechci. - toa: 30000
+35) swine.zip:  35.[ 2, 1]    16 ms...Jen si hraj. - toa: 30000
+37) swine.zip:  37.[ 8, 9]    16 ms...Co se dá dìlat? - toa: 30000
+39) swine.zip:  39.[ 5,10]    15 ms...No jo. - toa: 30000
+41) swine.zip:  41.[ 7, 2]    16 ms...Zkus trochu víc trénovat. - toa: 30000
+43) swine.zip:  43.[11, 6]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x1-44(1).psq
+______________________________
+BENJAMIN x swine
+ 5) swine.zip:   5.[ 5, 5]  4531 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 6]  5844 ms...Val=   273 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[ 6, 3]  9812 ms...Val=   340 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 7, 5]  7359 ms...Val=   567 (1/9/16) - toa: 30000
+13) swine.zip:  13.[ 7, 4]  1875 ms...WIN AB 0 To snad pude. - toa: 30000
+15) swine.zip:  15.[ 7, 3]    15 ms...WIN PN1 301/106 Vypadá to výbornì. - toa: 30000
+17) swine.zip:  17.[ 9, 3]    16 ms...WIN PN1 95/34 Držte si klobouky... - toa: 30000
+19) swine.zip:  19.[ 8, 3]     0 ms...To se musíte víc snažit, pane správce. - toa: 30000
+21) swine.zip:  21.[ 5, 3]     0 ms...Hmm, to máš blbý. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x1-22(1).psq
+______________________________
+swine x TRUNKAT
+ 6) swine.zip:   6.[ 6, 6]  3500 ms...Val=   561 (1/1/16) - toa: 30000
+ 8) swine.zip:   8.[ 6, 4] 10953 ms...Val=   457 (1/1/16) - toa: 30000
+10) swine.zip:  10.[ 1, 4]  2812 ms...Val=   937 (1/1/3) - toa: 30000
+12) swine.zip:  12.[ 6, 7] 10859 ms...WIN AB 2 To snad pude. - toa: 30000
+14) swine.zip:  14.[ 6, 8]    16 ms...WIN PN1 4921/1615 To snad pude. - toa: 30000
+16) swine.zip:  16.[ 6, 9]    16 ms...WIN PN1 3586/1181 Vypadá to výbornì. - toa: 30000
+18) swine.zip:  18.[ 7, 8]    15 ms...WIN PN1 2344/777 To snad pude. - toa: 30000
+20) swine.zip:  20.[ 5,10]    15 ms...WIN PN1 1771/590 Je to na dobré cestì.! - toa: 30000
+22) swine.zip:  22.[ 8, 7]     0 ms...WIN PN1 799/273 Vypadá to výbornì. - toa: 30000
+24) swine.zip:  24.[ 5, 8]     0 ms...WIN PN1 504/164 Vypadá to výbornì. - toa: 30000
+26) swine.zip:  26.[ 5, 7]    16 ms...WIN fours seq 1 Je to na dobré cestì.! - toa: 30000
+28) swine.zip:  28.[ 7, 7]     0 ms...Nic si z toho nedìlej. - toa: 30000
+30) swine.zip:  30.[ 9, 7]    15 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x2-31(1).psq
+______________________________
+nabamoku_java-client x swine
+ 5) swine.zip:   5.[ 5, 5]  6375 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 6]  8844 ms...Val=   273 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[ 6, 3] 13515 ms...Val=   340 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 7, 4] 13875 ms...Val=   496 (1/5/16) - toa: 30000
+13) swine.zip:  13.[ 8, 7]  4687 ms...Val=   752 (1/2/6) - toa: 30000
+15) swine.zip:  15.[ 3, 2]     0 ms...Tohle mì nebaví. - toa: 30000
+17) swine.zip:  17.[ 2, 3]  1047 ms...Val=  1169 (1/1/16) - toa: 30000
+19) swine.zip:  19.[ 5, 7]  1594 ms...WIN AB 2 :-)) - toa: 30000
+21) swine.zip:  21.[ 4, 6]     0 ms...Co se dá dìlat? - toa: 30000
+23) swine.zip:  23.[ 8, 8]    16 ms...WIN PN1 150/49 Držte si klobouky... - toa: 30000
+25) swine.zip:  25.[ 8, 5]    16 ms...WIN PN1 89/31 Držte si klobouky... - toa: 30000
+27) swine.zip:  27.[ 7, 8]    15 ms...Baví tì to? - toa: 30000
+29) swine.zip:  29.[ 9, 6]     0 ms...WIN fours seq 1 To snad pude. - toa: 30000
+31) swine.zip:  31.[10, 5]     0 ms...Ale to je mi líto. - toa: 30000
+33) swine.zip:  33.[11, 4]     0 ms...Nechceš si o tom promluvit? - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x1-34(1).psq
+______________________________
+fiverow x swine
+ 5) swine.zip:   5.[ 5, 5]  4469 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 6]  5922 ms...Val=   273 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[ 6, 3]  9094 ms...Val=   340 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 7, 3]  5812 ms...WIN AB 0 To snad pude. - toa: 30000
+13) swine.zip:  13.[ 8, 3]    79 ms...WIN PN1 4700/1621 :-) - toa: 30000
+15) swine.zip:  15.[ 4, 3]    32 ms...WIN PN1 1398/490 :-) - toa: 30000
+17) swine.zip:  17.[ 5, 2]    15 ms...WIN PN1 1394/488 :-)) - toa: 30000
+19) swine.zip:  19.[ 6, 1]    16 ms...Ale to je mi líto. - toa: 30000
+21) swine.zip:  21.[ 7, 0]    16 ms...Prohrál jste, saláte! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x1-22(1).psq
+______________________________
+PureGM x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x8-32(1).psq
+______________________________
+swine x nabamoku_java-client
+ 6) swine.zip:   6.[ 2, 4]  4735 ms...Val=   691 (1/3/3) - toa: 30000
+ 8) swine.zip:   8.[ 5, 4]   843 ms...WIN AB 0 Držte si klobouky... - toa: 30000
+10) swine.zip:  10.[ 3, 6]    31 ms...WIN PN1 3973/1498 To snad pude. - toa: 30000
+12) swine.zip:  12.[ 6, 3]    16 ms...WIN PN1 3670/1325 Snad jsem nic nepøehlídla.. - toa: 30000
+14) swine.zip:  14.[ 6, 5]    31 ms...WIN PN1 3475/1284 Je to na dobré cestì.! - toa: 30000
+16) swine.zip:  16.[ 4, 3]    16 ms...WIN PN1 2111/776 Chro chro. - toa: 30000
+18) swine.zip:  18.[ 5, 3]     0 ms...WIN PN1 318/109 :-) - toa: 30000
+20) swine.zip:  20.[ 2, 3]     0 ms...WIN fours seq 2 Chro chro. - toa: 30000
+22) swine.zip:  22.[ 2, 1]     0 ms...WIN fours seq 1 Vypadá to výbornì. - toa: 30000
+24) swine.zip:  24.[ 2, 2]     0 ms...Juch! - toa: 30000
+26) swine.zip:  26.[ 2, 0]    15 ms...Zkus to znova - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x3-27(1).psq
+______________________________
+swine x BENJAMIN
+ 6) swine.zip:   6.[ 6, 6]  3468 ms...Val=   561 (1/1/16) - toa: 30000
+ 8) swine.zip:   8.[ 6, 4]  9890 ms...Val=   457 (1/1/16) - toa: 30000
+10) swine.zip:  10.[ 7, 8] 13875 ms...Val=   765 (1/10/16) - toa: 30000
+12) swine.zip:  12.[ 9, 6]  8515 ms...Val=   856 (1/9/16) - toa: 30000
+14) swine.zip:  14.[ 7, 6]  2062 ms...Val=   750 (1/1/16) - toa: 30000
+16) swine.zip:  16.[ 8, 5]  1421 ms...Val=   757 (1/1/16) - toa: 30000
+18) swine.zip:  18.[10, 7]  8328 ms...Val=   782 (1/3/16) - toa: 30000
+20) swine.zip:  20.[ 9, 7]  9500 ms...Val=   848 (1/9/16) - toa: 30000
+22) swine.zip:  22.[10, 6]  4750 ms...Val=  1017 (1/6/16) - toa: 30000
+24) swine.zip:  24.[10, 5]    16 ms...WIN PN1 491/182 Vypadá to výbornì. - toa: 30000
+26) swine.zip:  26.[10, 3]     0 ms...WIN PN1 146/57 :-) - toa: 30000
+28) swine.zip:  28.[ 9, 4]    16 ms...WIN PN1 142/55 To by mìlo vyjít. - toa: 30000
+30) swine.zip:  30.[11, 8]     0 ms...WIN PN1 698/259 To by mìlo vyjít. - toa: 30000
+32) swine.zip:  32.[ 9, 5]     0 ms...WIN PN1 79/31 Vypadá to výbornì. - toa: 30000
+34) swine.zip:  34.[11, 5]     0 ms...WIN PN1 72/28 Tøi èuníci jdou... - toa: 30000
+36) swine.zip:  36.[11, 6]     0 ms...WIN PN1 93/35 :-)) - toa: 30000
+38) swine.zip:  38.[12, 7]     0 ms...Juch! - toa: 30000
+40) swine.zip:  40.[ 8, 3]    15 ms...Prohrál jste, saláte! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x4-41(1).psq
+______________________________
+swine x fiverow
+ 6) swine.zip:   6.[ 6, 6]  3375 ms...Val=   561 (1/1/16) - toa: 30000
+ 8) swine.zip:   8.[ 6, 4] 10203 ms...Val=   457 (1/1/16) - toa: 30000
+10) swine.zip:  10.[ 2, 4]  2781 ms...Val=   893 (1/1/3) - toa: 30000
+12) swine.zip:  12.[ 6, 7]  7516 ms...WIN AB 2 Tøi èuníci jdou... - toa: 30000
+14) swine.zip:  14.[ 8, 6]  1469 ms...WIN AB 0 Chro chro. - toa: 30000
+16) swine.zip:  16.[ 7, 6]    31 ms...WIN PN1 3119/1075 To by mìlo vyjít. - toa: 30000
+18) swine.zip:  18.[ 9, 4]    16 ms...WIN PN1 2069/720 :-) - toa: 30000
+20) swine.zip:  20.[ 7, 4]    16 ms...WIN PN3 566/193 :-) - toa: 30000
+22) swine.zip:  22.[ 7, 8]     0 ms...WIN PN1 121/42 Držte si klobouky... - toa: 30000
+24) swine.zip:  24.[ 7, 5]     0 ms...WIN PN1 90/32 Vypadá to výbornì. - toa: 30000
+26) swine.zip:  26.[ 4, 2]    16 ms...WIN PN1 65/24 :-) - toa: 30000
+28) swine.zip:  28.[ 7, 2]     0 ms...WIN PN1 59/21 Snad jsem nic nepøehlídla.. - toa: 30000
+30) swine.zip:  30.[ 8, 3]    16 ms...WIN PN3 33/13 :-)) - toa: 30000
+32) swine.zip:  32.[ 4, 3]     0 ms...Tohle mì nebaví. - toa: 30000
+34) swine.zip:  34.[ 1, 1]    16 ms...Dej mi pokoj. - toa: 30000
+36) swine.zip:  36.[10, 5]    16 ms...Hmm, to máš blbý. - toa: 30000
+38) swine.zip:  38.[11, 6]    16 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x5-39(1).psq
+______________________________
+nabamoku_java-client x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x2-32(1).psq
+______________________________
+TRUNKAT x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x3-21(1).psq
+______________________________
+Onix x swine
+ 5) swine.zip:   5.[ 5, 5]  6422 ms...Val=   261 (1/4/16) - toa: 30000
+ 6) Onix.zip: Szint: 1 Érték:    2,612
+ 6) Onix.zip: 7, 7
+ 7) swine.zip:   7.[ 7, 6]  8375 ms...Val=    60 (1/8/16) - toa: 30000
+ 8) Onix.zip: Szint: 1 Érték:    2,838
+ 8) Onix.zip: 6, 5
+ 9) swine.zip:   9.[ 6, 3]  6843 ms...Val=   164 (1/1/16) - toa: 30000
+10) Onix.zip: Szint: 1 Érték:    5,335
+10) Onix.zip: 5, 7
+11) swine.zip:  11.[ 5, 7]  5828 ms...Val=   -16 (1/4/16) - toa: 30000
+12) Onix.zip: Szint: 1 Érték:    3,878
+12) Onix.zip: 5, 8
+13) swine.zip:  13.[ 3, 8]  3406 ms...Val=    46 (1/7/16) - toa: 30000
+14) Onix.zip: Szint: 1 Érték:    4,213
+14) Onix.zip: 6, 9
+15) swine.zip:  15.[ 6, 9]  2844 ms...Val=   290 (1/4/16) - toa: 30000
+16) Onix.zip: Szint: 1 Érték:    1,875
+16) Onix.zip: 5, 10
+17) swine.zip:  17.[ 4, 8]    16 ms...No to je zábava. - toa: 30000
+18) Onix.zip: Szint: 1 Érték:   -0,136
+18) Onix.zip: 4, 11
+19) swine.zip:  19.[ 2,11]  1891 ms...Val=   588 (1/1/16) - toa: 30000
+20) Onix.zip: Szint: 1 Érték:    1,848
+20) Onix.zip: 5, 12
+21) swine.zip:  21.[ 5,12]  5516 ms...Val=   614 (1/6/16) - toa: 30000
+22) Onix.zip: Szint: 1 Érték:   -1,584
+22) Onix.zip: 5, 11
+23) swine.zip:  23.[ 4,13]  7859 ms...Val=   803 (1/1/16) - toa: 30000
+24) Onix.zip: Szint: 1 Érték:  150,000
+24) Onix.zip: 4, 7
+25) swine.zip:  25.[ 2, 6]    16 ms...Necht toho. - toa: 30000
+26) Onix.zip: Szint: 1 Érték:  150,000
+26) Onix.zip: 2, 9
+27) swine.zip:  27.[ 2, 7]    15 ms...No to je zábava. - toa: 30000
+28) Onix.zip: Szint: 1 Érték:  150,000
+28) Onix.zip: 3, 10
+29) swine.zip:  29.[ 0, 7]     0 ms...Už to nechci. - toa: 30000
+30) Onix.zip: Szint: 1 Érték:  150,000
+30) Onix.zip: 2, 11
+31) swine.zip:  31.[ 2,10]     0 ms...:-(( - toa: 30000
+32) Onix.zip: Szint: 1 Érték:  150,000
+32) Onix.zip: 2, 10
+33) swine.zip:  33.[ 1,11]     0 ms...To vypadá zle. - toa: 30000
+34) Onix.zip: Szint: 1 Érték:   56,336
+34) Onix.zip: 4, 10
+35) swine.zip:  35.[ 0, 0]     0 ms...To se ti povedlo. - toa: 30000
+36) Onix.zip: Szint: 1 Érték:   80,848
+36) Onix.zip: 6, 10
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x1-37(1).psq
+______________________________
+JUDE x swine
+ 5) swine.zip:   5.[ 5, 5]  6407 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 7, 6]  8375 ms...Val=    60 (1/8/16) - toa: 30000
+ 9) swine.zip:   9.[ 2, 4]  2578 ms...Val=   272 (1/1/16) - toa: 30000
+11) swine.zip:  11.[ 1, 4]  2813 ms...Val=   200 (1/3/16) - toa: 30000
+13) swine.zip:  13.[ 3, 6]  2265 ms...Val=     4 (1/1/16) - toa: 30000
+15) swine.zip:  15.[ 4, 7]   922 ms...Val=   453 (1/5/16) - toa: 30000
+17) swine.zip:  17.[ 6, 7]  2218 ms...Val=   424 (1/1/16) - toa: 30000
+19) swine.zip:  19.[ 0, 5]     0 ms...Kolik jich tam ještì máš? - toa: 30000
+21) swine.zip:  21.[ 4, 8]  4953 ms...Val=   571 (1/7/16) - toa: 30000
+23) swine.zip:  23.[ 7, 9]     0 ms...Co se dá dìlat? - toa: 30000
+25) swine.zip:  25.[ 4, 9]    15 ms...WIN PN1 2773/957 To snad pude. - toa: 30000
+27) swine.zip:  27.[ 5, 9]    93 ms...WIN AB 0 To snad pude. - toa: 30000
+29) swine.zip:  29.[ 4,10]     0 ms...WIN PN1 1460/527 Chro chro. - toa: 30000
+31) swine.zip:  31.[ 6,10]     0 ms...WIN PN1 1188/440 Chro chro. - toa: 30000
+33) swine.zip:  33.[ 5,10]    16 ms...WIN PN1 1005/380 Vypadá to výbornì. - toa: 30000
+35) swine.zip:  35.[ 3,10]    15 ms...WIN fours seq 3 Snad jsem nic nepøehlídla.. - toa: 30000
+37) swine.zip:  37.[ 3, 7]     0 ms...WIN fours seq 2 Vypadá to výbornì. - toa: 30000
+39) swine.zip:  39.[ 3, 8]    15 ms...WIN fours seq 1 To snad pude. - toa: 30000
+41) swine.zip:  41.[ 6,11]     0 ms...Tak snad nìkdy pøíštì. - toa: 30000
+43) swine.zip:  43.[ 7,12]    16 ms...To se musíte víc snažit, pane správce. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x1-44(1).psq
+______________________________
+BENJAMIN x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x2-24(1).psq
+______________________________
+TRUNKAT x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x4-27(1).psq
+______________________________
+fiverow x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x2-33(1).psq
+______________________________
+TRUNKAT x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x5-31(1).psq
+______________________________
+PECUCHET x swine
+ 5) swine.zip:   5.[ 5, 5]  4265 ms...Val=   261 (1/4/16) - toa: 30000
+ 7) swine.zip:   7.[ 7, 6]  5750 ms...Val=    60 (1/8/16) - toa: 30000
+ 9) swine.zip:   9.[ 5, 4]  1890 ms...Val=   189 (1/1/16) - toa: 30000
+11) swine.zip:  11.[ 2, 6]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+13) swine.zip:  13.[ 5, 7]  1563 ms...Val=   368 (1/1/6) - toa: 30000
+15) swine.zip:  15.[ 7, 4]   563 ms...Val=   411 (1/1/16) - toa: 30000
+17) swine.zip:  17.[ 6, 7]   953 ms...Val=   385 (1/1/16) - toa: 30000
+19) swine.zip:  19.[ 4, 9]  1157 ms...Val=   199 (1/8/16) - toa: 30000
+21) swine.zip:  21.[ 2, 5]   500 ms...Val=   135 (1/1/16) - toa: 30000
+23) swine.zip:  23.[ 2, 9]     0 ms...Dej mi pokoj. - toa: 30000
+25) swine.zip:  25.[ 3, 9]     0 ms...Dej mi pokoj. - toa: 30000
+27) swine.zip:  27.[ 7,10]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+29) swine.zip:  29.[ 2, 8]   188 ms...Val=   704 (1/1/16) - toa: 30000
+31) swine.zip:  31.[ 0, 7]  2219 ms...Val=   787 (1/4/16) - toa: 30000
+33) swine.zip:  33.[ 6, 2]     0 ms...Tohle mì nebaví. - toa: 30000
+35) swine.zip:  35.[ 1, 8]     0 ms...Kolik jich tam ještì máš? - toa: 30000
+37) swine.zip:  37.[ 1, 3]    16 ms...Tohle mì nebaví. - toa: 30000
+39) swine.zip:  39.[ 4, 3]    16 ms...WIN fours seq 9 To snad pude. - toa: 30000
+41) swine.zip:  41.[ 5, 2]     0 ms...WIN fours seq 8 :-) - toa: 30000
+43) swine.zip:  43.[ 5, 3]    16 ms...WIN fours seq 7 Vypadá to výbornì. - toa: 30000
+45) swine.zip:  45.[ 3, 3]     0 ms...WIN fours seq 6 Snad jsem nic nepøehlídla.. - toa: 30000
+47) swine.zip:  47.[ 2, 2]     0 ms...WIN fours seq 5 Chro chro. - toa: 30000
+49) swine.zip:  49.[ 4, 2]     0 ms...WIN fours seq 4 Že by?. - toa: 30000
+51) swine.zip:  51.[ 7, 2]     0 ms...WIN fours seq 2 Chro chro. - toa: 30000
+53) swine.zip:  53.[ 7, 1]     0 ms...WIN fours seq 1 Tøi èuníci jdou... - toa: 30000
+55) swine.zip:  55.[ 7, 3]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+57) swine.zip:  57.[ 7, 5]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x1-58(1).psq
+______________________________
+JUDE x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x2-39(1).psq
+______________________________
+swine x JUDE
+ 6) swine.zip:   6.[ 6, 5]  8046 ms...Val=   565 (1/10/16) - toa: 30000
+ 8) swine.zip:   8.[ 2, 4]  8468 ms...Val=   395 (1/8/16) - toa: 30000
+10) swine.zip:  10.[ 5, 2]  4531 ms...Val=   376 (1/1/4) - toa: 30000
+12) swine.zip:  12.[ 3, 3]  4375 ms...Val=   382 (1/6/16) - toa: 30000
+14) swine.zip:  14.[ 5, 4]    16 ms...Dej mi pokoj. - toa: 30000
+16) swine.zip:  16.[ 1, 6]     0 ms...Tohle mì nebaví. - toa: 30000
+18) swine.zip:  18.[ 3, 7]  1766 ms...Val=   694 (1/2/16) - toa: 30000
+20) swine.zip:  20.[ 8, 2]     0 ms...Necht toho. - toa: 30000
+22) swine.zip:  22.[ 7, 5]  2141 ms...Val=   788 (1/2/16) - toa: 30000
+24) swine.zip:  24.[ 5, 1]  1453 ms...WIN AB 3 To by mìlo vyjít. - toa: 30000
+26) swine.zip:  26.[ 6, 3]    15 ms...Baví tì to? - toa: 30000
+28) swine.zip:  28.[ 2, 7]    16 ms...WIN PN1 167/63 :-)) - toa: 30000
+30) swine.zip:  30.[ 3, 8]     0 ms...WIN PN1 107/40 Držte si klobouky... - toa: 30000
+32) swine.zip:  32.[ 2, 0]     0 ms...Tohle mì nebaví. - toa: 30000
+34) swine.zip:  34.[ 4, 0]     0 ms...Už to nechci. - toa: 30000
+36) swine.zip:  36.[ 7, 1]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+38) swine.zip:  38.[ 4, 7]     0 ms...WIN fours seq 1 :-)) - toa: 30000
+40) swine.zip:  40.[ 5, 7]     0 ms...Ale to je mi líto. - toa: 30000
+42) swine.zip:  42.[ 1, 7]    16 ms...Nic si z toho nedìlej. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x6-43(1).psq
+______________________________
+Onix x TRUNKAT
+ 6) Onix.zip: Szint: 1 Érték:    2,612
+ 6) Onix.zip: 7, 7
+ 8) Onix.zip: Szint: 1 Érték:    4,582
+ 8) Onix.zip: 7, 5
+10) Onix.zip: Szint: 1 Érték:    8,651
+10) Onix.zip: 6, 5
+12) Onix.zip: Szint: 1 Érték:  150,000
+12) Onix.zip: 7, 6
+14) Onix.zip: Szint: 1 Érték:  150,000
+14) Onix.zip: 8, 7
+16) Onix.zip: Szint: 1 Érték:  150,000
+16) Onix.zip: 7, 4
+18) Onix.zip: Szint: 1 Érték:  150,000
+18) Onix.zip: 8, 5
+20) Onix.zip: Szint: 1 Érték:  150,000
+20) Onix.zip: 10, 7
+22) Onix.zip: Szint: 1 Érték:  199,650
+22) Onix.zip: 9, 6
+24) Onix.zip: Szint: 1 Érték:   80,344
+24) Onix.zip: 6, 3
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x2-25(1).psq
+______________________________
+TRUNKAT x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -1,556
+ 7) Onix.zip: 7, 4
+ 9) Onix.zip: Szint: 1 Érték:    6,080
+ 9) Onix.zip: 5, 4
+11) Onix.zip: Szint: 1 Érték:  150,000
+11) Onix.zip: 6, 3
+13) Onix.zip: Szint: 1 Érték:  150,000
+13) Onix.zip: 3, 3
+15) Onix.zip: Szint: 1 Érték:  150,000
+15) Onix.zip: 5, 3
+17) Onix.zip: Szint: 1 Érték:  150,000
+17) Onix.zip: 5, 2
+19) Onix.zip: Szint: 1 Érték:  199,650
+19) Onix.zip: 8, 5
+21) Onix.zip: Szint: 1 Érték:   80,168
+21) Onix.zip: 9, 6
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x7-22(1).psq
+______________________________
+TRUNKAT x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x6-47(1).psq
+______________________________
+swine x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,191
+ 5) Onix.zip: 6, 6
+ 6) swine.zip:   6.[ 6, 6]  4969 ms...Val=   561 (1/1/16) - toa: 30000
+ 7) Onix.zip: Szint: 1 Érték:   -5,110
+ 7) Onix.zip: 5, 7
+ 8) swine.zip:   8.[ 6, 4] 14938 ms...Val=   457 (1/1/16) - toa: 30000
+ 9) Onix.zip: Szint: 1 Érték:   -5,335
+ 9) Onix.zip: 7, 6
+10) swine.zip:  10.[ 7, 8] 20531 ms...Val=   765 (1/10/16) - toa: 30000
+11) Onix.zip: Szint: 1 Érték:   -4,054
+11) Onix.zip: 9, 8
+12) swine.zip:  12.[ 7, 6]  3985 ms...Val=  1001 (1/2/16) - toa: 30000
+13) Onix.zip: Szint: 1 Érték:   -5,422
+13) Onix.zip: 9, 7
+14) swine.zip:  14.[ 8, 4]  7516 ms...Val=  1058 (1/6/16) - toa: 30000
+15) Onix.zip: Szint: 1 Érték:   -7,425
+15) Onix.zip: 8, 5
+16) swine.zip:  16.[ 8, 8]  8125 ms...Val=  1096 (1/6/16) - toa: 30000
+17) Onix.zip: Szint: 1 Érték:   -7,865
+17) Onix.zip: 7, 8
+18) swine.zip:  18.[ 9, 7]  9000 ms...Val=  1339 (1/10/16) - toa: 30000
+19) Onix.zip: Szint: 1 Érték:  -12,540
+19) Onix.zip: 2, 5
+20) swine.zip:  20.[ 2, 4]  3891 ms...WIN AB 3 To by mìlo vyjít. - toa: 30000
+21) Onix.zip: Szint: 1 Érték: -170,000
+21) Onix.zip: 8, 10
+22) swine.zip:  22.[ 9, 5]  6563 ms...WIN AB 0 :-) - toa: 30000
+23) Onix.zip: Szint: 1 Érték: -170,000
+23) Onix.zip: 10, 9
+24) swine.zip:  24.[10, 6]    16 ms...WIN PN1 1476/527 Vypadá to výbornì. - toa: 30000
+25) Onix.zip: Szint: 1 Érték: -170,000
+25) Onix.zip: 8, 4
+26) swine.zip:  26.[11, 5]    16 ms...WIN PN1 670/232 Je to na dobré cestì.! - toa: 30000
+27) Onix.zip: Szint: 1 Érték:   40,144
+27) Onix.zip: 13, 5
+28) swine.zip:  28.[10, 5]    16 ms...WIN PN1 842/295 Je to na dobré cestì.! - toa: 30000
+29) Onix.zip: Szint: 1 Érték: -170,000
+29) Onix.zip: 9, 6
+30) swine.zip:  30.[11, 7]    16 ms...WIN PN1 790/272 Že by?. - toa: 30000
+31) Onix.zip: Szint: 1 Érték:   40,232
+31) Onix.zip: 13, 9
+32) swine.zip:  32.[12, 5]    15 ms...WIN PN1 588/195 Chro chro. - toa: 30000
+33) Onix.zip: Szint: 1 Érték:   40,432
+33) Onix.zip: 14, 6
+34) swine.zip:  34.[10, 4]    16 ms...WIN PN1 271/91 To snad pude. - toa: 30000
+35) Onix.zip: Szint: 1 Érték: -170,000
+35) Onix.zip: 11, 8
+36) swine.zip:  36.[10, 2]     0 ms...WIN fours seq 2 Vypadá to výbornì. - toa: 30000
+37) Onix.zip: Szint: 1 Érték:   40,392
+37) Onix.zip: 11, 4
+38) swine.zip:  38.[ 9, 3]     0 ms...WIN fours seq 1 Vypadá to výbornì. - toa: 30000
+39) Onix.zip: Szint: 1 Érték:   40,336
+39) Onix.zip: 8, 6
+40) swine.zip:  40.[12, 6]    16 ms...Nechceš si o tom promluvit? - toa: 30000
+41) Onix.zip: Szint: 1 Érték:   40,664
+41) Onix.zip: 14, 8
+42) swine.zip:  42.[ 8, 2]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x7-43(1).psq
+______________________________
+swine x PECUCHET
+ 6) swine.zip:   6.[ 6, 6]  3484 ms...Val=   561 (1/1/16) - toa: 30000
+ 8) swine.zip:   8.[ 5, 4]  1656 ms...Val=   723 (1/1/3) - toa: 30000
+10) swine.zip:  10.[ 7, 3]  5016 ms...Val=   711 (1/1/4) - toa: 30000
+12) swine.zip:  12.[ 2, 8]     0 ms...No to je zábava. - toa: 30000
+14) swine.zip:  14.[ 7, 6] 17250 ms...Val=  1168 (1/3/16) - toa: 30000
+16) swine.zip:  16.[ 6, 1]   469 ms...WIN AB -1 :-)) - toa: 30000
+18) swine.zip:  18.[ 7, 5]   281 ms...WIN PN1 19072/7305 To by mìlo vyjít. - toa: 30000
+20) swine.zip:  20.[ 7, 7]    16 ms...WIN PN1 114/43 Vypadá to výbornì. - toa: 30000
+22) swine.zip:  22.[ 7, 8]     0 ms...WIN PN1 86/32 Držte si klobouky... - toa: 30000
+24) swine.zip:  24.[ 6, 7]     0 ms...WIN PN1 74/27 To by mìlo vyjít. - toa: 30000
+26) swine.zip:  26.[ 9, 6]     0 ms...WIN PN1 116/39 Držte si klobouky... - toa: 30000
+28) swine.zip:  28.[ 5, 7]     0 ms...WIN PN1 71/24 Tøi èuníci jdou... - toa: 30000
+30) swine.zip:  30.[ 8, 4]     0 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+32) swine.zip:  32.[ 9, 3]    16 ms...Tak snad nìkdy pøíštì. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x8-33(1).psq
+______________________________
+fiverow x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x3-23(1).psq
+______________________________
+JUDE x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x3-31(1).psq
+______________________________
+PECUCHET x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x2-27(1).psq
+______________________________
+TRUNKAT x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x8-32(2).psq
+______________________________
+nabamoku_java-client x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x6-41(1).psq
+______________________________
+nabamoku_java-client x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x5-66(1).psq
+______________________________
+fiverow x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x4-18(1).psq
+______________________________
+BENJAMIN x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x5-42(1).psq
+______________________________
+Onix x nabamoku_java-client
+ 6) Onix.zip: Szint: 1 Érték:    2,310
+ 6) Onix.zip: 6, 5
+ 8) Onix.zip: Szint: 1 Érték:    4,092
+ 8) Onix.zip: 7, 7
+10) Onix.zip: Szint: 1 Érték:    3,745
+10) Onix.zip: 8, 4
+12) Onix.zip: Szint: 1 Érték:   40,120
+12) Onix.zip: 3, 9
+14) Onix.zip: Szint: 1 Érték:   12,386
+14) Onix.zip: 8, 6
+16) Onix.zip: Szint: 1 Érték:  150,000
+16) Onix.zip: 8, 5
+18) Onix.zip: Szint: 1 Érték:  150,000
+18) Onix.zip: 8, 7
+20) Onix.zip: Szint: 1 Érték:  150,000
+20) Onix.zip: 10, 7
+22) Onix.zip: Szint: 1 Érték:  150,000
+22) Onix.zip: 9, 6
+24) Onix.zip: Szint: 1 Érték:   42,120
+24) Onix.zip: 7, 8
+26) Onix.zip: Szint: 1 Érték:   40,288
+26) Onix.zip: 3, 8
+28) Onix.zip: Szint: 1 Érték:  199,650
+28) Onix.zip: 7, 4
+30) Onix.zip: Szint: 1 Érték:   80,144
+30) Onix.zip: 11, 8
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x3-31(1).psq
+______________________________
+PECUCHET x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x3-25(1).psq
+______________________________
+BENJAMIN x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x3-92(1).psq
+______________________________
+nabamoku_java-client x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -1,556
+ 7) Onix.zip: 7, 4
+ 9) Onix.zip: Szint: 1 Érték:   -2,283
+ 9) Onix.zip: 5, 7
+11) Onix.zip: Szint: 1 Érték:   -2,948
+11) Onix.zip: 8, 5
+13) Onix.zip: Szint: 1 Érték:   -1,485
+13) Onix.zip: 9, 7
+15) Onix.zip: Szint: 1 Érték:    2,189
+15) Onix.zip: 10, 6
+17) Onix.zip: Szint: 1 Érték:   15,354
+17) Onix.zip: 9, 6
+19) Onix.zip: Szint: 1 Érték:  150,000
+19) Onix.zip: 11, 6
+21) Onix.zip: Szint: 1 Érték:  150,000
+21) Onix.zip: 11, 8
+23) Onix.zip: Szint: 1 Érték:  150,000
+23) Onix.zip: 12, 6
+25) Onix.zip: Szint: 1 Érték:  150,000
+25) Onix.zip: 11, 7
+27) Onix.zip: Szint: 1 Érték:  150,000
+27) Onix.zip: 10, 8
+29) Onix.zip: Szint: 1 Érték:  150,000
+29) Onix.zip: 12, 8
+31) Onix.zip: Szint: 1 Érték:  150,000
+31) Onix.zip: 11, 5
+33) Onix.zip: Szint: 1 Érték:  150,000
+33) Onix.zip: 14, 8
+35) Onix.zip: Szint: 1 Érték:  199,650
+35) Onix.zip: 13, 7
+37) Onix.zip: Szint: 1 Érték:   80,144
+37) Onix.zip: 15, 9
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x7-38(1).psq
+______________________________
+Onix x BENJAMIN
+ 6) Onix.zip: Szint: 1 Érték:    2,612
+ 6) Onix.zip: 7, 7
+ 8) Onix.zip: Szint: 1 Érték:    4,582
+ 8) Onix.zip: 7, 5
+10) Onix.zip: Szint: 1 Érték:    4,747
+10) Onix.zip: 6, 5
+12) Onix.zip: Szint: 1 Érték:    6,694
+12) Onix.zip: 9, 7
+14) Onix.zip: Szint: 1 Érték:    5,307
+14) Onix.zip: 9, 6
+16) Onix.zip: Szint: 1 Érték:    8,476
+16) Onix.zip: 10, 7
+18) Onix.zip: Szint: 1 Érték:    8,521
+18) Onix.zip: 8, 8
+20) Onix.zip: Szint: 1 Érték:  150,000
+20) Onix.zip: 9, 8
+22) Onix.zip: Szint: 1 Érték:  150,000
+22) Onix.zip: 9, 10
+24) Onix.zip: Szint: 1 Érték:  150,000
+24) Onix.zip: 7, 8
+26) Onix.zip: Szint: 1 Érték:  199,650
+26) Onix.zip: 6, 8
+28) Onix.zip: Szint: 1 Érték:   80,344
+28) Onix.zip: 10, 8
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x4-29(1).psq
+______________________________
+BENJAMIN x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -1,556
+ 7) Onix.zip: 7, 4
+ 9) Onix.zip: Szint: 1 Érték:   -2,283
+ 9) Onix.zip: 5, 7
+11) Onix.zip: Szint: 1 Érték:   -2,948
+11) Onix.zip: 8, 5
+13) Onix.zip: Szint: 1 Érték:   -1,485
+13) Onix.zip: 9, 7
+15) Onix.zip: Szint: 1 Érték:    2,189
+15) Onix.zip: 10, 6
+17) Onix.zip: Szint: 1 Érték:    1,348
+17) Onix.zip: 10, 5
+19) Onix.zip: Szint: 1 Érték:  150,000
+19) Onix.zip: 10, 7
+21) Onix.zip: Szint: 1 Érték:  150,000
+21) Onix.zip: 12, 7
+23) Onix.zip: Szint: 1 Érték:  150,000
+23) Onix.zip: 10, 9
+25) Onix.zip: Szint: 1 Érték:  150,000
+25) Onix.zip: 11, 6
+27) Onix.zip: Szint: 1 Érték:  150,000
+27) Onix.zip: 12, 5
+29) Onix.zip: Szint: 1 Érték:  150,000
+29) Onix.zip: 13, 6
+31) Onix.zip: Szint: 1 Érték:  150,000
+31) Onix.zip: 12, 6
+33) Onix.zip: Szint: 1 Érték:  199,650
+33) Onix.zip: 12, 8
+35) Onix.zip: Szint: 1 Érték:   80,296
+35) Onix.zip: 12, 9
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x7-36(1).psq
+______________________________
+JUDE x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x4-81(1).psq
+______________________________
+nabamoku_java-client x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x8-48(1).psq
+______________________________
+nabamoku_java-client x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x4-298(1).psq
+______________________________
+Onix x fiverow
+ 6) Onix.zip: Szint: 1 Érték:    2.612
+ 6) Onix.zip: 7, 7
+ 8) Onix.zip: Szint: 1 Érték:    4.582
+ 8) Onix.zip: 7, 5
+10) Onix.zip: Szint: 1 Érték:    7.136
+10) Onix.zip: 6, 5
+12) Onix.zip: Szint: 1 Érték:   40.080
+12) Onix.zip: 3, 5
+14) Onix.zip: Szint: 1 Érték:   18.480
+14) Onix.zip: 8, 6
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 9, 5
+18) Onix.zip: Szint: 1 Érték:  150.000
+18) Onix.zip: 8, 5
+20) Onix.zip: Szint: 1 Érték:  150.000
+20) Onix.zip: 9, 4
+22) Onix.zip: Szint: 1 Érték:  150.000
+22) Onix.zip: 7, 6
+24) Onix.zip: Szint: 1 Érték:  150.000
+24) Onix.zip: 7, 8
+26) Onix.zip: Szint: 1 Érték:  150.000
+26) Onix.zip: 8, 9
+28) Onix.zip: Szint: 1 Érték:  150.000
+28) Onix.zip: 8, 7
+30) Onix.zip: Szint: 1 Érték:  199.650
+30) Onix.zip: 9, 8
+32) Onix.zip: Szint: 1 Érték:   80.280
+32) Onix.zip: 10, 9
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x5-33(1).psq
+______________________________
+fiverow x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -1.556
+ 7) Onix.zip: 7, 4
+ 9) Onix.zip: Szint: 1 Érték:   -0.517
+ 9) Onix.zip: 5, 7
+11) Onix.zip: Szint: 1 Érték:    1.243
+11) Onix.zip: 8, 4
+13) Onix.zip: Szint: 1 Érték:    2.915
+13) Onix.zip: 9, 4
+15) Onix.zip: Szint: 1 Érték:  150.000
+15) Onix.zip: 5, 4
+17) Onix.zip: Szint: 1 Érték:  150.000
+17) Onix.zip: 6, 3
+19) Onix.zip: Szint: 1 Érték:  199.650
+19) Onix.zip: 7, 2
+21) Onix.zip: Szint: 1 Érték:   80.104
+21) Onix.zip: 8, 1
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x7-22(1).psq
+______________________________
+JUDE x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x5-33(1).psq
+______________________________
+PECUCHET x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x4-49(1).psq
+______________________________
+PECUCHET x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x5-35(1).psq
+______________________________
+fiverow x JUDE
+JUDE.ZIP: Timeout
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x6-7(1).psq
+______________________________
+fiverow x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x8-22(1).psq
+______________________________
+BENJAMIN x JUDE
+JUDE.ZIP: Èas vypršel
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x6-139(1).psq
+______________________________
+Onix x JUDE
+ 6) Onix.zip: Szint: 1 Érték:    3.221
+ 6) Onix.zip: 5, 4
+ 8) Onix.zip: Szint: 1 Érték:    2.354
+ 8) Onix.zip: 3, 5
+10) Onix.zip: Szint: 1 Érték:    3.329
+10) Onix.zip: 7, 5
+12) Onix.zip: Szint: 1 Érték:    6.957
+12) Onix.zip: 8, 6
+14) Onix.zip: Szint: 1 Érték:    7.217
+14) Onix.zip: 9, 5
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 9, 7
+18) Onix.zip: Szint: 1 Érték:   40.216
+18) Onix.zip: 6, 6
+20) Onix.zip: Szint: 1 Érték:  150.000
+20) Onix.zip: 6, 4
+22) Onix.zip: Szint: 1 Érték:  150.000
+22) Onix.zip: 9, 4
+24) Onix.zip: Szint: 1 Érték:  150.000
+24) Onix.zip: 8, 4
+26) Onix.zip: Szint: 1 Érték:  150.000
+26) Onix.zip: 7, 3
+28) Onix.zip: Szint: 1 Érték:  150.000
+28) Onix.zip: 8, 3
+30) Onix.zip: Szint: 1 Érték:  150.000
+30) Onix.zip: 9, 3
+32) Onix.zip: Szint: 1 Érték:  199.650
+32) Onix.zip: 10, 3
+34) Onix.zip: Szint: 1 Érték:   80.488
+34) Onix.zip: 11, 3
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x6-35(1).psq
+______________________________
+PECUCHET x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x6-49(1).psq
+______________________________
+BENJAMIN x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x8-45(1).psq
+______________________________
+JUDE x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -5.110
+ 7) Onix.zip: 5, 7
+ 9) Onix.zip: Szint: 1 Érték:   -5.335
+ 9) Onix.zip: 7, 6
+11) Onix.zip: Szint: 1 Érték:   -4.328
+11) Onix.zip: 7, 4
+13) Onix.zip: Szint: 1 Érték:   -6.457
+13) Onix.zip: 10, 7
+15) Onix.zip: Szint: 1 Érték: -170.000
+15) Onix.zip: 10, 8
+17) Onix.zip: Szint: 1 Érték:   40.384
+17) Onix.zip: 6, 4
+19) Onix.zip: Szint: 1 Érték:  -11.572
+19) Onix.zip: 10, 4
+21) Onix.zip: Szint: 1 Érték:   40.744
+21) Onix.zip: 10, 5
+23) Onix.zip: Szint: 1 Érték:   -0.328
+23) Onix.zip: 8, 4
+25) Onix.zip: Szint: 1 Érték:   -0.328
+25) Onix.zip: 9, 8
+27) Onix.zip: Szint: 1 Érték:   40.536
+27) Onix.zip: 9, 6
+29) Onix.zip: Szint: 1 Érték:   40.152
+29) Onix.zip: 5, 9
+31) Onix.zip: Szint: 1 Érték:   40.352
+31) Onix.zip: 9, 1
+33) Onix.zip: Szint: 1 Érték:   16.247
+33) Onix.zip: 8, 8
+35) Onix.zip: Szint: 1 Érték:  150.000
+35) Onix.zip: 8, 9
+37) Onix.zip: Szint: 1 Érték:  150.000
+37) Onix.zip: 11, 8
+39) Onix.zip: Szint: 1 Érték:  150.000
+39) Onix.zip: 11, 6
+41) Onix.zip: Szint: 1 Érték:  150.000
+41) Onix.zip: 11, 7
+43) Onix.zip: Szint: 1 Érték:  150.000
+43) Onix.zip: 11, 10
+45) Onix.zip: Szint: 1 Érték:  150.000
+45) Onix.zip: 8, 7
+47) Onix.zip: Szint: 1 Érték:  150.000
+47) Onix.zip: 8, 10
+49) Onix.zip: Szint: 1 Érték:  199.650
+49) Onix.zip: 9, 9
+51) Onix.zip: Szint: 1 Érték:   81.048
+51) Onix.zip: 7, 11
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x7-52(1).psq
+______________________________
+PureGM x swine
+ 5) swine.zip:   5.[ 5, 5]  5859 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 4]  3906 ms...Val=   359 (1/3/16) - toa: 30000
+ 9) swine.zip:   9.[ 2, 6]  4969 ms...Val=   423 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 0, 5]     0 ms...Už to nechci. - toa: 30000
+13) swine.zip:  13.[ 4, 2]  2766 ms...Val=   824 (1/1/5) - toa: 30000
+15) swine.zip:  15.[ 6, 3]  8562 ms...Val=   789 (1/4/16) - toa: 30000
+17) swine.zip:  17.[ 6, 5]  7125 ms...Val=  1356 (1/6/16) - toa: 30000
+19) swine.zip:  19.[ 7, 4]  3328 ms...Val=  1471 (1/7/16) - toa: 30000
+21) swine.zip:  21.[ 1, 3]    16 ms...No to je zábava. - toa: 30000
+23) swine.zip:  23.[ 2, 1]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+25) swine.zip:  25.[ 6, 2]     0 ms...WIN PN1 119/38 To snad pude. - toa: 30000
+27) swine.zip:  27.[ 5, 2]    16 ms...WIN PN1 104/33 To by mìlo vyjít. - toa: 30000
+29) swine.zip:  29.[ 4, 1]     0 ms...Prohrál jste, saláte! - toa: 30000
+31) swine.zip:  31.[ 3, 0]     0 ms...Hmm, to máš blbý. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x1-32(1).psq
+______________________________
+PureGM x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x2-34(1).psq
+______________________________
+TRUNKAT x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x0-15(2).psq
+______________________________
+swine x PureGM
+ 6) swine.zip:   6.[ 3, 6]  9329 ms...Val=   797 (1/4/16) - toa: 30000
+ 8) swine.zip:   8.[ 4, 7]   140 ms...WIN PN1 16061/5911 Tøi èuníci jdou... - toa: 30000
+10) swine.zip:  10.[ 2, 7]   109 ms...WIN PN1 11111/4265 Držte si klobouky... - toa: 30000
+12) swine.zip:  12.[ 2, 6]    15 ms...WIN PN1 974/342 To snad pude. - toa: 30000
+14) swine.zip:  14.[ 3, 5]     0 ms...WIN PN1 355/128 Je to na dobré cestì.! - toa: 30000
+16) swine.zip:  16.[ 1, 8]     0 ms...WIN fours seq 4 Je to na dobré cestì.! - toa: 30000
+18) swine.zip:  18.[ 1, 5]    16 ms...WIN fours seq 3 :-)) - toa: 30000
+20) swine.zip:  20.[ 1, 4]     0 ms...WIN fours seq 2 Je to na dobré cestì.! - toa: 30000
+22) swine.zip:  22.[ 1, 7]     0 ms...WIN fours seq 1 Že by?. - toa: 30000
+24) swine.zip:  24.[ 1, 6]     0 ms...Juch! - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x0-25(1).psq
+______________________________
+PureGM x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x4-28(2).psq
+______________________________
+BENJAMIN x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x0-43(1).psq
+______________________________
+JUDE x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x8-29(1).psq
+______________________________
+PureGM x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x5-23(1).psq
+______________________________
+fiverow x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x0-31(1).psq
+______________________________
+PECUCHET x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,191
+ 5) Onix.zip: 6, 6
+ 7) Onix.zip: Szint: 1 Érték:   -5,110
+ 7) Onix.zip: 5, 7
+ 9) Onix.zip: Szint: 1 Érték:   -5,335
+ 9) Onix.zip: 7, 6
+11) Onix.zip: Szint: 1 Érték:   -3,960
+11) Onix.zip: 9, 7
+13) Onix.zip: Szint: 1 Érték:   -4,519
+13) Onix.zip: 10, 4
+15) Onix.zip: Szint: 1 Érték:   -0,742
+15) Onix.zip: 10, 5
+17) Onix.zip: Szint: 1 Érték:    0,138
+17) Onix.zip: 8, 8
+19) Onix.zip: Szint: 1 Érték:   40,408
+19) Onix.zip: 8, 4
+21) Onix.zip: Szint: 1 Érték:   40,152
+21) Onix.zip: 5, 9
+23) Onix.zip: Szint: 1 Érték:    9,196
+23) Onix.zip: 6, 5
+25) Onix.zip: Szint: 1 Érték:    9,471
+25) Onix.zip: 9, 6
+27) Onix.zip: Szint: 1 Érték:   12,914
+27) Onix.zip: 5, 3
+29) Onix.zip: Szint: 1 Érték:   40,264
+29) Onix.zip: 9, 3
+31) Onix.zip: Szint: 1 Érték:   40,440
+31) Onix.zip: 7, 1
+33) Onix.zip: Szint: 1 Érték:   40,464
+33) Onix.zip: 5, 2
+35) Onix.zip: Szint: 1 Érték:  150,000
+35) Onix.zip: 5, 4
+37) Onix.zip: Szint: 1 Érték:  150,000
+37) Onix.zip: 4, 3
+39) Onix.zip: Szint: 1 Érték:  150,000
+39) Onix.zip: 2, 5
+41) Onix.zip: Szint: 1 Érték:  199,650
+41) Onix.zip: 3, 4
+43) Onix.zip: Szint: 1 Érték:   80,208
+43) Onix.zip: 1, 6
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x7-44(1).psq
+______________________________
+PureGM x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x3-40(1).psq
+______________________________
+PureGM x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -1,496
+ 7) Onix.zip: 3, 7
+ 9) Onix.zip: Szint: 1 Érték:    0,891
+ 9) Onix.zip: 7, 6
+11) Onix.zip: Szint: 1 Érték:   40,344
+11) Onix.zip: 2, 6
+13) Onix.zip: Szint: 1 Érték:    3,888
+13) Onix.zip: 6, 9
+15) Onix.zip: Szint: 1 Érték:  150,000
+15) Onix.zip: 8, 7
+17) Onix.zip: Szint: 1 Érték:  150,000
+17) Onix.zip: 7, 8
+19) Onix.zip: Szint: 1 Érték:  150,000
+19) Onix.zip: 10, 5
+21) Onix.zip: Szint: 1 Érték:  150,000
+21) Onix.zip: 7, 5
+23) Onix.zip: Szint: 1 Érték:  199,650
+23) Onix.zip: 8, 5
+25) Onix.zip: Szint: 1 Érték:   80,608
+25) Onix.zip: 9, 5
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x7-26(2).psq
+______________________________
+Onix x PureGM
+ 6) Onix.zip: Szint: 1 Érték:    5,363
+ 6) Onix.zip: 4, 7
+ 8) Onix.zip: Szint: 1 Érték:  150,000
+ 8) Onix.zip: 3, 8
+10) Onix.zip: Szint: 1 Érték:  150,000
+10) Onix.zip: 5, 8
+12) Onix.zip: Szint: 1 Érték:  150,000
+12) Onix.zip: 2, 9
+14) Onix.zip: Szint: 1 Érték:  150,000
+14) Onix.zip: 2, 8
+16) Onix.zip: Szint: 1 Érték:  150,000
+16) Onix.zip: 2, 5
+18) Onix.zip: Szint: 1 Érték:  150,000
+18) Onix.zip: 2, 6
+20) Onix.zip: Szint: 1 Érték:  199,650
+20) Onix.zip: 4, 6
+22) Onix.zip: Szint: 1 Érték:   81,000
+22) Onix.zip: 6, 6
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x0-23(2).psq
+______________________________
+PureGM x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x6-44(1).psq
+______________________________
+JUDE x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x0-13(1).psq
+______________________________
+swine x TRUNKAT
+ 6) swine.zip:   6.[ 5, 5]  6500 ms...Val=   747 (1/6/16) - toa: 30000
+ 8) swine.zip:   8.[ 3, 5]    16 ms...WIN PN1 749/263 Snad jsem nic nepøehlídla.. - toa: 30000
+10) swine.zip:  10.[ 2, 6]    16 ms...WIN PN1 617/217 Že by?. - toa: 30000
+12) swine.zip:  12.[ 2, 7]     0 ms...WIN PN1 485/173 :-)) - toa: 30000
+14) swine.zip:  14.[ 5, 3]    16 ms...WIN PN1 470/168 :-)) - toa: 30000
+16) swine.zip:  16.[ 4, 4]     0 ms...WIN PN1 69/25 Snad jsem nic nepøehlídla.. - toa: 30000
+18) swine.zip:  18.[ 5, 4]    15 ms...WIN PN1 89/32 Že by?. - toa: 30000
+20) swine.zip:  20.[ 5, 2]    16 ms...Prohrál jste, saláte! - toa: 30000
+22) swine.zip:  22.[ 5, 1]     0 ms...Nic si z toho nedìlej. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x2-23(1).psq
+______________________________
+nabamoku_java-client x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x0-37(1).psq
+______________________________
+PureGM x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\0x8-24(1).psq
+______________________________
+PECUCHET x PureGM
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x0-23(1).psq
+______________________________
+TRUNKAT x swine
+ 5) swine.zip:   5.[ 5, 5]  3813 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 2, 7]  5656 ms...Val=   284 (1/1/16) - toa: 30000
+ 9) swine.zip:   9.[ 5, 8]  3906 ms...Val=   414 (1/1/16) - toa: 30000
+11) swine.zip:  11.[ 4, 9] 22359 ms...Val=   551 (1/10/16) - toa: 30000
+13) swine.zip:  13.[ 3, 8]  4562 ms...Val=   491 (1/1/16) - toa: 30000
+15) swine.zip:  15.[ 3,10]  1141 ms...WIN AB 2 :-)) - toa: 30000
+17) swine.zip:  17.[ 4,10]   610 ms...WIN AB 0 :-)) - toa: 30000
+19) swine.zip:  19.[ 4, 8]    15 ms...WIN fours seq 8 :-)) - toa: 30000
+21) swine.zip:  21.[ 4,11]    16 ms...WIN fours seq 2 Je to na dobré cestì.! - toa: 30000
+23) swine.zip:  23.[ 1, 8]     0 ms...WIN fours seq 1 Držte si klobouky... - toa: 30000
+25) swine.zip:  25.[ 2, 9]     0 ms...Nic si z toho nedìlej. - toa: 30000
+27) swine.zip:  27.[ 5,12]     0 ms...Ale to je mi líto. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x1-28(1).psq
+______________________________
+swine x nabamoku_java-client
+ 6) swine.zip:   6.[ 3, 6]  6453 ms...Val=   797 (1/4/16) - toa: 30000
+ 8) swine.zip:   8.[ 5, 4]  9297 ms...Val=   661 (1/13/16) - toa: 30000
+10) swine.zip:  10.[ 6, 4]  5812 ms...Val=   626 (1/7/16) - toa: 30000
+12) swine.zip:  12.[ 6, 3]   344 ms...WIN PN1 50881/18575 To snad pude. - toa: 30000
+14) swine.zip:  14.[ 7, 4]   297 ms...WIN PN1 45112/16602 Snad jsem nic nepøehlídla.. - toa: 30000
+16) swine.zip:  16.[ 9, 4]    15 ms...WIN PN1 2996/977 Tøi èuníci jdou... - toa: 30000
+18) swine.zip:  18.[ 8, 5]    32 ms...WIN PN1 1507/491 :-) - toa: 30000
+20) swine.zip:  20.[ 9, 6]     0 ms...WIN PN1 512/163 Tøi èuníci jdou... - toa: 30000
+22) swine.zip:  22.[ 9, 5]    63 ms...WIN PN1 596/189 To by mìlo vyjít. - toa: 30000
+24) swine.zip:  24.[ 9, 2]    16 ms...WIN PN1 137/48 Držte si klobouky... - toa: 30000
+26) swine.zip:  26.[ 6, 5]    47 ms...WIN PN1 81/29 :-) - toa: 30000
+28) swine.zip:  28.[ 8, 3]     0 ms...Zkus to znova - toa: 30000
+30) swine.zip:  30.[10, 1]    47 ms...Nechceš si o tom promluvit? - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x3-31(1).psq
+______________________________
+swine x fiverow
+ 6) swine.zip:   6.[ 5, 5]  6422 ms...Val=   747 (1/6/16) - toa: 30000
+ 8) swine.zip:   8.[ 5, 4]  5453 ms...Val=   698 (1/6/16) - toa: 30000
+10) swine.zip:  10.[ 3, 6]  1625 ms...Val=   706 (1/1/16) - toa: 30000
+12) swine.zip:  12.[ 6, 3]    15 ms...Ale to je mi líto. - toa: 30000
+14) swine.zip:  14.[ 7, 2]     0 ms...Tak snad nìkdy pøíštì. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x5-15(1).psq
+______________________________
+fiverow x swine
+ 5) swine.zip:   5.[ 5, 5]  4078 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 2, 7]  5203 ms...Val=   431 (1/1/4) - toa: 30000
+ 9) swine.zip:   9.[ 2, 3]    16 ms...Už to nechci. - toa: 30000
+11) swine.zip:  11.[ 4, 8]  7812 ms...Val=   663 (1/3/16) - toa: 30000
+13) swine.zip:  13.[ 5, 7]   890 ms...WIN AB 0 :-) - toa: 30000
+15) swine.zip:  15.[ 5, 6]    15 ms...WIN PN1 234/80 Že by?. - toa: 30000
+17) swine.zip:  17.[ 6, 6]    15 ms...WIN PN1 82/28 Držte si klobouky... - toa: 30000
+19) swine.zip:  19.[ 1, 5]    16 ms...Jen si hraj. - toa: 30000
+21) swine.zip:  21.[ 3, 9]    63 ms...Juch! - toa: 30000
+23) swine.zip:  23.[ 7, 5]    15 ms...Ale to je mi líto. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x1-24(1).psq
+______________________________
+swine x BENJAMIN
+ 6) swine.zip:   6.[ 3, 3]  8562 ms...Val=   812 (1/5/16) - toa: 30000
+ 8) swine.zip:   8.[ 6, 6] 15938 ms...Val=   773 (1/8/16) - toa: 30000
+10) swine.zip:  10.[ 5, 3] 13344 ms...Val=   901 (1/5/16) - toa: 30000
+12) swine.zip:  12.[ 6, 3]  6672 ms...Val=   967 (1/2/16) - toa: 30000
+14) swine.zip:  14.[ 7, 3]  1312 ms...Val=  1313 (1/5/16) - toa: 30000
+16) swine.zip:  16.[ 6, 5]   406 ms...Val=  1158 (1/3/16) - toa: 30000
+18) swine.zip:  18.[ 7, 4]     0 ms...Už to nechci. - toa: 30000
+20) swine.zip:  20.[ 7, 5]     0 ms...WIN PN1 194/68 To snad pude. - toa: 30000
+22) swine.zip:  22.[ 8, 5]     0 ms...WIN fours seq 1 To snad pude. - toa: 30000
+24) swine.zip:  24.[ 5, 2]     0 ms...Tøeba se to nìkdy nauèíš - toa: 30000
+26) swine.zip:  26.[ 9, 6]    16 ms...Nic si z toho nedìlej. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x4-27(1).psq
+______________________________
+Onix x PECUCHET
+ 6) Onix.zip: Szint: 1 Érték:    2,612
+ 6) Onix.zip: 7, 7
+ 8) Onix.zip: Szint: 1 Érték:    4,037
+ 8) Onix.zip: 6, 5
+10) Onix.zip: Szint: 1 Érték:    3,745
+10) Onix.zip: 8, 4
+12) Onix.zip: Szint: 1 Érték:   40,120
+12) Onix.zip: 3, 9
+14) Onix.zip: Szint: 1 Érték:    6,990
+14) Onix.zip: 8, 6
+16) Onix.zip: Szint: 1 Érték:   10,021
+16) Onix.zip: 7, 3
+18) Onix.zip: Szint: 1 Érték:   12,672
+18) Onix.zip: 5, 4
+20) Onix.zip: Szint: 1 Érték:   12,672
+20) Onix.zip: 9, 6
+22) Onix.zip: Szint: 1 Érték:   40,064
+22) Onix.zip: 4, 1
+24) Onix.zip: Szint: 1 Érték:   13,887
+24) Onix.zip: 4, 2
+26) Onix.zip: Szint: 1 Érték:   40,088
+26) Onix.zip: 9, 2
+28) Onix.zip: Szint: 1 Érték:  150,000
+28) Onix.zip: 9, 5
+30) Onix.zip: Szint: 1 Érték:  150,000
+30) Onix.zip: 10, 6
+32) Onix.zip: Szint: 1 Érték:  199,650
+32) Onix.zip: 11, 6
+34) Onix.zip: Szint: 1 Érték:   80,432
+34) Onix.zip: 12, 6
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x8-35(1).psq
+______________________________
+nabamoku_java-client x swine
+ 5) swine.zip:   5.[ 5, 5]  3781 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 2, 6]  1297 ms...Val=   448 (1/1/3) - toa: 30000
+ 9) swine.zip:   9.[ 5, 4]  4438 ms...Val=   317 (1/1/4) - toa: 30000
+11) swine.zip:  11.[ 4, 7]  1000 ms...Val=  1176 (1/1/5) - toa: 30000
+13) swine.zip:  13.[ 0, 9]    16 ms...Už to nechci. - toa: 30000
+15) swine.zip:  15.[ 6, 4]   140 ms...WIN PN1 11605/4243 Že by?. - toa: 30000
+17) swine.zip:  17.[ 1, 7]     0 ms...Tohle mì nebaví. - toa: 30000
+19) swine.zip:  19.[ 0, 5]    16 ms...No jo. - toa: 30000
+21) swine.zip:  21.[ 1, 3]     0 ms...Baví tì to? - toa: 30000
+23) swine.zip:  23.[ 7, 3]    15 ms...WIN PN1 736/255 Tøi èuníci jdou... - toa: 30000
+25) swine.zip:  25.[ 7, 4]    16 ms...WIN PN1 721/249 :-)) - toa: 30000
+27) swine.zip:  27.[ 5, 6]    16 ms...WIN PN1 669/230 Vypadá to výbornì. - toa: 30000
+29) swine.zip:  29.[ 3, 9]    16 ms...Jen si hraj. - toa: 30000
+31) swine.zip:  31.[ 5,10]     0 ms...Jen si hraj. - toa: 30000
+33) swine.zip:  33.[ 5, 7]     0 ms...WIN PN1 419/150 :-)) - toa: 30000
+35) swine.zip:  35.[ 6, 5]     0 ms...WIN PN1 96/37 :-)) - toa: 30000
+37) swine.zip:  37.[ 8, 4]     0 ms...WIN PN1 195/81 Držte si klobouky... - toa: 30000
+39) swine.zip:  39.[ 6, 2]     0 ms...WIN PN1 75/27 Chro chro. - toa: 30000
+41) swine.zip:  41.[ 2, 8]     0 ms...Jen si hraj. - toa: 30000
+43) swine.zip:  43.[ 6, 8]    16 ms...Kolik jich tam ještì máš? - toa: 30000
+45) swine.zip:  45.[ 9, 5]     0 ms...Ale to je mi líto. - toa: 30000
+47) swine.zip:  47.[10, 6]     0 ms...Hmm, to máš blbý. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x1-48(1).psq
+______________________________
+BENJAMIN x swine
+ 5) swine.zip:   5.[ 5, 5]  5812 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 2, 7]  4344 ms...Val=   118 (1/2/16) - toa: 30000
+ 9) swine.zip:   9.[ 3, 3]  6000 ms...Val=   195 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 4, 9]  4688 ms...Val=   142 (1/16/16) - toa: 30000
+13) swine.zip:  13.[ 3, 9]  8734 ms...Val=   177 (1/8/16) - toa: 30000
+15) swine.zip:  15.[ 4, 7]  2828 ms...Val=   330 (1/1/16) - toa: 30000
+17) swine.zip:  17.[ 2, 6] 12875 ms...Val=   284 (1/5/16) - toa: 30000
+19) swine.zip:  19.[ 5, 8]  9204 ms...Val=   382 (1/1/16) - toa: 30000
+21) swine.zip:  21.[ 5,11]  6875 ms...Val=   372 (1/7/16) - toa: 30000
+23) swine.zip:  23.[ 6,10]  6969 ms...Val=   340 (1/7/16) - toa: 30000
+25) swine.zip:  25.[ 7, 9]  2250 ms...Val=   545 (1/1/16) - toa: 30000
+27) swine.zip:  27.[ 7, 8]  5750 ms...Val=   477 (1/5/16) - toa: 30000
+29) swine.zip:  29.[ 7,11]  5375 ms...WIN AB 2 Tøi èuníci jdou... - toa: 30000
+31) swine.zip:  31.[ 6,11]  4984 ms...WIN AB 0 To snad pude. - toa: 30000
+33) swine.zip:  33.[ 9,11]    79 ms...WIN PN1 9167/3269 :-) - toa: 30000
+35) swine.zip:  35.[ 8,10]    31 ms...WIN PN1 4140/1506 To by mìlo vyjít. - toa: 30000
+37) swine.zip:  37.[10,12]    16 ms...WIN PN1 1731/638 Vypadá to výbornì. - toa: 30000
+39) swine.zip:  39.[ 6,12]    15 ms...WIN PN1 1273/455 To by mìlo vyjít. - toa: 30000
+41) swine.zip:  41.[ 6,14]     0 ms...WIN fours seq 3 Tøi èuníci jdou... - toa: 30000
+43) swine.zip:  43.[ 5,13]     0 ms...WIN fours seq 2 Je to na dobré cestì.! - toa: 30000
+45) swine.zip:  45.[ 4,12]     0 ms...WIN fours seq 1 To by mìlo vyjít. - toa: 30000
+47) swine.zip:  47.[ 3,11]     0 ms...Nic si z toho nedìlej. - toa: 30000
+49) swine.zip:  49.[ 7,15]     0 ms...Tak snad nìkdy pøíštì. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x1-50(2).psq
+______________________________
+TRUNKAT x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x3-21(2).psq
+______________________________
+swine x PECUCHET
+ 6) swine.zip:   6.[ 3, 6]  6875 ms...Val=   765 (1/3/16) - toa: 30000
+ 8) swine.zip:   8.[ 6, 5] 12312 ms...Val=   980 (1/15/16) - toa: 30000
+10) swine.zip:  10.[ 4, 8]   344 ms...Val=  1123 (1/1/5) - toa: 30000
+12) swine.zip:  12.[ 6, 4]  2469 ms...Val=  1027 (1/1/4) - toa: 30000
+14) swine.zip:  14.[ 1, 9]    16 ms...Nedráždi svini bosou nohou. - toa: 30000
+16) swine.zip:  16.[ 5, 8]   172 ms...WIN PN1 31820/11095 Že by?. - toa: 30000
+18) swine.zip:  18.[ 6, 8]    16 ms...WIN PN1 2912/985 To snad pude. - toa: 30000
+20) swine.zip:  20.[ 4, 7]     0 ms...WIN PN1 867/293 Že by?. - toa: 30000
+22) swine.zip:  22.[ 6, 7]    16 ms...WIN PN1 940/317 Je to na dobré cestì.! - toa: 30000
+24) swine.zip:  24.[ 7, 6]     0 ms...WIN PN1 879/293 Držte si klobouky... - toa: 30000
+26) swine.zip:  26.[ 9, 4]    16 ms...WIN PN1 139/45 Chro chro. - toa: 30000
+28) swine.zip:  28.[ 7, 4]     0 ms...WIN PN1 113/39 :-)) - toa: 30000
+30) swine.zip:  30.[ 5, 6]     0 ms...Juch! - toa: 30000
+32) swine.zip:  32.[ 3, 8]    15 ms...Nic si z toho nedìlej. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x8-33(2).psq
+______________________________
+nabamoku_java-client x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x2-31(2).psq
+______________________________
+swine x JUDE
+ 6) swine.zip:   6.[ 3, 6]  6469 ms...Val=   797 (1/4/16) - toa: 30000
+ 8) swine.zip:   8.[ 3, 3]  3625 ms...Val=   690 (1/10/16) - toa: 30000
+10) swine.zip:  10.[ 5, 5]  3047 ms...Val=   624 (1/4/16) - toa: 30000
+12) swine.zip:  12.[ 7, 5]  5016 ms...Val=   734 (1/13/16) - toa: 30000
+14) swine.zip:  14.[ 7, 4]  5484 ms...Val=   812 (1/12/16) - toa: 30000
+16) swine.zip:  16.[ 8, 5]  5687 ms...Val=   989 (1/8/16) - toa: 30000
+18) swine.zip:  18.[ 7, 3]  6234 ms...Val=   629 (1/10/16) - toa: 30000
+20) swine.zip:  20.[ 6, 3]  5984 ms...Val=   302 (1/2/16) - toa: 30000
+22) swine.zip:  22.[10, 7]  1828 ms...Val=   257 (1/7/16) - toa: 30000
+24) swine.zip:  24.[ 6, 2]  1329 ms...Val=  -419 (1/1/16) - toa: 30000
+26) swine.zip:  26.[ 4, 3]   297 ms...Val=  -348 (1/1/16) - toa: 30000
+28) swine.zip:  28.[ 8, 7]   937 ms...Aj ta krajta. - toa: 30000
+30) swine.zip:  30.[ 6, 8]  2125 ms...Val=  -324 (1/11/16) - toa: 30000
+32) swine.zip:  32.[ 3, 7]    16 ms...No jo. - toa: 30000
+34) swine.zip:  34.[ 5, 1]     0 ms...No jo. - toa: 30000
+36) swine.zip:  36.[ 8, 9] 17328 ms...Val=   842 (1/8/16) - toa: 30000
+38) swine.zip:  38.[10, 6]  2719 ms...Val=  1192 (1/7/16) - toa: 30000
+40) swine.zip:  40.[ 5, 6]     0 ms...Co se dá dìlat? - toa: 30000
+42) swine.zip:  42.[ 8, 8]  8813 ms...Val=  1452 (1/8/16) - toa: 30000
+44) swine.zip:  44.[ 9, 4]  4187 ms...Val=  1715 (1/5/16) - toa: 30000
+46) swine.zip:  46.[ 9, 8]    32 ms...WIN PN1 136/44 Že by?. - toa: 30000
+48) swine.zip:  48.[ 9, 5]    16 ms...Baví tì to? - toa: 30000
+50) swine.zip:  50.[ 7, 8]    79 ms...Tak snad nìkdy pøíštì. - toa: 30000
+52) swine.zip:  52.[ 5, 8]     0 ms...Hmm, to máš blbý. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x6-53(1).psq
+______________________________
+TRUNKAT x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x4-103(1).psq
+______________________________
+swine x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,614
+ 5) Onix.zip: 6, 5
+ 6) swine.zip:   6.[ 4, 7] 10141 ms...Val=   679 (1/14/16) - toa: 30000
+ 7) Onix.zip: Szint: 1 Érték:   -2,986
+ 7) Onix.zip: 3, 7
+ 8) swine.zip:   8.[ 6, 5]  4922 ms...Val=   506 (1/10/16) - toa: 30000
+ 9) Onix.zip: Szint: 1 Érték:   -2,194
+ 9) Onix.zip: 4, 6
+10) swine.zip:  10.[ 3, 6]  2953 ms...Val=   412 (1/1/16) - toa: 30000
+11) Onix.zip: Szint: 1 Érték:   -3,845
+11) Onix.zip: 6, 9
+12) swine.zip:  12.[ 5, 3]  9453 ms...Val=   534 (1/7/16) - toa: 30000
+13) Onix.zip: Szint: 1 Érték:    0,116
+13) Onix.zip: 4, 9
+14) swine.zip:  14.[ 6, 8] 15891 ms...Val=   604 (1/3/16) - toa: 30000
+15) Onix.zip: Szint: 1 Érték:   -1,490
+15) Onix.zip: 5, 10
+16) swine.zip:  16.[ 5,10]  9657 ms...Val=   506 (1/7/16) - toa: 30000
+17) Onix.zip: Szint: 1 Érték:   -0,644
+17) Onix.zip: 4, 8
+18) swine.zip:  18.[ 6, 7]  1250 ms...Val=   315 (1/1/16) - toa: 30000
+19) Onix.zip: Szint: 1 Érték:   -0,044
+19) Onix.zip: 7, 7
+20) swine.zip:  20.[ 4, 8]  6766 ms...Val=   394 (1/6/16) - toa: 30000
+21) Onix.zip: Szint: 1 Érték:    1,023
+21) Onix.zip: 4, 10
+22) swine.zip:  22.[ 5, 5] 11172 ms...Val=   389 (1/2/16) - toa: 30000
+23) Onix.zip: Szint: 1 Érték:   -1,177
+23) Onix.zip: 8, 6
+24) swine.zip:  24.[ 6, 9] 20953 ms...Val=   254 (1/3/16) - toa: 30000
+25) Onix.zip: Szint: 1 Érték:    1,271
+25) Onix.zip: 8, 5
+26) swine.zip:  26.[ 6, 4]  3625 ms...Val=  -540 (1/10/16) - toa: 28877
+27) Onix.zip: Szint: 1 Érték:   -0,368
+27) Onix.zip: 5, 12
+28) swine.zip:  28.[ 7, 8]  4563 ms...Val=    60 (1/10/16) - toa: 27660
+29) Onix.zip: Szint: 1 Érték:   -5,572
+29) Onix.zip: 4, 12
+30) swine.zip:  30.[ 3,10]     0 ms...Kolik jich tam ještì máš? - toa: 26134
+31) Onix.zip: Szint: 1 Érték:   -5,572
+31) Onix.zip: 7, 12
+32) swine.zip:  32.[ 7,11]  4625 ms...Val=   553 (1/13/16) - toa: 26128
+33) Onix.zip: Szint: 1 Érték:   -0,632
+33) Onix.zip: 6, 12
+34) swine.zip:  34.[ 2,11]     0 ms...Baví tì to? - toa: 24578
+35) Onix.zip: Szint: 1 Érték: -170,000
+35) Onix.zip: 5, 13
+36) swine.zip:  36.[ 8, 9]    16 ms...WIN fours seq 4 Vypadá to výbornì. - toa: 24573
+37) Onix.zip: Szint: 1 Érték:   40,296
+37) Onix.zip: 6, 7
+38) swine.zip:  38.[ 8, 7]     0 ms...WIN fours seq 3 To snad pude. - toa: 24566
+39) Onix.zip: Szint: 1 Érték:   40,728
+39) Onix.zip: 10, 7
+40) swine.zip:  40.[ 7, 7]     0 ms...WIN fours seq 2 Snad jsem nic nepøehlídla.. - toa: 24560
+41) Onix.zip: Szint: 1 Érték:   40,336
+41) Onix.zip: 6, 8
+42) swine.zip:  42.[ 7, 9]    16 ms...WIN fours seq 1 To by mìlo vyjít. - toa: 24554
+43) Onix.zip: Szint: 1 Érték:   40,376
+43) Onix.zip: 8, 11
+44) swine.zip:  44.[ 9, 9]     0 ms...Nic si z toho nedìlej. - toa: 24546
+45) Onix.zip: Szint: 1 Érték:   41,336
+45) Onix.zip: 6, 10
+46) swine.zip:  46.[10, 9]     0 ms...Prohrál jste, saláte! - toa: 24540
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\1x7-47(1).psq
+______________________________
+BENJAMIN x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x2-34(1).psq
+______________________________
+TRUNKAT x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x5-13(1).psq
+______________________________
+PECUCHET x swine
+ 5) swine.zip:   5.[ 5, 5]  4094 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 2, 6]  1281 ms...Val=   448 (1/1/3) - toa: 30000
+ 9) swine.zip:   9.[ 5, 4]  4312 ms...Val=   317 (1/1/4) - toa: 30000
+11) swine.zip:  11.[ 5, 8]  3875 ms...Val=   455 (1/1/6) - toa: 30000
+13) swine.zip:  13.[ 5, 7]   531 ms...Val=   415 (1/1/9) - toa: 30000
+15) swine.zip:  15.[ 3, 8]  1781 ms...Val=   455 (1/1/16) - toa: 30000
+17) swine.zip:  17.[ 0, 7]     0 ms...Jen si hraj. - toa: 30000
+19) swine.zip:  19.[ 0, 9]     0 ms...Už to nechci. - toa: 30000
+21) swine.zip:  21.[ 0, 3]     0 ms...Jen si hraj. - toa: 30000
+23) swine.zip:  23.[ 1, 6]     0 ms...Už to nechci. - toa: 30000
+25) swine.zip:  25.[ 4, 2]   343 ms...Val=  1297 (1/1/16) - toa: 30000
+27) swine.zip:  27.[ 6, 4]   828 ms...Val=  1680 (1/8/16) - toa: 30000
+29) swine.zip:  29.[ 3, 5]     0 ms...Nedráždi svini bosou nohou. - toa: 30000
+31) swine.zip:  31.[ 6, 7]    78 ms...No to je zábava. - toa: 30000
+33) swine.zip:  33.[ 7, 4]     0 ms...WIN fours seq 4 :-) - toa: 30000
+35) swine.zip:  35.[ 9, 4]     0 ms...WIN fours seq 3 Snad jsem nic nepøehlídla.. - toa: 30000
+37) swine.zip:  37.[ 7, 6]     0 ms...WIN fours seq 2 Chro chro. - toa: 30000
+39) swine.zip:  39.[ 7, 3]    16 ms...WIN fours seq 1 To by mìlo vyjít. - toa: 30000
+41) swine.zip:  41.[ 7, 5]     0 ms...Ale to je mi líto. - toa: 30000
+43) swine.zip:  43.[ 7, 2]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x1-44(1).psq
+______________________________
+fiverow x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x2-20(1).psq
+______________________________
+JUDE x swine
+ 5) swine.zip:   5.[ 5, 5]  3875 ms...Val=   158 (1/1/16) - toa: 30000
+ 7) swine.zip:   7.[ 6, 4]  6828 ms...Val=   277 (1/3/16) - toa: 30000
+ 9) swine.zip:   9.[ 2, 6]  2344 ms...Val=   225 (1/3/16) - toa: 30000
+11) swine.zip:  11.[ 5, 4]  3156 ms...Val=   349 (1/1/16) - toa: 30000
+13) swine.zip:  13.[ 5, 8]  1063 ms...Val=   183 (1/1/8) - toa: 30000
+15) swine.zip:  15.[ 6, 7]   203 ms...Val=   829 (1/1/16) - toa: 30000
+17) swine.zip:  17.[ 2, 7]    15 ms...Co se dá dìlat? - toa: 30000
+19) swine.zip:  19.[ 0, 3]     0 ms...No jo. - toa: 30000
+21) swine.zip:  21.[ 7, 4]    16 ms...WIN fours seq 4 Je to na dobré cestì.! - toa: 30000
+23) swine.zip:  23.[ 9, 4]     0 ms...WIN fours seq 3 To by mìlo vyjít. - toa: 30000
+25) swine.zip:  25.[ 7, 6]    62 ms...WIN fours seq 2 Držte si klobouky... - toa: 30000
+27) swine.zip:  27.[ 7, 3]     0 ms...WIN fours seq 1 Chro chro. - toa: 30000
+29) swine.zip:  29.[ 7, 5]     0 ms...Zkus to znova - toa: 30000
+31) swine.zip:  31.[ 7, 2]    15 ms...Ale to je mi líto. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x1-32(1).psq
+______________________________
+TRUNKAT x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x6-21(1).psq
+______________________________
+TRUNKAT x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -6,220
+ 7) Onix.zip: 3, 4
+ 9) Onix.zip: Szint: 1 Érték: -170,000
+ 9) Onix.zip: 5, 9
+11) Onix.zip: Szint: 1 Érték: -170,000
+11) Onix.zip: 6, 8
+13) Onix.zip: Szint: 1 Érték: -170,000
+13) Onix.zip: 6, 6
+15) Onix.zip: Szint: 1 Érték:   41,216
+15) Onix.zip: 6, 4
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x7-17(1).psq
+______________________________
+Onix x TRUNKAT
+ 6) Onix.zip: Szint: 1 Érték:    5,181
+ 6) Onix.zip: 6, 6
+ 8) Onix.zip: Szint: 1 Érték:  150,000
+ 8) Onix.zip: 4, 6
+10) Onix.zip: Szint: 1 Érték:  150,000
+10) Onix.zip: 3, 7
+12) Onix.zip: Szint: 1 Érték:  150,000
+12) Onix.zip: 6, 4
+14) Onix.zip: Szint: 1 Érték:  150,000
+14) Onix.zip: 6, 5
+16) Onix.zip: Szint: 1 Érték:  150,000
+16) Onix.zip: 3, 8
+18) Onix.zip: Szint: 1 Érték:  199,650
+18) Onix.zip: 4, 7
+20) Onix.zip: Szint: 1 Érték:   80,280
+20) Onix.zip: 2, 9
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x2-21(2).psq
+______________________________
+nabamoku_java-client x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x4-27(1).psq
+______________________________
+JUDE x TRUNKAT
+JUDE.ZIP: Timeout
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x2-42(1).psq
+______________________________
+nabamoku_java-client x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x5-13(1).psq
+______________________________
+Onix x swine
+ 5) swine.zip:   5.[ 5, 5]  5781 ms...Val=   158 (1/1/16) - toa: 30000
+ 6) Onix.zip: Szint: 1 Érték:    2,326
+ 6) Onix.zip: 4, 8
+ 7) swine.zip:   7.[ 2, 7]  4391 ms...Val=   118 (1/2/16) - toa: 30000
+ 8) Onix.zip: Szint: 1 Érték:    2,662
+ 8) Onix.zip: 4, 4
+ 9) swine.zip:   9.[ 4, 2]  5172 ms...Val=   172 (1/4/16) - toa: 30000
+10) Onix.zip: Szint: 1 Érték:    2,415
+10) Onix.zip: 5, 4
+11) swine.zip:  11.[ 2, 3]  6204 ms...Val=   403 (1/1/16) - toa: 30000
+12) Onix.zip: Szint: 1 Érték:    1,347
+12) Onix.zip: 5, 9
+13) swine.zip:  13.[ 5, 9] 17328 ms...Val=   536 (1/4/16) - toa: 30000
+14) Onix.zip: Szint: 1 Érték:    1,463
+14) Onix.zip: 5, 11
+15) swine.zip:  15.[ 6, 4] 16406 ms...Val=   648 (1/15/16) - toa: 30000
+16) Onix.zip: Szint: 1 Érték:   -3,322
+16) Onix.zip: 6, 4
+17) swine.zip:  17.[ 7, 3]  3547 ms...Val=   753 (1/1/16) - toa: 30000
+18) Onix.zip: Szint: 1 Érték:   40,136
+18) Onix.zip: 9, 3
+19) swine.zip:  19.[ 7, 6] 11781 ms...Val=   793 (1/7/16) - toa: 30000
+20) Onix.zip: Szint: 1 Érték:   -4,637
+20) Onix.zip: 5, 10
+21) swine.zip:  21.[ 4,11]  3625 ms...Val=   944 (1/1/16) - toa: 30000
+22) Onix.zip: Szint: 1 Érték:  -14,411
+22) Onix.zip: 3, 7
+23) swine.zip:  23.[ 6, 2]  5812 ms...Val=  1137 (1/8/16) - toa: 30000
+24) Onix.zip: Szint: 1 Érték:  -12,359
+24) Onix.zip: 2, 6
+25) swine.zip:  25.[ 0, 4]     0 ms...Už to nechci. - toa: 30000
+26) Onix.zip: Szint: 1 Érték: -170,000
+26) Onix.zip: 4, 10
+27) swine.zip:  27.[ 7, 4]   500 ms...WIN PN1 20998/8603 :-) - toa: 30000
+28) Onix.zip: Szint: 1 Érték: -170,000
+28) Onix.zip: 8, 3
+29) swine.zip:  29.[ 5, 4]     0 ms...WIN fours seq 2 Tøi èuníci jdou... - toa: 30000
+30) Onix.zip: Szint: 1 Érték:   40,440
+30) Onix.zip: 5, 5
+31) swine.zip:  31.[ 8, 4]     0 ms...WIN fours seq 1 Že by?. - toa: 30000
+32) Onix.zip: Szint: 1 Érték:   40,384
+32) Onix.zip: 10, 5
+33) swine.zip:  33.[ 9, 5]     0 ms...Zkus trochu víc trénovat. - toa: 30000
+34) Onix.zip: Szint: 1 Érték:   40,184
+34) Onix.zip: 11, 7
+35) swine.zip:  35.[ 5, 1]     0 ms...Nic si z toho nedìlej. - toa: 30000
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x1-36(1).psq
+______________________________
+TRUNKAT x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\2x8-41(1).psq
+______________________________
+fiverow x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x3-37(1).psq
+______________________________
+PECUCHET x TRUNKAT
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x2-31(1).psq
+______________________________
+nabamoku_java-client x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -5.060
+ 7) Onix.zip: 4, 6
+ 9) Onix.zip: Szint: 1 Érték:   -0.440
+ 9) Onix.zip: 3, 7
+11) Onix.zip: Szint: 1 Érték:    0.270
+11) Onix.zip: 7, 6
+13) Onix.zip: Szint: 1 Érték:   40.072
+13) Onix.zip: 1, 10
+15) Onix.zip: Szint: 1 Érték:   -0.159
+15) Onix.zip: 6, 9
+17) Onix.zip: Szint: 1 Érték:   40.056
+17) Onix.zip: 1, 4
+19) Onix.zip: Szint: 1 Érték:    5.308
+19) Onix.zip: 4, 8
+21) Onix.zip: Szint: 1 Érték:   40.896
+21) Onix.zip: 2, 6
+23) Onix.zip: Szint: 1 Érték:   40.432
+23) Onix.zip: 2, 10
+25) Onix.zip: Szint: 1 Érték:  150.000
+25) Onix.zip: 8, 7
+27) Onix.zip: Szint: 1 Érték:  150.000
+27) Onix.zip: 4, 3
+29) Onix.zip: Szint: 1 Érték:  150.000
+29) Onix.zip: 5, 9
+31) Onix.zip: Szint: 1 Érték:  150.000
+31) Onix.zip: 3, 9
+33) Onix.zip: Szint: 1 Érték:  150.000
+33) Onix.zip: 7, 9
+35) Onix.zip: Szint: 1 Érték:  150.000
+35) Onix.zip: 8, 9
+37) Onix.zip: Szint: 1 Érték:  150.000
+37) Onix.zip: 8, 10
+39) Onix.zip: Szint: 1 Érték:  199.650
+39) Onix.zip: 8, 8
+41) Onix.zip: Szint: 1 Érték:   80.152
+41) Onix.zip: 8, 11
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x7-42(1).psq
+______________________________
+BENJAMIN x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x3-177(1).psq
+______________________________
+BENJAMIN x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x5-45(1).psq
+______________________________
+fiverow x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x4-43(1).psq
+______________________________
+Onix x nabamoku_java-client
+ 6) Onix.zip: Szint: 1 Érték:    5.363
+ 6) Onix.zip: 4, 7
+ 8) Onix.zip: Szint: 1 Érték:    5.792
+ 8) Onix.zip: 5, 9
+10) Onix.zip: Szint: 1 Érték:    4.328
+10) Onix.zip: 4, 8
+12) Onix.zip: Szint: 1 Érték:    5.352
+12) Onix.zip: 4, 9
+14) Onix.zip: Szint: 1 Érték:  150.000
+14) Onix.zip: 4, 10
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 3, 9
+18) Onix.zip: Szint: 1 Érték:  150.000
+18) Onix.zip: 6, 10
+20) Onix.zip: Szint: 1 Érték:  150.000
+20) Onix.zip: 5, 11
+22) Onix.zip: Szint: 1 Érték:  150.000
+22) Onix.zip: 7, 9
+24) Onix.zip: Szint: 1 Érték:  199.650
+24) Onix.zip: 8, 8
+26) Onix.zip: Szint: 1 Érték:   80.144
+26) Onix.zip: 9, 7
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x3-27(1).psq
+______________________________
+nabamoku_java-client x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x6-54(1).psq
+______________________________
+BENJAMIN x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -5.060
+ 7) Onix.zip: 4, 6
+ 9) Onix.zip: Szint: 1 Érték:   -3.757
+ 9) Onix.zip: 7, 6
+11) Onix.zip: Szint: 1 Érték:   -3.388
+11) Onix.zip: 3, 3
+13) Onix.zip: Szint: 1 Érték:   -3.845
+13) Onix.zip: 8, 5
+15) Onix.zip: Szint: 1 Érték:   -3.498
+15) Onix.zip: 5, 8
+17) Onix.zip: Szint: 1 Érték:   -4.350
+17) Onix.zip: 6, 8
+19) Onix.zip: Szint: 1 Érték:   -5.044
+19) Onix.zip: 9, 6
+21) Onix.zip: Szint: 1 Érték:   -6.144
+21) Onix.zip: 8, 9
+23) Onix.zip: Szint: 1 Érték:   -1.199
+23) Onix.zip: 9, 7
+25) Onix.zip: Szint: 1 Érték:   -1.595
+25) Onix.zip: 10, 8
+27) Onix.zip: Szint: 1 Érték:   -1.722
+27) Onix.zip: 7, 11
+29) Onix.zip: Szint: 1 Érték:    2.602
+29) Onix.zip: 8, 12
+31) Onix.zip: Szint: 1 Érték:    4.873
+31) Onix.zip: 7, 13
+33) Onix.zip: Szint: 1 Érték:  150.000
+33) Onix.zip: 5, 9
+35) Onix.zip: Szint: 1 Érték:  150.000
+35) Onix.zip: 4, 10
+37) Onix.zip: Szint: 1 Érték:  150.000
+37) Onix.zip: 5, 11
+39) Onix.zip: Szint: 1 Érték:  199.650
+39) Onix.zip: 6, 12
+41) Onix.zip: Szint: 1 Érték:   80.152
+41) Onix.zip: 8, 14
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x7-42(1).psq
+______________________________
+Onix x BENJAMIN
+ 6) Onix.zip: Szint: 1 Érték:    4.532
+ 6) Onix.zip: 4, 4
+ 8) Onix.zip: Szint: 1 Érték:    5.049
+ 8) Onix.zip: 4, 7
+10) Onix.zip: Szint: 1 Érték:    5.670
+10) Onix.zip: 5, 9
+12) Onix.zip: Szint: 1 Érték:   10.483
+12) Onix.zip: 6, 9
+14) Onix.zip: Szint: 1 Érték:  150.000
+14) Onix.zip: 7, 10
+16) Onix.zip: Szint: 1 Érték:  150.000
+16) Onix.zip: 7, 9
+18) Onix.zip: Szint: 1 Érték:  150.000
+18) Onix.zip: 7, 7
+20) Onix.zip: Szint: 1 Érték:  150.000
+20) Onix.zip: 6, 8
+22) Onix.zip: Szint: 1 Érték:  150.000
+22) Onix.zip: 6, 6
+24) Onix.zip: Szint: 1 Érték:  199.650
+24) Onix.zip: 5, 5
+26) Onix.zip: Szint: 1 Érték:   80.056
+26) Onix.zip: 3, 3
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x4-27(1).psq
+______________________________
+nabamoku_java-client x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\3x8-46(1).psq
+______________________________
+JUDE x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x3-31(2).psq
+______________________________
+PECUCHET x nabamoku_java-client
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x3-27(1).psq
+______________________________
+BENJAMIN x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x6-58(1).psq
+______________________________
+fiverow x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x6-26(1).psq
+______________________________
+fiverow x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -0.698
+ 7) Onix.zip: 4, 6
+ 9) Onix.zip: Szint: 1 Érték:   -0.264
+ 9) Onix.zip: 3, 8
+11) Onix.zip: Szint: 1 Érték:   -0.363
+11) Onix.zip: 5, 3
+13) Onix.zip: Szint: 1 Érték:    2.371
+13) Onix.zip: 5, 9
+15) Onix.zip: Szint: 1 Érték:   40.152
+15) Onix.zip: 3, 4
+17) Onix.zip: Szint: 1 Érték:   12.452
+17) Onix.zip: 5, 5
+19) Onix.zip: Szint: 1 Érték:   16.417
+19) Onix.zip: 6, 9
+21) Onix.zip: Szint: 1 Érték:   17.979
+21) Onix.zip: 6, 8
+23) Onix.zip: Szint: 1 Érték:   17.688
+23) Onix.zip: 4, 10
+25) Onix.zip: Szint: 1 Érték:  199.650
+25) Onix.zip: 7, 7
+27) Onix.zip: Szint: 1 Érték:   80.232
+27) Onix.zip: 8, 6
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x7-28(1).psq
+______________________________
+Onix x fiverow
+ 6) Onix.zip: Szint: 1 Érték:    5.181
+ 6) Onix.zip: 6, 6
+ 8) Onix.zip: Szint: 1 Érték:    3.338
+ 8) Onix.zip: 4, 7
+10) Onix.zip: Szint: 1 Érték:   10.091
+10) Onix.zip: 6, 5
+12) Onix.zip: Szint: 1 Érték:  199.650
+12) Onix.zip: 7, 4
+14) Onix.zip: Szint: 1 Érték:   80.120
+14) Onix.zip: 8, 3
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x5-15(1).psq
+______________________________
+JUDE x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x5-13(1).psq
+______________________________
+JUDE x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x4-27(1).psq
+______________________________
+fiverow x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\5x8-26(1).psq
+______________________________
+PECUCHET x fiverow
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x5-13(1).psq
+______________________________
+BENJAMIN x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\4x8-87(1).psq
+______________________________
+JUDE x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4,614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -5,060
+ 7) Onix.zip: 4, 6
+ 9) Onix.zip: Szint: 1 Érték:   -4,576
+ 9) Onix.zip: 5, 5
+11) Onix.zip: Szint: 1 Érték:   -4,417
+11) Onix.zip: 3, 8
+13) Onix.zip: Szint: 1 Érték:   40,056
+13) Onix.zip: 3, 3
+15) Onix.zip: Szint: 1 Érték:   -2,943
+15) Onix.zip: 6, 2
+17) Onix.zip: Szint: 1 Érték:   -0,451
+17) Onix.zip: 6, 4
+19) Onix.zip: Szint: 1 Érték:   40,128
+19) Onix.zip: 9, 6
+21) Onix.zip: Szint: 1 Érték:   40,056
+21) Onix.zip: 1, 7
+23) Onix.zip: Szint: 1 Érték:    3,196
+23) Onix.zip: 9, 4
+25) Onix.zip: Szint: 1 Érték:    1,848
+25) Onix.zip: 10, 5
+27) Onix.zip: Szint: 1 Érték:    1,964
+27) Onix.zip: 6, 8
+29) Onix.zip: Szint: 1 Érték:   40,120
+29) Onix.zip: 11, 3
+31) Onix.zip: Szint: 1 Érték:    4,653
+31) Onix.zip: 8, 8
+33) Onix.zip: Szint: 1 Érték:   40,496
+33) Onix.zip: 8, 4
+35) Onix.zip: Szint: 1 Érték:    6,045
+35) Onix.zip: 10, 7
+37) Onix.zip: Szint: 1 Érték:   13,068
+37) Onix.zip: 10, 8
+39) Onix.zip: Szint: 1 Érték:   17,809
+39) Onix.zip: 7, 9
+41) Onix.zip: Szint: 1 Érték:   18,619
+41) Onix.zip: 10, 9
+43) Onix.zip: Szint: 1 Érték:  150,000
+43) Onix.zip: 7, 4
+45) Onix.zip: Szint: 1 Érték:  150,000
+45) Onix.zip: 11, 8
+47) Onix.zip: Szint: 1 Érték:   40,200
+47) Onix.zip: 1, 4
+49) Onix.zip: Szint: 1 Érték:  150,000
+49) Onix.zip: 8, 2
+51) Onix.zip: Szint: 1 Érték:  150,000
+51) Onix.zip: 10, 10
+53) Onix.zip: Szint: 1 Érték:  150,000
+53) Onix.zip: 13, 10
+55) Onix.zip: Szint: 1 Érték:  150,000
+55) Onix.zip: 12, 8
+57) Onix.zip: Szint: 1 Érték:  150,000
+57) Onix.zip: 13, 8
+59) Onix.zip: Szint: 1 Érték:  150,000
+59) Onix.zip: 12, 7
+61) Onix.zip: Szint: 1 Érték:  199,650
+61) Onix.zip: 9, 10
+63) Onix.zip: Szint: 1 Érték:   80,328
+63) Onix.zip: 8, 11
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x7-64(1).psq
+______________________________
+Onix x PECUCHET
+ 6) Onix.zip: Szint: 1 Érték:    4.339
+ 6) Onix.zip: 4, 7
+ 8) Onix.zip: Szint: 1 Érték:    7.656
+ 8) Onix.zip: 5, 9
+10) Onix.zip: Szint: 1 Érték:   11.715
+10) Onix.zip: 6, 8
+12) Onix.zip: Szint: 1 Érték:   12.265
+12) Onix.zip: 2, 9
+14) Onix.zip: Szint: 1 Érték:   13.920
+14) Onix.zip: 4, 10
+16) Onix.zip: Szint: 1 Érték:   13.635
+16) Onix.zip: 6, 6
+18) Onix.zip: Szint: 1 Érték:  150.000
+18) Onix.zip: 7, 7
+20) Onix.zip: Szint: 1 Érték:  150.000
+20) Onix.zip: 5, 5
+22) Onix.zip: Szint: 1 Érték:  150.000
+22) Onix.zip: 8, 8
+24) Onix.zip: Szint: 1 Érték:  150.000
+24) Onix.zip: 6, 9
+26) Onix.zip: Szint: 1 Érték:   40.600
+26) Onix.zip: 3, 10
+28) Onix.zip: Szint: 1 Érték:   40.088
+28) Onix.zip: 4, 2
+30) Onix.zip: Szint: 1 Érték:   40.096
+30) Onix.zip: 2, 7
+32) Onix.zip: Szint: 1 Érték:   40.184
+32) Onix.zip: 2, 2
+34) Onix.zip: Szint: 1 Érték:  150.000
+34) Onix.zip: 5, 8
+36) Onix.zip: Szint: 1 Érték:  199.650
+36) Onix.zip: 7, 8
+38) Onix.zip: Szint: 1 Érték:   80.352
+38) Onix.zip: 9, 8
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x8-39(1).psq
+______________________________
+Onix x JUDE
+ 6) Onix.zip: Szint: 1 Érték:    5,363
+ 6) Onix.zip: 4, 7
+ 8) Onix.zip: Szint: 1 Érték:    6,094
+ 8) Onix.zip: 6, 6
+10) Onix.zip: Szint: 1 Érték:    5,643
+10) Onix.zip: 6, 5
+12) Onix.zip: Szint: 1 Érték:    6,694
+12) Onix.zip: 7, 6
+14) Onix.zip: Szint: 1 Érték:   10,560
+14) Onix.zip: 7, 8
+16) Onix.zip: Szint: 1 Érték:   40,160
+16) Onix.zip: 2, 8
+18) Onix.zip: Szint: 1 Érték:   40,664
+18) Onix.zip: 7, 9
+20) Onix.zip: Szint: 1 Érték:  150,000
+20) Onix.zip: 8, 7
+22) Onix.zip: Szint: 1 Érték:  150,000
+22) Onix.zip: 9, 6
+24) Onix.zip: Szint: 1 Érték:  199,650
+24) Onix.zip: 6, 9
+26) Onix.zip: Szint: 1 Érték:   80,608
+26) Onix.zip: 5, 10
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\7x6-27(1).psq
+______________________________
+PECUCHET x BENJAMIN
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x4-43(1).psq
+______________________________
+PECUCHET x Onix
+ 5) Onix.zip: Szint: 1 Érték:   -4.614
+ 5) Onix.zip: 6, 5
+ 7) Onix.zip: Szint: 1 Érték:   -6.220
+ 7) Onix.zip: 3, 4
+ 9) Onix.zip: Szint: 1 Érték:   40.272
+ 9) Onix.zip: 3, 9
+11) Onix.zip: Szint: 1 Érték: -170.000
+11) Onix.zip: 5, 9
+13) Onix.zip: Szint: 1 Érték: -170.000
+13) Onix.zip: 6, 6
+15) Onix.zip: Szint: 1 Érték:   40.128
+15) Onix.zip: 1, 6
+17) Onix.zip: Szint: 1 Érték: -170.000
+17) Onix.zip: 5, 5
+19) Onix.zip: Szint: 1 Érték:   41.208
+19) Onix.zip: 6, 8
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x7-21(1).psq
+______________________________
+JUDE x PECUCHET
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\6x8-41(1).psq
+______________________________
+PECUCHET x JUDE
+-> D:\projekty\gomocup\gomocup2008\technicke_reseni\group2\8x6-40(1).psq

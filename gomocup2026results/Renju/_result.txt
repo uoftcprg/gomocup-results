@@ -1,0 +1,85 @@
+1. RAPFI25 2302
+    wins: 177+176, losses: 5+3, draws: 10+13
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 335s, time/turn: 13538ms, move/game: 25
+
+2. KATAGOMO26 2233
+    wins: 166+171, losses: 6+11, draws: 20+10
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 602s, time/turn: 21236ms, move/game: 28
+
+3. ALPHAGOMOKU.MK26 2122
+    wins: 148+162, losses: 30+13, draws: 14+17
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 544s, time/turn: 19470ms, move/game: 28
+
+4. JAX25 2050
+    wins: 148+154, losses: 34+30, draws: 10+8
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 361s, time/turn: 14268ms, move/game: 25
+
+5. EMBRYO26 1920
+    wins: 139+139, losses: 52+45, draws: 1+8
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 329s, time/turn: 13148ms, move/game: 25
+
+6. PENTAZENNN22 1842
+    wins: 131+134, losses: 58+55, draws: 3+3
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 453s, time/turn: 20259ms, move/game: 22
+
+7. YIXIN18 1769
+    wins: 122+119, losses: 67+70, draws: 3+3
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 285s, time/turn: 13028ms, move/game: 22
+
+8. SLOWRENJU20 1467
+    wins: 95+80, losses: 95+112, draws: 2+0
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 395s, time/turn: 21022ms, move/game: 19
+
+9. WHOSE19 1460
+    wins: 85+87, losses: 102+105, draws: 5+0
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 323s, time/turn: 15214ms, move/game: 21
+
+10. GOFIVE 1298
+    wins: 64+70, losses: 128+122, draws: 0+0
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 455s, time/turn: 26232ms, move/game: 17
+
+11. CARBON17 1202
+    wins: 49+58, losses: 141+134, draws: 2+0
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 461s, time/turn: 26081ms, move/game: 18
+
+12. SQUIRREL24 1109
+    wins: 39+46, losses: 153+146, draws: 0+0
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 382s, time/turn: 22945ms, move/game: 17
+
+13. MINTAKA 1104
+    wins: 35+39, losses: 157+151, draws: 0+2
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 226s, time/turn: 12816ms, move/game: 18
+
+14. XL 1096
+    wins: 40+45, losses: 152+147, draws: 0+0
+    timeouts: 3, errors: 2, total games: 384
+    time/game: 271s, time/turn: 15951ms, move/game: 17
+
+15. PELA23 1025
+    wins: 21+39, losses: 171+147, draws: 0+6
+    timeouts: 0, errors: 0, total games: 384
+    time/game: 573s, time/turn: 34217ms, move/game: 17
+
+16. MONAS -
+    wins: 4+4, losses: 188+188, draws: 0+0
+    timeouts: 88, errors: 0, total games: 384
+    time/game: 704s, time/turn: 108598ms, move/game: 6
+
+17. SKYZERO -
+    wins: 103+103, losses: 87+87, draws: 2+2
+    timeouts: 45, errors: 0, total games: 384
+    time/game: 501s, time/turn: 25195ms, move/game: 20
+

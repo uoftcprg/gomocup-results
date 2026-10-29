@@ -1,0 +1,322 @@
+[2023-06-11 16:46:06] Server started.
+[2023-06-11 16:52:08] Client 127.0.0.1:55713 connected.
+[2023-06-11 16:52:08] Game (0, 3, 0) started on Client 127.0.0.1:55713.
+[2023-06-11 16:52:12] Client 127.0.0.1:55715 connected.
+[2023-06-11 16:52:13] Game (0, 2, 0) started on Client 127.0.0.1:55715.
+[2023-06-11 16:52:17] Client 127.0.0.1:55718 connected.
+[2023-06-11 16:52:18] Game (2, 3, 0) started on Client 127.0.0.1:55718.
+[2023-06-11 16:52:22] Client 127.0.0.1:55720 connected.
+[2023-06-11 16:52:23] Game (1, 3, 0) started on Client 127.0.0.1:55720.
+[2023-06-11 16:52:27] Client 127.0.0.1:55724 connected.
+[2023-06-11 16:52:28] Game (3, 2, 0) started on Client 127.0.0.1:55724.
+[2023-06-11 16:52:32] Client 127.0.0.1:55725 connected.
+[2023-06-11 16:52:33] Game (1, 2, 0) started on Client 127.0.0.1:55725.
+[2023-06-11 16:52:37] Client 127.0.0.1:55732 connected.
+[2023-06-11 16:52:38] Game (3, 1, 0) started on Client 127.0.0.1:55732.
+[2023-06-11 16:52:42] Client 127.0.0.1:55733 connected.
+[2023-06-11 16:52:43] Game (1, 3, 1) started on Client 127.0.0.1:55733.
+[2023-06-11 16:52:47] Client 127.0.0.1:55737 connected.
+[2023-06-11 16:52:48] Game (2, 3, 1) started on Client 127.0.0.1:55737.
+[2023-06-11 16:52:52] Client 127.0.0.1:55738 connected.
+[2023-06-11 16:52:53] Game (2, 1, 0) started on Client 127.0.0.1:55738.
+[2023-06-11 16:52:57] Client 127.0.0.1:55742 connected.
+[2023-06-11 16:52:58] Game (3, 1, 1) started on Client 127.0.0.1:55742.
+[2023-06-11 16:53:02] Client 127.0.0.1:55743 connected.
+[2023-06-11 16:53:03] Game (1, 2, 1) started on Client 127.0.0.1:55743.
+[2023-06-11 16:53:07] Client 127.0.0.1:55747 connected.
+[2023-06-11 16:53:08] Game (1, 3, 2) started on Client 127.0.0.1:55747.
+[2023-06-11 16:53:12] Client 127.0.0.1:55749 connected.
+[2023-06-11 16:53:13] Game (2, 0, 0) started on Client 127.0.0.1:55749.
+[2023-06-11 16:53:17] Client 127.0.0.1:55752 connected.
+[2023-06-11 16:53:18] Game (0, 2, 1) started on Client 127.0.0.1:55752.
+[2023-06-11 16:53:22] Client 127.0.0.1:55754 connected.
+[2023-06-11 16:53:23] Game (0, 1, 0) started on Client 127.0.0.1:55754.
+[2023-06-11 16:54:23] Game (1, 3, 0) finished on Client 127.0.0.1:55720.
+[2023-06-11 16:54:23] Game (2, 0, 1) started on Client 127.0.0.1:55720.
+[2023-06-11 17:01:32] Game (3, 1, 1) finished on Client 127.0.0.1:55742.
+[2023-06-11 17:01:32] Game (0, 2, 2) started on Client 127.0.0.1:55742.
+[2023-06-11 17:02:28] Game (1, 2, 1) finished on Client 127.0.0.1:55743.
+[2023-06-11 17:02:28] Game (2, 0, 2) started on Client 127.0.0.1:55743.
+[2023-06-11 17:04:25] Game (1, 2, 0) finished on Client 127.0.0.1:55725.
+[2023-06-11 17:04:25] Game (3, 0, 0) started on Client 127.0.0.1:55725.
+[2023-06-11 17:04:47] Game (0, 2, 1) finished on Client 127.0.0.1:55752.
+[2023-06-11 17:04:47] Game (3, 2, 1) started on Client 127.0.0.1:55752.
+[2023-06-11 17:07:02] Game (1, 3, 1) finished on Client 127.0.0.1:55733.
+[2023-06-11 17:07:02] Game (2, 3, 2) started on Client 127.0.0.1:55733.
+[2023-06-11 17:07:43] Game (2, 0, 0) finished on Client 127.0.0.1:55749.
+[2023-06-11 17:07:43] Game (3, 2, 2) started on Client 127.0.0.1:55749.
+[2023-06-11 17:08:15] Game (0, 3, 0) finished on Client 127.0.0.1:55713.
+[2023-06-11 17:08:15] Game (2, 3, 3) started on Client 127.0.0.1:55713.
+[2023-06-11 17:08:57] Game (3, 1, 0) finished on Client 127.0.0.1:55732.
+[2023-06-11 17:08:57] Game (3, 2, 3) started on Client 127.0.0.1:55732.
+[2023-06-11 17:09:32] Game (1, 3, 2) finished on Client 127.0.0.1:55747.
+[2023-06-11 17:09:32] Game (2, 3, 4) started on Client 127.0.0.1:55747.
+[2023-06-11 17:10:38] Game (2, 0, 2) finished on Client 127.0.0.1:55743.
+[2023-06-11 17:10:38] Game (3, 2, 4) started on Client 127.0.0.1:55743.
+[2023-06-11 17:12:17] Game (0, 2, 0) finished on Client 127.0.0.1:55715.
+[2023-06-11 17:12:17] Game (2, 3, 5) started on Client 127.0.0.1:55715.
+[2023-06-11 17:13:47] Game (2, 0, 1) finished on Client 127.0.0.1:55720.
+[2023-06-11 17:13:47] Game (3, 2, 5) started on Client 127.0.0.1:55720.
+[2023-06-11 17:15:47] Game (0, 2, 2) finished on Client 127.0.0.1:55742.
+[2023-06-11 17:15:47] Game (2, 3, 6) started on Client 127.0.0.1:55742.
+[2023-06-11 17:16:22] Game (2, 3, 3) finished on Client 127.0.0.1:55713.
+[2023-06-11 17:16:22] Game (3, 2, 6) started on Client 127.0.0.1:55713.
+[2023-06-11 17:17:06] Game (3, 2, 0) finished on Client 127.0.0.1:55724.
+[2023-06-11 17:17:06] Game (2, 3, 7) started on Client 127.0.0.1:55724.
+[2023-06-11 17:18:55] Game (2, 3, 0) finished on Client 127.0.0.1:55718.
+[2023-06-11 17:18:55] Game (3, 2, 7) started on Client 127.0.0.1:55718.
+[2023-06-11 17:19:14] Game (3, 0, 0) finished on Client 127.0.0.1:55725.
+[2023-06-11 17:19:14] Game (2, 3, 8) started on Client 127.0.0.1:55725.
+[2023-06-11 17:21:49] Game (2, 3, 1) finished on Client 127.0.0.1:55737.
+[2023-06-11 17:21:49] Game (3, 2, 8) started on Client 127.0.0.1:55737.
+[2023-06-11 17:23:12] Game (0, 1, 0) finished on Client 127.0.0.1:55754.
+[2023-06-11 17:23:12] Game (2, 3, 9) started on Client 127.0.0.1:55754.
+[2023-06-11 17:25:12] Game (2, 3, 2) finished on Client 127.0.0.1:55733.
+[2023-06-11 17:25:13] Game (3, 2, 9) started on Client 127.0.0.1:55733.
+[2023-06-11 17:26:02] Game (2, 1, 0) finished on Client 127.0.0.1:55738.
+[2023-06-11 17:26:02] Game (2, 3, 10) started on Client 127.0.0.1:55738.
+[2023-06-11 17:28:44] Game (2, 3, 4) finished on Client 127.0.0.1:55747.
+[2023-06-11 17:28:44] Game (3, 2, 10) started on Client 127.0.0.1:55747.
+[2023-06-11 17:29:15] Game (3, 2, 4) finished on Client 127.0.0.1:55743.
+[2023-06-11 17:29:15] Game (2, 3, 11) started on Client 127.0.0.1:55743.
+[2023-06-11 17:29:34] Game (3, 2, 6) finished on Client 127.0.0.1:55713.
+[2023-06-11 17:29:34] Game (3, 2, 11) started on Client 127.0.0.1:55713.
+[2023-06-11 17:30:01] Game (3, 2, 1) finished on Client 127.0.0.1:55752.
+[2023-06-11 17:30:01] Game (3, 1, 2) started on Client 127.0.0.1:55752.
+[2023-06-11 17:30:41] Game (3, 2, 5) finished on Client 127.0.0.1:55720.
+[2023-06-11 17:30:41] Game (1, 3, 3) started on Client 127.0.0.1:55720.
+[2023-06-11 17:31:11] Game (3, 2, 3) finished on Client 127.0.0.1:55732.
+[2023-06-11 17:31:11] Game (3, 1, 3) started on Client 127.0.0.1:55732.
+[2023-06-11 17:32:05] Game (2, 3, 5) finished on Client 127.0.0.1:55715.
+[2023-06-11 17:32:05] Game (1, 3, 4) started on Client 127.0.0.1:55715.
+[2023-06-11 17:32:51] Game (3, 2, 8) finished on Client 127.0.0.1:55737.
+[2023-06-11 17:32:51] Game (3, 1, 4) started on Client 127.0.0.1:55737.
+[2023-06-11 17:33:19] Game (2, 3, 7) finished on Client 127.0.0.1:55724.
+[2023-06-11 17:33:19] Game (1, 3, 5) started on Client 127.0.0.1:55724.
+[2023-06-11 17:35:58] Game (3, 2, 2) finished on Client 127.0.0.1:55749.
+[2023-06-11 17:35:58] Game (3, 1, 5) started on Client 127.0.0.1:55749.
+[2023-06-11 17:39:17] Game (3, 1, 2) finished on Client 127.0.0.1:55752.
+[2023-06-11 17:39:17] Game (1, 3, 6) started on Client 127.0.0.1:55752.
+[2023-06-11 17:41:48] Game (3, 2, 11) finished on Client 127.0.0.1:55713.
+[2023-06-11 17:41:49] Game (3, 1, 6) started on Client 127.0.0.1:55713.
+[2023-06-11 17:43:39] Game (2, 3, 10) finished on Client 127.0.0.1:55738.
+[2023-06-11 17:43:39] Game (1, 3, 7) started on Client 127.0.0.1:55738.
+[2023-06-11 17:43:46] Game (2, 3, 8) finished on Client 127.0.0.1:55725.
+[2023-06-11 17:43:46] Game (3, 1, 7) started on Client 127.0.0.1:55725.
+[2023-06-11 17:44:47] Game (3, 2, 7) finished on Client 127.0.0.1:55718.
+[2023-06-11 17:44:47] Game (1, 3, 8) started on Client 127.0.0.1:55718.
+[2023-06-11 17:44:57] Game (1, 3, 3) finished on Client 127.0.0.1:55720.
+[2023-06-11 17:44:57] Game (3, 1, 8) started on Client 127.0.0.1:55720.
+[2023-06-11 17:45:24] Game (3, 2, 9) finished on Client 127.0.0.1:55733.
+[2023-06-11 17:45:24] Game (1, 3, 9) started on Client 127.0.0.1:55733.
+[2023-06-11 17:47:24] Game (3, 1, 5) finished on Client 127.0.0.1:55749.
+[2023-06-11 17:47:24] Game (3, 1, 9) started on Client 127.0.0.1:55749.
+[2023-06-11 17:48:00] Game (2, 3, 6) finished on Client 127.0.0.1:55742.
+[2023-06-11 17:48:00] Game (1, 3, 10) started on Client 127.0.0.1:55742.
+[2023-06-11 17:48:30] Game (3, 1, 6) finished on Client 127.0.0.1:55713.
+[2023-06-11 17:48:30] Game (3, 1, 10) started on Client 127.0.0.1:55713.
+[2023-06-11 17:49:50] Game (1, 3, 4) finished on Client 127.0.0.1:55715.
+[2023-06-11 17:49:50] Game (1, 3, 11) started on Client 127.0.0.1:55715.
+[2023-06-11 17:51:38] Game (1, 3, 5) finished on Client 127.0.0.1:55724.
+[2023-06-11 17:51:38] Game (3, 1, 11) started on Client 127.0.0.1:55724.
+[2023-06-11 17:53:22] Game (3, 1, 9) finished on Client 127.0.0.1:55749.
+[2023-06-11 17:53:22] Game (0, 3, 1) started on Client 127.0.0.1:55749.
+[2023-06-11 17:54:07] Game (3, 1, 7) finished on Client 127.0.0.1:55725.
+[2023-06-11 17:54:07] Game (3, 0, 1) started on Client 127.0.0.1:55725.
+[2023-06-11 17:54:29] Game (3, 1, 3) finished on Client 127.0.0.1:55732.
+[2023-06-11 17:54:29] Game (0, 3, 2) started on Client 127.0.0.1:55732.
+[2023-06-11 17:54:44] Game (3, 1, 4) finished on Client 127.0.0.1:55737.
+[2023-06-11 17:54:44] Game (3, 0, 2) started on Client 127.0.0.1:55737.
+[2023-06-11 17:55:23] Game (2, 3, 9) finished on Client 127.0.0.1:55754.
+[2023-06-11 17:55:23] Game (0, 3, 3) started on Client 127.0.0.1:55754.
+[2023-06-11 17:55:38] Game (2, 3, 11) finished on Client 127.0.0.1:55743.
+[2023-06-11 17:55:38] Game (3, 0, 3) started on Client 127.0.0.1:55743.
+[2023-06-11 17:58:34] Game (1, 3, 7) finished on Client 127.0.0.1:55738.
+[2023-06-11 17:58:34] Game (0, 3, 4) started on Client 127.0.0.1:55738.
+[2023-06-11 17:59:11] Game (3, 2, 10) finished on Client 127.0.0.1:55747.
+[2023-06-11 17:59:11] Game (3, 0, 4) started on Client 127.0.0.1:55747.
+[2023-06-11 18:00:48] Game (1, 3, 8) finished on Client 127.0.0.1:55718.
+[2023-06-11 18:00:48] Game (0, 3, 5) started on Client 127.0.0.1:55718.
+[2023-06-11 18:00:55] Game (1, 3, 6) finished on Client 127.0.0.1:55752.
+[2023-06-11 18:00:55] Game (3, 0, 5) started on Client 127.0.0.1:55752.
+[2023-06-11 18:01:33] Game (3, 1, 8) finished on Client 127.0.0.1:55720.
+[2023-06-11 18:01:33] Game (0, 3, 6) started on Client 127.0.0.1:55720.
+[2023-06-11 18:02:05] Game (3, 1, 10) finished on Client 127.0.0.1:55713.
+[2023-06-11 18:02:05] Game (3, 0, 6) started on Client 127.0.0.1:55713.
+[2023-06-11 18:06:44] Game (1, 3, 10) finished on Client 127.0.0.1:55742.
+[2023-06-11 18:06:44] Game (0, 3, 7) started on Client 127.0.0.1:55742.
+[2023-06-11 18:07:20] Game (0, 3, 4) finished on Client 127.0.0.1:55738.
+[2023-06-11 18:07:20] Game (3, 0, 7) started on Client 127.0.0.1:55738.
+[2023-06-11 18:07:39] Game (1, 3, 11) finished on Client 127.0.0.1:55715.
+[2023-06-11 18:07:39] Game (0, 3, 8) started on Client 127.0.0.1:55715.
+[2023-06-11 18:09:23] Game (0, 3, 2) finished on Client 127.0.0.1:55732.
+[2023-06-11 18:09:23] Game (3, 0, 8) started on Client 127.0.0.1:55732.
+[2023-06-11 18:09:27] Game (0, 3, 3) finished on Client 127.0.0.1:55754.
+[2023-06-11 18:09:27] Game (0, 3, 9) started on Client 127.0.0.1:55754.
+[2023-06-11 18:09:41] Game (3, 0, 3) finished on Client 127.0.0.1:55743.
+[2023-06-11 18:09:41] Game (3, 0, 9) started on Client 127.0.0.1:55743.
+[2023-06-11 18:10:12] Game (3, 0, 2) finished on Client 127.0.0.1:55737.
+[2023-06-11 18:10:12] Game (0, 3, 10) started on Client 127.0.0.1:55737.
+[2023-06-11 18:10:44] Game (3, 0, 1) finished on Client 127.0.0.1:55725.
+[2023-06-11 18:10:44] Game (3, 0, 10) started on Client 127.0.0.1:55725.
+[2023-06-11 18:12:26] Game (3, 1, 11) finished on Client 127.0.0.1:55724.
+[2023-06-11 18:12:26] Game (0, 3, 11) started on Client 127.0.0.1:55724.
+[2023-06-11 18:12:57] Game (3, 0, 4) finished on Client 127.0.0.1:55747.
+[2023-06-11 18:12:57] Game (3, 0, 11) started on Client 127.0.0.1:55747.
+[2023-06-11 18:15:47] Game (1, 3, 9) finished on Client 127.0.0.1:55733.
+[2023-06-11 18:15:47] Game (2, 1, 1) started on Client 127.0.0.1:55733.
+[2023-06-11 18:16:40] Game (0, 3, 1) finished on Client 127.0.0.1:55749.
+[2023-06-11 18:16:40] Game (1, 2, 2) started on Client 127.0.0.1:55749.
+[2023-06-11 18:18:33] Game (3, 0, 6) finished on Client 127.0.0.1:55713.
+[2023-06-11 18:18:33] Game (2, 1, 2) started on Client 127.0.0.1:55713.
+[2023-06-11 18:21:04] Game (3, 0, 9) finished on Client 127.0.0.1:55743.
+[2023-06-11 18:21:04] Game (1, 2, 3) started on Client 127.0.0.1:55743.
+[2023-06-11 18:22:20] Game (0, 3, 5) finished on Client 127.0.0.1:55718.
+[2023-06-11 18:22:20] Game (2, 1, 3) started on Client 127.0.0.1:55718.
+[2023-06-11 18:22:26] Game (0, 3, 7) finished on Client 127.0.0.1:55742.
+[2023-06-11 18:22:26] Game (1, 2, 4) started on Client 127.0.0.1:55742.
+[2023-06-11 18:22:42] Game (3, 0, 5) finished on Client 127.0.0.1:55752.
+[2023-06-11 18:22:42] Game (2, 1, 4) started on Client 127.0.0.1:55752.
+[2023-06-11 18:22:47] Game (0, 3, 6) finished on Client 127.0.0.1:55720.
+[2023-06-11 18:22:47] Game (1, 2, 5) started on Client 127.0.0.1:55720.
+[2023-06-11 18:22:50] Game (3, 0, 8) finished on Client 127.0.0.1:55732.
+[2023-06-11 18:22:50] Game (2, 1, 5) started on Client 127.0.0.1:55732.
+[2023-06-11 18:23:08] Game (3, 0, 7) finished on Client 127.0.0.1:55738.
+[2023-06-11 18:23:08] Game (1, 2, 6) started on Client 127.0.0.1:55738.
+[2023-06-11 18:25:32] Game (2, 1, 1) finished on Client 127.0.0.1:55733.
+[2023-06-11 18:25:32] Game (2, 1, 6) started on Client 127.0.0.1:55733.
+[2023-06-11 18:26:10] Game (0, 3, 9) finished on Client 127.0.0.1:55754.
+[2023-06-11 18:26:10] Game (1, 2, 7) started on Client 127.0.0.1:55754.
+[2023-06-11 18:27:24] Game (2, 1, 2) finished on Client 127.0.0.1:55713.
+[2023-06-11 18:27:24] Game (2, 1, 7) started on Client 127.0.0.1:55713.
+[2023-06-11 18:27:50] Game (0, 3, 8) finished on Client 127.0.0.1:55715.
+[2023-06-11 18:27:50] Game (1, 2, 8) started on Client 127.0.0.1:55715.
+[2023-06-11 18:28:23] Game (0, 3, 11) finished on Client 127.0.0.1:55724.
+[2023-06-11 18:28:23] Game (2, 1, 8) started on Client 127.0.0.1:55724.
+[2023-06-11 18:29:56] Game (1, 2, 2) finished on Client 127.0.0.1:55749.
+[2023-06-11 18:29:56] Game (1, 2, 9) started on Client 127.0.0.1:55749.
+[2023-06-11 18:30:00] Game (1, 2, 5) finished on Client 127.0.0.1:55720.
+[2023-06-11 18:30:00] Game (2, 1, 9) started on Client 127.0.0.1:55720.
+[2023-06-11 18:30:02] Game (1, 2, 6) finished on Client 127.0.0.1:55738.
+[2023-06-11 18:30:02] Game (1, 2, 10) started on Client 127.0.0.1:55738.
+[2023-06-11 18:30:03] Game (2, 1, 3) finished on Client 127.0.0.1:55718.
+[2023-06-11 18:30:04] Game (2, 1, 10) started on Client 127.0.0.1:55718.
+[2023-06-11 18:30:57] Game (3, 0, 11) finished on Client 127.0.0.1:55747.
+[2023-06-11 18:30:57] Game (1, 2, 11) started on Client 127.0.0.1:55747.
+[2023-06-11 18:33:06] Game (3, 0, 10) finished on Client 127.0.0.1:55725.
+[2023-06-11 18:33:06] Game (2, 1, 11) started on Client 127.0.0.1:55725.
+[2023-06-11 18:34:26] Game (1, 2, 3) finished on Client 127.0.0.1:55743.
+[2023-06-11 18:34:26] Game (0, 2, 3) started on Client 127.0.0.1:55743.
+[2023-06-11 18:35:00] Game (0, 3, 10) finished on Client 127.0.0.1:55737.
+[2023-06-11 18:35:00] Game (2, 0, 3) started on Client 127.0.0.1:55737.
+[2023-06-11 18:36:32] Game (2, 1, 8) finished on Client 127.0.0.1:55724.
+[2023-06-11 18:36:32] Game (0, 2, 4) started on Client 127.0.0.1:55724.
+[2023-06-11 18:36:41] Game (2, 1, 5) finished on Client 127.0.0.1:55732.
+[2023-06-11 18:36:41] Game (2, 0, 4) started on Client 127.0.0.1:55732.
+[2023-06-11 18:37:05] Game (2, 1, 4) finished on Client 127.0.0.1:55752.
+[2023-06-11 18:37:05] Game (0, 2, 5) started on Client 127.0.0.1:55752.
+[2023-06-11 18:39:35] Game (2, 1, 7) finished on Client 127.0.0.1:55713.
+[2023-06-11 18:39:36] Game (2, 0, 5) started on Client 127.0.0.1:55713.
+[2023-06-11 18:41:04] Game (1, 2, 4) finished on Client 127.0.0.1:55742.
+[2023-06-11 18:41:04] Game (0, 2, 6) started on Client 127.0.0.1:55742.
+[2023-06-11 18:41:41] Game (2, 1, 6) finished on Client 127.0.0.1:55733.
+[2023-06-11 18:41:41] Game (2, 0, 6) started on Client 127.0.0.1:55733.
+[2023-06-11 18:43:17] Game (1, 2, 7) finished on Client 127.0.0.1:55754.
+[2023-06-11 18:43:17] Game (0, 2, 7) started on Client 127.0.0.1:55754.
+[2023-06-11 18:44:05] Game (1, 2, 11) finished on Client 127.0.0.1:55747.
+[2023-06-11 18:44:05] Game (2, 0, 7) started on Client 127.0.0.1:55747.
+[2023-06-11 18:46:17] Game (1, 2, 8) finished on Client 127.0.0.1:55715.
+[2023-06-11 18:46:17] Game (0, 2, 8) started on Client 127.0.0.1:55715.
+[2023-06-11 18:47:02] Game (2, 1, 10) finished on Client 127.0.0.1:55718.
+[2023-06-11 18:47:02] Game (2, 0, 8) started on Client 127.0.0.1:55718.
+[2023-06-11 18:47:11] Game (2, 1, 11) finished on Client 127.0.0.1:55725.
+[2023-06-11 18:47:11] Game (0, 2, 9) started on Client 127.0.0.1:55725.
+[2023-06-11 18:48:36] Game (0, 2, 6) finished on Client 127.0.0.1:55742.
+[2023-06-11 18:48:36] Game (2, 0, 9) started on Client 127.0.0.1:55742.
+[2023-06-11 18:49:08] Game (1, 2, 9) finished on Client 127.0.0.1:55749.
+[2023-06-11 18:49:08] Game (0, 2, 10) started on Client 127.0.0.1:55749.
+[2023-06-11 18:49:14] Game (1, 2, 10) finished on Client 127.0.0.1:55738.
+[2023-06-11 18:49:14] Game (2, 0, 10) started on Client 127.0.0.1:55738.
+[2023-06-11 18:49:29] Game (2, 1, 9) finished on Client 127.0.0.1:55720.
+[2023-06-11 18:49:29] Game (0, 2, 11) started on Client 127.0.0.1:55720.
+[2023-06-11 18:50:30] Game (0, 2, 3) finished on Client 127.0.0.1:55743.
+[2023-06-11 18:50:30] Game (2, 0, 11) started on Client 127.0.0.1:55743.
+[2023-06-11 18:51:47] Game (2, 0, 4) finished on Client 127.0.0.1:55732.
+[2023-06-11 18:51:47] Game (1, 0, 0) started on Client 127.0.0.1:55732.
+[2023-06-11 18:57:33] Game (0, 2, 5) finished on Client 127.0.0.1:55752.
+[2023-06-11 18:57:33] Game (0, 1, 1) started on Client 127.0.0.1:55752.
+[2023-06-11 18:58:30] Game (2, 0, 7) finished on Client 127.0.0.1:55747.
+[2023-06-11 18:58:30] Game (1, 0, 1) started on Client 127.0.0.1:55747.
+[2023-06-11 18:59:00] Game (2, 0, 3) finished on Client 127.0.0.1:55737.
+[2023-06-11 18:59:00] Game (0, 1, 2) started on Client 127.0.0.1:55737.
+[2023-06-11 19:00:16] Game (0, 2, 7) finished on Client 127.0.0.1:55754.
+[2023-06-11 19:00:16] Game (1, 0, 2) started on Client 127.0.0.1:55754.
+[2023-06-11 19:00:24] Game (2, 0, 8) finished on Client 127.0.0.1:55718.
+[2023-06-11 19:00:24] Game (0, 1, 3) started on Client 127.0.0.1:55718.
+[2023-06-11 19:00:44] Game (2, 0, 10) finished on Client 127.0.0.1:55738.
+[2023-06-11 19:00:44] Game (1, 0, 3) started on Client 127.0.0.1:55738.
+[2023-06-11 19:00:57] Game (2, 0, 6) finished on Client 127.0.0.1:55733.
+[2023-06-11 19:00:57] Game (0, 1, 4) started on Client 127.0.0.1:55733.
+[2023-06-11 19:01:54] Game (0, 2, 4) finished on Client 127.0.0.1:55724.
+[2023-06-11 19:01:54] Game (1, 0, 4) started on Client 127.0.0.1:55724.
+[2023-06-11 19:01:57] Game (0, 2, 9) finished on Client 127.0.0.1:55725.
+[2023-06-11 19:01:57] Game (0, 1, 5) started on Client 127.0.0.1:55725.
+[2023-06-11 19:04:15] Game (2, 0, 5) finished on Client 127.0.0.1:55713.
+[2023-06-11 19:04:15] Game (1, 0, 5) started on Client 127.0.0.1:55713.
+[2023-06-11 19:04:55] Game (2, 0, 9) finished on Client 127.0.0.1:55742.
+[2023-06-11 19:04:55] Game (0, 1, 6) started on Client 127.0.0.1:55742.
+[2023-06-11 19:06:14] Game (0, 2, 11) finished on Client 127.0.0.1:55720.
+[2023-06-11 19:06:14] Game (1, 0, 6) started on Client 127.0.0.1:55720.
+[2023-06-11 19:09:32] Game (2, 0, 11) finished on Client 127.0.0.1:55743.
+[2023-06-11 19:09:32] Game (0, 1, 7) started on Client 127.0.0.1:55743.
+[2023-06-11 19:11:52] Game (0, 2, 8) finished on Client 127.0.0.1:55715.
+[2023-06-11 19:11:52] Game (1, 0, 7) started on Client 127.0.0.1:55715.
+[2023-06-11 19:14:38] Game (0, 2, 10) finished on Client 127.0.0.1:55749.
+[2023-06-11 19:14:38] Game (0, 1, 8) started on Client 127.0.0.1:55749.
+[2023-06-11 19:16:06] Game (1, 0, 4) finished on Client 127.0.0.1:55724.
+[2023-06-11 19:16:06] Game (1, 0, 8) started on Client 127.0.0.1:55724.
+[2023-06-11 19:17:09] Game (0, 1, 6) finished on Client 127.0.0.1:55742.
+[2023-06-11 19:17:09] Game (0, 1, 9) started on Client 127.0.0.1:55742.
+[2023-06-11 19:22:03] Game (1, 0, 5) finished on Client 127.0.0.1:55713.
+[2023-06-11 19:22:03] Game (1, 0, 9) started on Client 127.0.0.1:55713.
+[2023-06-11 19:23:34] Game (0, 1, 2) finished on Client 127.0.0.1:55737.
+[2023-06-11 19:23:34] Game (0, 1, 10) started on Client 127.0.0.1:55737.
+[2023-06-11 19:24:19] Game (1, 0, 0) finished on Client 127.0.0.1:55732.
+[2023-06-11 19:24:19] Game (1, 0, 10) started on Client 127.0.0.1:55732.
+[2023-06-11 19:26:33] Game (1, 0, 2) finished on Client 127.0.0.1:55754.
+[2023-06-11 19:26:33] Game (0, 1, 11) started on Client 127.0.0.1:55754.
+[2023-06-11 19:27:53] Game (1, 0, 6) finished on Client 127.0.0.1:55720.
+[2023-06-11 19:27:53] Game (1, 0, 11) started on Client 127.0.0.1:55720.
+[2023-06-11 19:29:24] Game (0, 1, 3) finished on Client 127.0.0.1:55718.
+[2023-06-11 19:29:24] Client 127.0.0.1:55718 disconnected.
+[2023-06-11 19:29:27] Game (1, 0, 1) finished on Client 127.0.0.1:55747.
+[2023-06-11 19:29:27] Client 127.0.0.1:55747 disconnected.
+[2023-06-11 19:29:58] Game (0, 1, 4) finished on Client 127.0.0.1:55733.
+[2023-06-11 19:29:58] Client 127.0.0.1:55733 disconnected.
+[2023-06-11 19:30:06] Game (0, 1, 1) finished on Client 127.0.0.1:55752.
+[2023-06-11 19:30:06] Client 127.0.0.1:55752 disconnected.
+[2023-06-11 19:31:00] Game (0, 1, 5) finished on Client 127.0.0.1:55725.
+[2023-06-11 19:31:00] Client 127.0.0.1:55725 disconnected.
+[2023-06-11 19:33:17] Game (1, 0, 3) finished on Client 127.0.0.1:55738.
+[2023-06-11 19:33:17] Client 127.0.0.1:55738 disconnected.
+[2023-06-11 19:39:39] Game (0, 1, 7) finished on Client 127.0.0.1:55743.
+[2023-06-11 19:39:39] Client 127.0.0.1:55743 disconnected.
+[2023-06-11 19:42:13] Game (0, 1, 8) finished on Client 127.0.0.1:55749.
+[2023-06-11 19:42:13] Client 127.0.0.1:55749 disconnected.
+[2023-06-11 19:44:31] Game (1, 0, 7) finished on Client 127.0.0.1:55715.
+[2023-06-11 19:44:31] Client 127.0.0.1:55715 disconnected.
+[2023-06-11 19:44:33] Game (1, 0, 11) finished on Client 127.0.0.1:55720.
+[2023-06-11 19:44:33] Client 127.0.0.1:55720 disconnected.
+[2023-06-11 19:46:29] Game (1, 0, 8) finished on Client 127.0.0.1:55724.
+[2023-06-11 19:46:29] Client 127.0.0.1:55724 disconnected.
+[2023-06-11 19:46:48] Game (0, 1, 9) finished on Client 127.0.0.1:55742.
+[2023-06-11 19:46:49] Client 127.0.0.1:55742 disconnected.
+[2023-06-11 19:51:22] Game (0, 1, 10) finished on Client 127.0.0.1:55737.
+[2023-06-11 19:51:22] Client 127.0.0.1:55737 disconnected.
+[2023-06-11 19:51:58] Game (1, 0, 9) finished on Client 127.0.0.1:55713.
+[2023-06-11 19:51:58] Client 127.0.0.1:55713 disconnected.
+[2023-06-11 19:53:10] Game (1, 0, 10) finished on Client 127.0.0.1:55732.
+[2023-06-11 19:53:10] Client 127.0.0.1:55732 disconnected.
+[2023-06-11 19:56:08] Game (0, 1, 11) finished on Client 127.0.0.1:55754.
+[2023-06-11 19:56:08] Client 127.0.0.1:55754 disconnected.
+[2023-06-11 19:56:14] Server ended.

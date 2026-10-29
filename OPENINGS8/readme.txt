@@ -1,0 +1,1 @@
+openings.txt is a file containing the openings three of which will be used in Gomocup 2007. The file is to be used with P. Lastovicka's manager program that you can download from www.gomocup.wz.cz.

@@ -1,0 +1,55 @@
+1. RAPFI24 2435
+    wins: 117+118, losses: 1+1, draws: 2+1
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 79s, time/turn: 3845ms, move/game: 21
+
+2. JAX24 2214
+    wins: 109+108, losses: 10+10, draws: 1+2
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 76s, time/turn: 3224ms, move/game: 23
+
+3. TITO14 1692
+    wins: 68+68, losses: 40+37, draws: 0+3
+    timeouts: 3, errors: 0, total games: 216
+    time/game: 36s, time/turn: 1611ms, move/game: 22
+
+4. HEWER18 1619
+    wins: 62+60, losses: 46+47, draws: 0+1
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 57s, time/turn: 2385ms, move/game: 24
+
+5. DEEPFIRE19 1597
+    wins: 75+61, losses: 44+57, draws: 1+2
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 76s, time/turn: 3490ms, move/game: 22
+
+6. GOFIVE 1451
+    wins: 51+48, losses: 68+71, draws: 1+1
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 82s, time/turn: 4108ms, move/game: 20
+
+7. CARBON17 1428
+    wins: 47+45, losses: 72+73, draws: 1+2
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 94s, time/turn: 4501ms, move/game: 21
+
+8. ZETOR17 1354
+    wins: 28+39, losses: 68+57, draws: 0+0
+    timeouts: 1, errors: 0, total games: 192
+    time/game: 71s, time/turn: 3806ms, move/game: 19
+
+9. PELA23 1315
+    wins: 31+27, losses: 82+91, draws: 7+2
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 115s, time/turn: 4605ms, move/game: 25
+
+10. GMOTOR11 1274
+    wins: 27+26, losses: 92+93, draws: 1+1
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 49s, time/turn: 2727ms, move/game: 18
+
+11. SQUIRREL24 1223
+    wins: 22+20, losses: 97+100, draws: 1+0
+    timeouts: 0, errors: 0, total games: 240
+    time/game: 82s, time/turn: 4246ms, move/game: 19
+

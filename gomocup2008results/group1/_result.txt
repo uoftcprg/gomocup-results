@@ -1,0 +1,53 @@
+-------------------------------------
+19.4.2008  12:16 - 16:27
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+HGarden07
+wins: 43=19+19+5,   losses: 5=2+2+1,  1 errors
+time/turn: 3127 ms (max: 8.6 s),  time/game: 56 s
+moves/game: 18,  CRC: f883b408,   memory: 30.30 MB
+
+hewer
+wins: 40=18+17+5,   losses: 8=3+5
+time/turn: 2033 ms (max: 10.7 s),  time/game: 42 s
+moves/game: 21,  CRC: f2059a11,   memory: 199.59 MB
+
+Kanec
+wins: 33=15+12+6,   losses: 15=6+9
+time/turn: 4025 ms (max: 12.1 s),  time/game: 89 s
+moves/game: 22,  CRC: f62a2b9,   memory: 232.22 MB
+
+HfM
+wins: 34=15+14+5,   losses: 14=6+8
+time/turn: 2589 ms (max: 6.3 s),  time/game: 41 s
+moves/game: 15,  CRC: 9c5cc2ec,   memory: 68.64 MB
+
+Noesis
+wins: 16=8+6+2,   losses: 32=14+18
+time/turn: 702 ms (max: 5.0 s),  time/game: 13 s
+moves/game: 18,  CRC: 8c55963c,   memory: 7.63 MB
+
+Goro2007
+wins: 17=10+7,   losses: 31=0+0+31,  5 errors
+time/turn: 1840 ms (max: 21.2 s),  time/game: 18 s
+moves/game: 10,  CRC: 9e75349e,   memory: 16.40 MB
+
+AI1000
+wins: 10=2+4+4,   losses: 38=20+18
+time/turn: 167 ms (max: 1.9 s),  time/game: 3 s
+moves/game: 20,  CRC: 90fb8ea7,   memory: 2.41 MB
+
+LEONARDO
+wins: 13=6+4+3,   losses: 35=17+18
+time/turn: 155 ms (max: 1.2 s),  time/game: 3 s
+moves/game: 19,  CRC: 96a303fe,   memory: 2.41 MB
+
+pisq7
+wins: 10=6+2+2,   losses: 38=17+21
+time/turn: 31 ms (max: 0.3 s),  time/game: 0 s
+moves/game: 15,  CRC: da9c561,   memory: 1.19 MB
+

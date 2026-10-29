@@ -1,0 +1,58 @@
+-------------------------------------
+24.4.2010  10:01 - 12:35
+Èas na tah: 30 s,   Èas na partii: 180 s
+Tolerance: 1 s,   Pamì: 350 MB
+Zahájení: zaèíná se od 1., pouito 3, celkem 3 
+Poèet her: 270
+-------------------------------------
+
+nabamoku_java-client
+vıhry: 40=18+20+2,  prohry: 14=5+5+4,  chyby: 2
+èas/tah: 3052 ms (max: 11.0 s),  èas/partii: 78 s
+tahù/partii: 25,  CRC: bb4c2405,   pamì: 2.73 MB
+
+Puskvorec
+vıhry: 33=18+13+2,  prohry: 21=8+13
+èas/tah: 457 ms (max: 3.0 s),  èas/partii: 8 s
+tahù/partii: 18,  CRC: b89a06e8,   pamì: 3.54 MB
+
+BRUTEFOR
+vıhry: 31=20+11,  prohry: 23=5+11+7
+èas/tah: 4435 ms (max: 12.1 s),  èas/partii: 98 s
+tahù/partii: 22,  CRC: 287e32f4,   pamì: 2.79 MB
+
+LEONARDO
+vıhry: 30=14+10+6,  prohry: 24=11+13
+èas/tah: 320 ms (max: 2.6 s),  èas/partii: 12 s
+tahù/partii: 40,  CRC: 96a303fe,   pamì: 2.73 MB
+
+PureGM2
+vıhry: 30=18+12,  prohry: 24=5+9+10
+èas/tah: 4845 ms (max: 29.9 s),  èas/partii: 85 s
+tahù/partii: 17,  CRC: 99402e54,   pamì: 4.13 MB
+
+Benjamin
+vıhry: 27=11+8+8,  prohry: 26=7+9+10,  chyby: 10
+èas/tah: 132 ms (max: 3.5 s),  èas/partii: 10 s
+tahù/partii: 82,  CRC: 1c74aee4,   pamì: 2.03 MB
+
+AI1000
+vıhry: 26=8+11+7,  prohry: 28=14+14
+èas/tah: 378 ms (max: 5.4 s),  èas/partii: 16 s
+tahù/partii: 44,  CRC: 90fb8ea7,   pamì: 2.74 MB
+
+pisq7
+vıhry: 26=14+10+2,  prohry: 28=12+16
+èas/tah: 142 ms (max: 3.5 s),  èas/partii: 3 s
+tahù/partii: 24,  CRC: da9c561,   pamì: 1.75 MB
+
+CURNPIS
+vıhry: 18=10+4+4,  prohry: 35=13+22
+èas/tah: 354 ms (max: 3.5 s),  èas/partii: 14 s
+tahù/partii: 41,  CRC: f2623dd9,   pamì: 2.78 MB
+
+brain-Crusher2010
+vıhry: 8=5+3,  prohry: 46=22+24
+èas/tah: 165 ms (max: 2.3 s),  èas/partii: 5 s
+tahù/partii: 31,  CRC: ecd8392,   pamì: 3.67 MB
+

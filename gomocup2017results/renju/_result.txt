@@ -1,0 +1,35 @@
+1. YIXIN17 2115
+    wins: 70+70, losses: 1+1, draws: 1+1
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 223s, time/turn: 11652ms, move/game: 19
+
+2. RENJUSOLVER.R 1696
+    wins: 50+43, losses: 20+29, draws: 2+0
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 177s, time/turn: 8793ms, move/game: 20
+
+3. SLOWRENJU17 1669
+    wins: 51+37, losses: 20+35, draws: 1+0
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 395s, time/turn: 20972ms, move/game: 19
+
+4. CARBON17 1562
+    wins: 42+26, losses: 30+44, draws: 0+2
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 510s, time/turn: 25753ms, move/game: 20
+
+5. XL 1430
+    wins: 24+21, losses: 48+51, draws: 0+0
+    timeouts: 0, errors: 4, total games: 144
+    time/game: 273s, time/turn: 15117ms, move/game: 18
+
+6. PELA17 1384
+    wins: 12+24, losses: 60+47, draws: 0+1
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 600s, time/turn: 32323ms, move/game: 19
+
+7. WHOSE 1343
+    wins: 24+6, losses: 48+66, draws: 0+0
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 332s, time/turn: 18113ms, move/game: 18
+

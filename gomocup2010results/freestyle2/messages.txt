@@ -1,0 +1,2793 @@
+______________________________
+Pecuchet x Noesis
+-> F:\projekty\gomocup2010\freestyle2\0x2-29(1).psq
+______________________________
+Noesis x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\2x0-17(1).psq
+______________________________
+Pecuchet x bestmove
+-> F:\projekty\gomocup2010\freestyle2\0x3-27(1).psq
+______________________________
+Pecuchet x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\0x1-40(1).psq
+______________________________
+QMENTAT6 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\1x0-38(1).psq
+______________________________
+Pecuchet x gmotor
+-> F:\projekty\gomocup2010\freestyle2\0x4-37(1).psq
+______________________________
+bestmove x Pecuchet
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x0-16(1).psq
+______________________________
+gmotor x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\4x0-31(1).psq
+______________________________
+Pecuchet x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\0x5-29(1).psq
+______________________________
+HfM2010 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\5x0-17(1).psq
+______________________________
+Pecuchet x Kanec
+-> F:\projekty\gomocup2010\freestyle2\0x6-44(1).psq
+______________________________
+Pecuchet x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -8,01  3/42981
+ 7) pbrain-swine2010.exe:  7-0      -9,79  9/79758
+ 9) pbrain-swine2010.exe:  1-0       0,00  0/0
+11) pbrain-swine2010.exe:  7-0     -12,10  3/50266
+13) pbrain-swine2010.exe:  8-0     -14,05  1/18467
+15) pbrain-swine2010.exe:  8-0     -13,28  2/18213
+17) pbrain-swine2010.exe:  6-0     -10,72  2/12171
+19) pbrain-swine2010.exe:  1-0       0,00  0/0
+21) pbrain-swine2010.exe:  2-0      -8,97  3/31
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  4-0       4,82  3/1282
+27) pbrain-swine2010.exe:  1-0       0,00  0/0
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  1-0       0,00  0/0
+33) pbrain-swine2010.exe:  1-0       0,00  0/0
+35) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\0x7-40(1).psq
+______________________________
+Pecuchet x amoeba2010
+21) pbrain-amoeba2010.exe: My chance to win: 23%
+23) pbrain-amoeba2010.exe: Your chance to win: 76%
+23) pbrain-amoeba2010.exe: My chance to win: 27%
+25) pbrain-amoeba2010.exe: Your chance to win: 68%
+25) pbrain-amoeba2010.exe: My chance to win: 31%
+27) pbrain-amoeba2010.exe: Your chance to win: 68%
+27) pbrain-amoeba2010.exe: My chance to win: 38%
+29) pbrain-amoeba2010.exe: Your chance to win: 60%
+29) pbrain-amoeba2010.exe: My chance to win: 39%
+31) pbrain-amoeba2010.exe: Your chance to win: 56%
+31) pbrain-amoeba2010.exe: My chance to win: 37%
+33) pbrain-amoeba2010.exe: Your chance to win: 65%
+33) pbrain-amoeba2010.exe: My chance to win: 18%
+35) pbrain-amoeba2010.exe: Your chance to win: 82%
+35) pbrain-amoeba2010.exe: My chance to win: 18%
+37) pbrain-amoeba2010.exe: Your chance to win: 75%
+37) pbrain-amoeba2010.exe: My chance to win: 24%
+41) pbrain-amoeba2010.exe: My chance to win: 0%
+43) pbrain-amoeba2010.exe: Your chance to win: 99%
+43) pbrain-amoeba2010.exe: My chance to win: 0%
+45) pbrain-amoeba2010.exe: Your chance to win: 99%
+45) pbrain-amoeba2010.exe: My chance to win: 0%
+47) pbrain-amoeba2010.exe: Your chance to win: 99%
+47) pbrain-amoeba2010.exe: My chance to win: 0%
+47) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\0x8-49(1).psq
+______________________________
+Kanec x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\6x0-31(1).psq
+______________________________
+amoeba2010 x Pecuchet
+ 8) pbrain-amoeba2010.exe: My chance to win: 77%
+10) pbrain-amoeba2010.exe: My chance to win: 95%
+12) pbrain-amoeba2010.exe: Your chance to win: 4%
+12) pbrain-amoeba2010.exe: My chance to win: 98%
+14) pbrain-amoeba2010.exe: Your chance to win: 1%
+14) pbrain-amoeba2010.exe: My chance to win: 100%
+16) pbrain-amoeba2010.exe: Your chance to win: 0%
+16) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x0-17(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> F:\projekty\gomocup2010\freestyle2\1x2-26(1).psq
+______________________________
+QMENTAT6 x bestmove
+-> F:\projekty\gomocup2010\freestyle2\1x3-40(1).psq
+______________________________
+Noesis x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\2x1-64(1).psq
+______________________________
+swine2010 x Pecuchet
+ 4) pbrain-swine2010.exe:  6-0       7,68  2/32948
+ 6) pbrain-swine2010.exe:  6-0       8,01  6/26189
+ 8) pbrain-swine2010.exe:  6-0      10,38 15/73447
+10) pbrain-swine2010.exe:  7-0       7,35 5783/49413
+12) pbrain-swine2010.exe:  7-0       5,34  7/33400
+14) pbrain-swine2010.exe:  7-0       1,54  2/22165
+16) pbrain-swine2010.exe:  8-0       3,00 16/62968
+18) pbrain-swine2010.exe:  6-0      10,47 19/29599
+20) pbrain-swine2010.exe:  5-0      11,59  3/9964
+22) pbrain-swine2010.exe:  4-0       9,74 12/5900
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+26) pbrain-swine2010.exe:  1-0        :-]  0/0
+28) pbrain-swine2010.exe:  1-0       0,00  0/0
+30) pbrain-swine2010.exe:  1-0       0,00  0/0
+32) pbrain-swine2010.exe:  1-0       0,00  0/0
+34) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x0-45(1).psq
+______________________________
+QMENTAT6 x gmotor
+-> F:\projekty\gomocup2010\freestyle2\1x4-26(1).psq
+______________________________
+gmotor x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\4x1-37(1).psq
+______________________________
+bestmove x QMENTAT6
+pbrain-bestmove.exe: Timeout
+-> F:\projekty\gomocup2010\freestyle2\3x1-16(1).psq
+______________________________
+QMENTAT6 x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\1x5-92(1).psq
+______________________________
+QMENTAT6 x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -8,82  3/55470
+ 7) pbrain-swine2010.exe:  1-0       0,00  0/0
+ 9) pbrain-swine2010.exe:  7-0       1,03  3/35835
+11) pbrain-swine2010.exe:  7-0       7,21  6/45283
+13) pbrain-swine2010.exe:  6-0       9,02  5/85488
+15) pbrain-swine2010.exe:  6-0       8,45  3/54178
+17) pbrain-swine2010.exe:  5-0       7,92  7/14480
+19) pbrain-swine2010.exe:  5-0      12,49  3/9785
+21) pbrain-swine2010.exe:  5-0      16,73  4/17357
+23) pbrain-swine2010.exe:  6-0        :-]  3/29349
+25) pbrain-swine2010.exe:  4-0        :-] 16/4284
+27) pbrain-swine2010.exe:  2-0        :-]  1/23
+29) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\1x7-32(1).psq
+______________________________
+QMENTAT6 x Kanec
+-> F:\projekty\gomocup2010\freestyle2\1x6-32(1).psq
+______________________________
+swine2010 x QMENTAT6
+ 4) pbrain-swine2010.exe:  7-0       7,63  2/58667
+ 6) pbrain-swine2010.exe:  7-0      11,53  7/62530
+ 8) pbrain-swine2010.exe:  8-0      10,42  3/60209
+10) pbrain-swine2010.exe:  8-0      10,25  5/86523
+12) pbrain-swine2010.exe:  6-0      10,25 13/67962
+14) pbrain-swine2010.exe:  7-0      13,93  3/39480
+16) pbrain-swine2010.exe:  1-0       0,00  0/0
+18) pbrain-swine2010.exe:  2-0        :-]  3/4
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x1-31(1).psq
+______________________________
+HfM2010 x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\5x1-51(1).psq
+______________________________
+QMENTAT6 x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 61%
+11) pbrain-amoeba2010.exe: Your chance to win: 35%
+11) pbrain-amoeba2010.exe: My chance to win: 69%
+13) pbrain-amoeba2010.exe: My chance to win: 37%
+15) pbrain-amoeba2010.exe: Your chance to win: 62%
+15) pbrain-amoeba2010.exe: My chance to win: 36%
+17) pbrain-amoeba2010.exe: Your chance to win: 63%
+17) pbrain-amoeba2010.exe: My chance to win: 31%
+19) pbrain-amoeba2010.exe: Your chance to win: 77%
+19) pbrain-amoeba2010.exe: My chance to win: 33%
+21) pbrain-amoeba2010.exe: Your chance to win: 53%
+21) pbrain-amoeba2010.exe: My chance to win: 26%
+23) pbrain-amoeba2010.exe: Your chance to win: 77%
+23) pbrain-amoeba2010.exe: My chance to win: 16%
+25) pbrain-amoeba2010.exe: Your chance to win: 83%
+25) pbrain-amoeba2010.exe: My chance to win: 14%
+27) pbrain-amoeba2010.exe: Your chance to win: 88%
+27) pbrain-amoeba2010.exe: My chance to win: 3%
+29) pbrain-amoeba2010.exe: Your chance to win: 96%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+31) pbrain-amoeba2010.exe: Your chance to win: 99%
+31) pbrain-amoeba2010.exe: My chance to win: 0%
+31) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\1x8-33(1).psq
+______________________________
+Noesis x bestmove
+-> F:\projekty\gomocup2010\freestyle2\2x3-29(1).psq
+______________________________
+Kanec x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\6x1-53(1).psq
+______________________________
+amoeba2010 x QMENTAT6
+ 8) pbrain-amoeba2010.exe: My chance to win: 73%
+10) pbrain-amoeba2010.exe: My chance to win: 59%
+12) pbrain-amoeba2010.exe: Your chance to win: 40%
+12) pbrain-amoeba2010.exe: My chance to win: 61%
+14) pbrain-amoeba2010.exe: Your chance to win: 47%
+14) pbrain-amoeba2010.exe: My chance to win: 55%
+24) pbrain-amoeba2010.exe: My chance to win: 63%
+26) pbrain-amoeba2010.exe: Your chance to win: 37%
+26) pbrain-amoeba2010.exe: My chance to win: 58%
+28) pbrain-amoeba2010.exe: Your chance to win: 41%
+28) pbrain-amoeba2010.exe: My chance to win: 53%
+30) pbrain-amoeba2010.exe: Your chance to win: 46%
+30) pbrain-amoeba2010.exe: My chance to win: 54%
+32) pbrain-amoeba2010.exe: Your chance to win: 45%
+32) pbrain-amoeba2010.exe: My chance to win: 57%
+34) pbrain-amoeba2010.exe: Your chance to win: 43%
+34) pbrain-amoeba2010.exe: My chance to win: 56%
+36) pbrain-amoeba2010.exe: Your chance to win: 45%
+36) pbrain-amoeba2010.exe: My chance to win: 60%
+38) pbrain-amoeba2010.exe: Your chance to win: 23%
+38) pbrain-amoeba2010.exe: My chance to win: 76%
+40) pbrain-amoeba2010.exe: Your chance to win: 22%
+40) pbrain-amoeba2010.exe: My chance to win: 94%
+42) pbrain-amoeba2010.exe: My chance to win: 99%
+44) pbrain-amoeba2010.exe: Your chance to win: 0%
+44) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x1-45(1).psq
+______________________________
+Noesis x gmotor
+-> F:\projekty\gomocup2010\freestyle2\2x4-42(1).psq
+______________________________
+Noesis x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\2x5-62(1).psq
+______________________________
+HfM2010 x Noesis
+-> F:\projekty\gomocup2010\freestyle2\5x2-23(1).psq
+______________________________
+gmotor x Noesis
+-> F:\projekty\gomocup2010\freestyle2\4x2-29(1).psq
+______________________________
+bestmove x Noesis
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x2-18(1).psq
+______________________________
+Noesis x Kanec
+-> F:\projekty\gomocup2010\freestyle2\2x6-46(1).psq
+______________________________
+Kanec x Noesis
+-> F:\projekty\gomocup2010\freestyle2\6x2-31(1).psq
+______________________________
+Noesis x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -8,01  1/43194
+ 7) pbrain-swine2010.exe:  7-0      -9,79  9/81372
+ 9) pbrain-swine2010.exe:  1-0       0,00  0/0
+11) pbrain-swine2010.exe:  7-0     -12,67  1/51624
+13) pbrain-swine2010.exe:  7-0      -6,27  3/17589
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  7-0      17,23  5/17397
+19) pbrain-swine2010.exe:  8-0        :-]  2/941
+21) pbrain-swine2010.exe:  1-0       0,00  0/0
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  2-0        :-]  3/31
+27) pbrain-swine2010.exe:  1-0       0,00  0/0
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  1-0        :-]  0/0
+33) pbrain-swine2010.exe:  1-0        :-]  0/0
+35) pbrain-swine2010.exe:  1-0        :-]  0/0
+37) pbrain-swine2010.exe:  1-0        :-]  0/0
+39) pbrain-swine2010.exe:  1-0       0,00  0/0
+41) pbrain-swine2010.exe:  1-0       0,00  0/0
+43) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\2x7-46(1).psq
+______________________________
+swine2010 x Noesis
+ 4) pbrain-swine2010.exe:  6-0       7,68  2/32948
+ 6) pbrain-swine2010.exe:  6-0       8,01  6/26189
+ 8) pbrain-swine2010.exe:  6-0        :-]  1/16352
+10) pbrain-swine2010.exe:  4-0        :-]  1/4004
+12) pbrain-swine2010.exe:  2-0        :-]  3/940
+14) pbrain-swine2010.exe:  1-0       0,00  0/0
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+18) pbrain-swine2010.exe:  1-0        :-]  0/0
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x2-25(1).psq
+______________________________
+Noesis x amoeba2010
+13) pbrain-amoeba2010.exe: My chance to win: 41%
+15) pbrain-amoeba2010.exe: My chance to win: 49%
+17) pbrain-amoeba2010.exe: Your chance to win: 26%
+17) pbrain-amoeba2010.exe: My chance to win: 74%
+29) pbrain-amoeba2010.exe: My chance to win: 82%
+31) pbrain-amoeba2010.exe: Your chance to win: 21%
+31) pbrain-amoeba2010.exe: My chance to win: 79%
+33) pbrain-amoeba2010.exe: Your chance to win: 8%
+33) pbrain-amoeba2010.exe: My chance to win: 91%
+35) pbrain-amoeba2010.exe: Your chance to win: 5%
+35) pbrain-amoeba2010.exe: My chance to win: 94%
+37) pbrain-amoeba2010.exe: Your chance to win: 5%
+37) pbrain-amoeba2010.exe: My chance to win: 94%
+39) pbrain-amoeba2010.exe: Your chance to win: 7%
+39) pbrain-amoeba2010.exe: My chance to win: 94%
+41) pbrain-amoeba2010.exe: Your chance to win: 7%
+41) pbrain-amoeba2010.exe: My chance to win: 94%
+43) pbrain-amoeba2010.exe: Your chance to win: 5%
+43) pbrain-amoeba2010.exe: My chance to win: 95%
+45) pbrain-amoeba2010.exe: Your chance to win: 4%
+45) pbrain-amoeba2010.exe: My chance to win: 95%
+47) pbrain-amoeba2010.exe: Your chance to win: 4%
+47) pbrain-amoeba2010.exe: My chance to win: 95%
+49) pbrain-amoeba2010.exe: Your chance to win: 4%
+49) pbrain-amoeba2010.exe: My chance to win: 95%
+51) pbrain-amoeba2010.exe: Your chance to win: 4%
+51) pbrain-amoeba2010.exe: My chance to win: 92%
+53) pbrain-amoeba2010.exe: Your chance to win: 7%
+53) pbrain-amoeba2010.exe: My chance to win: 96%
+55) pbrain-amoeba2010.exe: Your chance to win: 1%
+55) pbrain-amoeba2010.exe: My chance to win: 98%
+57) pbrain-amoeba2010.exe: Your chance to win: 0%
+57) pbrain-amoeba2010.exe: My chance to win: 99%
+59) pbrain-amoeba2010.exe: Your chance to win: 0%
+59) pbrain-amoeba2010.exe: My chance to win: 100%
+61) pbrain-amoeba2010.exe: Your chance to win: 0%
+61) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\2x8-62(1).psq
+______________________________
+amoeba2010 x Noesis
+ 8) pbrain-amoeba2010.exe: My chance to win: 85%
+10) pbrain-amoeba2010.exe: Your chance to win: 17%
+10) pbrain-amoeba2010.exe: My chance to win: 95%
+12) pbrain-amoeba2010.exe: Your chance to win: 5%
+12) pbrain-amoeba2010.exe: My chance to win: 94%
+14) pbrain-amoeba2010.exe: Your chance to win: 4%
+14) pbrain-amoeba2010.exe: My chance to win: 97%
+16) pbrain-amoeba2010.exe: Your chance to win: 2%
+16) pbrain-amoeba2010.exe: My chance to win: 97%
+18) pbrain-amoeba2010.exe: Your chance to win: 2%
+18) pbrain-amoeba2010.exe: My chance to win: 97%
+20) pbrain-amoeba2010.exe: My chance to win: 100%
+22) pbrain-amoeba2010.exe: Your chance to win: 0%
+22) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x2-23(1).psq
+______________________________
+bestmove x gmotor
+pbrain-bestmove.exe: Timeout
+-> F:\projekty\gomocup2010\freestyle2\3x4-16(1).psq
+______________________________
+bestmove x HfM2010
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x5-16(1).psq
+______________________________
+HfM2010 x bestmove
+-> F:\projekty\gomocup2010\freestyle2\5x3-21(1).psq
+______________________________
+gmotor x bestmove
+-> F:\projekty\gomocup2010\freestyle2\4x3-41(1).psq
+______________________________
+bestmove x Kanec
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x6-18(1).psq
+______________________________
+bestmove x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -5,32  2/50402
+ 7) pbrain-swine2010.exe:  9-0       1,28  2/21374
+ 9) pbrain-swine2010.exe:  2-0       0,82  1/31
+11) pbrain-swine2010.exe:  2-0      -1,63  3/8
+13) pbrain-swine2010.exe:  6-0       2,36  5/45605
+15) pbrain-swine2010.exe:  7-0       5,68 14/32727
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x7-16(1).psq
+______________________________
+bestmove x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 36%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 54%
+ 9) pbrain-amoeba2010.exe: My chance to win: 45%
+11) pbrain-amoeba2010.exe: Your chance to win: 63%
+pbrain-bestmove.exe: Timeout
+-> F:\projekty\gomocup2010\freestyle2\3x8-16(1).psq
+______________________________
+Kanec x bestmove
+-> F:\projekty\gomocup2010\freestyle2\6x3-37(1).psq
+______________________________
+swine2010 x bestmove
+ 4) pbrain-swine2010.exe:  6-0       7,68  2/32948
+ 6) pbrain-swine2010.exe:  6-0       8,01  6/26189
+ 8) pbrain-swine2010.exe:  7-0      21,64  1/38074
+10) pbrain-swine2010.exe:  9-0      24,66  4/63071
+12) pbrain-swine2010.exe:  1-0        :-]  0/0
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+16) pbrain-swine2010.exe:  1-0       0,00  0/0
+18) pbrain-swine2010.exe:  1-0       0,00  0/0
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x3-23(1).psq
+______________________________
+amoeba2010 x bestmove
+ 8) pbrain-amoeba2010.exe: My chance to win: 71%
+10) pbrain-amoeba2010.exe: Your chance to win: 29%
+10) pbrain-amoeba2010.exe: My chance to win: 65%
+12) pbrain-amoeba2010.exe: Your chance to win: 32%
+12) pbrain-amoeba2010.exe: My chance to win: 76%
+14) pbrain-amoeba2010.exe: Your chance to win: 9%
+14) pbrain-amoeba2010.exe: My chance to win: 90%
+16) pbrain-amoeba2010.exe: Your chance to win: 10%
+16) pbrain-amoeba2010.exe: My chance to win: 90%
+18) pbrain-amoeba2010.exe: My chance to win: 82%
+20) pbrain-amoeba2010.exe: Your chance to win: 18%
+20) pbrain-amoeba2010.exe: My chance to win: 88%
+22) pbrain-amoeba2010.exe: Your chance to win: 12%
+22) pbrain-amoeba2010.exe: My chance to win: 92%
+24) pbrain-amoeba2010.exe: Your chance to win: 6%
+24) pbrain-amoeba2010.exe: My chance to win: 92%
+26) pbrain-amoeba2010.exe: Your chance to win: 7%
+26) pbrain-amoeba2010.exe: My chance to win: 95%
+28) pbrain-amoeba2010.exe: Your chance to win: 4%
+28) pbrain-amoeba2010.exe: My chance to win: 97%
+30) pbrain-amoeba2010.exe: Your chance to win: 2%
+30) pbrain-amoeba2010.exe: My chance to win: 98%
+32) pbrain-amoeba2010.exe: Your chance to win: 1%
+32) pbrain-amoeba2010.exe: My chance to win: 100%
+34) pbrain-amoeba2010.exe: Your chance to win: 0%
+34) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x3-35(1).psq
+______________________________
+gmotor x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\4x5-41(1).psq
+______________________________
+HfM2010 x gmotor
+-> F:\projekty\gomocup2010\freestyle2\5x4-29(1).psq
+______________________________
+gmotor x Kanec
+-> F:\projekty\gomocup2010\freestyle2\4x6-47(1).psq
+______________________________
+gmotor x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -7,98  2/55877
+ 7) pbrain-swine2010.exe:  8-0     -10,28  3/31414
+ 9) pbrain-swine2010.exe:  6-0     -10,28  3/11448
+11) pbrain-swine2010.exe:  1-0       0,00  0/0
+13) pbrain-swine2010.exe:  2-0      -8,13  2/34
+15) pbrain-swine2010.exe:  8-0     -14,94 16/38991
+17) pbrain-swine2010.exe:  2-0     -10,18  1/35
+19) pbrain-swine2010.exe:  1-0       0,00  0/0
+21) pbrain-swine2010.exe:  7-0     -17,62  3/68009
+23) pbrain-swine2010.exe:  7-0     -17,98  1/59360
+25) pbrain-swine2010.exe:  1-0       0,00  0/0
+27) pbrain-swine2010.exe:  7-0     -12,84  3/95039
+29) pbrain-swine2010.exe:  7-0     -10,42  1/87479
+31) pbrain-swine2010.exe:  6-0     -10,04  1/20155
+33) pbrain-swine2010.exe:  6-0      -6,53  9/40780
+35) pbrain-swine2010.exe:  1-0       0,00  0/0
+37) pbrain-swine2010.exe:  4-0       2,94 12/5133
+39) pbrain-swine2010.exe:  6-0       7,95 12/51997
+41) pbrain-swine2010.exe:  1-0       0,00  0/0
+43) pbrain-swine2010.exe:  1-0       0,00  0/0
+45) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\4x7-54(1).psq
+______________________________
+Kanec x gmotor
+-> F:\projekty\gomocup2010\freestyle2\6x4-41(1).psq
+______________________________
+gmotor x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 56%
+11) pbrain-amoeba2010.exe: My chance to win: 50%
+13) pbrain-amoeba2010.exe: My chance to win: 49%
+15) pbrain-amoeba2010.exe: Your chance to win: 53%
+15) pbrain-amoeba2010.exe: My chance to win: 46%
+17) pbrain-amoeba2010.exe: Your chance to win: 55%
+17) pbrain-amoeba2010.exe: My chance to win: 41%
+19) pbrain-amoeba2010.exe: Your chance to win: 62%
+19) pbrain-amoeba2010.exe: My chance to win: 46%
+21) pbrain-amoeba2010.exe: Your chance to win: 58%
+21) pbrain-amoeba2010.exe: My chance to win: 41%
+23) pbrain-amoeba2010.exe: Your chance to win: 64%
+23) pbrain-amoeba2010.exe: My chance to win: 35%
+25) pbrain-amoeba2010.exe: Your chance to win: 66%
+25) pbrain-amoeba2010.exe: My chance to win: 30%
+27) pbrain-amoeba2010.exe: Your chance to win: 69%
+27) pbrain-amoeba2010.exe: My chance to win: 24%
+29) pbrain-amoeba2010.exe: Your chance to win: 78%
+29) pbrain-amoeba2010.exe: My chance to win: 21%
+31) pbrain-amoeba2010.exe: Your chance to win: 76%
+31) pbrain-amoeba2010.exe: My chance to win: 23%
+33) pbrain-amoeba2010.exe: My chance to win: 5%
+35) pbrain-amoeba2010.exe: Your chance to win: 97%
+35) pbrain-amoeba2010.exe: My chance to win: 2%
+37) pbrain-amoeba2010.exe: Your chance to win: 99%
+37) pbrain-amoeba2010.exe: My chance to win: 0%
+37) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\4x8-39(1).psq
+______________________________
+swine2010 x gmotor
+ 4) pbrain-swine2010.exe:  7-0       7,63  2/58667
+ 6) pbrain-swine2010.exe:  7-0       8,82  6/39014
+ 8) pbrain-swine2010.exe:  9-0      20,53 10/66006
+10) pbrain-swine2010.exe:  8-0        :-]  3/20472
+12) pbrain-swine2010.exe:  1-0       0,00  0/0
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+18) pbrain-swine2010.exe:  1-0        :-]  0/0
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+24) pbrain-swine2010.exe:  1-0       0,00  0/0
+26) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x4-29(1).psq
+______________________________
+HfM2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle2\5x6-46(1).psq
+______________________________
+HfM2010 x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -8,82  3/55470
+ 7) pbrain-swine2010.exe:  8-0      -9,95 10/126129
+ 9) pbrain-swine2010.exe:  1-0       0,00  0/0
+11) pbrain-swine2010.exe:  8-0      -5,34  1/51799
+13) pbrain-swine2010.exe:  8-0      -2,46  3/46682
+15) pbrain-swine2010.exe:  7-0       3,43 16/23352
+17) pbrain-swine2010.exe:  1-0       0,00  0/0
+19) pbrain-swine2010.exe:  9-0       9,30  1/38661
+21) pbrain-swine2010.exe:  7-0       9,30  1/41027
+23) pbrain-swine2010.exe:  8-0       8,58  3/70916
+25) pbrain-swine2010.exe:  6-0       8,58  9/91551
+27) pbrain-swine2010.exe:  7-0       7,71  1/35231
+29) pbrain-swine2010.exe:  7-0       5,52 11/52627
+31) pbrain-swine2010.exe:  6-0       5,71 22/29755
+33) pbrain-swine2010.exe:  6-0       9,47  1/25781
+35) pbrain-swine2010.exe:  6-0       5,17 36/25733
+37) pbrain-swine2010.exe:  7-0       2,01  1/33525
+39) pbrain-swine2010.exe:  4-0        :-]  9/5664
+41) pbrain-swine2010.exe:  2-0        :-]  7/366
+43) pbrain-swine2010.exe:  1-0        :-]  0/0
+45) pbrain-swine2010.exe:  1-0       0,00  0/0
+47) pbrain-swine2010.exe:  1-0       0,00  0/0
+49) pbrain-swine2010.exe:  1-0       0,00  0/0
+51) pbrain-swine2010.exe:  1-0       0,00  0/0
+53) pbrain-swine2010.exe:  1-0       0,00  0/0
+55) pbrain-swine2010.exe:  1-0       0,00  0/0
+57) pbrain-swine2010.exe:  1-0        :-]  0/0
+59) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\5x7-62(1).psq
+______________________________
+Kanec x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\6x5-33(1).psq
+______________________________
+amoeba2010 x gmotor
+14) pbrain-amoeba2010.exe: My chance to win: 59%
+16) pbrain-amoeba2010.exe: Your chance to win: 36%
+16) pbrain-amoeba2010.exe: My chance to win: 60%
+18) pbrain-amoeba2010.exe: Your chance to win: 39%
+18) pbrain-amoeba2010.exe: My chance to win: 55%
+20) pbrain-amoeba2010.exe: My chance to win: 49%
+22) pbrain-amoeba2010.exe: Your chance to win: 50%
+22) pbrain-amoeba2010.exe: My chance to win: 44%
+24) pbrain-amoeba2010.exe: Your chance to win: 51%
+24) pbrain-amoeba2010.exe: My chance to win: 64%
+26) pbrain-amoeba2010.exe: Your chance to win: 25%
+26) pbrain-amoeba2010.exe: My chance to win: 75%
+28) pbrain-amoeba2010.exe: My chance to win: 68%
+30) pbrain-amoeba2010.exe: Your chance to win: 24%
+30) pbrain-amoeba2010.exe: My chance to win: 75%
+32) pbrain-amoeba2010.exe: Your chance to win: 20%
+32) pbrain-amoeba2010.exe: My chance to win: 80%
+34) pbrain-amoeba2010.exe: Your chance to win: 18%
+34) pbrain-amoeba2010.exe: My chance to win: 83%
+36) pbrain-amoeba2010.exe: Your chance to win: 16%
+36) pbrain-amoeba2010.exe: My chance to win: 86%
+38) pbrain-amoeba2010.exe: Your chance to win: 13%
+38) pbrain-amoeba2010.exe: My chance to win: 80%
+40) pbrain-amoeba2010.exe: Your chance to win: 13%
+40) pbrain-amoeba2010.exe: My chance to win: 86%
+42) pbrain-amoeba2010.exe: Your chance to win: 13%
+42) pbrain-amoeba2010.exe: My chance to win: 86%
+44) pbrain-amoeba2010.exe: Your chance to win: 16%
+44) pbrain-amoeba2010.exe: My chance to win: 82%
+46) pbrain-amoeba2010.exe: My chance to win: 82%
+48) pbrain-amoeba2010.exe: Your chance to win: 19%
+48) pbrain-amoeba2010.exe: My chance to win: 80%
+50) pbrain-amoeba2010.exe: My chance to win: 72%
+52) pbrain-amoeba2010.exe: Your chance to win: 21%
+52) pbrain-amoeba2010.exe: My chance to win: 72%
+54) pbrain-amoeba2010.exe: Your chance to win: 24%
+54) pbrain-amoeba2010.exe: My chance to win: 66%
+56) pbrain-amoeba2010.exe: Your chance to win: 43%
+56) pbrain-amoeba2010.exe: My chance to win: 56%
+58) pbrain-amoeba2010.exe: Your chance to win: 50%
+58) pbrain-amoeba2010.exe: My chance to win: 32%
+60) pbrain-amoeba2010.exe: Your chance to win: 69%
+60) pbrain-amoeba2010.exe: My chance to win: 19%
+62) pbrain-amoeba2010.exe: Your chance to win: 80%
+62) pbrain-amoeba2010.exe: My chance to win: 15%
+64) pbrain-amoeba2010.exe: Your chance to win: 84%
+64) pbrain-amoeba2010.exe: My chance to win: 15%
+66) pbrain-amoeba2010.exe: Your chance to win: 84%
+66) pbrain-amoeba2010.exe: My chance to win: 13%
+68) pbrain-amoeba2010.exe: Your chance to win: 86%
+68) pbrain-amoeba2010.exe: My chance to win: 7%
+70) pbrain-amoeba2010.exe: Your chance to win: 92%
+70) pbrain-amoeba2010.exe: My chance to win: 2%
+72) pbrain-amoeba2010.exe: Your chance to win: 99%
+72) pbrain-amoeba2010.exe: My chance to win: 0%
+74) pbrain-amoeba2010.exe: Your chance to win: 99%
+74) pbrain-amoeba2010.exe: My chance to win: 0%
+74) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x4-76(1).psq
+______________________________
+HfM2010 x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 34%
+11) pbrain-amoeba2010.exe: Your chance to win: 66%
+11) pbrain-amoeba2010.exe: My chance to win: 39%
+13) pbrain-amoeba2010.exe: Your chance to win: 62%
+13) pbrain-amoeba2010.exe: My chance to win: 37%
+15) pbrain-amoeba2010.exe: Your chance to win: 68%
+15) pbrain-amoeba2010.exe: My chance to win: 35%
+17) pbrain-amoeba2010.exe: Your chance to win: 58%
+17) pbrain-amoeba2010.exe: My chance to win: 28%
+19) pbrain-amoeba2010.exe: My chance to win: 18%
+21) pbrain-amoeba2010.exe: Your chance to win: 81%
+21) pbrain-amoeba2010.exe: My chance to win: 11%
+23) pbrain-amoeba2010.exe: Your chance to win: 92%
+23) pbrain-amoeba2010.exe: My chance to win: 4%
+25) pbrain-amoeba2010.exe: Your chance to win: 97%
+25) pbrain-amoeba2010.exe: My chance to win: 2%
+27) pbrain-amoeba2010.exe: Your chance to win: 99%
+27) pbrain-amoeba2010.exe: My chance to win: 0%
+27) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\5x8-29(1).psq
+______________________________
+amoeba2010 x HfM2010
+10) pbrain-amoeba2010.exe: My chance to win: 89%
+12) pbrain-amoeba2010.exe: Your chance to win: 9%
+12) pbrain-amoeba2010.exe: My chance to win: 91%
+14) pbrain-amoeba2010.exe: Your chance to win: 6%
+14) pbrain-amoeba2010.exe: My chance to win: 93%
+16) pbrain-amoeba2010.exe: Your chance to win: 7%
+16) pbrain-amoeba2010.exe: My chance to win: 95%
+18) pbrain-amoeba2010.exe: Your chance to win: 7%
+18) pbrain-amoeba2010.exe: My chance to win: 93%
+20) pbrain-amoeba2010.exe: Your chance to win: 6%
+20) pbrain-amoeba2010.exe: My chance to win: 96%
+22) pbrain-amoeba2010.exe: Your chance to win: 3%
+22) pbrain-amoeba2010.exe: My chance to win: 99%
+24) pbrain-amoeba2010.exe: Your chance to win: 0%
+24) pbrain-amoeba2010.exe: My chance to win: 99%
+26) pbrain-amoeba2010.exe: Your chance to win: 0%
+26) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x5-27(1).psq
+______________________________
+swine2010 x HfM2010
+ 4) pbrain-swine2010.exe:  7-0       7,63  2/58667
+ 6) pbrain-swine2010.exe:  7-0       8,82  6/39014
+ 8) pbrain-swine2010.exe:  7-0       9,95  2/129950
+10) pbrain-swine2010.exe:  7-0       7,35  3/53690
+12) pbrain-swine2010.exe:  8-0       3,70  7/85523
+14) pbrain-swine2010.exe:  9-0      -0,69  2/129962
+16) pbrain-swine2010.exe:  8-0       3,00 16/118946
+18) pbrain-swine2010.exe:  5-0       6,78 25/25017
+20) pbrain-swine2010.exe:  6-0       7,28  8/41598
+22) pbrain-swine2010.exe:  6-0       9,04  9/78193
+24) pbrain-swine2010.exe:  5-0       9,74 11/17419
+26) pbrain-swine2010.exe:  5-0       8,82 11/14918
+28) pbrain-swine2010.exe:  6-0      11,87 15/19777
+30) pbrain-swine2010.exe:  1-0       0,00  0/0
+32) pbrain-swine2010.exe:  6-0        :-] 11/29044
+34) pbrain-swine2010.exe:  4-0        :-]  1/292
+36) pbrain-swine2010.exe:  2-0        :-]  2/52
+38) pbrain-swine2010.exe:  1-0        :-]  0/0
+40) pbrain-swine2010.exe:  1-0        :-]  0/0
+42) pbrain-swine2010.exe:  2-0        :-]  2/40
+44) pbrain-swine2010.exe:  1-0        :-]  0/0
+46) pbrain-swine2010.exe:  1-0       0,00  0/0
+48) pbrain-swine2010.exe:  1-0       0,00  0/0
+50) pbrain-swine2010.exe:  1-0       0,00  0/0
+52) pbrain-swine2010.exe:  1-0       0,00  0/0
+54) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x5-59(1).psq
+______________________________
+Kanec x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -8,01  1/43194
+ 7) pbrain-swine2010.exe:  1-0       0,00  0/0
+ 9) pbrain-swine2010.exe:  7-0      -1,83  2/18563
+11) pbrain-swine2010.exe:  6-0      -2,65  8/18831
+13) pbrain-swine2010.exe:  1-0       0,00  0/0
+15) pbrain-swine2010.exe:  2-0      -1,61  3/7
+17) pbrain-swine2010.exe:  5-0       1,85 38/14146
+19) pbrain-swine2010.exe:  1-0       0,00  0/0
+21) pbrain-swine2010.exe:  1-0       0,00  0/0
+23) pbrain-swine2010.exe:  6-0       3,96  1/15559
+25) pbrain-swine2010.exe:  1-0       0,00  0/0
+27) pbrain-swine2010.exe:  2-0       3,96  2/39
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  1-0       0,00  0/0
+33) pbrain-swine2010.exe:  5-0      15,85  2/6124
+35) pbrain-swine2010.exe:  4-0      21,41  5/1633
+37) pbrain-swine2010.exe:  4-0        :-]  2/827
+39) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\6x7-50(1).psq
+______________________________
+Kanec x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 46%
+11) pbrain-amoeba2010.exe: Your chance to win: 53%
+11) pbrain-amoeba2010.exe: My chance to win: 49%
+13) pbrain-amoeba2010.exe: Your chance to win: 43%
+13) pbrain-amoeba2010.exe: My chance to win: 56%
+15) pbrain-amoeba2010.exe: Your chance to win: 53%
+15) pbrain-amoeba2010.exe: My chance to win: 44%
+17) pbrain-amoeba2010.exe: Your chance to win: 56%
+17) pbrain-amoeba2010.exe: My chance to win: 61%
+19) pbrain-amoeba2010.exe: Your chance to win: 44%
+19) pbrain-amoeba2010.exe: My chance to win: 54%
+21) pbrain-amoeba2010.exe: Your chance to win: 50%
+21) pbrain-amoeba2010.exe: My chance to win: 45%
+23) pbrain-amoeba2010.exe: Your chance to win: 31%
+23) pbrain-amoeba2010.exe: My chance to win: 69%
+27) pbrain-amoeba2010.exe: My chance to win: 2%
+29) pbrain-amoeba2010.exe: Your chance to win: 97%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+31) pbrain-amoeba2010.exe: Your chance to win: 100%
+31) pbrain-amoeba2010.exe: My chance to win: 0%
+31) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\6x8-33(1).psq
+______________________________
+swine2010 x amoeba2010
+ 4) pbrain-swine2010.exe:  7-0       7,63  2/58667
+ 6) pbrain-swine2010.exe:  7-0       8,82  6/39014
+ 8) pbrain-swine2010.exe:  7-0       9,95  2/129950
+10) pbrain-swine2010.exe:  7-0       7,35  3/53690
+11) pbrain-amoeba2010.exe: My chance to win: 47%
+12) pbrain-swine2010.exe:  8-0       3,70  7/85712
+13) pbrain-amoeba2010.exe: Your chance to win: 42%
+13) pbrain-amoeba2010.exe: My chance to win: 53%
+14) pbrain-swine2010.exe:  9-0      -0,69  2/134307
+15) pbrain-amoeba2010.exe: Your chance to win: 49%
+15) pbrain-amoeba2010.exe: My chance to win: 58%
+16) pbrain-swine2010.exe:  7-0      10,45 15/36160
+17) pbrain-amoeba2010.exe: Your chance to win: 43%
+17) pbrain-amoeba2010.exe: My chance to win: 44%
+18) pbrain-swine2010.exe:  9-0      12,02  2/21217
+19) pbrain-amoeba2010.exe: Your chance to win: 56%
+19) pbrain-amoeba2010.exe: My chance to win: 43%
+20) pbrain-swine2010.exe:  7-0      12,02  8/26319
+21) pbrain-amoeba2010.exe: Your chance to win: 58%
+21) pbrain-amoeba2010.exe: My chance to win: 35%
+22) pbrain-swine2010.exe:  6-0      16,75 13/50974
+23) pbrain-amoeba2010.exe: Your chance to win: 73%
+23) pbrain-amoeba2010.exe: My chance to win: 28%
+24) pbrain-swine2010.exe:  4-0        :-] 21/4160
+25) pbrain-amoeba2010.exe: Your chance to win: 69%
+25) pbrain-amoeba2010.exe: My chance to win: 23%
+26) pbrain-swine2010.exe:  2-0        :-]  2/6
+27) pbrain-amoeba2010.exe: Your chance to win: 76%
+27) pbrain-amoeba2010.exe: My chance to win: 23%
+28) pbrain-swine2010.exe:  1-0        :-]  0/0
+29) pbrain-amoeba2010.exe: Your chance to win: 78%
+29) pbrain-amoeba2010.exe: My chance to win: 21%
+30) pbrain-swine2010.exe:  1-0        :-]  0/0
+31) pbrain-amoeba2010.exe: Your chance to win: 82%
+31) pbrain-amoeba2010.exe: My chance to win: 1%
+32) pbrain-swine2010.exe:  1-0        :-]  0/0
+33) pbrain-amoeba2010.exe: Your chance to win: 99%
+33) pbrain-amoeba2010.exe: My chance to win: 0%
+34) pbrain-swine2010.exe:  1-0        :-]  0/0
+35) pbrain-amoeba2010.exe: Your chance to win: 100%
+35) pbrain-amoeba2010.exe: My chance to win: 0%
+35) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\7x8-37(1).psq
+______________________________
+amoeba2010 x Kanec
+16) pbrain-amoeba2010.exe: My chance to win: 44%
+18) pbrain-amoeba2010.exe: Your chance to win: 41%
+18) pbrain-amoeba2010.exe: My chance to win: 58%
+20) pbrain-amoeba2010.exe: Your chance to win: 50%
+20) pbrain-amoeba2010.exe: My chance to win: 45%
+22) pbrain-amoeba2010.exe: Your chance to win: 56%
+22) pbrain-amoeba2010.exe: My chance to win: 47%
+28) pbrain-amoeba2010.exe: My chance to win: 18%
+30) pbrain-amoeba2010.exe: Your chance to win: 81%
+30) pbrain-amoeba2010.exe: My chance to win: 12%
+32) pbrain-amoeba2010.exe: Your chance to win: 87%
+32) pbrain-amoeba2010.exe: My chance to win: 4%
+34) pbrain-amoeba2010.exe: Your chance to win: 65%
+34) pbrain-amoeba2010.exe: My chance to win: 35%
+38) pbrain-amoeba2010.exe: My chance to win: 0%
+38) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x6-40(1).psq
+______________________________
+amoeba2010 x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -8,82  3/55470
+ 7) pbrain-swine2010.exe:  8-0      -9,95 10/126129
+ 9) pbrain-swine2010.exe:  1-0       0,00  0/0
+11) pbrain-swine2010.exe:  8-0      -5,34  1/51799
+13) pbrain-swine2010.exe:  7-0      -3,70  2/23970
+15) pbrain-swine2010.exe:  9-0      -5,81  3/148928
+16) pbrain-amoeba2010.exe: My chance to win: 49%
+17) pbrain-swine2010.exe:  7-0      -5,54  3/187466
+18) pbrain-amoeba2010.exe: My chance to win: 49%
+19) pbrain-swine2010.exe:  1-0       0,00  0/0
+20) pbrain-amoeba2010.exe: Your chance to win: 50%
+20) pbrain-amoeba2010.exe: My chance to win: 49%
+21) pbrain-swine2010.exe:  6-0      -3,54  1/35251
+22) pbrain-amoeba2010.exe: Your chance to win: 51%
+22) pbrain-amoeba2010.exe: My chance to win: 50%
+23) pbrain-swine2010.exe:  6-0       3,70  2/16037
+24) pbrain-amoeba2010.exe: Your chance to win: 51%
+24) pbrain-amoeba2010.exe: My chance to win: 51%
+25) pbrain-swine2010.exe:  5-0       2,35 13/16259
+26) pbrain-amoeba2010.exe: Your chance to win: 52%
+26) pbrain-amoeba2010.exe: My chance to win: 66%
+27) pbrain-swine2010.exe:  8-0      -0,91  2/13324
+28) pbrain-amoeba2010.exe: Your chance to win: 34%
+28) pbrain-amoeba2010.exe: My chance to win: 70%
+29) pbrain-swine2010.exe:  6-0      -0,01  8/9267
+30) pbrain-amoeba2010.exe: My chance to win: 47%
+31) pbrain-swine2010.exe:  7-0       9,51 13/22714
+32) pbrain-amoeba2010.exe: My chance to win: 35%
+33) pbrain-swine2010.exe:  2-0        :-]  4/913
+35) pbrain-swine2010.exe:  1-0        :-]  0/0
+36) pbrain-amoeba2010.exe: My chance to win: 7%
+37) pbrain-swine2010.exe:  1-0       0,00  0/0
+38) pbrain-amoeba2010.exe: Your chance to win: 92%
+38) pbrain-amoeba2010.exe: My chance to win: 7%
+39) pbrain-swine2010.exe:  1-0       0,00  0/0
+40) pbrain-amoeba2010.exe: Your chance to win: 92%
+40) pbrain-amoeba2010.exe: My chance to win: 6%
+41) pbrain-swine2010.exe:  1-0       0,00  0/0
+42) pbrain-amoeba2010.exe: Your chance to win: 93%
+42) pbrain-amoeba2010.exe: My chance to win: 5%
+43) pbrain-swine2010.exe:  1-0       0,00  0/0
+44) pbrain-amoeba2010.exe: Your chance to win: 94%
+44) pbrain-amoeba2010.exe: My chance to win: 3%
+45) pbrain-swine2010.exe:  1-0        :-]  0/0
+46) pbrain-amoeba2010.exe: Your chance to win: 97%
+46) pbrain-amoeba2010.exe: My chance to win: 1%
+47) pbrain-swine2010.exe:  1-0        :-]  0/0
+48) pbrain-amoeba2010.exe: Your chance to win: 100%
+48) pbrain-amoeba2010.exe: My chance to win: 0%
+48) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x7-50(1).psq
+______________________________
+Noesis x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\2x0-34(1).psq
+______________________________
+Pecuchet x Noesis
+-> F:\projekty\gomocup2010\freestyle2\0x2-21(1).psq
+______________________________
+swine2010 x Kanec
+ 4) pbrain-swine2010.exe:  6-0       7,68  2/32948
+ 6) pbrain-swine2010.exe:  6-0       8,01  6/26189
+ 8) pbrain-swine2010.exe:  6-0      10,38 15/73447
+10) pbrain-swine2010.exe:  7-0      12,25 12/33493
+12) pbrain-swine2010.exe:  6-0      13,13  1/29770
+14) pbrain-swine2010.exe:  6-0      12,16 15/25029
+16) pbrain-swine2010.exe:  5-0      16,80  6/16072
+18) pbrain-swine2010.exe:  6-0      19,70  3/30665
+20) pbrain-swine2010.exe:  5-0      18,48  6/12592
+22) pbrain-swine2010.exe:  5-0      15,64  9/8217
+24) pbrain-swine2010.exe:  5-0      15,00 14/8191
+26) pbrain-swine2010.exe:  4-0      20,62  3/9068
+28) pbrain-swine2010.exe:  4-0      16,36 10/11695
+30) pbrain-swine2010.exe:  4-0      18,86 13/12464
+32) pbrain-swine2010.exe:  5-0      13,92 23/9596
+34) pbrain-swine2010.exe:  1-0       0,00  0/0
+36) pbrain-swine2010.exe:  4-0      21,84 17/11191
+38) pbrain-swine2010.exe:  1-0       0,00  0/0
+40) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x6-57(1).psq
+______________________________
+QMENTAT6 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\1x0-59(1).psq
+______________________________
+gmotor x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\4x0-21(1).psq
+______________________________
+Pecuchet x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\0x1-33(1).psq
+______________________________
+bestmove x Pecuchet
+pbrain-bestmove.exe: Timeout
+-> F:\projekty\gomocup2010\freestyle2\3x0-18(1).psq
+______________________________
+Pecuchet x gmotor
+-> F:\projekty\gomocup2010\freestyle2\0x4-41(1).psq
+______________________________
+HfM2010 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\5x0-56(1).psq
+______________________________
+Pecuchet x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\0x5-41(1).psq
+______________________________
+Pecuchet x bestmove
+-> F:\projekty\gomocup2010\freestyle2\0x3-64(1).psq
+______________________________
+amoeba2010 x Pecuchet
+ 8) pbrain-amoeba2010.exe: My chance to win: 49%
+10) pbrain-amoeba2010.exe: Your chance to win: 53%
+10) pbrain-amoeba2010.exe: My chance to win: 55%
+12) pbrain-amoeba2010.exe: Your chance to win: 46%
+12) pbrain-amoeba2010.exe: My chance to win: 56%
+14) pbrain-amoeba2010.exe: Your chance to win: 39%
+14) pbrain-amoeba2010.exe: My chance to win: 60%
+16) pbrain-amoeba2010.exe: Your chance to win: 32%
+16) pbrain-amoeba2010.exe: My chance to win: 60%
+18) pbrain-amoeba2010.exe: Your chance to win: 32%
+18) pbrain-amoeba2010.exe: My chance to win: 67%
+20) pbrain-amoeba2010.exe: My chance to win: 61%
+22) pbrain-amoeba2010.exe: Your chance to win: 42%
+22) pbrain-amoeba2010.exe: My chance to win: 56%
+24) pbrain-amoeba2010.exe: Your chance to win: 43%
+24) pbrain-amoeba2010.exe: My chance to win: 54%
+26) pbrain-amoeba2010.exe: Your chance to win: 41%
+26) pbrain-amoeba2010.exe: My chance to win: 58%
+28) pbrain-amoeba2010.exe: Your chance to win: 46%
+28) pbrain-amoeba2010.exe: My chance to win: 57%
+30) pbrain-amoeba2010.exe: Your chance to win: 45%
+30) pbrain-amoeba2010.exe: My chance to win: 54%
+32) pbrain-amoeba2010.exe: Your chance to win: 49%
+32) pbrain-amoeba2010.exe: My chance to win: 53%
+34) pbrain-amoeba2010.exe: Your chance to win: 39%
+34) pbrain-amoeba2010.exe: My chance to win: 31%
+36) pbrain-amoeba2010.exe: Your chance to win: 62%
+36) pbrain-amoeba2010.exe: My chance to win: 37%
+38) pbrain-amoeba2010.exe: Your chance to win: 70%
+38) pbrain-amoeba2010.exe: My chance to win: 1%
+40) pbrain-amoeba2010.exe: Your chance to win: 98%
+40) pbrain-amoeba2010.exe: My chance to win: 1%
+42) pbrain-amoeba2010.exe: Your chance to win: 98%
+42) pbrain-amoeba2010.exe: My chance to win: 1%
+44) pbrain-amoeba2010.exe: Your chance to win: 98%
+44) pbrain-amoeba2010.exe: My chance to win: 1%
+46) pbrain-amoeba2010.exe: Your chance to win: 99%
+46) pbrain-amoeba2010.exe: My chance to win: 0%
+46) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x0-48(1).psq
+______________________________
+swine2010 x Pecuchet
+ 6) pbrain-swine2010.exe:  8-0       5,55  5/40012
+ 8) pbrain-swine2010.exe:  7-0       5,01  1/28914
+10) pbrain-swine2010.exe:  7-0       2,70  4/34732
+12) pbrain-swine2010.exe:  7-0       0,35  9/40682
+14) pbrain-swine2010.exe:  6-0       3,87 11/38261
+16) pbrain-swine2010.exe:  1-0       0,00  0/0
+18) pbrain-swine2010.exe:  1-0       0,00  0/0
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x0-27(1).psq
+______________________________
+Kanec x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\6x0-61(1).psq
+______________________________
+Pecuchet x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 42%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 59%
+ 9) pbrain-amoeba2010.exe: My chance to win: 42%
+11) pbrain-amoeba2010.exe: Your chance to win: 43%
+11) pbrain-amoeba2010.exe: My chance to win: 56%
+13) pbrain-amoeba2010.exe: My chance to win: 60%
+15) pbrain-amoeba2010.exe: Your chance to win: 40%
+15) pbrain-amoeba2010.exe: My chance to win: 58%
+17) pbrain-amoeba2010.exe: My chance to win: 36%
+19) pbrain-amoeba2010.exe: Your chance to win: 63%
+19) pbrain-amoeba2010.exe: My chance to win: 26%
+21) pbrain-amoeba2010.exe: Your chance to win: 74%
+21) pbrain-amoeba2010.exe: My chance to win: 25%
+23) pbrain-amoeba2010.exe: Your chance to win: 75%
+23) pbrain-amoeba2010.exe: My chance to win: 21%
+25) pbrain-amoeba2010.exe: Your chance to win: 79%
+25) pbrain-amoeba2010.exe: My chance to win: 20%
+27) pbrain-amoeba2010.exe: Your chance to win: 80%
+27) pbrain-amoeba2010.exe: My chance to win: 11%
+29) pbrain-amoeba2010.exe: Your chance to win: 88%
+29) pbrain-amoeba2010.exe: My chance to win: 2%
+31) pbrain-amoeba2010.exe: Your chance to win: 97%
+31) pbrain-amoeba2010.exe: My chance to win: 2%
+33) pbrain-amoeba2010.exe: Your chance to win: 98%
+33) pbrain-amoeba2010.exe: My chance to win: 1%
+35) pbrain-amoeba2010.exe: Your chance to win: 98%
+35) pbrain-amoeba2010.exe: My chance to win: 0%
+37) pbrain-amoeba2010.exe: Your chance to win: 100%
+37) pbrain-amoeba2010.exe: My chance to win: 0%
+37) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\0x8-39(1).psq
+______________________________
+Noesis x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\2x1-64(2).psq
+______________________________
+Pecuchet x Kanec
+-> F:\projekty\gomocup2010\freestyle2\0x6-30(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> F:\projekty\gomocup2010\freestyle2\1x2-50(1).psq
+______________________________
+Pecuchet x swine2010
+ 5) pbrain-swine2010.exe:  6-0      -8,12  2/21488
+ 7) pbrain-swine2010.exe:  8-0      -5,01  3/29122
+ 9) pbrain-swine2010.exe:  2-0      -7,98  2/17
+11) pbrain-swine2010.exe:  8-0      -1,34  1/40149
+13) pbrain-swine2010.exe:  6-0       0,13 22/13640
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  1-0       0,00  0/0
+19) pbrain-swine2010.exe:  6-0       2,67  1/5441
+21) pbrain-swine2010.exe:  6-0       3,50  1/9614
+23) pbrain-swine2010.exe:  6-0       5,90  6/4985
+25) pbrain-swine2010.exe:  1-0       0,00  0/0
+27) pbrain-swine2010.exe:  2-0       5,94  2/7
+29) pbrain-swine2010.exe:  4-0        :-] 18/3351
+31) pbrain-swine2010.exe:  1-0       0,00  0/0
+33) pbrain-swine2010.exe:  1-0       0,00  0/0
+35) pbrain-swine2010.exe:  1-0       0,00  0/0
+37) pbrain-swine2010.exe:  1-0       0,00  0/0
+39) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\0x7-54(1).psq
+______________________________
+HfM2010 x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\5x1-27(1).psq
+______________________________
+gmotor x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\4x1-49(1).psq
+______________________________
+bestmove x QMENTAT6
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x1-18(1).psq
+______________________________
+QMENTAT6 x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\1x5-38(1).psq
+______________________________
+QMENTAT6 x bestmove
+-> F:\projekty\gomocup2010\freestyle2\1x3-36(1).psq
+______________________________
+Kanec x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\6x1-33(1).psq
+______________________________
+QMENTAT6 x gmotor
+-> F:\projekty\gomocup2010\freestyle2\1x4-66(1).psq
+______________________________
+swine2010 x QMENTAT6
+ 6) pbrain-swine2010.exe:  9-0       6,79  4/57169
+ 8) pbrain-swine2010.exe:  7-0       6,79 35/31412
+10) pbrain-swine2010.exe:  6-0       9,11  5/41917
+12) pbrain-swine2010.exe:  7-0      11,70  6/19622
+14) pbrain-swine2010.exe:  1-0       0,00  0/0
+16) pbrain-swine2010.exe:  6-0        :-]  3/5234
+18) pbrain-swine2010.exe:  1-0       0,00  0/0
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x1-27(1).psq
+______________________________
+QMENTAT6 x swine2010
+ 5) pbrain-swine2010.exe:  6-0      -8,12  2/21488
+ 7) pbrain-swine2010.exe:  9-0      -3,28  1/50991
+ 9) pbrain-swine2010.exe:  1-0       0,00  0/0
+11) pbrain-swine2010.exe:  6-0      10,50  2/53492
+13) pbrain-swine2010.exe:  6-0      10,89 27/54917
+15) pbrain-swine2010.exe:  6-0      11,60  6/31209
+17) pbrain-swine2010.exe:  7-0      13,56 14/56522
+19) pbrain-swine2010.exe:  7-0      14,71  2/30598
+21) pbrain-swine2010.exe:  6-0        :-]  3/33964
+23) pbrain-swine2010.exe:  2-0        :-] 29/552
+25) pbrain-swine2010.exe:  1-0        :-]  0/0
+27) pbrain-swine2010.exe:  1-0        :-]  0/0
+29) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\1x7-32(2).psq
+______________________________
+QMENTAT6 x Kanec
+-> F:\projekty\gomocup2010\freestyle2\1x6-60(1).psq
+______________________________
+bestmove x Noesis
+-> F:\projekty\gomocup2010\freestyle2\3x2-19(1).psq
+______________________________
+gmotor x Noesis
+-> F:\projekty\gomocup2010\freestyle2\4x2-19(1).psq
+______________________________
+Noesis x bestmove
+-> F:\projekty\gomocup2010\freestyle2\2x3-19(1).psq
+______________________________
+HfM2010 x Noesis
+-> F:\projekty\gomocup2010\freestyle2\5x2-19(1).psq
+______________________________
+amoeba2010 x QMENTAT6
+ 8) pbrain-amoeba2010.exe: My chance to win: 49%
+10) pbrain-amoeba2010.exe: Your chance to win: 52%
+10) pbrain-amoeba2010.exe: My chance to win: 54%
+12) pbrain-amoeba2010.exe: Your chance to win: 47%
+12) pbrain-amoeba2010.exe: My chance to win: 55%
+14) pbrain-amoeba2010.exe: Your chance to win: 40%
+14) pbrain-amoeba2010.exe: My chance to win: 59%
+16) pbrain-amoeba2010.exe: Your chance to win: 34%
+16) pbrain-amoeba2010.exe: My chance to win: 60%
+18) pbrain-amoeba2010.exe: Your chance to win: 33%
+18) pbrain-amoeba2010.exe: My chance to win: 67%
+20) pbrain-amoeba2010.exe: Your chance to win: 39%
+20) pbrain-amoeba2010.exe: My chance to win: 55%
+22) pbrain-amoeba2010.exe: Your chance to win: 30%
+22) pbrain-amoeba2010.exe: My chance to win: 69%
+24) pbrain-amoeba2010.exe: My chance to win: 49%
+26) pbrain-amoeba2010.exe: Your chance to win: 52%
+26) pbrain-amoeba2010.exe: My chance to win: 45%
+28) pbrain-amoeba2010.exe: Your chance to win: 54%
+28) pbrain-amoeba2010.exe: My chance to win: 40%
+30) pbrain-amoeba2010.exe: Your chance to win: 38%
+30) pbrain-amoeba2010.exe: My chance to win: 54%
+32) pbrain-amoeba2010.exe: My chance to win: 86%
+34) pbrain-amoeba2010.exe: Your chance to win: 15%
+34) pbrain-amoeba2010.exe: My chance to win: 87%
+36) pbrain-amoeba2010.exe: Your chance to win: 14%
+36) pbrain-amoeba2010.exe: My chance to win: 83%
+38) pbrain-amoeba2010.exe: Your chance to win: 16%
+38) pbrain-amoeba2010.exe: My chance to win: 92%
+40) pbrain-amoeba2010.exe: Your chance to win: 7%
+40) pbrain-amoeba2010.exe: My chance to win: 83%
+42) pbrain-amoeba2010.exe: Your chance to win: 16%
+42) pbrain-amoeba2010.exe: My chance to win: 77%
+44) pbrain-amoeba2010.exe: Your chance to win: 22%
+44) pbrain-amoeba2010.exe: My chance to win: 71%
+46) pbrain-amoeba2010.exe: Your chance to win: 25%
+46) pbrain-amoeba2010.exe: My chance to win: 64%
+48) pbrain-amoeba2010.exe: Your chance to win: 31%
+48) pbrain-amoeba2010.exe: My chance to win: 75%
+50) pbrain-amoeba2010.exe: Your chance to win: 25%
+50) pbrain-amoeba2010.exe: My chance to win: 71%
+52) pbrain-amoeba2010.exe: Your chance to win: 16%
+52) pbrain-amoeba2010.exe: My chance to win: 76%
+54) pbrain-amoeba2010.exe: Your chance to win: 29%
+54) pbrain-amoeba2010.exe: My chance to win: 67%
+58) pbrain-amoeba2010.exe: My chance to win: 73%
+60) pbrain-amoeba2010.exe: Your chance to win: 30%
+60) pbrain-amoeba2010.exe: My chance to win: 62%
+62) pbrain-amoeba2010.exe: Your chance to win: 14%
+62) pbrain-amoeba2010.exe: My chance to win: 85%
+64) pbrain-amoeba2010.exe: My chance to win: 61%
+66) pbrain-amoeba2010.exe: Your chance to win: 38%
+66) pbrain-amoeba2010.exe: My chance to win: 61%
+68) pbrain-amoeba2010.exe: Your chance to win: 40%
+68) pbrain-amoeba2010.exe: My chance to win: 59%
+70) pbrain-amoeba2010.exe: Your chance to win: 46%
+70) pbrain-amoeba2010.exe: My chance to win: 63%
+74) pbrain-amoeba2010.exe: My chance to win: 73%
+76) pbrain-amoeba2010.exe: Your chance to win: 26%
+76) pbrain-amoeba2010.exe: My chance to win: 74%
+78) pbrain-amoeba2010.exe: Your chance to win: 23%
+78) pbrain-amoeba2010.exe: My chance to win: 76%
+80) pbrain-amoeba2010.exe: Your chance to win: 23%
+80) pbrain-amoeba2010.exe: My chance to win: 73%
+82) pbrain-amoeba2010.exe: Your chance to win: 23%
+82) pbrain-amoeba2010.exe: My chance to win: 73%
+84) pbrain-amoeba2010.exe: Your chance to win: 26%
+84) pbrain-amoeba2010.exe: My chance to win: 71%
+86) pbrain-amoeba2010.exe: My chance to win: 69%
+88) pbrain-amoeba2010.exe: Your chance to win: 24%
+88) pbrain-amoeba2010.exe: My chance to win: 71%
+90) pbrain-amoeba2010.exe: My chance to win: 74%
+92) pbrain-amoeba2010.exe: Your chance to win: 37%
+92) pbrain-amoeba2010.exe: My chance to win: 63%
+94) pbrain-amoeba2010.exe: Your chance to win: 41%
+94) pbrain-amoeba2010.exe: My chance to win: 58%
+98) pbrain-amoeba2010.exe: My chance to win: 91%
+100) pbrain-amoeba2010.exe: Your chance to win: 10%
+100) pbrain-amoeba2010.exe: My chance to win: 93%
+102) pbrain-amoeba2010.exe: Your chance to win: 6%
+102) pbrain-amoeba2010.exe: My chance to win: 93%
+104) pbrain-amoeba2010.exe: Your chance to win: 5%
+104) pbrain-amoeba2010.exe: My chance to win: 94%
+106) pbrain-amoeba2010.exe: Your chance to win: 6%
+106) pbrain-amoeba2010.exe: My chance to win: 95%
+108) pbrain-amoeba2010.exe: Your chance to win: 6%
+108) pbrain-amoeba2010.exe: My chance to win: 89%
+110) pbrain-amoeba2010.exe: Your chance to win: 10%
+110) pbrain-amoeba2010.exe: My chance to win: 88%
+112) pbrain-amoeba2010.exe: Your chance to win: 11%
+112) pbrain-amoeba2010.exe: My chance to win: 89%
+114) pbrain-amoeba2010.exe: Your chance to win: 10%
+114) pbrain-amoeba2010.exe: My chance to win: 88%
+116) pbrain-amoeba2010.exe: Your chance to win: 12%
+116) pbrain-amoeba2010.exe: My chance to win: 86%
+118) pbrain-amoeba2010.exe: Your chance to win: 6%
+118) pbrain-amoeba2010.exe: My chance to win: 89%
+120) pbrain-amoeba2010.exe: Your chance to win: 10%
+120) pbrain-amoeba2010.exe: My chance to win: 86%
+122) pbrain-amoeba2010.exe: Your chance to win: 13%
+122) pbrain-amoeba2010.exe: My chance to win: 82%
+124) pbrain-amoeba2010.exe: Your chance to win: 17%
+124) pbrain-amoeba2010.exe: My chance to win: 82%
+126) pbrain-amoeba2010.exe: Your chance to win: 17%
+126) pbrain-amoeba2010.exe: My chance to win: 80%
+128) pbrain-amoeba2010.exe: Your chance to win: 19%
+128) pbrain-amoeba2010.exe: My chance to win: 80%
+130) pbrain-amoeba2010.exe: Your chance to win: 19%
+130) pbrain-amoeba2010.exe: My chance to win: 78%
+132) pbrain-amoeba2010.exe: Your chance to win: 21%
+132) pbrain-amoeba2010.exe: My chance to win: 63%
+134) pbrain-amoeba2010.exe: Your chance to win: 36%
+134) pbrain-amoeba2010.exe: My chance to win: 39%
+136) pbrain-amoeba2010.exe: Your chance to win: 60%
+136) pbrain-amoeba2010.exe: My chance to win: 23%
+138) pbrain-amoeba2010.exe: Your chance to win: 76%
+138) pbrain-amoeba2010.exe: My chance to win: 28%
+140) pbrain-amoeba2010.exe: Your chance to win: 71%
+140) pbrain-amoeba2010.exe: My chance to win: 26%
+142) pbrain-amoeba2010.exe: Your chance to win: 73%
+142) pbrain-amoeba2010.exe: My chance to win: 18%
+144) pbrain-amoeba2010.exe: Your chance to win: 81%
+144) pbrain-amoeba2010.exe: My chance to win: 15%
+146) pbrain-amoeba2010.exe: Your chance to win: 84%
+146) pbrain-amoeba2010.exe: My chance to win: 12%
+148) pbrain-amoeba2010.exe: Your chance to win: 92%
+148) pbrain-amoeba2010.exe: My chance to win: 7%
+150) pbrain-amoeba2010.exe: Your chance to win: 100%
+150) pbrain-amoeba2010.exe: My chance to win: 0%
+150) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x1-152(1).psq
+______________________________
+Noesis x gmotor
+-> F:\projekty\gomocup2010\freestyle2\2x4-30(1).psq
+______________________________
+Noesis x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\2x5-21(1).psq
+______________________________
+Kanec x Noesis
+-> F:\projekty\gomocup2010\freestyle2\6x2-31(2).psq
+______________________________
+swine2010 x Noesis
+ 6) pbrain-swine2010.exe:  9-0       6,79  4/57169
+ 8) pbrain-swine2010.exe:  1-0        :-]  0/0
+10) pbrain-swine2010.exe:  1-0       0,00  0/0
+12) pbrain-swine2010.exe:  1-0        :-]  0/0
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x2-19(1).psq
+______________________________
+Noesis x swine2010
+ 5) pbrain-swine2010.exe:  6-0      -8,12  2/21488
+ 7) pbrain-swine2010.exe:  8-0      -5,01  3/29122
+ 9) pbrain-swine2010.exe:  9-0       1,85  1/30107
+11) pbrain-swine2010.exe:  1-0       0,00  0/0
+13) pbrain-swine2010.exe:  1-0       0,00  0/0
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  4-0        :-] 29/5963
+19) pbrain-swine2010.exe:  1-0        :-]  0/0
+21) pbrain-swine2010.exe:  1-0       0,00  0/0
+23) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\2x7-28(1).psq
+______________________________
+Noesis x Kanec
+-> F:\projekty\gomocup2010\freestyle2\2x6-40(1).psq
+______________________________
+gmotor x bestmove
+-> F:\projekty\gomocup2010\freestyle2\4x3-19(1).psq
+______________________________
+QMENTAT6 x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 49%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 29%
+ 9) pbrain-amoeba2010.exe: My chance to win: 70%
+11) pbrain-amoeba2010.exe: My chance to win: 57%
+13) pbrain-amoeba2010.exe: Your chance to win: 44%
+13) pbrain-amoeba2010.exe: My chance to win: 52%
+15) pbrain-amoeba2010.exe: Your chance to win: 47%
+15) pbrain-amoeba2010.exe: My chance to win: 54%
+17) pbrain-amoeba2010.exe: Your chance to win: 37%
+17) pbrain-amoeba2010.exe: My chance to win: 69%
+19) pbrain-amoeba2010.exe: Your chance to win: 31%
+19) pbrain-amoeba2010.exe: My chance to win: 72%
+21) pbrain-amoeba2010.exe: Your chance to win: 24%
+21) pbrain-amoeba2010.exe: My chance to win: 70%
+23) pbrain-amoeba2010.exe: Your chance to win: 30%
+23) pbrain-amoeba2010.exe: My chance to win: 69%
+25) pbrain-amoeba2010.exe: Your chance to win: 30%
+25) pbrain-amoeba2010.exe: My chance to win: 65%
+27) pbrain-amoeba2010.exe: Your chance to win: 38%
+27) pbrain-amoeba2010.exe: My chance to win: 59%
+29) pbrain-amoeba2010.exe: Your chance to win: 40%
+29) pbrain-amoeba2010.exe: My chance to win: 57%
+31) pbrain-amoeba2010.exe: Your chance to win: 42%
+31) pbrain-amoeba2010.exe: My chance to win: 58%
+33) pbrain-amoeba2010.exe: Your chance to win: 39%
+33) pbrain-amoeba2010.exe: My chance to win: 56%
+35) pbrain-amoeba2010.exe: Your chance to win: 45%
+35) pbrain-amoeba2010.exe: My chance to win: 53%
+37) pbrain-amoeba2010.exe: Your chance to win: 41%
+37) pbrain-amoeba2010.exe: My chance to win: 40%
+39) pbrain-amoeba2010.exe: Your chance to win: 61%
+39) pbrain-amoeba2010.exe: My chance to win: 38%
+41) pbrain-amoeba2010.exe: Your chance to win: 46%
+41) pbrain-amoeba2010.exe: My chance to win: 58%
+43) pbrain-amoeba2010.exe: Your chance to win: 36%
+43) pbrain-amoeba2010.exe: My chance to win: 63%
+47) pbrain-amoeba2010.exe: My chance to win: 84%
+49) pbrain-amoeba2010.exe: Your chance to win: 15%
+49) pbrain-amoeba2010.exe: My chance to win: 92%
+51) pbrain-amoeba2010.exe: Your chance to win: 8%
+51) pbrain-amoeba2010.exe: My chance to win: 91%
+53) pbrain-amoeba2010.exe: Your chance to win: 9%
+53) pbrain-amoeba2010.exe: My chance to win: 98%
+55) pbrain-amoeba2010.exe: Your chance to win: 1%
+55) pbrain-amoeba2010.exe: My chance to win: 99%
+57) pbrain-amoeba2010.exe: Your chance to win: 0%
+57) pbrain-amoeba2010.exe: My chance to win: 99%
+59) pbrain-amoeba2010.exe: Your chance to win: 0%
+59) pbrain-amoeba2010.exe: My chance to win: 100%
+61) pbrain-amoeba2010.exe: Your chance to win: 0%
+61) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\1x8-62(1).psq
+______________________________
+amoeba2010 x Noesis
+ 8) pbrain-amoeba2010.exe: My chance to win: 71%
+10) pbrain-amoeba2010.exe: Your chance to win: 34%
+10) pbrain-amoeba2010.exe: My chance to win: 60%
+12) pbrain-amoeba2010.exe: Your chance to win: 28%
+12) pbrain-amoeba2010.exe: My chance to win: 71%
+14) pbrain-amoeba2010.exe: Your chance to win: 31%
+14) pbrain-amoeba2010.exe: My chance to win: 62%
+16) pbrain-amoeba2010.exe: Your chance to win: 41%
+16) pbrain-amoeba2010.exe: My chance to win: 62%
+18) pbrain-amoeba2010.exe: Your chance to win: 28%
+18) pbrain-amoeba2010.exe: My chance to win: 71%
+20) pbrain-amoeba2010.exe: Your chance to win: 29%
+20) pbrain-amoeba2010.exe: My chance to win: 77%
+22) pbrain-amoeba2010.exe: My chance to win: 85%
+24) pbrain-amoeba2010.exe: Your chance to win: 9%
+24) pbrain-amoeba2010.exe: My chance to win: 90%
+26) pbrain-amoeba2010.exe: Your chance to win: 7%
+26) pbrain-amoeba2010.exe: My chance to win: 92%
+28) pbrain-amoeba2010.exe: My chance to win: 94%
+30) pbrain-amoeba2010.exe: Your chance to win: 6%
+30) pbrain-amoeba2010.exe: My chance to win: 94%
+32) pbrain-amoeba2010.exe: Your chance to win: 6%
+32) pbrain-amoeba2010.exe: My chance to win: 95%
+34) pbrain-amoeba2010.exe: Your chance to win: 4%
+34) pbrain-amoeba2010.exe: My chance to win: 98%
+36) pbrain-amoeba2010.exe: Your chance to win: 1%
+36) pbrain-amoeba2010.exe: My chance to win: 98%
+38) pbrain-amoeba2010.exe: Your chance to win: 2%
+38) pbrain-amoeba2010.exe: My chance to win: 97%
+40) pbrain-amoeba2010.exe: My chance to win: 100%
+42) pbrain-amoeba2010.exe: Your chance to win: 0%
+42) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x2-43(1).psq
+______________________________
+bestmove x gmotor
+-> F:\projekty\gomocup2010\freestyle2\3x4-29(1).psq
+______________________________
+Kanec x bestmove
+-> F:\projekty\gomocup2010\freestyle2\6x3-31(1).psq
+______________________________
+Noesis x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 43%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 55%
+ 9) pbrain-amoeba2010.exe: My chance to win: 52%
+11) pbrain-amoeba2010.exe: Your chance to win: 49%
+11) pbrain-amoeba2010.exe: My chance to win: 50%
+13) pbrain-amoeba2010.exe: Your chance to win: 37%
+13) pbrain-amoeba2010.exe: My chance to win: 63%
+17) pbrain-amoeba2010.exe: My chance to win: 79%
+19) pbrain-amoeba2010.exe: Your chance to win: 28%
+19) pbrain-amoeba2010.exe: My chance to win: 70%
+21) pbrain-amoeba2010.exe: Your chance to win: 27%
+21) pbrain-amoeba2010.exe: My chance to win: 70%
+23) pbrain-amoeba2010.exe: Your chance to win: 35%
+23) pbrain-amoeba2010.exe: My chance to win: 68%
+25) pbrain-amoeba2010.exe: Your chance to win: 31%
+25) pbrain-amoeba2010.exe: My chance to win: 81%
+27) pbrain-amoeba2010.exe: Your chance to win: 21%
+27) pbrain-amoeba2010.exe: My chance to win: 78%
+29) pbrain-amoeba2010.exe: Your chance to win: 23%
+29) pbrain-amoeba2010.exe: My chance to win: 76%
+31) pbrain-amoeba2010.exe: Your chance to win: 25%
+31) pbrain-amoeba2010.exe: My chance to win: 74%
+33) pbrain-amoeba2010.exe: Your chance to win: 29%
+33) pbrain-amoeba2010.exe: My chance to win: 70%
+35) pbrain-amoeba2010.exe: Your chance to win: 29%
+35) pbrain-amoeba2010.exe: My chance to win: 70%
+39) pbrain-amoeba2010.exe: My chance to win: 80%
+41) pbrain-amoeba2010.exe: Your chance to win: 19%
+41) pbrain-amoeba2010.exe: My chance to win: 83%
+43) pbrain-amoeba2010.exe: Your chance to win: 16%
+43) pbrain-amoeba2010.exe: My chance to win: 83%
+45) pbrain-amoeba2010.exe: Your chance to win: 7%
+45) pbrain-amoeba2010.exe: My chance to win: 92%
+47) pbrain-amoeba2010.exe: Your chance to win: 7%
+47) pbrain-amoeba2010.exe: My chance to win: 87%
+49) pbrain-amoeba2010.exe: Your chance to win: 12%
+49) pbrain-amoeba2010.exe: My chance to win: 89%
+51) pbrain-amoeba2010.exe: Your chance to win: 7%
+51) pbrain-amoeba2010.exe: My chance to win: 86%
+53) pbrain-amoeba2010.exe: Your chance to win: 19%
+53) pbrain-amoeba2010.exe: My chance to win: 76%
+55) pbrain-amoeba2010.exe: Your chance to win: 23%
+55) pbrain-amoeba2010.exe: My chance to win: 73%
+57) pbrain-amoeba2010.exe: My chance to win: 79%
+59) pbrain-amoeba2010.exe: Your chance to win: 20%
+59) pbrain-amoeba2010.exe: My chance to win: 95%
+61) pbrain-amoeba2010.exe: Your chance to win: 4%
+61) pbrain-amoeba2010.exe: My chance to win: 97%
+63) pbrain-amoeba2010.exe: Your chance to win: 2%
+63) pbrain-amoeba2010.exe: My chance to win: 99%
+65) pbrain-amoeba2010.exe: Your chance to win: 0%
+65) pbrain-amoeba2010.exe: My chance to win: 100%
+67) pbrain-amoeba2010.exe: Your chance to win: 0%
+67) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\2x8-68(1).psq
+______________________________
+HfM2010 x bestmove
+-> F:\projekty\gomocup2010\freestyle2\5x3-51(1).psq
+______________________________
+swine2010 x bestmove
+ 6) pbrain-swine2010.exe:  9-0       6,79  4/57169
+ 8) pbrain-swine2010.exe:  1-0        :-]  0/0
+10) pbrain-swine2010.exe:  1-0       0,00  0/0
+12) pbrain-swine2010.exe:  1-0        :-]  0/0
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x3-19(1).psq
+______________________________
+bestmove x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\3x5-27(1).psq
+______________________________
+bestmove x Kanec
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x6-18(2).psq
+______________________________
+bestmove x swine2010
+ 5) pbrain-swine2010.exe:  6-0      -8,12  2/21488
+ 7) pbrain-swine2010.exe:  8-0      -5,01  3/29122
+ 9) pbrain-swine2010.exe:  7-0      -3,23  1/33310
+11) pbrain-swine2010.exe:  7-0      -5,30  5/29253
+13) pbrain-swine2010.exe:  6-0      -6,31 11/12773
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  1-0       0,00  0/0
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x7-18(1).psq
+______________________________
+amoeba2010 x bestmove
+ 8) pbrain-amoeba2010.exe: My chance to win: 47%
+10) pbrain-amoeba2010.exe: Your chance to win: 55%
+10) pbrain-amoeba2010.exe: My chance to win: 49%
+12) pbrain-amoeba2010.exe: Your chance to win: 53%
+12) pbrain-amoeba2010.exe: My chance to win: 55%
+14) pbrain-amoeba2010.exe: Your chance to win: 42%
+14) pbrain-amoeba2010.exe: My chance to win: 61%
+16) pbrain-amoeba2010.exe: Your chance to win: 33%
+16) pbrain-amoeba2010.exe: My chance to win: 66%
+18) pbrain-amoeba2010.exe: My chance to win: 47%
+20) pbrain-amoeba2010.exe: Your chance to win: 52%
+20) pbrain-amoeba2010.exe: My chance to win: 41%
+22) pbrain-amoeba2010.exe: Your chance to win: 66%
+22) pbrain-amoeba2010.exe: My chance to win: 13%
+24) pbrain-amoeba2010.exe: Your chance to win: 78%
+24) pbrain-amoeba2010.exe: My chance to win: 30%
+26) pbrain-amoeba2010.exe: My chance to win: 1%
+28) pbrain-amoeba2010.exe: Your chance to win: 99%
+28) pbrain-amoeba2010.exe: My chance to win: 0%
+30) pbrain-amoeba2010.exe: Your chance to win: 100%
+30) pbrain-amoeba2010.exe: My chance to win: 0%
+30) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x3-32(1).psq
+______________________________
+HfM2010 x gmotor
+-> F:\projekty\gomocup2010\freestyle2\5x4-39(1).psq
+______________________________
+bestmove x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 43%
+ 9) pbrain-amoeba2010.exe: My chance to win: 39%
+11) pbrain-amoeba2010.exe: Your chance to win: 62%
+11) pbrain-amoeba2010.exe: My chance to win: 36%
+13) pbrain-amoeba2010.exe: Your chance to win: 62%
+13) pbrain-amoeba2010.exe: My chance to win: 43%
+15) pbrain-amoeba2010.exe: Your chance to win: 60%
+15) pbrain-amoeba2010.exe: My chance to win: 26%
+17) pbrain-amoeba2010.exe: Your chance to win: 75%
+17) pbrain-amoeba2010.exe: My chance to win: 24%
+19) pbrain-amoeba2010.exe: Your chance to win: 83%
+19) pbrain-amoeba2010.exe: My chance to win: 16%
+21) pbrain-amoeba2010.exe: Your chance to win: 92%
+21) pbrain-amoeba2010.exe: My chance to win: 7%
+23) pbrain-amoeba2010.exe: Your chance to win: 99%
+23) pbrain-amoeba2010.exe: My chance to win: 0%
+23) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\3x8-25(1).psq
+______________________________
+gmotor x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\4x5-29(1).psq
+______________________________
+swine2010 x gmotor
+ 6) pbrain-swine2010.exe:  9-0       6,79  4/57169
+ 8) pbrain-swine2010.exe:  8-0       7,36 35/123690
+10) pbrain-swine2010.exe:  7-0       8,25  5/62866
+12) pbrain-swine2010.exe:  7-0       9,18  7/71449
+14) pbrain-swine2010.exe:  7-0      13,40 31254/63138
+16) pbrain-swine2010.exe:  8-0      16,84  6/97611
+18) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x4-33(1).psq
+______________________________
+Kanec x gmotor
+-> F:\projekty\gomocup2010\freestyle2\6x4-62(1).psq
+______________________________
+amoeba2010 x gmotor
+ 8) pbrain-amoeba2010.exe: My chance to win: 61%
+10) pbrain-amoeba2010.exe: Your chance to win: 43%
+10) pbrain-amoeba2010.exe: My chance to win: 62%
+12) pbrain-amoeba2010.exe: Your chance to win: 35%
+12) pbrain-amoeba2010.exe: My chance to win: 64%
+14) pbrain-amoeba2010.exe: Your chance to win: 38%
+14) pbrain-amoeba2010.exe: My chance to win: 77%
+16) pbrain-amoeba2010.exe: Your chance to win: 22%
+16) pbrain-amoeba2010.exe: My chance to win: 74%
+18) pbrain-amoeba2010.exe: Your chance to win: 25%
+18) pbrain-amoeba2010.exe: My chance to win: 73%
+20) pbrain-amoeba2010.exe: Your chance to win: 17%
+20) pbrain-amoeba2010.exe: My chance to win: 82%
+22) pbrain-amoeba2010.exe: Your chance to win: 13%
+22) pbrain-amoeba2010.exe: My chance to win: 73%
+24) pbrain-amoeba2010.exe: Your chance to win: 31%
+24) pbrain-amoeba2010.exe: My chance to win: 92%
+26) pbrain-amoeba2010.exe: Your chance to win: 7%
+26) pbrain-amoeba2010.exe: My chance to win: 95%
+28) pbrain-amoeba2010.exe: Your chance to win: 4%
+28) pbrain-amoeba2010.exe: My chance to win: 96%
+30) pbrain-amoeba2010.exe: Your chance to win: 4%
+30) pbrain-amoeba2010.exe: My chance to win: 95%
+32) pbrain-amoeba2010.exe: Your chance to win: 4%
+32) pbrain-amoeba2010.exe: My chance to win: 95%
+34) pbrain-amoeba2010.exe: Your chance to win: 4%
+34) pbrain-amoeba2010.exe: My chance to win: 99%
+36) pbrain-amoeba2010.exe: Your chance to win: 0%
+36) pbrain-amoeba2010.exe: My chance to win: 100%
+38) pbrain-amoeba2010.exe: Your chance to win: 0%
+38) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x4-39(1).psq
+______________________________
+gmotor x swine2010
+ 5) pbrain-swine2010.exe:  9-0      -5,55  2/64594
+ 7) pbrain-swine2010.exe:  9-0      -4,28  3/117592
+ 9) pbrain-swine2010.exe: 10-0       2,27  1/43961
+11) pbrain-swine2010.exe:  1-0       0,00  0/0
+13) pbrain-swine2010.exe:  1-0       0,00  0/0
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  7-0      19,54  4/30440
+19) pbrain-swine2010.exe:  4-0        :-]  2/1509
+21) pbrain-swine2010.exe:  2-0        :-]  7/410
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  1-0        :-]  0/0
+27) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\4x7-32(1).psq
+______________________________
+gmotor x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 48%
+11) pbrain-amoeba2010.exe: Your chance to win: 42%
+11) pbrain-amoeba2010.exe: My chance to win: 54%
+13) pbrain-amoeba2010.exe: Your chance to win: 49%
+13) pbrain-amoeba2010.exe: My chance to win: 27%
+15) pbrain-amoeba2010.exe: Your chance to win: 73%
+15) pbrain-amoeba2010.exe: My chance to win: 27%
+17) pbrain-amoeba2010.exe: Your chance to win: 75%
+17) pbrain-amoeba2010.exe: My chance to win: 24%
+19) pbrain-amoeba2010.exe: Your chance to win: 81%
+19) pbrain-amoeba2010.exe: My chance to win: 9%
+21) pbrain-amoeba2010.exe: Your chance to win: 90%
+21) pbrain-amoeba2010.exe: My chance to win: 9%
+23) pbrain-amoeba2010.exe: Your chance to win: 90%
+23) pbrain-amoeba2010.exe: My chance to win: 9%
+25) pbrain-amoeba2010.exe: Your chance to win: 92%
+25) pbrain-amoeba2010.exe: My chance to win: 7%
+27) pbrain-amoeba2010.exe: Your chance to win: 96%
+27) pbrain-amoeba2010.exe: My chance to win: 0%
+29) pbrain-amoeba2010.exe: Your chance to win: 99%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+29) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\4x8-31(1).psq
+______________________________
+swine2010 x HfM2010
+ 6) pbrain-swine2010.exe:  7-0      14,12 36/29349
+ 8) pbrain-swine2010.exe:  6-0        :-]  3/93895
+10) pbrain-swine2010.exe:  4-0        :-] 15/9054
+12) pbrain-swine2010.exe:  1-0        :-]  0/0
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+18) pbrain-swine2010.exe:  1-0        :-]  0/0
+20) pbrain-swine2010.exe:  1-0       0,00  0/0
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x5-29(1).psq
+______________________________
+Kanec x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\6x5-45(1).psq
+______________________________
+gmotor x Kanec
+-> F:\projekty\gomocup2010\freestyle2\4x6-52(1).psq
+______________________________
+HfM2010 x swine2010
+ 5) pbrain-swine2010.exe:  6-0      -8,12  2/21488
+ 7) pbrain-swine2010.exe:  8-0      -5,01  3/29122
+ 9) pbrain-swine2010.exe:  2-0      -7,98  2/17
+11) pbrain-swine2010.exe:  7-0      -1,23  4/45864
+13) pbrain-swine2010.exe:  6-0      -2,27  1/29183
+15) pbrain-swine2010.exe:  5-0      -2,72  5/18236
+17) pbrain-swine2010.exe:  5-0      -3,00  8/6884
+19) pbrain-swine2010.exe:  5-0      -2,27  5/8388
+21) pbrain-swine2010.exe:  4-0        :-]  8/3318
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  1-0       0,00  0/0
+27) pbrain-swine2010.exe:  1-0        :-]  0/0
+29) pbrain-swine2010.exe:  1-0        :-]  0/0
+31) pbrain-swine2010.exe:  1-0        :-]  0/0
+33) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\5x7-38(1).psq
+______________________________
+amoeba2010 x HfM2010
+14) pbrain-amoeba2010.exe: My chance to win: 83%
+16) pbrain-amoeba2010.exe: Your chance to win: 16%
+16) pbrain-amoeba2010.exe: My chance to win: 93%
+18) pbrain-amoeba2010.exe: Your chance to win: 6%
+18) pbrain-amoeba2010.exe: My chance to win: 96%
+20) pbrain-amoeba2010.exe: Your chance to win: 3%
+20) pbrain-amoeba2010.exe: My chance to win: 97%
+22) pbrain-amoeba2010.exe: Your chance to win: 3%
+22) pbrain-amoeba2010.exe: My chance to win: 100%
+24) pbrain-amoeba2010.exe: Your chance to win: 0%
+24) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x5-25(1).psq
+______________________________
+swine2010 x Kanec
+ 6) pbrain-swine2010.exe:  8-0       7,73  4/31250
+ 8) pbrain-swine2010.exe:  7-0       6,79 35/31326
+10) pbrain-swine2010.exe:  6-0       8,86  5/35183
+12) pbrain-swine2010.exe:  6-0       7,92  6/31285
+14) pbrain-swine2010.exe:  6-0      10,66  1/21697
+16) pbrain-swine2010.exe:  7-0       9,34  5/17689
+18) pbrain-swine2010.exe:  4-0        :-]  4/7302
+20) pbrain-swine2010.exe:  2-0        :-] 18/805
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+26) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x6-39(1).psq
+______________________________
+HfM2010 x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 46%
+11) pbrain-amoeba2010.exe: Your chance to win: 65%
+11) pbrain-amoeba2010.exe: My chance to win: 42%
+13) pbrain-amoeba2010.exe: Your chance to win: 57%
+13) pbrain-amoeba2010.exe: My chance to win: 46%
+15) pbrain-amoeba2010.exe: My chance to win: 40%
+17) pbrain-amoeba2010.exe: Your chance to win: 66%
+17) pbrain-amoeba2010.exe: My chance to win: 27%
+19) pbrain-amoeba2010.exe: My chance to win: 27%
+21) pbrain-amoeba2010.exe: Your chance to win: 76%
+21) pbrain-amoeba2010.exe: My chance to win: 4%
+23) pbrain-amoeba2010.exe: Your chance to win: 97%
+23) pbrain-amoeba2010.exe: My chance to win: 2%
+25) pbrain-amoeba2010.exe: Your chance to win: 100%
+25) pbrain-amoeba2010.exe: My chance to win: 0%
+25) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\5x8-27(1).psq
+______________________________
+HfM2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle2\5x6-69(1).psq
+______________________________
+Kanec x swine2010
+ 5) pbrain-swine2010.exe:  6-0      -8,12  2/21488
+ 7) pbrain-swine2010.exe:  8-0      -5,01  3/29122
+ 9) pbrain-swine2010.exe:  2-0      -7,98  2/17
+11) pbrain-swine2010.exe:  8-0      -1,34  1/40149
+13) pbrain-swine2010.exe:  5-0      -1,44  3/12211
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  4-0      -0,23  7/5478
+19) pbrain-swine2010.exe:  1-0       0,00  0/0
+21) pbrain-swine2010.exe:  1-0       0,00  0/0
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  3-0        :-[  1/6
+27) pbrain-swine2010.exe:  1-0       0,00  0/0
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  1-0       0,00  0/0
+33) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle2\6x7-35(1).psq
+______________________________
+Pecuchet x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\0x1-33(2).psq
+______________________________
+QMENTAT6 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\1x0-30(1).psq
+______________________________
+amoeba2010 x swine2010
+ 5) pbrain-swine2010.exe:  9-0      -5,55  2/64594
+ 7) pbrain-swine2010.exe: 10-0      -1,51  1/56866
+ 8) pbrain-amoeba2010.exe: My chance to win: 47%
+ 9) pbrain-swine2010.exe:  9-0      -1,87  1/111007
+10) pbrain-amoeba2010.exe: Your chance to win: 57%
+10) pbrain-amoeba2010.exe: My chance to win: 51%
+11) pbrain-swine2010.exe:  8-0       4,04  3/56892
+12) pbrain-amoeba2010.exe: Your chance to win: 48%
+12) pbrain-amoeba2010.exe: My chance to win: 56%
+13) pbrain-swine2010.exe:  8-0       1,92  3/69507
+14) pbrain-amoeba2010.exe: Your chance to win: 39%
+14) pbrain-amoeba2010.exe: My chance to win: 65%
+15) pbrain-swine2010.exe:  8-0       1,32  1/45375
+16) pbrain-amoeba2010.exe: Your chance to win: 36%
+16) pbrain-amoeba2010.exe: My chance to win: 63%
+17) pbrain-swine2010.exe:  8-0       0,12  2/67920
+18) pbrain-amoeba2010.exe: Your chance to win: 44%
+18) pbrain-amoeba2010.exe: My chance to win: 54%
+19) pbrain-swine2010.exe:  8-0      -1,09  1/80512
+20) pbrain-amoeba2010.exe: Your chance to win: 47%
+20) pbrain-amoeba2010.exe: My chance to win: 57%
+21) pbrain-swine2010.exe:  8-0      -4,78  3/110333
+22) pbrain-amoeba2010.exe: Your chance to win: 43%
+22) pbrain-amoeba2010.exe: My chance to win: 52%
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+24) pbrain-amoeba2010.exe: Your chance to win: 47%
+24) pbrain-amoeba2010.exe: My chance to win: 64%
+25) pbrain-swine2010.exe:  6-0      -1,69  6/33115
+26) pbrain-amoeba2010.exe: My chance to win: 59%
+27) pbrain-swine2010.exe:  6-0      -1,15  4/34913
+28) pbrain-amoeba2010.exe: My chance to win: 61%
+29) pbrain-swine2010.exe:  6-0       1,83  1/21515
+30) pbrain-amoeba2010.exe: Your chance to win: 38%
+30) pbrain-amoeba2010.exe: My chance to win: 53%
+31) pbrain-swine2010.exe:  1-0       0,00  0/0
+32) pbrain-amoeba2010.exe: Your chance to win: 46%
+32) pbrain-amoeba2010.exe: My chance to win: 51%
+33) pbrain-swine2010.exe:  7-0      19,85  1/9899
+34) pbrain-amoeba2010.exe: Your chance to win: 52%
+34) pbrain-amoeba2010.exe: My chance to win: 54%
+35) pbrain-swine2010.exe:  1-0        :-]  0/0
+36) pbrain-amoeba2010.exe: Your chance to win: 19%
+36) pbrain-amoeba2010.exe: My chance to win: 42%
+37) pbrain-swine2010.exe:  1-0        :-]  0/0
+38) pbrain-amoeba2010.exe: My chance to win: 26%
+39) pbrain-swine2010.exe:  1-0       0,00  0/0
+40) pbrain-amoeba2010.exe: Your chance to win: 73%
+40) pbrain-amoeba2010.exe: My chance to win: 22%
+41) pbrain-swine2010.exe:  1-0       0,00  0/0
+42) pbrain-amoeba2010.exe: Your chance to win: 77%
+42) pbrain-amoeba2010.exe: My chance to win: 19%
+43) pbrain-swine2010.exe:  1-0       0,00  0/0
+44) pbrain-amoeba2010.exe: Your chance to win: 80%
+44) pbrain-amoeba2010.exe: My chance to win: 15%
+45) pbrain-swine2010.exe:  1-0       0,00  0/0
+46) pbrain-amoeba2010.exe: Your chance to win: 84%
+46) pbrain-amoeba2010.exe: My chance to win: 13%
+47) pbrain-swine2010.exe:  2-0        :-]  8/121
+48) pbrain-amoeba2010.exe: Your chance to win: 87%
+48) pbrain-amoeba2010.exe: My chance to win: 3%
+49) pbrain-swine2010.exe:  1-0       0,00  0/0
+50) pbrain-amoeba2010.exe: Your chance to win: 96%
+50) pbrain-amoeba2010.exe: My chance to win: 3%
+51) pbrain-swine2010.exe:  1-0       0,00  0/0
+52) pbrain-amoeba2010.exe: Your chance to win: 96%
+52) pbrain-amoeba2010.exe: My chance to win: 3%
+53) pbrain-swine2010.exe:  1-0       0,00  0/0
+54) pbrain-amoeba2010.exe: Your chance to win: 96%
+54) pbrain-amoeba2010.exe: My chance to win: 2%
+55) pbrain-swine2010.exe:  1-0        :-]  0/0
+56) pbrain-amoeba2010.exe: Your chance to win: 100%
+56) pbrain-amoeba2010.exe: My chance to win: 0%
+56) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x7-58(1).psq
+______________________________
+Pecuchet x Noesis
+-> F:\projekty\gomocup2010\freestyle2\0x2-33(1).psq
+______________________________
+swine2010 x amoeba2010
+ 6) pbrain-swine2010.exe:  9-0       6,79  4/57169
+ 7) pbrain-amoeba2010.exe: My chance to win: 44%
+ 8) pbrain-swine2010.exe:  8-0       7,36 35/123690
+ 9) pbrain-amoeba2010.exe: My chance to win: 40%
+10) pbrain-swine2010.exe:  8-0      13,34  7/76950
+11) pbrain-amoeba2010.exe: Your chance to win: 61%
+11) pbrain-amoeba2010.exe: My chance to win: 38%
+12) pbrain-swine2010.exe:  4-0        :-]  8/7122
+13) pbrain-amoeba2010.exe: Your chance to win: 62%
+13) pbrain-amoeba2010.exe: My chance to win: 40%
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+15) pbrain-amoeba2010.exe: Your chance to win: 61%
+15) pbrain-amoeba2010.exe: My chance to win: 38%
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+17) pbrain-amoeba2010.exe: Your chance to win: 66%
+17) pbrain-amoeba2010.exe: My chance to win: 33%
+18) pbrain-swine2010.exe:  1-0        :-]  0/0
+19) pbrain-amoeba2010.exe: Your chance to win: 71%
+19) pbrain-amoeba2010.exe: My chance to win: 28%
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+21) pbrain-amoeba2010.exe: Your chance to win: 77%
+21) pbrain-amoeba2010.exe: My chance to win: 24%
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+23) pbrain-amoeba2010.exe: Your chance to win: 59%
+23) pbrain-amoeba2010.exe: My chance to win: 4%
+24) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-amoeba2010.exe: Your chance to win: 95%
+25) pbrain-amoeba2010.exe: My chance to win: 2%
+26) pbrain-swine2010.exe:  1-0        :-]  0/0
+27) pbrain-amoeba2010.exe: Your chance to win: 98%
+27) pbrain-amoeba2010.exe: My chance to win: 1%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+29) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\7x8-31(1).psq
+______________________________
+amoeba2010 x Kanec
+10) pbrain-amoeba2010.exe: My chance to win: 63%
+12) pbrain-amoeba2010.exe: Your chance to win: 38%
+12) pbrain-amoeba2010.exe: My chance to win: 66%
+14) pbrain-amoeba2010.exe: Your chance to win: 32%
+14) pbrain-amoeba2010.exe: My chance to win: 64%
+16) pbrain-amoeba2010.exe: Your chance to win: 32%
+16) pbrain-amoeba2010.exe: My chance to win: 74%
+18) pbrain-amoeba2010.exe: Your chance to win: 30%
+18) pbrain-amoeba2010.exe: My chance to win: 79%
+20) pbrain-amoeba2010.exe: Your chance to win: 7%
+20) pbrain-amoeba2010.exe: My chance to win: 92%
+22) pbrain-amoeba2010.exe: My chance to win: 79%
+24) pbrain-amoeba2010.exe: Your chance to win: 23%
+24) pbrain-amoeba2010.exe: My chance to win: 76%
+26) pbrain-amoeba2010.exe: Your chance to win: 24%
+26) pbrain-amoeba2010.exe: My chance to win: 74%
+30) pbrain-amoeba2010.exe: My chance to win: 85%
+32) pbrain-amoeba2010.exe: Your chance to win: 16%
+32) pbrain-amoeba2010.exe: My chance to win: 79%
+34) pbrain-amoeba2010.exe: Your chance to win: 20%
+34) pbrain-amoeba2010.exe: My chance to win: 81%
+36) pbrain-amoeba2010.exe: Your chance to win: 18%
+36) pbrain-amoeba2010.exe: My chance to win: 77%
+38) pbrain-amoeba2010.exe: Your chance to win: 22%
+38) pbrain-amoeba2010.exe: My chance to win: 91%
+40) pbrain-amoeba2010.exe: Your chance to win: 12%
+40) pbrain-amoeba2010.exe: My chance to win: 88%
+42) pbrain-amoeba2010.exe: Your chance to win: 1%
+42) pbrain-amoeba2010.exe: My chance to win: 89%
+44) pbrain-amoeba2010.exe: Your chance to win: 10%
+44) pbrain-amoeba2010.exe: My chance to win: 89%
+46) pbrain-amoeba2010.exe: Your chance to win: 13%
+46) pbrain-amoeba2010.exe: My chance to win: 88%
+48) pbrain-amoeba2010.exe: Your chance to win: 8%
+48) pbrain-amoeba2010.exe: My chance to win: 77%
+50) pbrain-amoeba2010.exe: Your chance to win: 22%
+50) pbrain-amoeba2010.exe: My chance to win: 76%
+52) pbrain-amoeba2010.exe: Your chance to win: 17%
+52) pbrain-amoeba2010.exe: My chance to win: 71%
+54) pbrain-amoeba2010.exe: Your chance to win: 34%
+54) pbrain-amoeba2010.exe: My chance to win: 66%
+58) pbrain-amoeba2010.exe: My chance to win: 77%
+60) pbrain-amoeba2010.exe: Your chance to win: 25%
+60) pbrain-amoeba2010.exe: My chance to win: 75%
+62) pbrain-amoeba2010.exe: Your chance to win: 1%
+62) pbrain-amoeba2010.exe: My chance to win: 98%
+64) pbrain-amoeba2010.exe: My chance to win: 76%
+66) pbrain-amoeba2010.exe: My chance to win: 91%
+68) pbrain-amoeba2010.exe: Your chance to win: 13%
+68) pbrain-amoeba2010.exe: My chance to win: 82%
+70) pbrain-amoeba2010.exe: Your chance to win: 17%
+70) pbrain-amoeba2010.exe: My chance to win: 77%
+72) pbrain-amoeba2010.exe: Your chance to win: 22%
+72) pbrain-amoeba2010.exe: My chance to win: 80%
+74) pbrain-amoeba2010.exe: Your chance to win: 7%
+74) pbrain-amoeba2010.exe: My chance to win: 92%
+76) pbrain-amoeba2010.exe: Your chance to win: 6%
+76) pbrain-amoeba2010.exe: My chance to win: 93%
+82) pbrain-amoeba2010.exe: My chance to win: 96%
+84) pbrain-amoeba2010.exe: Your chance to win: 3%
+84) pbrain-amoeba2010.exe: My chance to win: 96%
+86) pbrain-amoeba2010.exe: Your chance to win: 3%
+86) pbrain-amoeba2010.exe: My chance to win: 94%
+88) pbrain-amoeba2010.exe: Your chance to win: 5%
+88) pbrain-amoeba2010.exe: My chance to win: 91%
+90) pbrain-amoeba2010.exe: Your chance to win: 8%
+90) pbrain-amoeba2010.exe: My chance to win: 86%
+92) pbrain-amoeba2010.exe: Your chance to win: 18%
+92) pbrain-amoeba2010.exe: My chance to win: 80%
+94) pbrain-amoeba2010.exe: My chance to win: 82%
+96) pbrain-amoeba2010.exe: Your chance to win: 11%
+96) pbrain-amoeba2010.exe: My chance to win: 89%
+100) pbrain-amoeba2010.exe: My chance to win: 80%
+102) pbrain-amoeba2010.exe: Your chance to win: 19%
+102) pbrain-amoeba2010.exe: My chance to win: 77%
+104) pbrain-amoeba2010.exe: Your chance to win: 22%
+104) pbrain-amoeba2010.exe: My chance to win: 77%
+106) pbrain-amoeba2010.exe: Your chance to win: 22%
+106) pbrain-amoeba2010.exe: My chance to win: 72%
+108) pbrain-amoeba2010.exe: Your chance to win: 27%
+108) pbrain-amoeba2010.exe: My chance to win: 65%
+110) pbrain-amoeba2010.exe: Your chance to win: 34%
+110) pbrain-amoeba2010.exe: My chance to win: 57%
+112) pbrain-amoeba2010.exe: Your chance to win: 42%
+112) pbrain-amoeba2010.exe: My chance to win: 42%
+114) pbrain-amoeba2010.exe: Your chance to win: 57%
+114) pbrain-amoeba2010.exe: My chance to win: 25%
+116) pbrain-amoeba2010.exe: Your chance to win: 74%
+116) pbrain-amoeba2010.exe: My chance to win: 20%
+118) pbrain-amoeba2010.exe: Your chance to win: 79%
+118) pbrain-amoeba2010.exe: My chance to win: 21%
+120) pbrain-amoeba2010.exe: Your chance to win: 79%
+120) pbrain-amoeba2010.exe: My chance to win: 16%
+122) pbrain-amoeba2010.exe: Your chance to win: 83%
+122) pbrain-amoeba2010.exe: My chance to win: 8%
+124) pbrain-amoeba2010.exe: Your chance to win: 99%
+124) pbrain-amoeba2010.exe: My chance to win: 0%
+124) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x6-126(1).psq
+______________________________
+Noesis x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\2x0-34(2).psq
+______________________________
+Pecuchet x bestmove
+-> F:\projekty\gomocup2010\freestyle2\0x3-45(1).psq
+______________________________
+Kanec x amoeba2010
+ 9) pbrain-amoeba2010.exe: My chance to win: 45%
+11) pbrain-amoeba2010.exe: Your chance to win: 45%
+11) pbrain-amoeba2010.exe: My chance to win: 49%
+13) pbrain-amoeba2010.exe: My chance to win: 51%
+15) pbrain-amoeba2010.exe: Your chance to win: 49%
+15) pbrain-amoeba2010.exe: My chance to win: 50%
+17) pbrain-amoeba2010.exe: Your chance to win: 50%
+17) pbrain-amoeba2010.exe: My chance to win: 43%
+19) pbrain-amoeba2010.exe: Your chance to win: 60%
+19) pbrain-amoeba2010.exe: My chance to win: 47%
+21) pbrain-amoeba2010.exe: Your chance to win: 52%
+21) pbrain-amoeba2010.exe: My chance to win: 49%
+23) pbrain-amoeba2010.exe: Your chance to win: 39%
+23) pbrain-amoeba2010.exe: My chance to win: 54%
+25) pbrain-amoeba2010.exe: My chance to win: 45%
+27) pbrain-amoeba2010.exe: Your chance to win: 68%
+27) pbrain-amoeba2010.exe: My chance to win: 31%
+29) pbrain-amoeba2010.exe: Your chance to win: 79%
+29) pbrain-amoeba2010.exe: My chance to win: 20%
+31) pbrain-amoeba2010.exe: Your chance to win: 86%
+31) pbrain-amoeba2010.exe: My chance to win: 13%
+33) pbrain-amoeba2010.exe: Your chance to win: 94%
+33) pbrain-amoeba2010.exe: My chance to win: 5%
+35) pbrain-amoeba2010.exe: Your chance to win: 99%
+35) pbrain-amoeba2010.exe: My chance to win: 0%
+35) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\6x8-37(1).psq
+______________________________
+Pecuchet x gmotor
+-> F:\projekty\gomocup2010\freestyle2\0x4-41(2).psq
+______________________________
+bestmove x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\3x0-22(1).psq
+______________________________
+Pecuchet x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\0x5-32(1).psq
+______________________________
+Pecuchet x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -1,76 11/59796
+ 7) pbrain-swine2010.exe: 10-0       5,51  3/31893
+ 9) pbrain-swine2010.exe: 11-0       2,84  2/21617
+11) pbrain-swine2010.exe:  1-0       0,00  0/0
+13) pbrain-swine2010.exe:  2-0        :-[  3/4
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+17) pbrain-swine2010.exe:  1-0       0,00  0/0
+19) pbrain-swine2010.exe:  2-0      -5,66  1/7
+21) pbrain-swine2010.exe:  3-0        :-[  1/16
+23) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle2\0x7-25(1).psq
+______________________________
+HfM2010 x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\5x0-23(1).psq
+______________________________
+swine2010 x Pecuchet
+ 6) pbrain-swine2010.exe:  7-0       2,12 13/31606
+ 8) pbrain-swine2010.exe:  8-0       6,21  2/58503
+10) pbrain-swine2010.exe:  9-0      12,00  1/29045
+12) pbrain-swine2010.exe:  1-0       0,00  0/0
+14) pbrain-swine2010.exe:  1-0        :-]  0/0
+16) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x0-21(1).psq
+______________________________
+gmotor x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\4x0-41(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> F:\projekty\gomocup2010\freestyle2\1x2-42(1).psq
+______________________________
+Noesis x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\2x1-21(1).psq
+______________________________
+Pecuchet x Kanec
+-> F:\projekty\gomocup2010\freestyle2\0x6-44(2).psq
+______________________________
+QMENTAT6 x gmotor
+-> F:\projekty\gomocup2010\freestyle2\1x4-28(1).psq
+______________________________
+QMENTAT6 x bestmove
+-> F:\projekty\gomocup2010\freestyle2\1x3-28(1).psq
+______________________________
+Pecuchet x amoeba2010
+ 5) pbrain-amoeba2010.exe: My chance to win: 40%
+ 7) pbrain-amoeba2010.exe: Your chance to win: 59%
+ 7) pbrain-amoeba2010.exe: My chance to win: 43%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 62%
+ 9) pbrain-amoeba2010.exe: My chance to win: 40%
+11) pbrain-amoeba2010.exe: Your chance to win: 52%
+11) pbrain-amoeba2010.exe: My chance to win: 40%
+13) pbrain-amoeba2010.exe: Your chance to win: 59%
+13) pbrain-amoeba2010.exe: My chance to win: 45%
+15) pbrain-amoeba2010.exe: Your chance to win: 61%
+15) pbrain-amoeba2010.exe: My chance to win: 45%
+17) pbrain-amoeba2010.exe: Your chance to win: 60%
+17) pbrain-amoeba2010.exe: My chance to win: 45%
+19) pbrain-amoeba2010.exe: Your chance to win: 55%
+19) pbrain-amoeba2010.exe: My chance to win: 44%
+21) pbrain-amoeba2010.exe: Your chance to win: 58%
+21) pbrain-amoeba2010.exe: My chance to win: 39%
+23) pbrain-amoeba2010.exe: Your chance to win: 60%
+23) pbrain-amoeba2010.exe: My chance to win: 33%
+25) pbrain-amoeba2010.exe: Your chance to win: 71%
+25) pbrain-amoeba2010.exe: My chance to win: 28%
+27) pbrain-amoeba2010.exe: Your chance to win: 77%
+27) pbrain-amoeba2010.exe: My chance to win: 26%
+29) pbrain-amoeba2010.exe: Your chance to win: 50%
+29) pbrain-amoeba2010.exe: My chance to win: 49%
+33) pbrain-amoeba2010.exe: My chance to win: 14%
+35) pbrain-amoeba2010.exe: Your chance to win: 86%
+35) pbrain-amoeba2010.exe: My chance to win: 7%
+39) pbrain-amoeba2010.exe: My chance to win: 17%
+41) pbrain-amoeba2010.exe: Your chance to win: 82%
+41) pbrain-amoeba2010.exe: My chance to win: 16%
+43) pbrain-amoeba2010.exe: Your chance to win: 59%
+43) pbrain-amoeba2010.exe: My chance to win: 41%
+45) pbrain-amoeba2010.exe: Your chance to win: 72%
+45) pbrain-amoeba2010.exe: My chance to win: 23%
+47) pbrain-amoeba2010.exe: Your chance to win: 59%
+47) pbrain-amoeba2010.exe: My chance to win: 40%
+53) pbrain-amoeba2010.exe: My chance to win: 0%
+53) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\0x8-55(1).psq
+______________________________
+bestmove x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\3x1-21(1).psq
+______________________________
+gmotor x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\4x1-39(1).psq
+______________________________
+QMENTAT6 x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\1x5-26(1).psq
+______________________________
+QMENTAT6 x Kanec
+-> F:\projekty\gomocup2010\freestyle2\1x6-30(1).psq
+______________________________
+Kanec x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\6x1-35(1).psq
+______________________________
+HfM2010 x QMENTAT6
+-> F:\projekty\gomocup2010\freestyle2\5x1-25(1).psq
+______________________________
+Kanec x Pecuchet
+-> F:\projekty\gomocup2010\freestyle2\6x0-69(1).psq
+______________________________
+QMENTAT6 x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -1,76 11/59796
+ 7) pbrain-swine2010.exe: 10-0      -6,30  1/47301
+ 9) pbrain-swine2010.exe:  1-0       0,00  0/0
+11) pbrain-swine2010.exe:  2-0       2,13  3/17
+13) pbrain-swine2010.exe:  1-0       0,00  0/0
+15) pbrain-swine2010.exe:  6-0       6,36 40/30892
+17) pbrain-swine2010.exe: 10-0       4,14  3/46041
+19) pbrain-swine2010.exe:  9-0      12,75  1/39539
+21) pbrain-swine2010.exe:  4-0        :-]  4/4987
+23) pbrain-swine2010.exe:  1-0        :-]  0/0
+25) pbrain-swine2010.exe:  1-0        :-]  0/0
+27) pbrain-swine2010.exe:  1-0        :-]  0/0
+29) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\1x7-32(3).psq
+______________________________
+QMENTAT6 x amoeba2010
+ 5) pbrain-amoeba2010.exe: My chance to win: 36%
+ 7) pbrain-amoeba2010.exe: Your chance to win: 68%
+ 7) pbrain-amoeba2010.exe: My chance to win: 37%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 56%
+ 9) pbrain-amoeba2010.exe: My chance to win: 43%
+11) pbrain-amoeba2010.exe: My chance to win: 42%
+13) pbrain-amoeba2010.exe: Your chance to win: 66%
+13) pbrain-amoeba2010.exe: My chance to win: 43%
+15) pbrain-amoeba2010.exe: Your chance to win: 57%
+15) pbrain-amoeba2010.exe: My chance to win: 35%
+17) pbrain-amoeba2010.exe: Your chance to win: 60%
+17) pbrain-amoeba2010.exe: My chance to win: 39%
+19) pbrain-amoeba2010.exe: Your chance to win: 48%
+19) pbrain-amoeba2010.exe: My chance to win: 46%
+21) pbrain-amoeba2010.exe: Your chance to win: 56%
+21) pbrain-amoeba2010.exe: My chance to win: 42%
+23) pbrain-amoeba2010.exe: Your chance to win: 65%
+23) pbrain-amoeba2010.exe: My chance to win: 25%
+25) pbrain-amoeba2010.exe: Your chance to win: 74%
+25) pbrain-amoeba2010.exe: My chance to win: 27%
+27) pbrain-amoeba2010.exe: Your chance to win: 63%
+27) pbrain-amoeba2010.exe: My chance to win: 36%
+29) pbrain-amoeba2010.exe: My chance to win: 2%
+31) pbrain-amoeba2010.exe: Your chance to win: 98%
+31) pbrain-amoeba2010.exe: My chance to win: 1%
+33) pbrain-amoeba2010.exe: Your chance to win: 100%
+33) pbrain-amoeba2010.exe: My chance to win: 0%
+33) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\1x8-35(1).psq
+______________________________
+swine2010 x QMENTAT6
+ 6) pbrain-swine2010.exe:  7-0       2,12 13/31606
+ 8) pbrain-swine2010.exe: 10-0       9,51  3/58697
+10) pbrain-swine2010.exe:  1-0       0,00  0/0
+12) pbrain-swine2010.exe:  7-0      17,53  1/19157
+14) pbrain-swine2010.exe:  7-0      17,25  2/47085
+16) pbrain-swine2010.exe:  6-0        :-]  1/6440
+18) pbrain-swine2010.exe:  4-0        :-]  2/4498
+20) pbrain-swine2010.exe:  2-0        :-]  7/200
+22) pbrain-swine2010.exe:  1-0        :-]  0/0
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+26) pbrain-swine2010.exe:  1-0        :-]  0/0
+28) pbrain-swine2010.exe:  1-0        :-]  0/0
+30) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x1-33(1).psq
+______________________________
+amoeba2010 x Pecuchet
+ 8) pbrain-amoeba2010.exe: My chance to win: 53%
+10) pbrain-amoeba2010.exe: Your chance to win: 50%
+10) pbrain-amoeba2010.exe: My chance to win: 45%
+12) pbrain-amoeba2010.exe: Your chance to win: 56%
+12) pbrain-amoeba2010.exe: My chance to win: 44%
+14) pbrain-amoeba2010.exe: Your chance to win: 42%
+14) pbrain-amoeba2010.exe: My chance to win: 46%
+16) pbrain-amoeba2010.exe: Your chance to win: 54%
+16) pbrain-amoeba2010.exe: My chance to win: 44%
+18) pbrain-amoeba2010.exe: Your chance to win: 45%
+18) pbrain-amoeba2010.exe: My chance to win: 38%
+20) pbrain-amoeba2010.exe: Your chance to win: 61%
+20) pbrain-amoeba2010.exe: My chance to win: 39%
+22) pbrain-amoeba2010.exe: Your chance to win: 64%
+22) pbrain-amoeba2010.exe: My chance to win: 35%
+26) pbrain-amoeba2010.exe: My chance to win: 54%
+34) pbrain-amoeba2010.exe: My chance to win: 65%
+36) pbrain-amoeba2010.exe: Your chance to win: 35%
+36) pbrain-amoeba2010.exe: My chance to win: 64%
+38) pbrain-amoeba2010.exe: My chance to win: 67%
+40) pbrain-amoeba2010.exe: Your chance to win: 15%
+40) pbrain-amoeba2010.exe: My chance to win: 85%
+44) pbrain-amoeba2010.exe: My chance to win: 96%
+46) pbrain-amoeba2010.exe: Your chance to win: 3%
+46) pbrain-amoeba2010.exe: My chance to win: 98%
+48) pbrain-amoeba2010.exe: Your chance to win: 1%
+48) pbrain-amoeba2010.exe: My chance to win: 100%
+50) pbrain-amoeba2010.exe: Your chance to win: 0%
+50) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x0-51(1).psq
+______________________________
+Noesis x gmotor
+-> F:\projekty\gomocup2010\freestyle2\2x4-22(1).psq
+______________________________
+amoeba2010 x QMENTAT6
+12) pbrain-amoeba2010.exe: My chance to win: 87%
+14) pbrain-amoeba2010.exe: My chance to win: 95%
+16) pbrain-amoeba2010.exe: Your chance to win: 5%
+16) pbrain-amoeba2010.exe: My chance to win: 98%
+18) pbrain-amoeba2010.exe: Your chance to win: 1%
+18) pbrain-amoeba2010.exe: My chance to win: 98%
+20) pbrain-amoeba2010.exe: Your chance to win: 1%
+20) pbrain-amoeba2010.exe: My chance to win: 100%
+22) pbrain-amoeba2010.exe: Your chance to win: 0%
+22) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x1-23(1).psq
+______________________________
+Noesis x bestmove
+-> F:\projekty\gomocup2010\freestyle2\2x3-58(1).psq
+______________________________
+gmotor x Noesis
+-> F:\projekty\gomocup2010\freestyle2\4x2-31(1).psq
+______________________________
+Noesis x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\2x5-32(1).psq
+______________________________
+Noesis x Kanec
+-> F:\projekty\gomocup2010\freestyle2\2x6-30(1).psq
+______________________________
+Kanec x Noesis
+-> F:\projekty\gomocup2010\freestyle2\6x2-33(1).psq
+______________________________
+HfM2010 x Noesis
+-> F:\projekty\gomocup2010\freestyle2\5x2-39(1).psq
+______________________________
+Noesis x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -1,76 11/59796
+ 7) pbrain-swine2010.exe: 10-0      -6,30  1/47301
+ 9) pbrain-swine2010.exe:  2-0      -4,53  3/17
+11) pbrain-swine2010.exe:  7-0      -6,28  3/40817
+13) pbrain-swine2010.exe:  1-0       0,00  0/0
+15) pbrain-swine2010.exe:  8-0     -14,62  1/42304
+17) pbrain-swine2010.exe:  6-0     -14,96  5/18912
+19) pbrain-swine2010.exe:  2-0     -15,51  3/35
+21) pbrain-swine2010.exe:  2-0     -14,58  3/36
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  4-0     -11,10  1/1979
+27) pbrain-swine2010.exe:  1-0       0,00  0/0
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  6-0      12,73  3/2958
+33) pbrain-swine2010.exe:  6-0      15,25  3/3501
+35) pbrain-swine2010.exe:  1-0       0,00  0/0
+37) pbrain-swine2010.exe:  1-0       0,00  0/0
+39) pbrain-swine2010.exe:  1-0       0,00  0/0
+41) pbrain-swine2010.exe:  1-0       0,00  0/0
+43) pbrain-swine2010.exe:  1-0       0,00  0/0
+45) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\2x7-58(1).psq
+______________________________
+bestmove x Noesis
+-> F:\projekty\gomocup2010\freestyle2\3x2-31(1).psq
+______________________________
+swine2010 x Noesis
+ 6) pbrain-swine2010.exe:  7-0       2,12 13/31606
+ 8) pbrain-swine2010.exe:  8-0       6,21  2/58503
+10) pbrain-swine2010.exe:  9-0      10,56  3/42796
+12) pbrain-swine2010.exe:  1-0        :-]  0/0
+14) pbrain-swine2010.exe:  1-0       0,00  0/0
+16) pbrain-swine2010.exe:  1-0       0,00  0/0
+18) pbrain-swine2010.exe:  1-0        :-]  0/0
+20) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x2-23(1).psq
+______________________________
+Noesis x amoeba2010
+ 5) pbrain-amoeba2010.exe: My chance to win: 44%
+ 7) pbrain-amoeba2010.exe: Your chance to win: 60%
+ 7) pbrain-amoeba2010.exe: My chance to win: 49%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 54%
+ 9) pbrain-amoeba2010.exe: My chance to win: 48%
+11) pbrain-amoeba2010.exe: My chance to win: 68%
+13) pbrain-amoeba2010.exe: Your chance to win: 33%
+13) pbrain-amoeba2010.exe: My chance to win: 66%
+15) pbrain-amoeba2010.exe: Your chance to win: 34%
+15) pbrain-amoeba2010.exe: My chance to win: 66%
+17) pbrain-amoeba2010.exe: Your chance to win: 20%
+17) pbrain-amoeba2010.exe: My chance to win: 75%
+19) pbrain-amoeba2010.exe: Your chance to win: 19%
+19) pbrain-amoeba2010.exe: My chance to win: 80%
+23) pbrain-amoeba2010.exe: My chance to win: 78%
+25) pbrain-amoeba2010.exe: My chance to win: 71%
+27) pbrain-amoeba2010.exe: Your chance to win: 30%
+27) pbrain-amoeba2010.exe: My chance to win: 69%
+29) pbrain-amoeba2010.exe: Your chance to win: 18%
+29) pbrain-amoeba2010.exe: My chance to win: 84%
+31) pbrain-amoeba2010.exe: Your chance to win: 15%
+31) pbrain-amoeba2010.exe: My chance to win: 87%
+33) pbrain-amoeba2010.exe: Your chance to win: 12%
+33) pbrain-amoeba2010.exe: My chance to win: 87%
+35) pbrain-amoeba2010.exe: Your chance to win: 5%
+35) pbrain-amoeba2010.exe: My chance to win: 94%
+37) pbrain-amoeba2010.exe: My chance to win: 89%
+39) pbrain-amoeba2010.exe: Your chance to win: 10%
+39) pbrain-amoeba2010.exe: My chance to win: 97%
+41) pbrain-amoeba2010.exe: Your chance to win: 2%
+41) pbrain-amoeba2010.exe: My chance to win: 99%
+43) pbrain-amoeba2010.exe: Your chance to win: 0%
+43) pbrain-amoeba2010.exe: My chance to win: 100%
+45) pbrain-amoeba2010.exe: Your chance to win: 0%
+45) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\2x8-46(1).psq
+______________________________
+amoeba2010 x Noesis
+12) pbrain-amoeba2010.exe: My chance to win: 66%
+14) pbrain-amoeba2010.exe: Your chance to win: 21%
+14) pbrain-amoeba2010.exe: My chance to win: 84%
+16) pbrain-amoeba2010.exe: Your chance to win: 17%
+16) pbrain-amoeba2010.exe: My chance to win: 83%
+18) pbrain-amoeba2010.exe: Your chance to win: 16%
+18) pbrain-amoeba2010.exe: My chance to win: 83%
+20) pbrain-amoeba2010.exe: Your chance to win: 20%
+20) pbrain-amoeba2010.exe: My chance to win: 79%
+22) pbrain-amoeba2010.exe: Your chance to win: 14%
+22) pbrain-amoeba2010.exe: My chance to win: 80%
+24) pbrain-amoeba2010.exe: Your chance to win: 14%
+24) pbrain-amoeba2010.exe: My chance to win: 85%
+26) pbrain-amoeba2010.exe: Your chance to win: 13%
+26) pbrain-amoeba2010.exe: My chance to win: 86%
+28) pbrain-amoeba2010.exe: Your chance to win: 15%
+28) pbrain-amoeba2010.exe: My chance to win: 78%
+30) pbrain-amoeba2010.exe: Your chance to win: 21%
+30) pbrain-amoeba2010.exe: My chance to win: 95%
+32) pbrain-amoeba2010.exe: Your chance to win: 4%
+32) pbrain-amoeba2010.exe: My chance to win: 98%
+34) pbrain-amoeba2010.exe: Your chance to win: 1%
+34) pbrain-amoeba2010.exe: My chance to win: 98%
+36) pbrain-amoeba2010.exe: Your chance to win: 1%
+36) pbrain-amoeba2010.exe: My chance to win: 100%
+38) pbrain-amoeba2010.exe: Your chance to win: 0%
+38) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x2-39(1).psq
+______________________________
+bestmove x gmotor
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x4-18(1).psq
+______________________________
+bestmove x HfM2010
+pbrain-bestmove.exe: Timeout
+-> F:\projekty\gomocup2010\freestyle2\3x5-18(1).psq
+______________________________
+bestmove x Kanec
+pbrain-bestmove.exe: Timeout
+-> F:\projekty\gomocup2010\freestyle2\3x6-18(3).psq
+______________________________
+Kanec x bestmove
+-> F:\projekty\gomocup2010\freestyle2\6x3-37(2).psq
+______________________________
+HfM2010 x bestmove
+-> F:\projekty\gomocup2010\freestyle2\5x3-35(1).psq
+______________________________
+bestmove x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -0,59  1/17972
+ 7) pbrain-swine2010.exe:  7-0       1,62  4/13306
+ 9) pbrain-swine2010.exe:  6-0       0,99  8/9611
+11) pbrain-swine2010.exe:  1-0       0,00  0/0
+13) pbrain-swine2010.exe:  7-0       2,20  3/21613
+15) pbrain-swine2010.exe:  8-0       5,72  3/19134
+17) pbrain-swine2010.exe:  7-0       6,50  6/23676
+pbrain-bestmove.exe: Èas vypršel
+-> F:\projekty\gomocup2010\freestyle2\3x7-18(2).psq
+______________________________
+gmotor x bestmove
+-> F:\projekty\gomocup2010\freestyle2\4x3-44(1).psq
+______________________________
+swine2010 x bestmove
+ 6) pbrain-swine2010.exe:  6-0       0,59  2/15345
+ 8) pbrain-swine2010.exe:  8-0       1,84  2/25707
+10) pbrain-swine2010.exe:  8-0       3,88  8/38515
+12) pbrain-swine2010.exe:  8-0      10,71  1/14993
+14) pbrain-swine2010.exe: 10-0      15,75  1/57483
+16) pbrain-swine2010.exe:  1-0       0,00  0/0
+18) pbrain-swine2010.exe:  7-0       7,74  1/12006
+20) pbrain-swine2010.exe:  6-0       9,56  3/36613
+22) pbrain-swine2010.exe:  5-0      10,20 14/12598
+24) pbrain-swine2010.exe:  1-0       0,00  0/0
+26) pbrain-swine2010.exe:  2-0        :-] 13/310
+28) pbrain-swine2010.exe:  1-0        :-]  0/0
+30) pbrain-swine2010.exe:  1-0        :-]  0/0
+32) pbrain-swine2010.exe:  1-0        :-]  0/0
+34) pbrain-swine2010.exe:  1-0        :-]  0/0
+36) pbrain-swine2010.exe:  1-0       0,00  0/0
+38) pbrain-swine2010.exe:  1-0       0,00  0/0
+40) pbrain-swine2010.exe:  1-0       0,00  0/0
+42) pbrain-swine2010.exe:  1-0       0,00  0/0
+44) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x3-49(1).psq
+______________________________
+bestmove x amoeba2010
+ 5) pbrain-amoeba2010.exe: My chance to win: 42%
+ 7) pbrain-amoeba2010.exe: Your chance to win: 55%
+ 7) pbrain-amoeba2010.exe: My chance to win: 50%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 55%
+ 9) pbrain-amoeba2010.exe: My chance to win: 51%
+11) pbrain-amoeba2010.exe: Your chance to win: 55%
+11) pbrain-amoeba2010.exe: My chance to win: 52%
+13) pbrain-amoeba2010.exe: Your chance to win: 49%
+13) pbrain-amoeba2010.exe: My chance to win: 50%
+15) pbrain-amoeba2010.exe: Your chance to win: 48%
+15) pbrain-amoeba2010.exe: My chance to win: 46%
+17) pbrain-amoeba2010.exe: Your chance to win: 56%
+17) pbrain-amoeba2010.exe: My chance to win: 27%
+19) pbrain-amoeba2010.exe: Your chance to win: 72%
+19) pbrain-amoeba2010.exe: My chance to win: 16%
+21) pbrain-amoeba2010.exe: Your chance to win: 80%
+21) pbrain-amoeba2010.exe: My chance to win: 19%
+23) pbrain-amoeba2010.exe: Your chance to win: 82%
+23) pbrain-amoeba2010.exe: My chance to win: 10%
+25) pbrain-amoeba2010.exe: Your chance to win: 89%
+25) pbrain-amoeba2010.exe: My chance to win: 7%
+27) pbrain-amoeba2010.exe: Your chance to win: 92%
+27) pbrain-amoeba2010.exe: My chance to win: 2%
+29) pbrain-amoeba2010.exe: Your chance to win: 99%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+31) pbrain-amoeba2010.exe: Your chance to win: 100%
+31) pbrain-amoeba2010.exe: My chance to win: 0%
+31) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\3x8-33(1).psq
+______________________________
+gmotor x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\4x5-68(1).psq
+______________________________
+gmotor x Kanec
+-> F:\projekty\gomocup2010\freestyle2\4x6-34(1).psq
+______________________________
+amoeba2010 x bestmove
+ 6) pbrain-amoeba2010.exe: My chance to win: 55%
+ 8) pbrain-amoeba2010.exe: Your chance to win: 49%
+ 8) pbrain-amoeba2010.exe: My chance to win: 60%
+10) pbrain-amoeba2010.exe: Your chance to win: 43%
+10) pbrain-amoeba2010.exe: My chance to win: 76%
+12) pbrain-amoeba2010.exe: Your chance to win: 23%
+12) pbrain-amoeba2010.exe: My chance to win: 75%
+14) pbrain-amoeba2010.exe: Your chance to win: 46%
+14) pbrain-amoeba2010.exe: My chance to win: 32%
+16) pbrain-amoeba2010.exe: My chance to win: 15%
+18) pbrain-amoeba2010.exe: My chance to win: 8%
+20) pbrain-amoeba2010.exe: Your chance to win: 94%
+20) pbrain-amoeba2010.exe: My chance to win: 0%
+22) pbrain-amoeba2010.exe: Your chance to win: 99%
+22) pbrain-amoeba2010.exe: My chance to win: 0%
+22) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x3-24(1).psq
+______________________________
+HfM2010 x gmotor
+-> F:\projekty\gomocup2010\freestyle2\5x4-45(1).psq
+______________________________
+gmotor x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 44%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 60%
+ 9) pbrain-amoeba2010.exe: My chance to win: 36%
+11) pbrain-amoeba2010.exe: Your chance to win: 62%
+11) pbrain-amoeba2010.exe: My chance to win: 37%
+13) pbrain-amoeba2010.exe: Your chance to win: 68%
+13) pbrain-amoeba2010.exe: My chance to win: 39%
+15) pbrain-amoeba2010.exe: Your chance to win: 60%
+15) pbrain-amoeba2010.exe: My chance to win: 35%
+17) pbrain-amoeba2010.exe: Your chance to win: 68%
+17) pbrain-amoeba2010.exe: My chance to win: 33%
+19) pbrain-amoeba2010.exe: Your chance to win: 64%
+19) pbrain-amoeba2010.exe: My chance to win: 38%
+21) pbrain-amoeba2010.exe: Your chance to win: 55%
+21) pbrain-amoeba2010.exe: My chance to win: 44%
+23) pbrain-amoeba2010.exe: My chance to win: 2%
+25) pbrain-amoeba2010.exe: Your chance to win: 98%
+25) pbrain-amoeba2010.exe: My chance to win: 0%
+27) pbrain-amoeba2010.exe: Your chance to win: 99%
+27) pbrain-amoeba2010.exe: My chance to win: 0%
+29) pbrain-amoeba2010.exe: Your chance to win: 99%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+29) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\4x8-31(2).psq
+______________________________
+gmotor x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -0,59  1/17972
+ 7) pbrain-swine2010.exe:  9-0      -1,84  1/40418
+ 9) pbrain-swine2010.exe:  8-0      -3,88  2/50255
+11) pbrain-swine2010.exe:  6-0      -3,88  4/16974
+13) pbrain-swine2010.exe:  6-0      -6,33  1/19402
+15) pbrain-swine2010.exe:  5-0      -7,42  3/24696
+17) pbrain-swine2010.exe:  7-0     -10,25  3/20945
+19) pbrain-swine2010.exe:  6-0      -8,99  8/16088
+21) pbrain-swine2010.exe:  6-0      -7,80  2/14202
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+25) pbrain-swine2010.exe:  8-0       5,38  1/5016
+27) pbrain-swine2010.exe:  1-0       0,00  0/0
+29) pbrain-swine2010.exe:  7-0       6,38  3/6120
+31) pbrain-swine2010.exe:  1-0       0,00  0/0
+33) pbrain-swine2010.exe:  6-0       5,47  1/9116
+35) pbrain-swine2010.exe:  6-0      14,17  2/5346
+37) pbrain-swine2010.exe:  1-0       0,00  0/0
+39) pbrain-swine2010.exe:  1-0       0,00  0/0
+41) pbrain-swine2010.exe:  1-0       0,00  0/0
+43) pbrain-swine2010.exe:  1-0       0,00  0/0
+45) pbrain-swine2010.exe:  6-0        :-]  1/1572
+47) pbrain-swine2010.exe:  1-0       0,00  0/0
+49) pbrain-swine2010.exe:  1-0        :-]  0/0
+51) pbrain-swine2010.exe:  1-0       0,00  0/0
+53) pbrain-swine2010.exe:  1-0       0,00  0/0
+55) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\4x7-60(1).psq
+______________________________
+Kanec x gmotor
+-> F:\projekty\gomocup2010\freestyle2\6x4-73(1).psq
+______________________________
+swine2010 x gmotor
+ 6) pbrain-swine2010.exe:  6-0       0,59  2/15345
+ 8) pbrain-swine2010.exe:  8-0       1,84  2/25707
+10) pbrain-swine2010.exe:  8-0       3,88  8/38515
+12) pbrain-swine2010.exe:  8-0      10,71  1/14993
+14) pbrain-swine2010.exe: 10-0      15,75  1/57483
+16) pbrain-swine2010.exe:  1-0       0,00  0/0
+18) pbrain-swine2010.exe:  7-0       7,74  1/12006
+20) pbrain-swine2010.exe:  6-0       9,56  3/36613
+22) pbrain-swine2010.exe:  5-0      10,20 14/12598
+24) pbrain-swine2010.exe:  5-0      12,34 19/12828
+26) pbrain-swine2010.exe:  4-0        :-] 17/9467
+28) pbrain-swine2010.exe:  1-0       0,00  0/0
+30) pbrain-swine2010.exe:  1-0        :-]  0/0
+32) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x4-39(1).psq
+______________________________
+amoeba2010 x gmotor
+ 8) pbrain-amoeba2010.exe: My chance to win: 60%
+10) pbrain-amoeba2010.exe: Your chance to win: 34%
+10) pbrain-amoeba2010.exe: My chance to win: 65%
+12) pbrain-amoeba2010.exe: Your chance to win: 41%
+12) pbrain-amoeba2010.exe: My chance to win: 63%
+14) pbrain-amoeba2010.exe: Your chance to win: 39%
+14) pbrain-amoeba2010.exe: My chance to win: 59%
+16) pbrain-amoeba2010.exe: Your chance to win: 40%
+16) pbrain-amoeba2010.exe: My chance to win: 56%
+18) pbrain-amoeba2010.exe: Your chance to win: 47%
+18) pbrain-amoeba2010.exe: My chance to win: 52%
+20) pbrain-amoeba2010.exe: My chance to win: 42%
+22) pbrain-amoeba2010.exe: Your chance to win: 59%
+22) pbrain-amoeba2010.exe: My chance to win: 41%
+24) pbrain-amoeba2010.exe: Your chance to win: 38%
+24) pbrain-amoeba2010.exe: My chance to win: 61%
+26) pbrain-amoeba2010.exe: My chance to win: 26%
+28) pbrain-amoeba2010.exe: Your chance to win: 73%
+28) pbrain-amoeba2010.exe: My chance to win: 27%
+30) pbrain-amoeba2010.exe: Your chance to win: 72%
+30) pbrain-amoeba2010.exe: My chance to win: 24%
+32) pbrain-amoeba2010.exe: Your chance to win: 76%
+32) pbrain-amoeba2010.exe: My chance to win: 24%
+34) pbrain-amoeba2010.exe: Your chance to win: 77%
+34) pbrain-amoeba2010.exe: My chance to win: 22%
+36) pbrain-amoeba2010.exe: Your chance to win: 77%
+36) pbrain-amoeba2010.exe: My chance to win: 22%
+40) pbrain-amoeba2010.exe: My chance to win: 13%
+42) pbrain-amoeba2010.exe: My chance to win: 7%
+44) pbrain-amoeba2010.exe: Your chance to win: 81%
+44) pbrain-amoeba2010.exe: My chance to win: 18%
+46) pbrain-amoeba2010.exe: My chance to win: 1%
+48) pbrain-amoeba2010.exe: Your chance to win: 99%
+48) pbrain-amoeba2010.exe: My chance to win: 0%
+48) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x4-50(1).psq
+______________________________
+HfM2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle2\5x6-45(1).psq
+______________________________
+HfM2010 x amoeba2010
+ 7) pbrain-amoeba2010.exe: My chance to win: 42%
+ 9) pbrain-amoeba2010.exe: Your chance to win: 56%
+ 9) pbrain-amoeba2010.exe: My chance to win: 27%
+11) pbrain-amoeba2010.exe: Your chance to win: 72%
+11) pbrain-amoeba2010.exe: My chance to win: 32%
+13) pbrain-amoeba2010.exe: Your chance to win: 73%
+13) pbrain-amoeba2010.exe: My chance to win: 24%
+15) pbrain-amoeba2010.exe: Your chance to win: 78%
+15) pbrain-amoeba2010.exe: My chance to win: 10%
+17) pbrain-amoeba2010.exe: Your chance to win: 94%
+17) pbrain-amoeba2010.exe: My chance to win: 5%
+19) pbrain-amoeba2010.exe: Your chance to win: 100%
+19) pbrain-amoeba2010.exe: My chance to win: 0%
+19) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\5x8-21(1).psq
+______________________________
+Kanec x swine2010
+ 5) pbrain-swine2010.exe:  8-0      -1,76 11/59817
+ 7) pbrain-swine2010.exe: 10-0      -6,30  1/47285
+ 9) pbrain-swine2010.exe:  2-0      -4,53  3/17
+11) pbrain-swine2010.exe:  8-0      -0,60  1/21442
+13) pbrain-swine2010.exe:  1-0       0,00  0/0
+15) pbrain-swine2010.exe:  8-0      -9,77  6/19150
+17) pbrain-swine2010.exe:  1-0       0,00  0/0
+19) pbrain-swine2010.exe:  7-0      -8,97  1/45058
+21) pbrain-swine2010.exe:  6-0     -11,19  3/7816
+23) pbrain-swine2010.exe:  3-0      -2,22  6/378
+25) pbrain-swine2010.exe:  4-0        :-[  3/729
+27) pbrain-swine2010.exe:  2-0      -2,75  3/36
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  3-0        :-[  1/8
+33) pbrain-swine2010.exe:  1-0       0,00  0/0
+35) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle2\6x7-37(1).psq
+______________________________
+HfM2010 x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -0,59  1/17972
+ 7) pbrain-swine2010.exe:  7-0       2,78  7/8759
+ 9) pbrain-swine2010.exe:  8-0      -2,41  4/5610
+11) pbrain-swine2010.exe:  7-0      -4,57  5/7399
+13) pbrain-swine2010.exe:  8-0      -6,52  2/14888
+15) pbrain-swine2010.exe:  2-0      -7,35  3/41
+17) pbrain-swine2010.exe:  5-0       0,97 17/11596
+19) pbrain-swine2010.exe:  5-0       3,66 16/10649
+21) pbrain-swine2010.exe:  5-0       2,35 19/11622
+23) pbrain-swine2010.exe:  5-0       0,78  1/19152
+25) pbrain-swine2010.exe:  5-0      -1,00 12/9061
+27) pbrain-swine2010.exe:  1-0       0,00  0/0
+29) pbrain-swine2010.exe:  1-0       0,00  0/0
+31) pbrain-swine2010.exe:  3-0        :-[  3/8
+33) pbrain-swine2010.exe:  2-0        :-[  2/3
+35) pbrain-swine2010.exe:  1-0       0,00  0/0
+37) pbrain-swine2010.exe:  1-0       0,00  0/0
+39) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle2\5x7-41(1).psq
+______________________________
+swine2010 x HfM2010
+ 6) pbrain-swine2010.exe:  6-0       0,59  2/15345
+ 8) pbrain-swine2010.exe:  8-0       1,84  2/25707
+10) pbrain-swine2010.exe:  7-0       4,26  8/19967
+12) pbrain-swine2010.exe:  7-0       3,81  1/17978
+14) pbrain-swine2010.exe:  6-0       6,93  2/43050
+16) pbrain-swine2010.exe:  7-0       9,19 13/16975
+18) pbrain-swine2010.exe:  1-0       0,00  0/0
+20) pbrain-swine2010.exe:  6-0        :-]  1/1319
+22) pbrain-swine2010.exe:  1-0       0,00  0/0
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x5-35(1).psq
+______________________________
+amoeba2010 x HfM2010
+12) pbrain-amoeba2010.exe: My chance to win: 59%
+14) pbrain-amoeba2010.exe: Your chance to win: 43%
+14) pbrain-amoeba2010.exe: My chance to win: 50%
+16) pbrain-amoeba2010.exe: Your chance to win: 59%
+16) pbrain-amoeba2010.exe: My chance to win: 36%
+18) pbrain-amoeba2010.exe: Your chance to win: 63%
+18) pbrain-amoeba2010.exe: My chance to win: 44%
+20) pbrain-amoeba2010.exe: Your chance to win: 45%
+20) pbrain-amoeba2010.exe: My chance to win: 36%
+22) pbrain-amoeba2010.exe: Your chance to win: 63%
+22) pbrain-amoeba2010.exe: My chance to win: 25%
+24) pbrain-amoeba2010.exe: Your chance to win: 86%
+24) pbrain-amoeba2010.exe: My chance to win: 57%
+26) pbrain-amoeba2010.exe: My chance to win: 28%
+28) pbrain-amoeba2010.exe: Your chance to win: 75%
+28) pbrain-amoeba2010.exe: My chance to win: 29%
+30) pbrain-amoeba2010.exe: Your chance to win: 70%
+30) pbrain-amoeba2010.exe: My chance to win: 40%
+32) pbrain-amoeba2010.exe: Your chance to win: 68%
+32) pbrain-amoeba2010.exe: My chance to win: 30%
+34) pbrain-amoeba2010.exe: Your chance to win: 69%
+34) pbrain-amoeba2010.exe: My chance to win: 24%
+36) pbrain-amoeba2010.exe: Your chance to win: 81%
+36) pbrain-amoeba2010.exe: My chance to win: 18%
+38) pbrain-amoeba2010.exe: Your chance to win: 93%
+38) pbrain-amoeba2010.exe: My chance to win: 6%
+40) pbrain-amoeba2010.exe: Your chance to win: 100%
+40) pbrain-amoeba2010.exe: My chance to win: 0%
+40) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x5-42(1).psq
+______________________________
+Kanec x HfM2010
+-> F:\projekty\gomocup2010\freestyle2\6x5-77(1).psq
+______________________________
+Kanec x amoeba2010
+11) pbrain-amoeba2010.exe: My chance to win: 58%
+13) pbrain-amoeba2010.exe: Your chance to win: 42%
+13) pbrain-amoeba2010.exe: My chance to win: 57%
+15) pbrain-amoeba2010.exe: Your chance to win: 46%
+15) pbrain-amoeba2010.exe: My chance to win: 36%
+17) pbrain-amoeba2010.exe: Your chance to win: 63%
+17) pbrain-amoeba2010.exe: My chance to win: 42%
+19) pbrain-amoeba2010.exe: Your chance to win: 51%
+19) pbrain-amoeba2010.exe: My chance to win: 49%
+21) pbrain-amoeba2010.exe: Your chance to win: 58%
+21) pbrain-amoeba2010.exe: My chance to win: 26%
+23) pbrain-amoeba2010.exe: Your chance to win: 77%
+23) pbrain-amoeba2010.exe: My chance to win: 14%
+25) pbrain-amoeba2010.exe: Your chance to win: 85%
+25) pbrain-amoeba2010.exe: My chance to win: 6%
+27) pbrain-amoeba2010.exe: Your chance to win: 96%
+27) pbrain-amoeba2010.exe: My chance to win: 3%
+29) pbrain-amoeba2010.exe: Your chance to win: 100%
+29) pbrain-amoeba2010.exe: My chance to win: 0%
+29) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\6x8-31(1).psq
+______________________________
+swine2010 x amoeba2010
+ 6) pbrain-swine2010.exe:  6-0       0,59  2/15345
+ 7) pbrain-amoeba2010.exe: My chance to win: 53%
+ 8) pbrain-swine2010.exe:  8-0       1,84  2/25707
+ 9) pbrain-amoeba2010.exe: Your chance to win: 50%
+ 9) pbrain-amoeba2010.exe: My chance to win: 53%
+10) pbrain-swine2010.exe:  8-0       3,88  8/38515
+11) pbrain-amoeba2010.exe: Your chance to win: 50%
+11) pbrain-amoeba2010.exe: My chance to win: 50%
+12) pbrain-swine2010.exe:  8-0      10,71  1/14993
+13) pbrain-amoeba2010.exe: Your chance to win: 55%
+13) pbrain-amoeba2010.exe: My chance to win: 43%
+14) pbrain-swine2010.exe: 10-0      15,75  1/57483
+15) pbrain-amoeba2010.exe: Your chance to win: 58%
+15) pbrain-amoeba2010.exe: My chance to win: 39%
+16) pbrain-swine2010.exe:  9-0      14,92  3/56338
+17) pbrain-amoeba2010.exe: Your chance to win: 70%
+17) pbrain-amoeba2010.exe: My chance to win: 30%
+18) pbrain-swine2010.exe:  6-0        :-] 14/28991
+19) pbrain-amoeba2010.exe: Your chance to win: 75%
+19) pbrain-amoeba2010.exe: My chance to win: 18%
+20) pbrain-swine2010.exe:  1-0       0,00  0/0
+21) pbrain-amoeba2010.exe: Your chance to win: 81%
+21) pbrain-amoeba2010.exe: My chance to win: 22%
+22) pbrain-swine2010.exe:  2-0        :-] 19/762
+23) pbrain-amoeba2010.exe: My chance to win: 41%
+24) pbrain-swine2010.exe:  1-0        :-]  0/0
+33) pbrain-amoeba2010.exe: My chance to win: 0%
+33) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\7x8-35(1).psq
+______________________________
+swine2010 x Kanec
+ 6) pbrain-swine2010.exe:  7-0       2,12 13/31606
+ 8) pbrain-swine2010.exe:  8-0       6,21  2/58503
+10) pbrain-swine2010.exe:  9-0       9,15  7/70903
+12) pbrain-swine2010.exe:  8-0      11,23  3/60582
+14) pbrain-swine2010.exe:  7-0      14,73  4/63042
+16) pbrain-swine2010.exe:  6-0      10,55 16/46742
+18) pbrain-swine2010.exe:  6-0      15,06  6/41109
+20) pbrain-swine2010.exe:  6-0      20,47  7/49509
+22) pbrain-swine2010.exe:  6-0      16,00  9/29838
+24) pbrain-swine2010.exe:  5-0      15,59 16/11440
+26) pbrain-swine2010.exe:  1-0       0,00  0/0
+28) pbrain-swine2010.exe:  5-0      18,27 11/12560
+30) pbrain-swine2010.exe:  5-0      13,09 12/9630
+32) pbrain-swine2010.exe:  1-0       0,00  0/0
+34) pbrain-swine2010.exe:  1-0       0,00  0/0
+36) pbrain-swine2010.exe:  4-0      21,63 14/10602
+38) pbrain-swine2010.exe:  4-0      19,74 31/5438
+40) pbrain-swine2010.exe:  1-0       0,00  0/0
+42) pbrain-swine2010.exe:  3-0      24,74  2/1105
+44) pbrain-swine2010.exe:  4-0      20,33 24/4315
+46) pbrain-swine2010.exe:  4-0      19,24 11/4517
+48) pbrain-swine2010.exe:  3-0      22,31 32/1348
+50) pbrain-swine2010.exe:  3-0      26,70 13/919
+52) pbrain-swine2010.exe:  3-0      26,45 13/870
+54) pbrain-swine2010.exe:  5-0      21,47  3/743
+56) pbrain-swine2010.exe:  1-0       0,00  0/0
+58) pbrain-swine2010.exe:  1-0        :-]  0/0
+60) pbrain-swine2010.exe:  1-0        :-]  0/0
+62) pbrain-swine2010.exe:  1-0        :-]  0/0
+64) pbrain-swine2010.exe:  1-0        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle2\7x6-69(1).psq
+______________________________
+amoeba2010 x swine2010
+ 5) pbrain-swine2010.exe:  7-0      -0,59  1/17972
+ 7) pbrain-swine2010.exe:  9-0      -1,84  1/40418
+ 9) pbrain-swine2010.exe:  8-0      -3,88  2/50255
+10) pbrain-amoeba2010.exe: My chance to win: 60%
+11) pbrain-swine2010.exe:  6-0      -3,88  4/16974
+12) pbrain-amoeba2010.exe: My chance to win: 59%
+13) pbrain-swine2010.exe:  6-0      -6,33  1/19402
+14) pbrain-amoeba2010.exe: Your chance to win: 45%
+14) pbrain-amoeba2010.exe: My chance to win: 47%
+15) pbrain-swine2010.exe:  1-0       0,00  0/0
+16) pbrain-amoeba2010.exe: Your chance to win: 52%
+16) pbrain-amoeba2010.exe: My chance to win: 59%
+17) pbrain-swine2010.exe:  5-0      -1,90  2/16309
+18) pbrain-amoeba2010.exe: Your chance to win: 40%
+18) pbrain-amoeba2010.exe: My chance to win: 59%
+19) pbrain-swine2010.exe:  7-0      -7,42  1/21255
+20) pbrain-amoeba2010.exe: Your chance to win: 40%
+20) pbrain-amoeba2010.exe: My chance to win: 59%
+21) pbrain-swine2010.exe:  8-0     -11,14  3/29779
+22) pbrain-amoeba2010.exe: Your chance to win: 45%
+22) pbrain-amoeba2010.exe: My chance to win: 57%
+23) pbrain-swine2010.exe:  1-0       0,00  0/0
+24) pbrain-amoeba2010.exe: Your chance to win: 42%
+24) pbrain-amoeba2010.exe: My chance to win: 60%
+25) pbrain-swine2010.exe:  7-0      -9,81  1/26778
+26) pbrain-amoeba2010.exe: Your chance to win: 40%
+26) pbrain-amoeba2010.exe: My chance to win: 62%
+27) pbrain-swine2010.exe:  9-0       0,52  2/17050
+28) pbrain-amoeba2010.exe: Your chance to win: 39%
+28) pbrain-amoeba2010.exe: My chance to win: 60%
+29) pbrain-swine2010.exe:  7-0       0,52  2/15155
+30) pbrain-amoeba2010.exe: Your chance to win: 47%
+30) pbrain-amoeba2010.exe: My chance to win: 50%
+31) pbrain-swine2010.exe:  1-0        :-]  0/0
+33) pbrain-swine2010.exe:  1-0        :-]  0/0
+35) pbrain-swine2010.exe:  1-0        :-]  0/0
+36) pbrain-amoeba2010.exe: My chance to win: 10%
+37) pbrain-swine2010.exe:  1-0       0,00  0/0
+38) pbrain-amoeba2010.exe: Your chance to win: 89%
+38) pbrain-amoeba2010.exe: My chance to win: 9%
+39) pbrain-swine2010.exe:  1-0       0,00  0/0
+40) pbrain-amoeba2010.exe: Your chance to win: 90%
+40) pbrain-amoeba2010.exe: My chance to win: 8%
+41) pbrain-swine2010.exe:  1-0        :-]  0/0
+42) pbrain-amoeba2010.exe: Your chance to win: 92%
+42) pbrain-amoeba2010.exe: My chance to win: 1%
+43) pbrain-swine2010.exe:  1-0        :-]  0/0
+44) pbrain-amoeba2010.exe: Your chance to win: 100%
+44) pbrain-amoeba2010.exe: My chance to win: 0%
+44) pbrain-amoeba2010.exe: You win!
+-> F:\projekty\gomocup2010\freestyle2\8x7-46(1).psq
+______________________________
+amoeba2010 x Kanec
+12) pbrain-amoeba2010.exe: My chance to win: 57%
+14) pbrain-amoeba2010.exe: Your chance to win: 44%
+14) pbrain-amoeba2010.exe: My chance to win: 54%
+16) pbrain-amoeba2010.exe: Your chance to win: 48%
+16) pbrain-amoeba2010.exe: My chance to win: 51%
+18) pbrain-amoeba2010.exe: Your chance to win: 50%
+18) pbrain-amoeba2010.exe: My chance to win: 55%
+20) pbrain-amoeba2010.exe: Your chance to win: 45%
+20) pbrain-amoeba2010.exe: My chance to win: 47%
+22) pbrain-amoeba2010.exe: My chance to win: 54%
+24) pbrain-amoeba2010.exe: Your chance to win: 49%
+24) pbrain-amoeba2010.exe: My chance to win: 50%
+26) pbrain-amoeba2010.exe: Your chance to win: 45%
+26) pbrain-amoeba2010.exe: My chance to win: 57%
+28) pbrain-amoeba2010.exe: Your chance to win: 28%
+28) pbrain-amoeba2010.exe: My chance to win: 71%
+38) pbrain-amoeba2010.exe: My chance to win: 78%
+40) pbrain-amoeba2010.exe: Your chance to win: 22%
+40) pbrain-amoeba2010.exe: My chance to win: 82%
+42) pbrain-amoeba2010.exe: Your chance to win: 19%
+42) pbrain-amoeba2010.exe: My chance to win: 83%
+44) pbrain-amoeba2010.exe: Your chance to win: 16%
+44) pbrain-amoeba2010.exe: My chance to win: 81%
+46) pbrain-amoeba2010.exe: Your chance to win: 16%
+46) pbrain-amoeba2010.exe: My chance to win: 91%
+48) pbrain-amoeba2010.exe: Your chance to win: 8%
+48) pbrain-amoeba2010.exe: My chance to win: 97%
+50) pbrain-amoeba2010.exe: Your chance to win: 5%
+50) pbrain-amoeba2010.exe: My chance to win: 94%
+52) pbrain-amoeba2010.exe: Your chance to win: 5%
+52) pbrain-amoeba2010.exe: My chance to win: 98%
+54) pbrain-amoeba2010.exe: Your chance to win: 1%
+54) pbrain-amoeba2010.exe: My chance to win: 100%
+56) pbrain-amoeba2010.exe: Your chance to win: 0%
+56) pbrain-amoeba2010.exe: I win!
+-> F:\projekty\gomocup2010\freestyle2\8x6-57(1).psq

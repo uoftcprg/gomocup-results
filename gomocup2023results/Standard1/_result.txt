@@ -1,0 +1,60 @@
+1. ALPHAGOMOKU.MK23 2002
+    wins: 103+101, losses: 16+14, draws: 13+17
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 701s, time/turn: 17804ms, move/game: 39
+
+2. KATAGOMO21.S 1990
+    wins: 99+100, losses: 16+15, draws: 17+17
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 670s, time/turn: 17066ms, move/game: 39
+
+3. PENTAZENNN22 1927
+    wins: 94+93, losses: 24+25, draws: 14+14
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 592s, time/turn: 15969ms, move/game: 37
+
+4. EMBRYO23 1839
+    wins: 90+89, losses: 32+39, draws: 10+4
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 465s, time/turn: 13325ms, move/game: 35
+
+5. YIXIN18 1680
+    wins: 70+75, losses: 59+51, draws: 3+6
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 436s, time/turn: 14488ms, move/game: 30
+
+6. XOXO21.S 1357
+    wins: 41+42, losses: 88+87, draws: 3+3
+    timeouts: 0, errors: 3, total games: 264
+    time/game: 448s, time/turn: 17097ms, move/game: 26
+
+7. SLOWRENJU20 1327
+    wins: 33+42, losses: 94+87, draws: 5+3
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 556s, time/turn: 21090ms, move/game: 26
+
+8. WHOSE19 1309
+    wins: 29+40, losses: 96+87, draws: 7+5
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 447s, time/turn: 15921ms, move/game: 28
+
+9. HEWER18 1288
+    wins: 32+34, losses: 96+93, draws: 4+5
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 367s, time/turn: 13192ms, move/game: 28
+
+10. TITO14 1281
+    wins: 29+37, losses: 101+91, draws: 2+4
+    timeouts: 0, errors: 0, total games: 264
+    time/game: 170s, time/turn: 6246ms, move/game: 27
+
+11. RAPFI23 -
+    wins: 116+117, losses: 16+15, draws: 0+0
+    timeouts: 0, errors: 27, total games: 264
+    time/game: 480s, time/turn: 14998ms, move/game: 32
+
+12. RENJUSOLVER.S -
+    wins: 0+0, losses: 132+132, draws: 0+0
+    timeouts: 0, errors: 264, total games: 264
+    time/game: 0s, time/turn: -, move/game: 0
+

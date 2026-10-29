@@ -1,0 +1,20 @@
+1. ALPHAGOMOKU.MK23 2007
+    wins: 32+32, losses: 1+3, draws: 3+1
+    timeouts: 0, errors: 0, total games: 72
+    time/game: 574s, time/turn: 22564ms, move/game: 25
+
+2. EMBRYO23 1863
+    wins: 26+25, losses: 8+8, draws: 2+3
+    timeouts: 0, errors: 0, total games: 72
+    time/game: 430s, time/turn: 15908ms, move/game: 27
+
+3. LAVENDER 1453
+    wins: 12+11, losses: 24+24, draws: 0+1
+    timeouts: 0, errors: 0, total games: 72
+    time/game: 676s, time/turn: 41998ms, move/game: 16
+
+4. PELA23 1077
+    wins: 1+0, losses: 35+36, draws: 0+0
+    timeouts: 0, errors: 0, total games: 72
+    time/game: 559s, time/turn: 35022ms, move/game: 16
+

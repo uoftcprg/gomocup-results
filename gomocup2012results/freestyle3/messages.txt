@@ -1,0 +1,812 @@
+______________________________
+Puskvorec x pisq7
+-> f:\projekty\gomocup2012\freestyle3\0x1-25(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\0x2-26(1).psq
+______________________________
+pisq7 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\1x0-26(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\2x0-22(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\0x6-47(1).psq
+______________________________
+Puskvorec x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\0x3-28(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\6x0-28(1).psq
+______________________________
+Puskvorec x jude
+-> f:\projekty\gomocup2012\freestyle3\0x7-20(1).psq
+______________________________
+jude x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\7x0-31(1).psq
+______________________________
+Puskvorec x fiverow
+-> f:\projekty\gomocup2012\freestyle3\0x8-26(1).psq
+______________________________
+nabamoku x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\3x0-24(1).psq
+______________________________
+Puskvorec x Noesis
+-> f:\projekty\gomocup2012\freestyle3\0x9-18(1).psq
+______________________________
+fiverow x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\8x0-51(1).psq
+______________________________
+Noesis x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\9x0-23(1).psq
+______________________________
+Puskvorec x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\0x4-118(1).psq
+______________________________
+pisq7 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\1x2-79(1).psq
+______________________________
+Puskvorec x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\0x5-53(1).psq
+______________________________
+LEONARDO x pisq7
+-> f:\projekty\gomocup2012\freestyle3\2x1-21(1).psq
+______________________________
+pisq7 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\1x4-26(1).psq
+______________________________
+TRUNKAT x pisq7
+-> f:\projekty\gomocup2012\freestyle3\4x1-21(1).psq
+______________________________
+pisq7 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\1x3-26(1).psq
+______________________________
+TRUNKAT x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\4x0-33(1).psq
+______________________________
+pisq7 x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\1x6-20(1).psq
+______________________________
+QMENTAT6 x pisq7
+-> f:\projekty\gomocup2012\freestyle3\6x1-23(1).psq
+______________________________
+pisq7 x jude
+-> f:\projekty\gomocup2012\freestyle3\1x7-20(1).psq
+______________________________
+pisq7 x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\1x5-25(1).psq
+______________________________
+PureGM12 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\5x0-31(1).psq
+______________________________
+PureGM12 x pisq7
+-> f:\projekty\gomocup2012\freestyle3\5x1-23(1).psq
+______________________________
+pisq7 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\1x8-36(1).psq
+______________________________
+pisq7 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\1x9-24(1).psq
+______________________________
+fiverow x pisq7
+-> f:\projekty\gomocup2012\freestyle3\8x1-29(1).psq
+______________________________
+Noesis x pisq7
+-> f:\projekty\gomocup2012\freestyle3\9x1-21(1).psq
+______________________________
+nabamoku x pisq7
+-> f:\projekty\gomocup2012\freestyle3\3x1-53(1).psq
+______________________________
+LEONARDO x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\2x4-34(1).psq
+______________________________
+TRUNKAT x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\4x2-45(1).psq
+______________________________
+LEONARDO x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\2x6-42(1).psq
+______________________________
+QMENTAT6 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\6x2-43(1).psq
+______________________________
+jude x pisq7
+-> f:\projekty\gomocup2012\freestyle3\7x1-43(1).psq
+______________________________
+LEONARDO x fiverow
+-> f:\projekty\gomocup2012\freestyle3\2x8-22(1).psq
+______________________________
+fiverow x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\8x2-33(1).psq
+______________________________
+LEONARDO x jude
+-> f:\projekty\gomocup2012\freestyle3\2x7-24(1).psq
+______________________________
+LEONARDO x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\2x3-52(1).psq
+______________________________
+LEONARDO x Noesis
+-> f:\projekty\gomocup2012\freestyle3\2x9-22(1).psq
+______________________________
+jude x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\7x2-32(1).psq
+______________________________
+Noesis x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\9x2-23(1).psq
+______________________________
+LEONARDO x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\2x5-72(1).psq
+______________________________
+nabamoku x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\3x5-29(1).psq
+______________________________
+nabamoku x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\3x4-40(1).psq
+______________________________
+PureGM12 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\5x2-31(1).psq
+______________________________
+nabamoku x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\3x2-99(1).psq
+______________________________
+TRUNKAT x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\4x3-34(1).psq
+______________________________
+nabamoku x fiverow
+-> f:\projekty\gomocup2012\freestyle3\3x8-43(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\3x6-78(1).psq
+______________________________
+nabamoku x jude
+-> f:\projekty\gomocup2012\freestyle3\3x7-58(1).psq
+______________________________
+PureGM12 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\5x3-57(1).psq
+______________________________
+fiverow x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\8x3-44(1).psq
+______________________________
+nabamoku x Noesis
+-> f:\projekty\gomocup2012\freestyle3\3x9-26(1).psq
+______________________________
+TRUNKAT x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\4x5-22(1).psq
+______________________________
+PureGM12 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\5x4-26(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\6x3-133(1).psq
+______________________________
+TRUNKAT x jude
+-> f:\projekty\gomocup2012\freestyle3\4x7-22(1).psq
+______________________________
+jude x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\7x3-43(1).psq
+______________________________
+Noesis x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\9x3-31(1).psq
+______________________________
+TRUNKAT x fiverow
+-> f:\projekty\gomocup2012\freestyle3\4x8-31(1).psq
+______________________________
+TRUNKAT x Noesis
+-> f:\projekty\gomocup2012\freestyle3\4x9-20(1).psq
+______________________________
+Noesis x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\9x4-25(1).psq
+______________________________
+TRUNKAT x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\4x6-88(1).psq
+______________________________
+fiverow x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\8x4-39(1).psq
+______________________________
+QMENTAT6 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\6x4-42(1).psq
+______________________________
+PureGM12 x jude
+-> f:\projekty\gomocup2012\freestyle3\5x7-22(1).psq
+______________________________
+jude x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\7x4-50(1).psq
+______________________________
+PureGM12 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\5x8-32(1).psq
+______________________________
+PureGM12 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\5x9-18(1).psq
+______________________________
+PureGM12 x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\5x6-66(1).psq
+______________________________
+jude x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\7x5-42(1).psq
+______________________________
+fiverow x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\8x5-70(1).psq
+______________________________
+Noesis x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\9x5-25(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\6x9-20(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\6x8-54(1).psq
+______________________________
+fiverow x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\8x6-27(1).psq
+______________________________
+QMENTAT6 x jude
+-> f:\projekty\gomocup2012\freestyle3\6x7-35(1).psq
+______________________________
+Noesis x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\9x6-30(1).psq
+______________________________
+jude x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\7x6-23(1).psq
+______________________________
+QMENTAT6 x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\6x5-40(1).psq
+______________________________
+pisq7 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\1x0-25(1).psq
+______________________________
+Puskvorec x pisq7
+-> f:\projekty\gomocup2012\freestyle3\0x1-19(1).psq
+______________________________
+jude x Noesis
+-> f:\projekty\gomocup2012\freestyle3\7x9-24(1).psq
+______________________________
+fiverow x Noesis
+-> f:\projekty\gomocup2012\freestyle3\8x9-22(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\2x0-29(1).psq
+______________________________
+Noesis x jude
+-> f:\projekty\gomocup2012\freestyle3\9x7-28(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\0x2-27(1).psq
+______________________________
+TRUNKAT x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\4x0-19(1).psq
+______________________________
+Noesis x fiverow
+-> f:\projekty\gomocup2012\freestyle3\9x8-28(1).psq
+______________________________
+Puskvorec x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\0x4-19(1).psq
+______________________________
+jude x fiverow
+pbrain-fiverow.exe: Timeout
+-> f:\projekty\gomocup2012\freestyle3\7x8-25(1).psq
+______________________________
+fiverow x jude
+-> f:\projekty\gomocup2012\freestyle3\8x7-24(1).psq
+______________________________
+jude x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\7x0-27(1).psq
+______________________________
+Puskvorec x jude
+-> f:\projekty\gomocup2012\freestyle3\0x7-24(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\6x0-49(1).psq
+______________________________
+fiverow x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\8x0-45(1).psq
+______________________________
+nabamoku x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\3x0-45(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\0x6-38(1).psq
+______________________________
+PureGM12 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\5x0-29(1).psq
+______________________________
+Noesis x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\9x0-21(1).psq
+______________________________
+Puskvorec x fiverow
+-> f:\projekty\gomocup2012\freestyle3\0x8-49(1).psq
+______________________________
+Puskvorec x Noesis
+-> f:\projekty\gomocup2012\freestyle3\0x9-24(1).psq
+______________________________
+LEONARDO x pisq7
+-> f:\projekty\gomocup2012\freestyle3\2x1-95(1).psq
+______________________________
+pisq7 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\1x2-29(1).psq
+______________________________
+Puskvorec x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\0x3-33(1).psq
+______________________________
+TRUNKAT x pisq7
+-> f:\projekty\gomocup2012\freestyle3\4x1-19(1).psq
+______________________________
+Puskvorec x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\0x5-24(1).psq
+______________________________
+pisq7 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\1x4-35(1).psq
+______________________________
+nabamoku x pisq7
+-> f:\projekty\gomocup2012\freestyle3\3x1-21(1).psq
+______________________________
+jude x pisq7
+-> f:\projekty\gomocup2012\freestyle3\7x1-21(1).psq
+______________________________
+QMENTAT6 x pisq7
+-> f:\projekty\gomocup2012\freestyle3\6x1-25(1).psq
+______________________________
+PureGM12 x pisq7
+-> f:\projekty\gomocup2012\freestyle3\5x1-23(2).psq
+______________________________
+pisq7 x jude
+-> f:\projekty\gomocup2012\freestyle3\1x7-42(1).psq
+______________________________
+pisq7 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\1x3-53(1).psq
+______________________________
+Noesis x pisq7
+-> f:\projekty\gomocup2012\freestyle3\9x1-21(2).psq
+______________________________
+fiverow x pisq7
+-> f:\projekty\gomocup2012\freestyle3\8x1-41(1).psq
+______________________________
+pisq7 x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\1x6-117(1).psq
+______________________________
+pisq7 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\1x8-64(1).psq
+______________________________
+pisq7 x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\1x5-48(1).psq
+______________________________
+pisq7 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\1x9-53(1).psq
+______________________________
+TRUNKAT x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\4x2-29(1).psq
+______________________________
+LEONARDO x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\2x4-44(1).psq
+______________________________
+QMENTAT6 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\6x2-45(1).psq
+______________________________
+PureGM12 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\5x2-23(1).psq
+______________________________
+LEONARDO x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\2x6-40(1).psq
+______________________________
+fiverow x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\8x2-65(1).psq
+______________________________
+jude x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\7x2-29(1).psq
+______________________________
+LEONARDO x fiverow
+-> f:\projekty\gomocup2012\freestyle3\2x8-58(1).psq
+______________________________
+nabamoku x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\3x2-51(1).psq
+______________________________
+Noesis x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\9x2-40(1).psq
+______________________________
+LEONARDO x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\2x5-41(1).psq
+______________________________
+LEONARDO x Noesis
+-> f:\projekty\gomocup2012\freestyle3\2x9-22(2).psq
+______________________________
+TRUNKAT x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\4x3-20(1).psq
+______________________________
+LEONARDO x jude
+-> f:\projekty\gomocup2012\freestyle3\2x7-70(1).psq
+______________________________
+nabamoku x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\3x4-35(1).psq
+______________________________
+LEONARDO x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\2x3-113(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\6x3-38(1).psq
+______________________________
+jude x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\7x3-35(1).psq
+______________________________
+fiverow x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\8x3-37(1).psq
+______________________________
+PureGM12 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\5x3-93(1).psq
+______________________________
+nabamoku x fiverow
+-> f:\projekty\gomocup2012\freestyle3\3x8-47(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\3x6-86(1).psq
+______________________________
+Noesis x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\9x3-31(2).psq
+______________________________
+nabamoku x jude
+-> f:\projekty\gomocup2012\freestyle3\3x7-84(1).psq
+______________________________
+PureGM12 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\5x4-34(1).psq
+______________________________
+QMENTAT6 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\6x4-37(1).psq
+______________________________
+nabamoku x Noesis
+-> f:\projekty\gomocup2012\freestyle3\3x9-30(1).psq
+______________________________
+TRUNKAT x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\4x5-40(1).psq
+______________________________
+fiverow x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\8x4-29(1).psq
+______________________________
+TRUNKAT x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\4x6-62(1).psq
+______________________________
+Noesis x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\9x4-19(1).psq
+______________________________
+jude x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\7x4-25(1).psq
+______________________________
+TRUNKAT x Noesis
+-> f:\projekty\gomocup2012\freestyle3\4x9-25(1).psq
+______________________________
+TRUNKAT x fiverow
+-> f:\projekty\gomocup2012\freestyle3\4x8-51(1).psq
+______________________________
+TRUNKAT x jude
+-> f:\projekty\gomocup2012\freestyle3\4x7-32(1).psq
+______________________________
+jude x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\7x5-35(1).psq
+______________________________
+nabamoku x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\3x5-93(1).psq
+______________________________
+QMENTAT6 x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\6x5-57(1).psq
+______________________________
+fiverow x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\8x5-64(1).psq
+______________________________
+Noesis x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\9x5-31(1).psq
+______________________________
+PureGM12 x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\5x6-40(1).psq
+______________________________
+PureGM12 x jude
+-> f:\projekty\gomocup2012\freestyle3\5x7-47(1).psq
+______________________________
+PureGM12 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\5x9-18(2).psq
+______________________________
+PureGM12 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\5x8-60(1).psq
+______________________________
+fiverow x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\8x6-56(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\6x8-51(1).psq
+______________________________
+jude x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\7x6-43(1).psq
+______________________________
+Noesis x jude
+-> f:\projekty\gomocup2012\freestyle3\9x7-29(1).psq
+______________________________
+QMENTAT6 x jude
+-> f:\projekty\gomocup2012\freestyle3\6x7-28(1).psq
+______________________________
+Noesis x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\9x6-78(1).psq
+______________________________
+jude x Noesis
+-> f:\projekty\gomocup2012\freestyle3\7x9-31(1).psq
+______________________________
+Puskvorec x pisq7
+-> f:\projekty\gomocup2012\freestyle3\0x1-17(1).psq
+______________________________
+pisq7 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\1x0-22(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\0x2-23(1).psq
+______________________________
+Noesis x fiverow
+-> f:\projekty\gomocup2012\freestyle3\9x8-46(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\2x0-26(1).psq
+______________________________
+fiverow x Noesis
+-> f:\projekty\gomocup2012\freestyle3\8x9-57(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\6x9-49(1).psq
+______________________________
+Puskvorec x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\0x4-16(1).psq
+______________________________
+TRUNKAT x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\4x0-26(1).psq
+______________________________
+fiverow x jude
+-> f:\projekty\gomocup2012\freestyle3\8x7-59(1).psq
+______________________________
+Puskvorec x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\0x3-40(1).psq
+______________________________
+Puskvorec x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\0x5-22(1).psq
+______________________________
+Puskvorec x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\0x6-71(1).psq
+______________________________
+QMENTAT6 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\6x0-23(1).psq
+______________________________
+Puskvorec x jude
+-> f:\projekty\gomocup2012\freestyle3\0x7-26(1).psq
+______________________________
+jude x fiverow
+-> f:\projekty\gomocup2012\freestyle3\7x8-34(1).psq
+______________________________
+Puskvorec x fiverow
+-> f:\projekty\gomocup2012\freestyle3\0x8-18(1).psq
+______________________________
+fiverow x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\8x0-14(1).psq
+______________________________
+Puskvorec x Noesis
+-> f:\projekty\gomocup2012\freestyle3\0x9-20(1).psq
+______________________________
+PureGM12 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\5x0-34(1).psq
+______________________________
+jude x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\7x0-31(2).psq
+______________________________
+nabamoku x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\3x0-32(1).psq
+______________________________
+pisq7 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\1x4-18(1).psq
+______________________________
+pisq7 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\1x2-59(1).psq
+______________________________
+LEONARDO x pisq7
+-> f:\projekty\gomocup2012\freestyle3\2x1-25(1).psq
+______________________________
+TRUNKAT x pisq7
+-> f:\projekty\gomocup2012\freestyle3\4x1-17(1).psq
+______________________________
+Noesis x Puskvorec
+-> f:\projekty\gomocup2012\freestyle3\9x0-29(1).psq
+______________________________
+pisq7 x jude
+-> f:\projekty\gomocup2012\freestyle3\1x7-45(1).psq
+______________________________
+pisq7 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\1x3-31(1).psq
+______________________________
+nabamoku x pisq7
+-> f:\projekty\gomocup2012\freestyle3\3x1-22(1).psq
+______________________________
+pisq7 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\1x8-13(1).psq
+______________________________
+fiverow x pisq7
+-> f:\projekty\gomocup2012\freestyle3\8x1-12(1).psq
+______________________________
+pisq7 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\1x9-18(1).psq
+______________________________
+Noesis x pisq7
+-> f:\projekty\gomocup2012\freestyle3\9x1-17(1).psq
+______________________________
+pisq7 x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\1x5-67(1).psq
+______________________________
+pisq7 x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\1x6-227(1).psq
+______________________________
+QMENTAT6 x pisq7
+-> f:\projekty\gomocup2012\freestyle3\6x1-21(1).psq
+______________________________
+LEONARDO x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\2x4-22(1).psq
+______________________________
+jude x pisq7
+-> f:\projekty\gomocup2012\freestyle3\7x1-90(1).psq
+______________________________
+TRUNKAT x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\4x2-19(1).psq
+______________________________
+LEONARDO x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\2x6-30(1).psq
+______________________________
+LEONARDO x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\2x5-31(1).psq
+______________________________
+QMENTAT6 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\6x2-147(1).psq
+______________________________
+LEONARDO x jude
+-> f:\projekty\gomocup2012\freestyle3\2x7-30(1).psq
+______________________________
+LEONARDO x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\2x3-104(1).psq
+______________________________
+PureGM12 x pisq7
+-> f:\projekty\gomocup2012\freestyle3\5x1-41(1).psq
+______________________________
+PureGM12 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\5x2-25(1).psq
+______________________________
+LEONARDO x fiverow
+-> f:\projekty\gomocup2012\freestyle3\2x8-15(1).psq
+______________________________
+fiverow x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\8x2-14(1).psq
+______________________________
+LEONARDO x Noesis
+-> f:\projekty\gomocup2012\freestyle3\2x9-28(1).psq
+______________________________
+nabamoku x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\3x2-21(1).psq
+______________________________
+jude x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\7x2-83(1).psq
+______________________________
+nabamoku x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\3x4-26(1).psq
+______________________________
+Noesis x LEONARDO
+-> f:\projekty\gomocup2012\freestyle3\9x2-77(1).psq
+______________________________
+TRUNKAT x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\4x3-17(1).psq
+______________________________
+nabamoku x jude
+-> f:\projekty\gomocup2012\freestyle3\3x7-26(1).psq
+______________________________
+nabamoku x fiverow
+-> f:\projekty\gomocup2012\freestyle3\3x8-17(1).psq
+______________________________
+fiverow x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\8x3-12(1).psq
+______________________________
+jude x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\7x3-19(1).psq
+______________________________
+nabamoku x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\3x5-72(1).psq
+______________________________
+TRUNKAT x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\4x5-25(1).psq
+______________________________
+nabamoku x Noesis
+-> f:\projekty\gomocup2012\freestyle3\3x9-18(1).psq
+______________________________
+nabamoku x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\3x6-116(1).psq
+______________________________
+PureGM12 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\5x4-26(2).psq
+______________________________
+TRUNKAT x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\4x6-43(1).psq
+______________________________
+QMENTAT6 x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\6x4-26(1).psq
+______________________________
+QMENTAT6 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\6x3-39(1).psq
+______________________________
+TRUNKAT x jude
+-> f:\projekty\gomocup2012\freestyle3\4x7-25(1).psq
+______________________________
+TRUNKAT x fiverow
+-> f:\projekty\gomocup2012\freestyle3\4x8-29(1).psq
+______________________________
+fiverow x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\8x4-20(1).psq
+______________________________
+jude x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\7x4-41(1).psq
+______________________________
+TRUNKAT x Noesis
+-> f:\projekty\gomocup2012\freestyle3\4x9-28(1).psq
+______________________________
+Noesis x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\9x3-110(1).psq
+______________________________
+Noesis x TRUNKAT
+-> f:\projekty\gomocup2012\freestyle3\9x4-23(1).psq
+______________________________
+PureGM12 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\5x8-41(1).psq
+______________________________
+fiverow x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\8x5-12(1).psq
+______________________________
+PureGM12 x nabamoku
+-> f:\projekty\gomocup2012\freestyle3\5x3-112(1).psq
+______________________________
+QMENTAT6 x jude
+-> f:\projekty\gomocup2012\freestyle3\6x7-35(2).psq
+______________________________
+PureGM12 x jude
+-> f:\projekty\gomocup2012\freestyle3\5x7-34(1).psq
+______________________________
+jude x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\7x6-39(1).psq
+______________________________
+QMENTAT6 x fiverow
+-> f:\projekty\gomocup2012\freestyle3\6x8-15(1).psq
+______________________________
+fiverow x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\8x6-12(1).psq
+______________________________
+jude x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\7x5-23(1).psq
+______________________________
+QMENTAT6 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\6x9-20(2).psq
+______________________________
+PureGM12 x Noesis
+-> f:\projekty\gomocup2012\freestyle3\5x9-39(1).psq
+______________________________
+PureGM12 x QMENTAT6
+pbrain-PureGM12.exe: Timeout
+-> f:\projekty\gomocup2012\freestyle3\5x6-92(1).psq
+______________________________
+jude x fiverow
+-> f:\projekty\gomocup2012\freestyle3\7x8-25(2).psq
+______________________________
+fiverow x jude
+-> f:\projekty\gomocup2012\freestyle3\8x7-14(1).psq
+______________________________
+Noesis x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\9x5-31(2).psq
+______________________________
+Noesis x QMENTAT6
+-> f:\projekty\gomocup2012\freestyle3\9x6-92(1).psq
+______________________________
+fiverow x Noesis
+-> f:\projekty\gomocup2012\freestyle3\8x9-20(1).psq
+______________________________
+Noesis x fiverow
+-> f:\projekty\gomocup2012\freestyle3\9x8-13(1).psq
+______________________________
+jude x Noesis
+-> f:\projekty\gomocup2012\freestyle3\7x9-32(1).psq
+______________________________
+QMENTAT6 x PureGM12
+-> f:\projekty\gomocup2012\freestyle3\6x5-61(1).psq
+______________________________
+Noesis x jude
+-> f:\projekty\gomocup2012\freestyle3\9x7-46(1).psq

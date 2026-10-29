@@ -1,0 +1,33 @@
+-------------------------------------
+6.4.2011  2:46 - 23:02
+Time for turn: 300 s,   Time for match: 1000 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 60
+-------------------------------------
+
+Tito2010
+wins: 19=11+8,   losses: 5=0+3+2,  2 errors
+time/turn: 12 s (max: 183.4 s),  time/game: 368 s
+moves/game: 29,  CRC: 8b105cab,   memory: 129.69 MB
+
+hewer2010
+wins: 14=8+6,   losses: 9=4+5
+time/turn: 10 s (max: 94.5 s),  time/game: 299 s
+moves/game: 29,  CRC: 866b172e,   memory: 339.25 MB
+
+gmotor2011
+wins: 9=7+2,   losses: 15=4+10+1
+time/turn: 13 s (max: 35.1 s),  time/game: 389 s
+moves/game: 29,  CRC: 56498af1,   memory: 43.61 MB
+
+pela
+wins: 8=3+2+3,   losses: 14=6+8
+time/turn: 17 s (max: 134.8 s),  time/game: 786 s
+moves/game: 45,  CRC: dd888743,   memory: 1.85 MB
+
+YiXin2011
+wins: 8=6+2,   losses: 15=6+9
+time/turn: 18 s (max: 99.8 s),  time/game: 677 s
+moves/game: 36,  CRC: 3911fdbd,   memory: 43.32 MB
+

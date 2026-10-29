@@ -1,0 +1,58 @@
+-------------------------------------
+4.4.2011  1:04 - 4:24
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 270
+-------------------------------------
+
+YiXin2011
+wins: 54=27+27,   losses: 0=0+0
+time/turn: 3744 ms (max: 24.1 s),  time/game: 58 s
+moves/game: 15,  CRC: 3911fdbd,   memory: 44.46 MB
+
+PureGM_2011
+wins: 40=19+21,   losses: 14=8+6
+time/turn: 4384 ms (max: 18.6 s),  time/game: 107 s
+moves/game: 24,  CRC: a27205fd,   memory: 2.85 MB
+
+Puskvorec
+wins: 35=16+19,   losses: 19=11+8
+time/turn: 753 ms (max: 5.7 s),  time/game: 14 s
+moves/game: 19,  CRC: b89a06e8,   memory: 3.44 MB
+
+Benjamin
+wins: 33=13+9+11,   losses: 21=8+10+3,  3 errors
+time/turn: 386 ms (max: 5.3 s),  time/game: 26 s
+moves/game: 68,  CRC: 1c74aee4,   memory: 2.05 MB
+
+pisq7
+wins: 29=16+12+1,   losses: 25=11+14
+time/turn: 491 ms (max: 4.4 s),  time/game: 12 s
+moves/game: 26,  CRC: da9c561,   memory: 1.82 MB
+
+LEONARDO
+wins: 24=11+11+2,   losses: 30=12+14+4
+time/turn: 1181 ms (max: 7.7 s),  time/game: 46 s
+moves/game: 39,  CRC: 96a303fe,   memory: 2.44 MB
+
+AI1000
+wins: 26=15+9+2,   losses: 28=10+13+5
+time/turn: 1142 ms (max: 9.7 s),  time/game: 50 s
+moves/game: 44,  CRC: 90fb8ea7,   memory: 2.44 MB
+
+brain-Crusher2010
+wins: 13=6+5+2,   losses: 41=17+21+3,  1 errors
+time/turn: 480 ms (max: 8.1 s),  time/game: 17 s
+moves/game: 36,  CRC: ecd8392,   memory: 3.57 MB
+
+CURNPIS
+wins: 14=6+6+2,   losses: 40=17+18+5
+time/turn: 1205 ms (max: 12.2 s),  time/game: 54 s
+moves/game: 44,  CRC: f2623dd9,   memory: 2.44 MB
+
+mushroom
+wins: 2=1+1,   losses: 52=26+26
+time/turn: 413 ms (max: 2.2 s),  time/game: 3 s
+moves/game: 8,  CRC: 2c542fb8,   memory: 50.33 MB
+

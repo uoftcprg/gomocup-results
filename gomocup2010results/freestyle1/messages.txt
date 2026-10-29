@@ -1,0 +1,3328 @@
+______________________________
+HfM2010 x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\0x1-40(1).psq
+______________________________
+HGarden07 x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\1x0-55(1).psq
+______________________________
+HfM2010 x Kanec
+pbrain-Kanec.exe has not returned coordinates x,y
+Exception EAccessViolation in module pbrain-Kanec.exe at 0001BFAC.
+-> F:\projekty\gomocup2010\freestyle1\0x2-47(1).psq
+______________________________
+Kanec x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\2x0-39(1).psq
+______________________________
+HfM2010 x OniX2010
+29) pbrain-OniX2010.exe: Hibakód: 1 L9 ;G13;H12;F10;G10;H9 ;J11;K7 ;  1 18,03
+35) pbrain-OniX2010.exe: Hibakód: 1 M7 ;F10;G10;G13;H12;H9 ;J11;I7 ;  1 14,21
+37) pbrain-OniX2010.exe: :(
+-> F:\projekty\gomocup2010\freestyle1\0x3-45(1).psq
+______________________________
+OniX2010 x HfM2010
+26) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x0-61(1).psq
+______________________________
+HfM2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 12 node= 460562 speed= 17858n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 3337675 speed= 228778n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 1305975 speed= 254141n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 867712 speed= 260090n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 3851911 speed= 328544n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 4282915 speed= 294498n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 2592412 speed= 281775n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 2055351 speed= 268319n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 4003481 speed= 262384n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 3138716 speed= 231772n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 7307739 speed= 292242n/s
+29) pbrain-Tito2010.exe: AB depth= 14 node= 5462116 speed= 332117n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 3313332 speed= 314471n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 3718888 speed= 288314n/s
+35) pbrain-Tito2010.exe: 13...
+37) pbrain-Tito2010.exe: 12...
+39) pbrain-Tito2010.exe: 10...
+43) pbrain-Tito2010.exe: 8...
+51) pbrain-Tito2010.exe: 4...
+53) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\0x6-60(1).psq
+______________________________
+HfM2010 x swine2010
+ 5) pbrain-swine2010.exe: 10-2      -9,93  1/543654
+ 7) pbrain-swine2010.exe:  9-2      -9,32 10/900000
+ 9) pbrain-swine2010.exe:  1-2       0,00  0/0
+11) pbrain-swine2010.exe:  8-2     -12,82  1/85677
+13) pbrain-swine2010.exe: 10-2     -13,51  3/115814
+15) pbrain-swine2010.exe: 10-2     -14,46  2/204489
+17) pbrain-swine2010.exe:  8-2     -13,22  2/174973
+19) pbrain-swine2010.exe:  2-2     -17,43  2/36
+21) pbrain-swine2010.exe:  1-2       0,00  0/0
+23) pbrain-swine2010.exe:  6-2      -8,38  1/11066
+25) pbrain-swine2010.exe:  1-2       0,00  0/0
+27) pbrain-swine2010.exe:  7-2      -0,84  1/41987
+29) pbrain-swine2010.exe:  9-2       2,38  1/47386
+31) pbrain-swine2010.exe:  1-2       0,00  0/0
+33) pbrain-swine2010.exe:  2-2       1,97  3/43
+35) pbrain-swine2010.exe:  1-2       0,00  0/0
+37) pbrain-swine2010.exe:  2-2       7,85  2/43
+39) pbrain-swine2010.exe:  1-2       0,00  0/0
+41) pbrain-swine2010.exe:  1-2       0,00  0/0
+43) pbrain-swine2010.exe:  2-2    -992,94  4/5
+45) pbrain-swine2010.exe:  3-2        :-[  1/6
+47) pbrain-swine2010.exe:  2-2        :-[  2/6
+49) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\0x5-51(1).psq
+______________________________
+HfM2010 x pela
+47) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\0x4-58(1).psq
+______________________________
+swine2010 x HfM2010
+ 4) pbrain-swine2010.exe:  8-2       8,01  2/292894
+ 6) pbrain-swine2010.exe:  9-2       9,95  6/342001
+ 8) pbrain-swine2010.exe: 10-2        :-] 10/391656
+10) pbrain-swine2010.exe: 10-2        :-]  9/900000
+12) pbrain-swine2010.exe:  2-2        :-]  3/50
+14) pbrain-swine2010.exe:  1-2        :-]  0/0
+16) pbrain-swine2010.exe:  1-2        :-]  0/0
+18) pbrain-swine2010.exe:  1-2       0,00  0/0
+20) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x0-23(1).psq
+______________________________
+Tito2010 x HfM2010
+ 4) pbrain-Tito2010.exe: AB depth= 14 node= 9776789 speed= 224472n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 5274059 speed= 223794n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 4644993 speed= 265113n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 2971820 speed= 233967n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1242214 speed= 219869n/s
+14) pbrain-Tito2010.exe: 9...
+16) pbrain-Tito2010.exe: 8...
+20) pbrain-Tito2010.exe: 6...
+22) pbrain-Tito2010.exe: 5...
+26) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x0-33(1).psq
+______________________________
+HfM2010 x goro2010
+-> F:\projekty\gomocup2010\freestyle1\0x7-50(1).psq
+______________________________
+HfM2010 x hewer2010
+43) pbrain-hewer2010.exe: AB :-)
+51) pbrain-hewer2010.exe: AB :-)
+53) pbrain-hewer2010.exe: AB :-)
+55) pbrain-hewer2010.exe: :-))
+57) pbrain-hewer2010.exe: :-))
+59) pbrain-hewer2010.exe:    .-. 
+59) pbrain-hewer2010.exe:   o   \     .-. 
+59) pbrain-hewer2010.exe:       .----.'     \ 
+59) pbrain-hewer2010.exe:     .'o)   / `.    o 
+59) pbrain-hewer2010.exe:   /              | 
+59) pbrain-hewer2010.exe:   \_)          /
+59) pbrain-hewer2010.exe:     '__/   /   
+59) pbrain-hewer2010.exe:      `.      |  
+59) pbrain-hewer2010.exe:       |       \  
+59) pbrain-hewer2010.exe:   .--/`-.     / / 
+59) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\0x8-60(1).psq
+______________________________
+goro2010 x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\7x0-41(1).psq
+______________________________
+hewer2010 x HfM2010
+14) pbrain-hewer2010.exe: AB :-)
+16) pbrain-hewer2010.exe: AB :-)
+18) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: :-))
+28) pbrain-hewer2010.exe: :-))
+30) pbrain-hewer2010.exe:    .-. 
+30) pbrain-hewer2010.exe:   o   \     .-. 
+30) pbrain-hewer2010.exe:       .----.'     \ 
+30) pbrain-hewer2010.exe:     .'o)   / `.    o 
+30) pbrain-hewer2010.exe:   /              | 
+30) pbrain-hewer2010.exe:   \_)          /
+30) pbrain-hewer2010.exe:     '__/   /   
+30) pbrain-hewer2010.exe:      `.      |  
+30) pbrain-hewer2010.exe:       |       \  
+30) pbrain-hewer2010.exe:   .--/`-.     / / 
+30) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x0-31(1).psq
+______________________________
+HGarden07 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\1x2-33(1).psq
+______________________________
+Kanec x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\2x1-34(1).psq
+______________________________
+HGarden07 x OniX2010
+23) pbrain-OniX2010.exe: :(
+-> F:\projekty\gomocup2010\freestyle1\1x3-31(1).psq
+______________________________
+HGarden07 x swine2010
+ 5) pbrain-swine2010.exe:  9-2      -8,09  1/375088
+ 7) pbrain-swine2010.exe:  9-2      -7,51  6/319530
+ 9) pbrain-swine2010.exe:  8-2      -7,19 10/204693
+11) pbrain-swine2010.exe: 10-2     -12,51  6/211809
+13) pbrain-swine2010.exe:  9-2     -10,63  9/455761
+15) pbrain-swine2010.exe:  9-2      -8,94  1/383848
+17) pbrain-swine2010.exe:  7-2      -4,68  6/92367
+19) pbrain-swine2010.exe:  1-2       0,00  0/0
+21) pbrain-swine2010.exe:  8-2      -5,07 10/100967
+23) pbrain-swine2010.exe:  7-2      -8,67  5/67682
+25) pbrain-swine2010.exe:  7-2     -14,35  6/52756
+27) pbrain-swine2010.exe:  7-2     -26,31  2/20473
+29) pbrain-swine2010.exe:  8-2        :-[  7/24630
+31) pbrain-swine2010.exe:  6-2        :-[ 23/682
+33) pbrain-swine2010.exe:  2-2        :-[ 18/28
+35) pbrain-swine2010.exe:  1-2       0,00  0/0
+37) pbrain-swine2010.exe:  3-2        :-[  1/12
+39) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\1x5-41(1).psq
+______________________________
+pela x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\4x0-81(1).psq
+______________________________
+HGarden07 x pela
+-> F:\projekty\gomocup2010\freestyle1\1x4-55(1).psq
+______________________________
+HGarden07 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 35098738 speed= 585115n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 23106359 speed= 615661n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 1507304 speed= 505931n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 125058 speed= 885904n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 22820 speed= 842157n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 2132 speed= 696922n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 2698 speed= 669632n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 1487 speed= 513806n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 1415 speed= 449821n/s
+-> F:\projekty\gomocup2010\freestyle1\1x6-33(1).psq
+______________________________
+Tito2010 x HGarden07
+ 4) pbrain-Tito2010.exe: AB depth= 16 node= 34561757 speed= 545918n/s
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 12513530 speed= 559329n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 17729260 speed= 654601n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 3307916 speed= 538810n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 3669114 speed= 643339n/s
+14) pbrain-Tito2010.exe: 15...
+16) pbrain-Tito2010.exe: 14...
+18) pbrain-Tito2010.exe: 13...
+20) pbrain-Tito2010.exe: 12...
+22) pbrain-Tito2010.exe: 8...
+26) pbrain-Tito2010.exe: 6...
+28) pbrain-Tito2010.exe: 4...
+30) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x1-37(1).psq
+______________________________
+OniX2010 x HGarden07
+40) pbrain-OniX2010.exe: :(
+-> F:\projekty\gomocup2010\freestyle1\3x1-52(1).psq
+______________________________
+HGarden07 x goro2010
+-> F:\projekty\gomocup2010\freestyle1\1x7-33(1).psq
+______________________________
+swine2010 x HGarden07
+ 4) pbrain-swine2010.exe:  9-2       8,89  8/516458
+ 6) pbrain-swine2010.exe:  9-2       8,49  1/205541
+ 8) pbrain-swine2010.exe:  9-2       9,15  3/304456
+10) pbrain-swine2010.exe:  9-2       8,88  2/256837
+12) pbrain-swine2010.exe:  8-2       9,22  5/186938
+14) pbrain-swine2010.exe: 10-2       9,11  6/411582
+16) pbrain-swine2010.exe:  7-2      14,79  3/59646
+18) pbrain-swine2010.exe:  7-2      12,44 12/100820
+20) pbrain-swine2010.exe:  7-2      11,85  6/174215
+22) pbrain-swine2010.exe:  7-2      12,19 13/98694
+24) pbrain-swine2010.exe:  6-2      11,89 12/55945
+26) pbrain-swine2010.exe:  8-2      11,37  1/131085
+28) pbrain-swine2010.exe:  9-2       7,64  9/134911
+30) pbrain-swine2010.exe:  7-2       7,80 17/33752
+32) pbrain-swine2010.exe:  9-1       4,11  1/72169
+34) pbrain-swine2010.exe:  7-1       4,11  3/59058
+36) pbrain-swine2010.exe:  1-1       0,00  0/0
+38) pbrain-swine2010.exe:  8-1       0,58  8/154366
+40) pbrain-swine2010.exe:  8-1       0,88  1/71103
+42) pbrain-swine2010.exe:  8-1      -1,50 12/70455
+44) pbrain-swine2010.exe:  8-1      -1,29 15/47831
+46) pbrain-swine2010.exe:  7-1      -3,41  2/73111
+48) pbrain-swine2010.exe:  6-1       0,69 10/38868
+50) pbrain-swine2010.exe:  5-1       4,85  7/9251
+52) pbrain-swine2010.exe:  5-1      -0,93  5/8419
+54) pbrain-swine2010.exe:  5-1      -4,79 28/3594
+56) pbrain-swine2010.exe:  3-1      -4,79 32/1159
+58) pbrain-swine2010.exe:  1-1       0,00  0/0
+60) pbrain-swine2010.exe:  3-1     -13,47  1/1814
+62) pbrain-swine2010.exe:  3-1     -11,45  6/1141
+64) pbrain-swine2010.exe:  4-1     -21,23  2/3122
+66) pbrain-swine2010.exe:  7-1     -32,76  3/16062
+68) pbrain-swine2010.exe:  5-1     -38,22 18/18156
+70) pbrain-swine2010.exe:  5-0        :-[  1/12828
+72) pbrain-swine2010.exe:  2-0     -31,65  2/39
+74) pbrain-swine2010.exe:  9-0        :-[  9/19233
+76) pbrain-swine2010.exe:  8-0        :-[  6/61490
+78) pbrain-swine2010.exe:  2-0     -40,12  3/46
+80) pbrain-swine2010.exe:  3-0        :-[  2/6
+82) pbrain-swine2010.exe:  2-0        :-[  3/4
+84) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x1-86(1).psq
+______________________________
+goro2010 x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\7x1-23(1).psq
+______________________________
+Kanec x OniX2010
+31) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\2x3-40(1).psq
+______________________________
+OniX2010 x Kanec
+10) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x2-35(1).psq
+______________________________
+HGarden07 x hewer2010
+19) pbrain-hewer2010.exe: AB :-(
+37) pbrain-hewer2010.exe: AB :-(
+39) pbrain-hewer2010.exe: AB :-(
+41) pbrain-hewer2010.exe: AB :-(
+43) pbrain-hewer2010.exe: AB :-(
+49) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\1x8-51(1).psq
+______________________________
+Kanec x swine2010
+ 5) pbrain-swine2010.exe: 10-2      -9,95  3/418686
+ 7) pbrain-swine2010.exe: 10-2      -7,17  3/152013
+ 9) pbrain-swine2010.exe: 11-2      -5,14  1/297650
+11) pbrain-swine2010.exe: 11-2       4,53  7/234089
+13) pbrain-swine2010.exe:  1-2       0,00  0/0
+15) pbrain-swine2010.exe:  2-2      -1,97  1/45
+17) pbrain-swine2010.exe:  3-2     -11,11  3/403
+19) pbrain-swine2010.exe:  4-2        :-[  3/1047
+21) pbrain-swine2010.exe:  1-2       0,00  0/0
+23) pbrain-swine2010.exe:  1-2       0,00  0/0
+25) pbrain-swine2010.exe:  1-2       0,00  0/0
+27) pbrain-swine2010.exe:  3-2        :-[  3/8
+29) pbrain-swine2010.exe:  1-2       0,00  0/0
+31) pbrain-swine2010.exe:  3-2        :-[  1/14
+33) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\2x5-35(1).psq
+______________________________
+pela x HGarden07
+126) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x1-131(1).psq
+______________________________
+hewer2010 x HGarden07
+14) pbrain-hewer2010.exe: AB :-)
+16) pbrain-hewer2010.exe: AB :-)
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+32) pbrain-hewer2010.exe: :-))
+34) pbrain-hewer2010.exe:    .-. 
+34) pbrain-hewer2010.exe:   o   \     .-. 
+34) pbrain-hewer2010.exe:       .----.'     \ 
+34) pbrain-hewer2010.exe:     .'o)   / `.    o 
+34) pbrain-hewer2010.exe:   /              | 
+34) pbrain-hewer2010.exe:   \_)          /
+34) pbrain-hewer2010.exe:     '__/   /   
+34) pbrain-hewer2010.exe:      `.      |  
+34) pbrain-hewer2010.exe:       |       \  
+34) pbrain-hewer2010.exe:   .--/`-.     / / 
+34) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x1-35(1).psq
+______________________________
+Kanec x pela
+77) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\2x4-94(1).psq
+______________________________
+Kanec x goro2010
+-> F:\projekty\gomocup2010\freestyle1\2x7-36(1).psq
+______________________________
+swine2010 x Kanec
+ 4) pbrain-swine2010.exe:  9-2       8,89  8/516458
+ 6) pbrain-swine2010.exe:  9-2       7,47  8/502938
+ 8) pbrain-swine2010.exe: 10-2       7,15  1/597089
+10) pbrain-swine2010.exe:  9-2      10,36 10/367933
+12) pbrain-swine2010.exe:  9-2      16,81  3/205393
+14) pbrain-swine2010.exe:  8-2      16,61 10/332582
+16) pbrain-swine2010.exe:  7-2      16,07  4/181247
+18) pbrain-swine2010.exe:  8-2      16,51 16/451554
+20) pbrain-swine2010.exe:  7-2      18,52 12/177073
+22) pbrain-swine2010.exe:  6-2      20,90  1/82265
+24) pbrain-swine2010.exe:  6-2      20,68  9/108249
+26) pbrain-swine2010.exe:  6-2      28,74 27/217951
+28) pbrain-swine2010.exe:  5-2      31,85  9/43013
+30) pbrain-swine2010.exe:  4-2        :-]  3/15030
+32) pbrain-swine2010.exe:  2-2        :-] 18/633
+34) pbrain-swine2010.exe:  1-2        :-]  0/0
+36) pbrain-swine2010.exe:  1-2        :-]  0/0
+38) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x2-45(1).psq
+______________________________
+Kanec x hewer2010
+51) pbrain-hewer2010.exe: AB :-)
+53) pbrain-hewer2010.exe: AB :-)
+55) pbrain-hewer2010.exe: AB :-)
+57) pbrain-hewer2010.exe: AB :-)
+59) pbrain-hewer2010.exe: AB :-)
+61) pbrain-hewer2010.exe: AB :-)
+63) pbrain-hewer2010.exe: AB :-)
+65) pbrain-hewer2010.exe: AB :-)
+67) pbrain-hewer2010.exe: AB :-)
+69) pbrain-hewer2010.exe: AB :-)
+71) pbrain-hewer2010.exe: AB :-)
+75) pbrain-hewer2010.exe: :-))
+77) pbrain-hewer2010.exe:    .-. 
+77) pbrain-hewer2010.exe:   o   \     .-. 
+77) pbrain-hewer2010.exe:       .----.'     \ 
+77) pbrain-hewer2010.exe:     .'o)   / `.    o 
+77) pbrain-hewer2010.exe:   /              | 
+77) pbrain-hewer2010.exe:   \_)          /
+77) pbrain-hewer2010.exe:     '__/   /   
+77) pbrain-hewer2010.exe:      `.      |  
+77) pbrain-hewer2010.exe:       |       \  
+77) pbrain-hewer2010.exe:   .--/`-.     / / 
+77) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\2x8-78(1).psq
+______________________________
+pela x Kanec
+28) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x2-41(1).psq
+______________________________
+hewer2010 x Kanec
+ 8) pbrain-hewer2010.exe: AB :-)
+10) pbrain-hewer2010.exe: AB :-)
+12) pbrain-hewer2010.exe: AB :-)
+14) pbrain-hewer2010.exe: AB :-)
+16) pbrain-hewer2010.exe: AB :-)
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: :-))
+26) pbrain-hewer2010.exe: :-))
+28) pbrain-hewer2010.exe:    .-. 
+28) pbrain-hewer2010.exe:   o   \     .-. 
+28) pbrain-hewer2010.exe:       .----.'     \ 
+28) pbrain-hewer2010.exe:     .'o)   / `.    o 
+28) pbrain-hewer2010.exe:   /              | 
+28) pbrain-hewer2010.exe:   \_)          /
+28) pbrain-hewer2010.exe:     '__/   /   
+28) pbrain-hewer2010.exe:      `.      |  
+28) pbrain-hewer2010.exe:       |       \  
+28) pbrain-hewer2010.exe:   .--/`-.     / / 
+28) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x2-29(1).psq
+______________________________
+goro2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\7x2-41(1).psq
+______________________________
+OniX2010 x swine2010
+ 5) pbrain-swine2010.exe:  9-2      -8,09  1/375772
+ 7) pbrain-swine2010.exe:  9-2      -7,45  6/300397
+ 9) pbrain-swine2010.exe:  8-2      -7,19 10/212017
+11) pbrain-swine2010.exe: 10-2     -12,51  6/211054
+13) pbrain-swine2010.exe:  9-2     -10,63  9/481899
+15) pbrain-swine2010.exe:  8-2      -5,31  5/125705
+17) pbrain-swine2010.exe:  9-2     -10,09  1/409771
+19) pbrain-swine2010.exe:  9-2      -2,29  1/233918
+21) pbrain-swine2010.exe:  8-2       1,27  5/232746
+23) pbrain-swine2010.exe:  9-2      -1,74  1/184574
+25) pbrain-swine2010.exe:  7-2       2,58 45/257979
+pbrain-OniX2010.exe has exited unexpectedly !
+-> F:\projekty\gomocup2010\freestyle1\3x5-26(1).psq
+______________________________
+OniX2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 7146446 speed= 266989n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 3208941 speed= 258875n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 3180382 speed= 255145n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 3181819 speed= 244196n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 11323440 speed= 242419n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 13477438 speed= 243124n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 6019298 speed= 230919n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 3915475 speed= 229834n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 2520367 speed= 270453n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 2167892 speed= 248622n/s
+24) pbrain-OniX2010.exe: :)
+25) pbrain-Tito2010.exe: AB depth= 14 node= 1545728 speed= 278297n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 597897 speed= 378422n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 662417 speed= 350779n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 549915 speed= 311752n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 478990 speed= 301634n/s
+39) pbrain-Tito2010.exe: AB depth= 14 node= 2068 speed= 267691n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 1405 speed= 223203n/s
+-> F:\projekty\gomocup2010\freestyle1\3x6-47(1).psq
+______________________________
+OniX2010 x pela
+12) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x4-31(1).psq
+______________________________
+swine2010 x OniX2010
+ 4) pbrain-swine2010.exe:  8-2       8,01  2/293101
+ 6) pbrain-swine2010.exe:  9-2       9,95  6/344865
+ 8) pbrain-swine2010.exe:  8-2       9,16  6/900000
+10) pbrain-swine2010.exe:  8-2      14,25  1/492817
+11) pbrain-OniX2010.exe: :(
+12) pbrain-swine2010.exe:  8-2        :-]  7/366050
+14) pbrain-swine2010.exe:  4-2        :-]  3/12466
+16) pbrain-swine2010.exe:  1-2        :-]  0/0
+18) pbrain-swine2010.exe:  1-2        :-]  0/0
+20) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x3-25(1).psq
+______________________________
+Tito2010 x OniX2010
+ 4) pbrain-Tito2010.exe: AB depth= 14 node= 9279771 speed= 220391n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 4978060 speed= 217530n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 4903076 speed= 255952n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 2678318 speed= 217944n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 3537293 speed= 229694n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 5731601 speed= 224228n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 1906470 speed= 314758n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 3634469 speed= 318261n/s
+19) pbrain-OniX2010.exe: :(
+20) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x3-27(1).psq
+______________________________
+OniX2010 x goro2010
+pbrain-OniX2010.exe has exited unexpectedly !
+-> F:\projekty\gomocup2010\freestyle1\3x7-30(1).psq
+______________________________
+OniX2010 x hewer2010
+16) pbrain-OniX2010.exe: :)
+17) pbrain-hewer2010.exe: AB :-(
+19) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: AB :-(
+23) pbrain-hewer2010.exe: AB :-(
+25) pbrain-hewer2010.exe: :-((
+29) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\3x8-31(1).psq
+______________________________
+pela x OniX2010
+23) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\4x3-40(1).psq
+______________________________
+goro2010 x OniX2010
+15) pbrain-OniX2010.exe: :(
+-> F:\projekty\gomocup2010\freestyle1\7x3-23(1).psq
+______________________________
+hewer2010 x OniX2010
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+27) pbrain-OniX2010.exe: :(
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+32) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: :-))
+36) pbrain-hewer2010.exe: :-))
+38) pbrain-hewer2010.exe:    .-. 
+38) pbrain-hewer2010.exe:   o   \     .-. 
+38) pbrain-hewer2010.exe:       .----.'     \ 
+38) pbrain-hewer2010.exe:     .'o)   / `.    o 
+38) pbrain-hewer2010.exe:   /              | 
+38) pbrain-hewer2010.exe:   \_)          /
+38) pbrain-hewer2010.exe:     '__/   /   
+38) pbrain-hewer2010.exe:      `.      |  
+38) pbrain-hewer2010.exe:       |       \  
+38) pbrain-hewer2010.exe:   .--/`-.     / / 
+38) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x3-39(1).psq
+______________________________
+pela x swine2010
+ 5) pbrain-swine2010.exe: 10-2      -9,93  1/542952
+ 7) pbrain-swine2010.exe:  8-2      -8,19  8/308323
+ 9) pbrain-swine2010.exe:  1-2       0,00  0/0
+11) pbrain-swine2010.exe:  9-2       3,46  4/197362
+13) pbrain-swine2010.exe:  7-2       3,18 36/97185
+15) pbrain-swine2010.exe:  9-2      13,21  6/149587
+17) pbrain-swine2010.exe: 10-2      23,52 11/224871
+19) pbrain-swine2010.exe: 10-2        :-]  6/53486
+21) pbrain-swine2010.exe:  1-2       0,00  0/0
+23) pbrain-swine2010.exe:  4-2        :-] 10/7176
+25) pbrain-swine2010.exe:  2-2        :-] 18/900
+27) pbrain-swine2010.exe:  1-2       0,00  0/0
+29) pbrain-swine2010.exe:  2-2      19,98  3/8
+31) pbrain-swine2010.exe:  1-2       0,00  0/0
+33) pbrain-swine2010.exe:  1-2       0,00  0/0
+35) pbrain-swine2010.exe:  2-2        :-] 23/1085
+37) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\4x5-46(1).psq
+______________________________
+Kanec x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 2816816 speed= 234259n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 4194077 speed= 286754n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 2745632 speed= 263466n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 3599188 speed= 246742n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 5622255 speed= 289781n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 1289150 speed= 228605n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 381983 speed= 205231n/s
+23) pbrain-Tito2010.exe: 6...
+25) pbrain-Tito2010.exe: 5...
+-> F:\projekty\gomocup2010\freestyle1\2x6-34(1).psq
+______________________________
+pela x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 9058152 speed= 537271n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 4635127 speed= 728884n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 8252843 speed= 588742n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 20416887 speed= 544987n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 33989786 speed= 527703n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 127183262 speed= 549275n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 34032611 speed= 547937n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 32692801 speed= 544830n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 7022853 speed= 592105n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 5662851 speed= 675083n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 1288616 speed= 635304n/s
+29) pbrain-Tito2010.exe: AB depth= 16 node= 2409929 speed= 669167n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 6600868 speed= 575377n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 12767179 speed= 567898n/s
+35) pbrain-Tito2010.exe: AB depth= 14 node= 2377889 speed= 557925n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 8673582 speed= 677897n/s
+39) pbrain-Tito2010.exe: AB depth= 14 node= 3424602 speed= 785512n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 3546514 speed= 545282n/s
+43) pbrain-Tito2010.exe: AB depth= 14 node= 9256366 speed= 631287n/s
+45) pbrain-Tito2010.exe: AB depth= 14 node= 7877213 speed= 641754n/s
+47) pbrain-Tito2010.exe: AB depth= 14 node= 5027663 speed= 686868n/s
+49) pbrain-Tito2010.exe: AB depth= 14 node= 6068386 speed= 653586n/s
+51) pbrain-Tito2010.exe: AB depth= 14 node= 5425711 speed= 517375n/s
+59) pbrain-Tito2010.exe: AB depth= 14 node= 5059952 speed= 490592n/s
+61) pbrain-Tito2010.exe: AB depth= 14 node= 210052 speed= 866839n/s
+63) pbrain-Tito2010.exe: AB depth= 14 node= 9205 speed= 783874n/s
+65) pbrain-Tito2010.exe: AB depth= 14 node= 5189 speed= 908524n/s
+67) pbrain-Tito2010.exe: AB depth= 14 node= 2573 speed= 848741n/s
+69) pbrain-Tito2010.exe: AB depth= 14 node= 1938 speed= 609482n/s
+71) pbrain-Tito2010.exe: AB depth= 14 node= 1708 speed= 685189n/s
+73) pbrain-Tito2010.exe: AB depth= 14 node= 1553 speed= 766634n/s
+74) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x6-83(1).psq
+______________________________
+pela x goro2010
+-> F:\projekty\gomocup2010\freestyle1\4x7-36(1).psq
+______________________________
+Tito2010 x Kanec
+ 4) pbrain-Tito2010.exe: AB depth= 14 node= 10301924 speed= 221541n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 3319747 speed= 221620n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 4044639 speed= 223028n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 1726631 speed= 230151n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 4108782 speed= 233658n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 3959086 speed= 234616n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 4784159 speed= 231857n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 2610357 speed= 240851n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 9268961 speed= 246913n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 11968579 speed= 232423n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 41507658 speed= 229519n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 21848621 speed= 229839n/s
+30) pbrain-Tito2010.exe: 8...
+32) pbrain-Tito2010.exe: 7...
+34) pbrain-Tito2010.exe: 5...
+36) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x2-43(1).psq
+______________________________
+Tito2010 x pela
+ 4) pbrain-Tito2010.exe: AB depth= 16 node= 32798055 speed= 543559n/s
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 15702384 speed= 545879n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 26107051 speed= 546195n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 2330290 speed= 681642n/s
+12) pbrain-Tito2010.exe: 12...
+14) pbrain-Tito2010.exe: 9...
+16) pbrain-Tito2010.exe: 8...
+18) pbrain-Tito2010.exe: 7...
+20) pbrain-Tito2010.exe: 6...
+22) pbrain-Tito2010.exe: 5...
+24) pbrain-Tito2010.exe: 4...
+-> F:\projekty\gomocup2010\freestyle1\6x4-31(1).psq
+______________________________
+swine2010 x pela
+ 4) pbrain-swine2010.exe:  9-2       8,89  8/515053
+ 6) pbrain-swine2010.exe:  8-2      15,25  2/586866
+ 8) pbrain-swine2010.exe:  8-2      13,45  2/520874
+10) pbrain-swine2010.exe: 10-2      10,72  1/304110
+12) pbrain-swine2010.exe:  8-2      10,72  6/296531
+14) pbrain-swine2010.exe:  7-2       9,83 27/160630
+16) pbrain-swine2010.exe:  8-2      15,19  6/283362
+18) pbrain-swine2010.exe:  7-2      15,07  6/151907
+20) pbrain-swine2010.exe:  7-2      15,51 11/84970
+22) pbrain-swine2010.exe:  7-2      17,19  9/154695
+24) pbrain-swine2010.exe:  6-2      17,05 10/137440
+26) pbrain-swine2010.exe:  5-2      14,21  2/14076
+28) pbrain-swine2010.exe:  5-2      11,95  9/19180
+30) pbrain-swine2010.exe:  7-2       4,67 26/47006
+32) pbrain-swine2010.exe:  6-2       3,87 11/35916
+34) pbrain-swine2010.exe:  7-2       3,79 12/96975
+36) pbrain-swine2010.exe:  7-1       1,32 13/31535
+38) pbrain-swine2010.exe:  7-1      -0,79 16/51660
+40) pbrain-swine2010.exe:  9-1      -8,22 14/70588
+42) pbrain-swine2010.exe:  8-1     -10,64  3/49247
+44) pbrain-swine2010.exe:  1-1       0,00  0/0
+46) pbrain-swine2010.exe:  9-1     -25,93  4/55907
+48) pbrain-swine2010.exe: 11-1        :-[  5/75201
+50) pbrain-swine2010.exe:  9-1        :-[  3/95109
+52) pbrain-swine2010.exe:  8-1        :-[  3/56850
+54) pbrain-swine2010.exe:  6-1        :-[  6/31807
+56) pbrain-swine2010.exe:  1-1       0,00  0/0
+58) pbrain-swine2010.exe:  1-1       0,00  0/0
+60) pbrain-swine2010.exe:  1-1       0,00  0/0
+62) pbrain-swine2010.exe:  1-1       0,00  0/0
+64) pbrain-swine2010.exe:  3-1        :-[  1/8
+66) pbrain-swine2010.exe:  1-1       0,00  0/0
+68) pbrain-swine2010.exe:  3-1        :-[  3/8
+69) pbrain-pela.exe:  I win !
+70) pbrain-swine2010.exe:  1-1       0,00  0/0
+72) pbrain-swine2010.exe:  1-1       0,00  0/0
+74) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x4-76(1).psq
+______________________________
+pela x hewer2010
+33) pbrain-hewer2010.exe: AB :-)
+35) pbrain-hewer2010.exe: AB :-)
+37) pbrain-hewer2010.exe: AB :-)
+39) pbrain-hewer2010.exe: AB :-)
+41) pbrain-hewer2010.exe: AB :-)
+43) pbrain-hewer2010.exe: AB :-)
+45) pbrain-hewer2010.exe: AB :-)
+47) pbrain-hewer2010.exe: :-))
+49) pbrain-hewer2010.exe: :-))
+51) pbrain-hewer2010.exe:    .-. 
+51) pbrain-hewer2010.exe:   o   \     .-. 
+51) pbrain-hewer2010.exe:       .----.'     \ 
+51) pbrain-hewer2010.exe:     .'o)   / `.    o 
+51) pbrain-hewer2010.exe:   /              | 
+51) pbrain-hewer2010.exe:   \_)          /
+51) pbrain-hewer2010.exe:     '__/   /   
+51) pbrain-hewer2010.exe:      `.      |  
+51) pbrain-hewer2010.exe:       |       \  
+51) pbrain-hewer2010.exe:   .--/`-.     / / 
+51) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\4x8-52(1).psq
+______________________________
+swine2010 x goro2010
+ 4) pbrain-swine2010.exe:  9-2       8,89  8/515571
+ 6) pbrain-swine2010.exe:  9-2       7,47  8/526288
+ 8) pbrain-swine2010.exe: 10-2       7,15  1/619452
+10) pbrain-swine2010.exe:  8-2      11,23  1/454986
+12) pbrain-swine2010.exe:  7-2      10,28 13/208402
+14) pbrain-swine2010.exe:  7-2       8,61 14/96598
+16) pbrain-swine2010.exe:  7-2       9,59  2/112909
+18) pbrain-swine2010.exe:  7-2      11,31 17/51202
+20) pbrain-swine2010.exe:  5-2      11,83  8/28075
+22) pbrain-swine2010.exe:  7-2      13,39  5/43182
+24) pbrain-swine2010.exe:  8-2       4,64  2/82846
+26) pbrain-swine2010.exe:  1-2       0,00  0/0
+28) pbrain-swine2010.exe:  9-2       0,97  1/65632
+30) pbrain-swine2010.exe:  9-2      -1,42  2/104187
+32) pbrain-swine2010.exe:  7-2      -1,42 14/90178
+34) pbrain-swine2010.exe:  7-2        :-[  1/148190
+36) pbrain-swine2010.exe:  2-1       1,80  4/51
+38) pbrain-swine2010.exe:  6-1        :-[  1/28522
+40) pbrain-swine2010.exe:  6-1        :-[  1/12604
+42) pbrain-swine2010.exe:  4-1        :-[ 24/116
+44) pbrain-swine2010.exe:  2-1        :-[  2/12
+46) pbrain-swine2010.exe:  3-1        :-[  1/12
+48) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x7-50(1).psq
+______________________________
+hewer2010 x pela
+16) pbrain-hewer2010.exe: AB :-)
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: :-))
+24) pbrain-hewer2010.exe: :-))
+26) pbrain-hewer2010.exe:    .-. 
+26) pbrain-hewer2010.exe:   o   \     .-. 
+26) pbrain-hewer2010.exe:       .----.'     \ 
+26) pbrain-hewer2010.exe:     .'o)   / `.    o 
+26) pbrain-hewer2010.exe:   /              | 
+26) pbrain-hewer2010.exe:   \_)          /
+26) pbrain-hewer2010.exe:     '__/   /   
+26) pbrain-hewer2010.exe:      `.      |  
+26) pbrain-hewer2010.exe:       |       \  
+26) pbrain-hewer2010.exe:   .--/`-.     / / 
+26) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x4-27(1).psq
+______________________________
+goro2010 x pela
+-> F:\projekty\gomocup2010\freestyle1\7x4-94(1).psq
+______________________________
+swine2010 x Tito2010
+ 4) pbrain-swine2010.exe:  9-2       8,89  8/516458
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 23805313 speed= 602320n/s
+ 6) pbrain-swine2010.exe:  8-2      12,25  2/522094
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 4643713 speed= 637813n/s
+ 8) pbrain-swine2010.exe:  8-2      10,71  7/322952
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 7895853 speed= 634171n/s
+10) pbrain-swine2010.exe:  8-2      11,03 13/210826
+11) pbrain-Tito2010.exe: AB depth= 16 node= 2714228 speed= 653103n/s
+12) pbrain-swine2010.exe:  8-2      14,95  1/198201
+13) pbrain-Tito2010.exe: AB depth= 16 node= 16065977 speed= 618632n/s
+14) pbrain-swine2010.exe:  8-2      14,92  3/348540
+15) pbrain-Tito2010.exe: AB depth= 16 node= 17754139 speed= 674154n/s
+16) pbrain-swine2010.exe:  9-2      20,50  1/274162
+17) pbrain-Tito2010.exe: AB depth= 16 node= 22206080 speed= 591242n/s
+18) pbrain-swine2010.exe:  7-2      20,50 11/121699
+19) pbrain-Tito2010.exe: AB depth= 16 node= 39467529 speed= 577091n/s
+20) pbrain-swine2010.exe:  8-2      26,06 13/578795
+21) pbrain-Tito2010.exe: AB depth= 16 node= 59547647 speed= 621262n/s
+22) pbrain-swine2010.exe:  7-2      31,61 20/189199
+23) pbrain-Tito2010.exe: AB depth= 16 node= 17615596 speed= 610307n/s
+24) pbrain-swine2010.exe:  6-2      30,55  1/120422
+26) pbrain-swine2010.exe:  5-2      27,68  9/28531
+27) pbrain-Tito2010.exe: AB depth= 16 node= 31392828 speed= 592299n/s
+28) pbrain-swine2010.exe:  5-2      24,17  9/32284
+29) pbrain-Tito2010.exe: AB depth= 16 node= 41157622 speed= 586486n/s
+30) pbrain-swine2010.exe:  6-2      23,08  1/230325
+32) pbrain-swine2010.exe:  6-2      24,07  1/63099
+34) pbrain-swine2010.exe:  6-2      24,64  1/122391
+36) pbrain-swine2010.exe:  7-1      19,28  8/120500
+37) pbrain-Tito2010.exe: AB depth= 14 node= 25746616 speed= 612192n/s
+38) pbrain-swine2010.exe:  6-1      20,85 29/128365
+39) pbrain-Tito2010.exe: AB depth= 16 node= 9167058 speed= 668610n/s
+40) pbrain-swine2010.exe:  7-1      20,10 26/128501
+41) pbrain-Tito2010.exe: AB depth= 16 node= 5117387 speed= 642619n/s
+42) pbrain-swine2010.exe:  7-1      15,77  5/130915
+44) pbrain-swine2010.exe:  7-1      11,26 25/105544
+45) pbrain-Tito2010.exe: AB depth= 16 node= 2575220 speed= 592448n/s
+46) pbrain-swine2010.exe:  6-1      10,50  2/60650
+48) pbrain-swine2010.exe:  5-1       9,42 24/17999
+49) pbrain-Tito2010.exe: AB depth= 16 node= 10784744 speed= 634442n/s
+50) pbrain-swine2010.exe:  5-1       4,85 16/19194
+51) pbrain-Tito2010.exe: AB depth= 14 node= 5588545 speed= 635929n/s
+52) pbrain-swine2010.exe:  7-1       8,84  2/17662
+53) pbrain-Tito2010.exe: AB depth= 14 node= 4679812 speed= 752272n/s
+54) pbrain-swine2010.exe:  7-1       7,10  3/8630
+55) pbrain-Tito2010.exe: AB depth= 14 node= 3440930 speed= 663754n/s
+56) pbrain-swine2010.exe:  5-1       7,10 16/12211
+57) pbrain-Tito2010.exe: AB depth= 14 node= 4854306 speed= 738221n/s
+58) pbrain-swine2010.exe:  5-1       6,20 23/17997
+59) pbrain-Tito2010.exe: AB depth= 14 node= 3752290 speed= 736938n/s
+60) pbrain-swine2010.exe:  5-0       4,25  2/10249
+62) pbrain-swine2010.exe:  5-0      -0,81 25/11007
+63) pbrain-Tito2010.exe: AB depth= 14 node= 11768373 speed= 659473n/s
+64) pbrain-swine2010.exe:  4-0      -1,05 21/5495
+65) pbrain-Tito2010.exe: AB depth= 14 node= 9300247 speed= 717278n/s
+66) pbrain-swine2010.exe:  5-0      -5,11  5/10214
+68) pbrain-swine2010.exe:  5-0      -9,65  5/8562
+70) pbrain-swine2010.exe:  5-0     -15,87 10/6410
+71) pbrain-Tito2010.exe: AB depth= 14 node= 6354055 speed= 616233n/s
+72) pbrain-swine2010.exe:  3-0     -14,06  5/781
+73) pbrain-Tito2010.exe: AB depth= 14 node= 298853 speed= 484640n/s
+74) pbrain-swine2010.exe:  3-0     -19,11 14/675
+75) pbrain-Tito2010.exe: AB depth= 14 node= 5111652 speed= 568055n/s
+76) pbrain-swine2010.exe:  2-0     -21,74  1/39
+77) pbrain-Tito2010.exe: AB depth= 14 node= 5611190 speed= 689340n/s
+78) pbrain-swine2010.exe:  4-0     -37,26 12/1101
+80) pbrain-swine2010.exe:  4-0        :-[  3/1998
+81) pbrain-Tito2010.exe: 9...
+82) pbrain-swine2010.exe:  2-0        :-[  2/4
+83) pbrain-Tito2010.exe: 8...
+84) pbrain-swine2010.exe:  1-0       0,00  0/0
+85) pbrain-Tito2010.exe: 7...
+86) pbrain-swine2010.exe:  1-0       0,00  0/0
+87) pbrain-Tito2010.exe: 6...
+88) pbrain-swine2010.exe:  3-0        :-[  3/8
+89) pbrain-Tito2010.exe: 3...
+90) pbrain-swine2010.exe:  1-0       0,00  0/0
+92) pbrain-swine2010.exe:  1-0       0,00  0/0
+94) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x6-96(1).psq
+______________________________
+goro2010 x swine2010
+ 5) pbrain-swine2010.exe:  9-2      -8,09  1/375772
+ 7) pbrain-swine2010.exe: 11-2      -5,89  3/222716
+ 9) pbrain-swine2010.exe:  9-2      -4,68  7/286105
+11) pbrain-swine2010.exe:  9-2      -4,99  9/179633
+13) pbrain-swine2010.exe:  1-2       0,00  0/0
+15) pbrain-swine2010.exe:  2-2       1,30  2/20
+17) pbrain-swine2010.exe:  8-2       3,25  5/23753
+19) pbrain-swine2010.exe:  7-2       1,98 19/24415
+21) pbrain-swine2010.exe:  7-2       3,99 25/53437
+23) pbrain-swine2010.exe:  1-2       0,00  0/0
+25) pbrain-swine2010.exe:  5-2       5,42  3/14900
+27) pbrain-swine2010.exe:  7-2      12,51  2/19744
+29) pbrain-swine2010.exe:  8-2      11,47  3/15286
+31) pbrain-swine2010.exe:  1-2       0,00  0/0
+33) pbrain-swine2010.exe:  6-2        :-]  3/8085
+35) pbrain-swine2010.exe:  4-2        :-] 30/6770
+37) pbrain-swine2010.exe:  2-2        :-] 30/668
+39) pbrain-swine2010.exe:  1-2       0,00  0/0
+41) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\7x5-44(1).psq
+______________________________
+Tito2010 x swine2010
+ 4) pbrain-Tito2010.exe: AB depth= 16 node= 36090228 speed= 534142n/s
+ 5) pbrain-swine2010.exe: 10-2      -8,19  1/331425
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 12079019 speed= 540742n/s
+ 7) pbrain-swine2010.exe:  9-2     -10,49  1/309845
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 12587886 speed= 591656n/s
+ 9) pbrain-swine2010.exe: 10-2     -13,39  1/159869
+10) pbrain-Tito2010.exe: 12...
+11) pbrain-swine2010.exe:  8-2     -15,95  3/116304
+12) pbrain-Tito2010.exe: 11...
+13) pbrain-swine2010.exe:  8-2        :-[  2/43856
+14) pbrain-Tito2010.exe: 10...
+15) pbrain-swine2010.exe:  2-2      -9,88  2/6
+16) pbrain-Tito2010.exe: 9...
+17) pbrain-swine2010.exe:  1-2       0,00  0/0
+18) pbrain-Tito2010.exe: 8...
+19) pbrain-swine2010.exe:  1-2       0,00  0/0
+20) pbrain-Tito2010.exe: 7...
+21) pbrain-swine2010.exe:  3-2        :-[  3/6
+22) pbrain-Tito2010.exe: 6...
+23) pbrain-swine2010.exe:  2-2        :-[  3/4
+24) pbrain-Tito2010.exe: 3...
+25) pbrain-swine2010.exe:  1-2       0,00  0/0
+27) pbrain-swine2010.exe:  1-2       0,00  0/0
+29) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\6x5-31(1).psq
+______________________________
+goro2010 x hewer2010
+ 7) pbrain-hewer2010.exe: AB :-(
+ 9) pbrain-hewer2010.exe: AB :-(
+11) pbrain-hewer2010.exe: AB :-(
+13) pbrain-hewer2010.exe: AB :-(
+15) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\7x8-23(1).psq
+______________________________
+swine2010 x hewer2010
+ 4) pbrain-swine2010.exe:  7-2       7,05  2/88127
+ 6) pbrain-swine2010.exe:  8-2       9,79  6/210845
+ 8) pbrain-swine2010.exe:  7-2       9,95  2/226872
+10) pbrain-swine2010.exe:  8-2       6,70  2/285970
+12) pbrain-swine2010.exe:  7-2       7,24  1/122132
+14) pbrain-swine2010.exe:  6-2       7,94 16/109549
+16) pbrain-swine2010.exe:  6-2       9,37  4/85316
+18) pbrain-swine2010.exe:  5-2      10,51 28/39276
+20) pbrain-swine2010.exe:  6-2       7,62  5/62325
+22) pbrain-swine2010.exe:  7-2       5,10  3/40990
+24) pbrain-swine2010.exe:  5-2       5,10 36/15220
+26) pbrain-swine2010.exe:  5-2       5,75 22/24733
+28) pbrain-swine2010.exe:  5-2       1,44  2/15275
+30) pbrain-swine2010.exe:  5-2      -4,35  1/19323
+32) pbrain-swine2010.exe:  6-2     -14,60  3/8837
+34) pbrain-swine2010.exe:  5-2     -21,53  1/12085
+36) pbrain-swine2010.exe:  5-2     -27,87  3/9291
+37) pbrain-hewer2010.exe: AB :-)
+38) pbrain-swine2010.exe:  3-2     -28,82  3/502
+40) pbrain-swine2010.exe:  2-2     -32,21  2/55
+41) pbrain-hewer2010.exe: AB :-)
+42) pbrain-swine2010.exe:  4-2        :-[  1/784
+43) pbrain-hewer2010.exe: AB :-)
+44) pbrain-swine2010.exe:  2-2        :-[  2/3
+45) pbrain-hewer2010.exe: AB :-)
+46) pbrain-swine2010.exe:  2-2        :-[  3/4
+47) pbrain-hewer2010.exe: :-))
+48) pbrain-swine2010.exe:  1-2        :-[  0/0
+49) pbrain-hewer2010.exe:    .-. 
+49) pbrain-hewer2010.exe:   o   \     .-. 
+49) pbrain-hewer2010.exe:       .----.'     \ 
+49) pbrain-hewer2010.exe:     .'o)   / `.    o 
+49) pbrain-hewer2010.exe:   /              | 
+49) pbrain-hewer2010.exe:   \_)          /
+49) pbrain-hewer2010.exe:     '__/   /   
+49) pbrain-hewer2010.exe:      `.      |  
+49) pbrain-hewer2010.exe:       |       \  
+49) pbrain-hewer2010.exe:   .--/`-.     / / 
+49) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\5x8-50(1).psq
+______________________________
+Tito2010 x hewer2010
+ 4) pbrain-Tito2010.exe: AB depth= 16 node= 33323105 speed= 547298n/s
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 17703390 speed= 542854n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 15662434 speed= 583372n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 1728884 speed= 549977n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 6573506 speed= 582843n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 7841046 speed= 579876n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 18824906 speed= 530206n/s
+17) pbrain-hewer2010.exe: AB :-(
+18) pbrain-Tito2010.exe: AB depth= 16 node= 31618727 speed= 499199n/s
+19) pbrain-hewer2010.exe: AB :-(
+20) pbrain-Tito2010.exe: AB depth= 16 node= 6328237 speed= 459520n/s
+21) pbrain-hewer2010.exe: AB :-(
+22) pbrain-Tito2010.exe: AB depth= 16 node= 2584447 speed= 617678n/s
+23) pbrain-hewer2010.exe: AB :-(
+24) pbrain-Tito2010.exe: AB depth= 16 node= 12186234 speed= 873513n/s
+25) pbrain-hewer2010.exe: AB :-(
+26) pbrain-Tito2010.exe: 6...
+28) pbrain-Tito2010.exe: 5...
+29) pbrain-hewer2010.exe: AB :-(
+30) pbrain-Tito2010.exe: 4...
+32) pbrain-Tito2010.exe: 3...
+33) pbrain-hewer2010.exe: :-((
+37) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\6x8-39(1).psq
+______________________________
+hewer2010 x goro2010
+10) pbrain-hewer2010.exe: AB :-)
+12) pbrain-hewer2010.exe: AB :-)
+14) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+32) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+40) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+46) pbrain-hewer2010.exe: AB :-(
+48) pbrain-hewer2010.exe: AB :-(
+50) pbrain-hewer2010.exe: AB :-(
+52) pbrain-hewer2010.exe: AB :-(
+58) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\8x7-60(1).psq
+______________________________
+hewer2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 8721358 speed= 545913n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 14794043 speed= 612929n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 19335685 speed= 640255n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 5758701 speed= 643545n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 4429992 speed= 633235n/s
+16) pbrain-hewer2010.exe: AB :-)
+17) pbrain-Tito2010.exe: AB depth= 16 node= 159811 speed= 893689n/s
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+21) pbrain-Tito2010.exe: AB depth= 16 node= 6328 speed= 788022n/s
+22) pbrain-hewer2010.exe: AB :-)
+23) pbrain-Tito2010.exe: AB depth= 16 node= 5909 speed= 900023n/s
+24) pbrain-hewer2010.exe: AB :-)
+25) pbrain-Tito2010.exe: AB depth= 16 node= 2954 speed= 877199n/s
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+31) pbrain-Tito2010.exe: AB depth= 16 node= 1695 speed= 690082n/s
+32) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: :-))
+36) pbrain-hewer2010.exe: :-))
+38) pbrain-hewer2010.exe:    .-. 
+38) pbrain-hewer2010.exe:   o   \     .-. 
+38) pbrain-hewer2010.exe:       .----.'     \ 
+38) pbrain-hewer2010.exe:     .'o)   / `.    o 
+38) pbrain-hewer2010.exe:   /              | 
+38) pbrain-hewer2010.exe:   \_)          /
+38) pbrain-hewer2010.exe:     '__/   /   
+38) pbrain-hewer2010.exe:      `.      |  
+38) pbrain-hewer2010.exe:       |       \  
+38) pbrain-hewer2010.exe:   .--/`-.     / / 
+38) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x6-39(1).psq
+______________________________
+HGarden07 x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\1x0-35(1).psq
+______________________________
+Kanec x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\2x0-73(1).psq
+______________________________
+hewer2010 x swine2010
+ 5) pbrain-swine2010.exe:  9-2      -9,79  3/273098
+ 7) pbrain-swine2010.exe:  7-2      -7,00  2/139050
+ 9) pbrain-swine2010.exe:  9-2      -7,14  1/320679
+11) pbrain-swine2010.exe:  9-2      -8,15  7/147997
+13) pbrain-swine2010.exe:  8-2      -9,75  3/106104
+15) pbrain-swine2010.exe:  6-2      -7,53  9/47339
+17) pbrain-swine2010.exe:  1-2       0,00  0/0
+19) pbrain-swine2010.exe:  6-2      -6,25  3/22214
+21) pbrain-swine2010.exe:  1-2       0,00  0/0
+23) pbrain-swine2010.exe:  6-2      -2,78  3/11854
+25) pbrain-swine2010.exe:  1-2       0,00  0/0
+27) pbrain-swine2010.exe:  8-2      -1,56  4/13811
+29) pbrain-swine2010.exe:  6-2       4,32  6/19123
+31) pbrain-swine2010.exe:  6-2      -1,21  3/16820
+32) pbrain-hewer2010.exe: AB :-)
+33) pbrain-swine2010.exe:  6-2      -0,90  4/14678
+34) pbrain-hewer2010.exe: AB :-)
+35) pbrain-swine2010.exe:  1-2       0,00  0/0
+36) pbrain-hewer2010.exe: AB :-)
+37) pbrain-swine2010.exe:  1-2       0,00  0/0
+38) pbrain-hewer2010.exe: AB :-)
+39) pbrain-swine2010.exe:  2-2       8,20  1/20
+40) pbrain-hewer2010.exe: AB :-)
+41) pbrain-swine2010.exe:  1-2       0,00  0/0
+42) pbrain-hewer2010.exe: AB :-)
+43) pbrain-swine2010.exe:  1-2       0,00  0/0
+44) pbrain-hewer2010.exe: AB :-)
+45) pbrain-swine2010.exe:  9-2        :-[  5/9296
+46) pbrain-hewer2010.exe: AB :-)
+47) pbrain-swine2010.exe: 12-1        :-[  5/8296
+49) pbrain-swine2010.exe: 10-1        :-[  6/6353
+51) pbrain-swine2010.exe:  8-1        :-[  9/6358
+53) pbrain-swine2010.exe:  3-1       2,22 10/1319
+55) pbrain-swine2010.exe:  4-1        :-[  5/2042
+56) pbrain-hewer2010.exe: AB :-)
+57) pbrain-swine2010.exe:  1-1       0,00  0/0
+58) pbrain-hewer2010.exe: AB :-)
+59) pbrain-swine2010.exe:  1-1       0,00  0/0
+60) pbrain-hewer2010.exe: AB :-)
+61) pbrain-swine2010.exe:  2-1      10,68  6/62
+62) pbrain-hewer2010.exe: AB :-)
+63) pbrain-swine2010.exe:  3-1        :-[  3/6
+64) pbrain-hewer2010.exe: AB :-)
+65) pbrain-swine2010.exe:  1-1       0,00  0/0
+66) pbrain-hewer2010.exe: AB :-)
+67) pbrain-swine2010.exe:  3-1        :-[  1/8
+68) pbrain-hewer2010.exe: AB :-)
+69) pbrain-swine2010.exe:  1-1       0,00  0/0
+70) pbrain-hewer2010.exe: AB :-)
+71) pbrain-swine2010.exe:  1-1       0,00  0/0
+72) pbrain-hewer2010.exe: AB :-)
+73) pbrain-swine2010.exe:  1-1       0,00  0/0
+74) pbrain-hewer2010.exe: :-))
+75) pbrain-swine2010.exe:  1-1       0,00  0/0
+76) pbrain-hewer2010.exe: :-))
+77) pbrain-swine2010.exe:  1-1        :-[  0/0
+78) pbrain-hewer2010.exe:    .-. 
+78) pbrain-hewer2010.exe:   o   \     .-. 
+78) pbrain-hewer2010.exe:       .----.'     \ 
+78) pbrain-hewer2010.exe:     .'o)   / `.    o 
+78) pbrain-hewer2010.exe:   /              | 
+78) pbrain-hewer2010.exe:   \_)          /
+78) pbrain-hewer2010.exe:     '__/   /   
+78) pbrain-hewer2010.exe:      `.      |  
+78) pbrain-hewer2010.exe:       |       \  
+78) pbrain-hewer2010.exe:   .--/`-.     / / 
+78) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x5-79(1).psq
+______________________________
+OniX2010 x HfM2010
+10) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x0-29(1).psq
+______________________________
+HfM2010 x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\0x1-33(1).psq
+______________________________
+HfM2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\0x2-108(1).psq
+______________________________
+HfM2010 x OniX2010
+21) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\0x3-40(1).psq
+______________________________
+Tito2010 x HfM2010
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 3448088 speed= 242008n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 2815200 speed= 242181n/s
+10) pbrain-Tito2010.exe: 10...
+12) pbrain-Tito2010.exe: 9...
+14) pbrain-Tito2010.exe: 7...
+16) pbrain-Tito2010.exe: 6...
+20) pbrain-Tito2010.exe: 4...
+22) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x0-29(1).psq
+______________________________
+swine2010 x HfM2010
+ 6) pbrain-swine2010.exe: 11-2       5,42  5/480688
+ 8) pbrain-swine2010.exe:  9-2       5,42 29/298411
+10) pbrain-swine2010.exe:  9-2       5,87 10/380953
+12) pbrain-swine2010.exe: 10-2      11,57  3/874320
+14) pbrain-swine2010.exe:  8-2      13,93 17/535760
+16) pbrain-swine2010.exe:  8-2      14,97  5/558483
+18) pbrain-swine2010.exe:  8-2      16,75 18/900000
+20) pbrain-swine2010.exe:  6-2      19,61 31/265517
+22) pbrain-swine2010.exe:  8-2        :-]  3/322258
+24) pbrain-swine2010.exe:  6-2        :-] 12/46189
+26) pbrain-swine2010.exe:  4-2        :-]  3/5626
+28) pbrain-swine2010.exe:  2-2        :-]  9/1020
+30) pbrain-swine2010.exe:  1-2        :-]  0/0
+32) pbrain-swine2010.exe:  1-2        :-]  0/0
+34) pbrain-swine2010.exe:  1-2       0,00  0/0
+36) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x0-41(1).psq
+______________________________
+HfM2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 2737844 speed= 324651n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 1141090 speed= 301125n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 1434499 speed= 244648n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 3970402 speed= 267329n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 7285899 speed= 255088n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 2018163 speed= 251380n/s
+21) pbrain-Tito2010.exe: 9...
+31) pbrain-Tito2010.exe: 4...
+33) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\0x6-40(1).psq
+______________________________
+Tito2010 x goro2010
+ 4) pbrain-Tito2010.exe: AB depth= 14 node= 9220535 speed= 220037n/s
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 4489423 speed= 221978n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 3868409 speed= 238955n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 3685661 speed= 216668n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1636829 speed= 221492n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 8197138 speed= 223885n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 6402212 speed= 254359n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 4186225 speed= 276189n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 1413575 speed= 231067n/s
+22) pbrain-Tito2010.exe: 9...
+24) pbrain-Tito2010.exe: 8...
+26) pbrain-Tito2010.exe: 7...
+28) pbrain-Tito2010.exe: 4...
+30) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x7-37(1).psq
+______________________________
+pela x HfM2010
+64) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x0-73(1).psq
+______________________________
+goro2010 x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\7x0-51(1).psq
+______________________________
+HfM2010 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/407054
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/307971
+ 9) pbrain-swine2010.exe:  2-2      -7,98  2/21
+11) pbrain-swine2010.exe:  8-2      -1,95  4/244169
+13) pbrain-swine2010.exe:  8-2      -1,75  2/305459
+15) pbrain-swine2010.exe:  8-2       0,04  3/732111
+17) pbrain-swine2010.exe:  7-2      -2,46  4/175613
+19) pbrain-swine2010.exe:  9-2      -7,45  6/675357
+21) pbrain-swine2010.exe:  9-2      -8,99  7/524719
+23) pbrain-swine2010.exe:  1-2       0,00  0/0
+25) pbrain-swine2010.exe:  8-2      -9,09  7/193849
+27) pbrain-swine2010.exe:  1-2       0,00  0/0
+29) pbrain-swine2010.exe: 10-2      -3,63  1/816300
+31) pbrain-swine2010.exe:  9-2      -4,61  1/290855
+33) pbrain-swine2010.exe:  8-2      -4,57 10/321619
+35) pbrain-swine2010.exe:  8-2      -2,01 10/347401
+37) pbrain-swine2010.exe:  7-2       1,42  8/139795
+39) pbrain-swine2010.exe:  9-2       2,47  9/235956
+41) pbrain-swine2010.exe:  9-2       2,74  1/254357
+43) pbrain-swine2010.exe:  9-1       2,87  1/247854
+45) pbrain-swine2010.exe:  8-1       3,20  2/133799
+47) pbrain-swine2010.exe:  9-1       0,15  1/80142
+49) pbrain-swine2010.exe:  1-1       0,00  0/0
+51) pbrain-swine2010.exe:  7-1       2,35  5/184393
+53) pbrain-swine2010.exe:  9-1      -0,53  3/166152
+55) pbrain-swine2010.exe:  7-1    3007,53  5/76660
+57) pbrain-swine2010.exe:  7-1    3005,22 12/47451
+59) pbrain-swine2010.exe:  1-1       0,00  0/0
+61) pbrain-swine2010.exe:  4-1        :-]  7/2234
+63) pbrain-swine2010.exe:  2-1        :-]  9/267
+65) pbrain-swine2010.exe:  1-1       0,00  0/0
+67) pbrain-swine2010.exe:  7-1    1001,00 17/44383
+69) pbrain-swine2010.exe:  1-1       0,00  0/0
+71) pbrain-swine2010.exe:  9-1       1,31  2/79296
+73) pbrain-swine2010.exe: 11-1        :-[ 11/251833
+75) pbrain-swine2010.exe: 10-1        :-[  2/56491
+77) pbrain-swine2010.exe:  8-1        :-[  6/14762
+79) pbrain-swine2010.exe:  1-1       0,00  0/0
+81) pbrain-swine2010.exe:  2-1        :-[  2/3
+83) pbrain-swine2010.exe:  1-1       0,00  0/0
+85) pbrain-swine2010.exe:  3-1        :-[  1/14
+87) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\0x5-89(1).psq
+______________________________
+goro2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 6494844 speed= 258486n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 6982487 speed= 250949n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 11921327 speed= 252614n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 334140 speed= 225404n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 1946265 speed= 275192n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 4044093 speed= 298118n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 1177412 speed= 230199n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 9890585 speed= 260256n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 8353866 speed= 263985n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 5633644 speed= 255981n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 4032828 speed= 229298n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 5665710 speed= 273186n/s
+29) pbrain-Tito2010.exe: AB depth= 14 node= 5666998 speed= 235043n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 3917740 speed= 278563n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 2871745 speed= 278342n/s
+35) pbrain-Tito2010.exe: AB depth= 14 node= 5911504 speed= 262915n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 8526433 speed= 200852n/s
+39) pbrain-Tito2010.exe: AB depth= 14 node= 2182144 speed= 174793n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 2568907 speed= 296011n/s
+45) pbrain-Tito2010.exe: AB depth= 14 node= 10342184 speed= 187960n/s
+47) pbrain-Tito2010.exe: AB depth= 14 node= 2235894 speed= 219871n/s
+49) pbrain-Tito2010.exe: AB depth= 14 node= 111855 speed= 353785n/s
+51) pbrain-Tito2010.exe: AB depth= 14 node= 24749 speed= 267794n/s
+53) pbrain-Tito2010.exe: AB depth= 14 node= 9065 speed= 270787n/s
+55) pbrain-Tito2010.exe: AB depth= 14 node= 7372 speed= 230045n/s
+57) pbrain-Tito2010.exe: AB depth= 14 node= 2544 speed= 296376n/s
+59) pbrain-Tito2010.exe: AB depth= 14 node= 1450 speed= 253387n/s
+61) pbrain-Tito2010.exe: AB depth= 14 node= 1380 speed= 229671n/s
+-> F:\projekty\gomocup2010\freestyle1\7x6-67(1).psq
+______________________________
+HfM2010 x goro2010
+-> F:\projekty\gomocup2010\freestyle1\0x7-63(1).psq
+______________________________
+hewer2010 x HfM2010
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+40) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+44) pbrain-hewer2010.exe: AB :-)
+46) pbrain-hewer2010.exe: AB :-)
+48) pbrain-hewer2010.exe: AB :-)
+50) pbrain-hewer2010.exe: AB :-)
+52) pbrain-hewer2010.exe: AB :-)
+56) pbrain-hewer2010.exe: AB :-)
+58) pbrain-hewer2010.exe: AB :-)
+60) pbrain-hewer2010.exe: AB :-)
+62) pbrain-hewer2010.exe: AB :-)
+68) pbrain-hewer2010.exe: AB :-)
+70) pbrain-hewer2010.exe: AB :-)
+72) pbrain-hewer2010.exe: AB :-)
+74) pbrain-hewer2010.exe: AB :-)
+76) pbrain-hewer2010.exe: AB :-)
+78) pbrain-hewer2010.exe: AB :-)
+80) pbrain-hewer2010.exe: AB :-)
+82) pbrain-hewer2010.exe: AB :-)
+84) pbrain-hewer2010.exe: AB :-)
+86) pbrain-hewer2010.exe: :-))
+88) pbrain-hewer2010.exe: :-))
+90) pbrain-hewer2010.exe:    .-. 
+90) pbrain-hewer2010.exe:   o   \     .-. 
+90) pbrain-hewer2010.exe:       .----.'     \ 
+90) pbrain-hewer2010.exe:     .'o)   / `.    o 
+90) pbrain-hewer2010.exe:   /              | 
+90) pbrain-hewer2010.exe:   \_)          /
+90) pbrain-hewer2010.exe:     '__/   /   
+90) pbrain-hewer2010.exe:      `.      |  
+90) pbrain-hewer2010.exe:       |       \  
+90) pbrain-hewer2010.exe:   .--/`-.     / / 
+90) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x0-91(1).psq
+______________________________
+HfM2010 x pela
+69) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\0x4-78(1).psq
+______________________________
+OniX2010 x HGarden07
+32) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x1-57(1).psq
+______________________________
+Kanec x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\2x1-35(1).psq
+______________________________
+HfM2010 x hewer2010
+29) pbrain-hewer2010.exe: AB :-)
+33) pbrain-hewer2010.exe: AB :-)
+35) pbrain-hewer2010.exe: AB :-)
+37) pbrain-hewer2010.exe: AB :-)
+39) pbrain-hewer2010.exe: AB :-)
+41) pbrain-hewer2010.exe: AB :-)
+45) pbrain-hewer2010.exe: AB :-)
+47) pbrain-hewer2010.exe: AB :-)
+49) pbrain-hewer2010.exe: AB :-)
+51) pbrain-hewer2010.exe: AB :-)
+53) pbrain-hewer2010.exe: AB :-)
+55) pbrain-hewer2010.exe: AB :-)
+57) pbrain-hewer2010.exe: AB :-)
+65) pbrain-hewer2010.exe: :-))
+67) pbrain-hewer2010.exe: :-))
+69) pbrain-hewer2010.exe:    .-. 
+69) pbrain-hewer2010.exe:   o   \     .-. 
+69) pbrain-hewer2010.exe:       .----.'     \ 
+69) pbrain-hewer2010.exe:     .'o)   / `.    o 
+69) pbrain-hewer2010.exe:   /              | 
+69) pbrain-hewer2010.exe:   \_)          /
+69) pbrain-hewer2010.exe:     '__/   /   
+69) pbrain-hewer2010.exe:      `.      |  
+69) pbrain-hewer2010.exe:       |       \  
+69) pbrain-hewer2010.exe:   .--/`-.     / / 
+69) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\0x8-70(1).psq
+______________________________
+swine2010 x HGarden07
+ 6) pbrain-swine2010.exe: 11-2       5,42  5/457058
+ 8) pbrain-swine2010.exe: 10-2       6,42 29/741826
+10) pbrain-swine2010.exe:  9-2       9,33  6/580273
+12) pbrain-swine2010.exe:  9-2      10,78  7/485592
+14) pbrain-swine2010.exe:  9-2       9,04  4/335288
+16) pbrain-swine2010.exe: 10-2      11,08  1/431889
+18) pbrain-swine2010.exe:  4-2        :-]  7/2259
+20) pbrain-swine2010.exe:  1-2        :-]  0/0
+22) pbrain-swine2010.exe:  1-2        :-]  0/0
+24) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x1-27(1).psq
+______________________________
+pela x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\4x1-72(1).psq
+______________________________
+HGarden07 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/410621
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/308886
+ 9) pbrain-swine2010.exe:  9-2      -6,42  5/341587
+11) pbrain-swine2010.exe: 10-2      -6,25  2/238949
+13) pbrain-swine2010.exe:  9-2       3,16 15/80096
+15) pbrain-swine2010.exe: 10-2        :-]  8/226996
+17) pbrain-swine2010.exe:  8-2        :-] 11/95859
+19) pbrain-swine2010.exe:  1-2       0,00  0/0
+21) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\1x5-34(1).psq
+______________________________
+HGarden07 x OniX2010
+55) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\1x3-78(1).psq
+______________________________
+HGarden07 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\1x2-99(1).psq
+______________________________
+Tito2010 x HGarden07
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 12518911 speed= 572225n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 7715047 speed= 575454n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 15783515 speed= 563517n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 9093306 speed= 573333n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 5477926 speed= 562895n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 5223350 speed= 581148n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 761656 speed= 905472n/s
+20) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x1-27(1).psq
+______________________________
+HGarden07 x pela
+-> F:\projekty\gomocup2010\freestyle1\1x4-29(1).psq
+______________________________
+goro2010 x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\7x1-45(1).psq
+______________________________
+OniX2010 x Kanec
+46) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x2-61(1).psq
+______________________________
+Kanec x OniX2010
+21) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\2x3-42(1).psq
+______________________________
+hewer2010 x HGarden07
+20) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+52) pbrain-hewer2010.exe: AB :-)
+54) pbrain-hewer2010.exe: AB :-)
+56) pbrain-hewer2010.exe: AB :-)
+58) pbrain-hewer2010.exe: AB :-)
+64) pbrain-hewer2010.exe: AB :-)
+66) pbrain-hewer2010.exe: AB :-)
+68) pbrain-hewer2010.exe: AB :-)
+70) pbrain-hewer2010.exe: :-))
+72) pbrain-hewer2010.exe:    .-. 
+72) pbrain-hewer2010.exe:   o   \     .-. 
+72) pbrain-hewer2010.exe:       .----.'     \ 
+72) pbrain-hewer2010.exe:     .'o)   / `.    o 
+72) pbrain-hewer2010.exe:   /              | 
+72) pbrain-hewer2010.exe:   \_)          /
+72) pbrain-hewer2010.exe:     '__/   /   
+72) pbrain-hewer2010.exe:      `.      |  
+72) pbrain-hewer2010.exe:       |       \  
+72) pbrain-hewer2010.exe:   .--/`-.     / / 
+72) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x1-73(1).psq
+______________________________
+HGarden07 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 3978475 speed= 703598n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 3066876 speed= 651877n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 12838518 speed= 593099n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 9837396 speed= 677108n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 4353109 speed= 669043n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 2569578 speed= 605907n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 8131601 speed= 588713n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 10665294 speed= 581030n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 17686093 speed= 594004n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 975318 speed= 577160n/s
+25) pbrain-Tito2010.exe: AB depth= 16 node= 5770127 speed= 783068n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 12917528 speed= 740819n/s
+29) pbrain-Tito2010.exe: AB depth= 16 node= 13719274 speed= 665351n/s
+31) pbrain-Tito2010.exe: AB depth= 16 node= 13411102 speed= 733833n/s
+33) pbrain-Tito2010.exe: AB depth= 16 node= 7445416 speed= 635260n/s
+35) pbrain-Tito2010.exe: AB depth= 16 node= 2721420 speed= 557663n/s
+37) pbrain-Tito2010.exe: AB depth= 16 node= 4006207 speed= 645317n/s
+39) pbrain-Tito2010.exe: AB depth= 16 node= 4389648 speed= 678368n/s
+41) pbrain-Tito2010.exe: AB depth= 16 node= 4271624 speed= 554658n/s
+45) pbrain-Tito2010.exe: AB depth= 16 node= 12385735 speed= 536608n/s
+47) pbrain-Tito2010.exe: AB depth= 16 node= 4701690 speed= 777365n/s
+49) pbrain-Tito2010.exe: AB depth= 16 node= 11261333 speed= 763587n/s
+59) pbrain-Tito2010.exe: AB depth= 16 node= 25098616 speed= 523533n/s
+61) pbrain-Tito2010.exe: AB depth= 16 node= 20546423 speed= 786960n/s
+63) pbrain-Tito2010.exe: 10...
+65) pbrain-Tito2010.exe: 9...
+-> F:\projekty\gomocup2010\freestyle1\1x6-80(1).psq
+______________________________
+HGarden07 x hewer2010
+19) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: AB :-(
+23) pbrain-hewer2010.exe: AB :-(
+33) pbrain-hewer2010.exe: :-((
+35) pbrain-hewer2010.exe: :-((
+37) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\1x8-39(1).psq
+______________________________
+HGarden07 x goro2010
+-> F:\projekty\gomocup2010\freestyle1\1x7-64(1).psq
+______________________________
+Tito2010 x Kanec
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 3577047 speed= 248960n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 2223329 speed= 253012n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 4176155 speed= 229495n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 5059545 speed= 229442n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 2337570 speed= 217977n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 4075342 speed= 231136n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 4602998 speed= 214728n/s
+24) pbrain-Tito2010.exe: 11...
+26) pbrain-Tito2010.exe: 10...
+28) pbrain-Tito2010.exe: 4...
+30) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x2-37(1).psq
+______________________________
+goro2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\7x2-33(1).psq
+______________________________
+pela x Kanec
+60) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x2-65(1).psq
+______________________________
+swine2010 x Kanec
+ 6) pbrain-swine2010.exe: 11-2       8,43  4/443410
+ 8) pbrain-swine2010.exe:  9-2       8,43 35/329264
+10) pbrain-swine2010.exe:  9-2      10,73  7/640107
+12) pbrain-swine2010.exe:  9-2      11,41  6/287069
+14) pbrain-swine2010.exe: 10-2        :-]  5/269129
+16) pbrain-swine2010.exe:  8-2        :-]  4/31640
+18) pbrain-swine2010.exe:  6-2        :-]  8/10646
+20) pbrain-swine2010.exe:  1-2       0,00  0/0
+22) pbrain-swine2010.exe:  7-2      11,20 19/175441
+24) pbrain-swine2010.exe:  7-2      12,20 20/180001
+26) pbrain-swine2010.exe:  8-2      10,34  8/192523
+28) pbrain-swine2010.exe: 10-2      10,91  2/280583
+30) pbrain-swine2010.exe:  8-2      10,91 15/256197
+32) pbrain-swine2010.exe:  9-2      18,11  2/165077
+34) pbrain-swine2010.exe:  8-2      18,41  3/318544
+36) pbrain-swine2010.exe:  1-2       0,00  0/0
+38) pbrain-swine2010.exe:  7-2      28,88 12/104453
+40) pbrain-swine2010.exe:  7-2      41,44 16/190965
+42) pbrain-swine2010.exe:  6-2        :-]  7/114898
+44) pbrain-swine2010.exe:  2-2        :-]  8/690
+46) pbrain-swine2010.exe:  1-2        :-]  0/0
+48) pbrain-swine2010.exe:  1-2        :-]  0/0
+50) pbrain-swine2010.exe:  2-2        :-]  3/53
+52) pbrain-swine2010.exe:  1-2        :-]  0/0
+54) pbrain-swine2010.exe:  1-2        :-]  0/0
+56) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x2-61(1).psq
+______________________________
+Kanec x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 2734944 speed= 332937n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 1203334 speed= 298040n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 3548944 speed= 247314n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 1726289 speed= 242168n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 10035562 speed= 253863n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 9457924 speed= 230693n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 4608923 speed= 225544n/s
+23) pbrain-Tito2010.exe: 12...
+25) pbrain-Tito2010.exe: 11...
+27) pbrain-Tito2010.exe: 10...
+29) pbrain-Tito2010.exe: 9...
+31) pbrain-Tito2010.exe: 8...
+33) pbrain-Tito2010.exe: 7...
+35) pbrain-Tito2010.exe: 6...
+-> F:\projekty\gomocup2010\freestyle1\2x6-42(1).psq
+______________________________
+Kanec x goro2010
+-> F:\projekty\gomocup2010\freestyle1\2x7-34(1).psq
+______________________________
+Kanec x pela
+-> F:\projekty\gomocup2010\freestyle1\2x4-35(1).psq
+______________________________
+Kanec x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/410474
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/300639
+ 9) pbrain-swine2010.exe:  2-2      -7,98  2/21
+11) pbrain-swine2010.exe: 10-2      -1,78  1/291125
+13) pbrain-swine2010.exe:  8-2      -1,74 17/240008
+15) pbrain-swine2010.exe:  1-2       0,00  0/0
+17) pbrain-swine2010.exe:  9-2      -0,08  1/223960
+19) pbrain-swine2010.exe:  8-2      -0,09  4/146822
+21) pbrain-swine2010.exe:  1-2       0,00  0/0
+23) pbrain-swine2010.exe:  1-2       0,00  0/0
+25) pbrain-swine2010.exe:  1-2       0,00  0/0
+27) pbrain-swine2010.exe:  1-2       0,00  0/0
+29) pbrain-swine2010.exe:  1-2       0,00  0/0
+31) pbrain-swine2010.exe:  9-2       7,35  1/407038
+33) pbrain-swine2010.exe: 10-2       8,08  2/260236
+35) pbrain-swine2010.exe:  1-2       0,00  0/0
+37) pbrain-swine2010.exe:  1-2       0,00  0/0
+39) pbrain-swine2010.exe: 11-2      13,70  1/193403
+41) pbrain-swine2010.exe:  1-2       0,00  0/0
+43) pbrain-swine2010.exe:  7-2      25,06 19/349184
+45) pbrain-swine2010.exe:  6-2      26,05  9/183714
+47) pbrain-swine2010.exe:  7-2      23,20 38/191248
+49) pbrain-swine2010.exe:  8-2      21,49  1/199816
+51) pbrain-swine2010.exe:  6-2      29,69 17/158158
+53) pbrain-swine2010.exe:  2-2        :-] 13/644
+55) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\2x5-62(1).psq
+______________________________
+Tito2010 x OniX2010
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 7970947 speed= 561544n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 8168223 speed= 572543n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 10949380 speed= 549246n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 23882044 speed= 557583n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 6549621 speed= 564338n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 3382184 speed= 579428n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 4129771 speed= 594526n/s
+20) pbrain-Tito2010.exe: AB depth= 16 node= 2588036 speed= 587136n/s
+22) pbrain-Tito2010.exe: AB depth= 16 node= 9685303 speed= 556273n/s
+24) pbrain-Tito2010.exe: AB depth= 16 node= 49364129 speed= 524871n/s
+26) pbrain-Tito2010.exe: AB depth= 16 node= 35678033 speed= 587436n/s
+28) pbrain-Tito2010.exe: AB depth= 16 node= 16131459 speed= 681851n/s
+30) pbrain-Tito2010.exe: AB depth= 16 node= 4687882 speed= 768277n/s
+32) pbrain-Tito2010.exe: AB depth= 16 node= 4061592 speed= 765139n/s
+34) pbrain-Tito2010.exe: AB depth= 16 node= 37511005 speed= 633003n/s
+36) pbrain-Tito2010.exe: AB depth= 16 node= 10661250 speed= 591483n/s
+38) pbrain-Tito2010.exe: AB depth= 16 node= 23877376 speed= 540102n/s
+39) pbrain-OniX2010.exe: :)
+40) pbrain-Tito2010.exe: AB depth= 16 node= 7262623 speed= 560864n/s
+42) pbrain-Tito2010.exe: AB depth= 16 node= 2680553 speed= 778507n/s
+44) pbrain-Tito2010.exe: AB depth= 16 node= 62682 speed= 847091n/s
+46) pbrain-Tito2010.exe: AB depth= 16 node= 185525 speed= 562730n/s
+48) pbrain-Tito2010.exe: AB depth= 16 node= 9498 speed= 1014405n/s
+52) pbrain-Tito2010.exe: AB depth= 16 node= 3290 speed= 888785n/s
+-> F:\projekty\gomocup2010\freestyle1\6x3-64(1).psq
+______________________________
+OniX2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 4218870 speed= 687128n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 3609594 speed= 638951n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 18429133 speed= 586640n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 4624070 speed= 563243n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 5425553 speed= 579591n/s
+14) pbrain-OniX2010.exe: :)
+15) pbrain-Tito2010.exe: AB depth= 16 node= 6698285 speed= 574537n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 153456 speed= 821002n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 1759 speed= 650186n/s
+25) pbrain-Tito2010.exe: AB depth= 16 node= 1567 speed= 656420n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 1688 speed= 788490n/s
+29) pbrain-Tito2010.exe: AB depth= 16 node= 1498 speed= 776411n/s
+-> F:\projekty\gomocup2010\freestyle1\3x6-35(1).psq
+______________________________
+swine2010 x OniX2010
+ 6) pbrain-swine2010.exe: 11-2       5,42  5/456348
+ 8) pbrain-swine2010.exe:  9-2       5,42 29/295670
+10) pbrain-swine2010.exe:  9-2       5,87 10/381324
+12) pbrain-swine2010.exe: 10-2      11,57  3/861464
+14) pbrain-swine2010.exe:  9-2      11,98 17/387047
+16) pbrain-swine2010.exe:  9-2      12,88 11/195568
+18) pbrain-swine2010.exe:  8-2      11,79 15/569180
+20) pbrain-swine2010.exe:  9-2      17,15  5/429284
+22) pbrain-swine2010.exe:  9-2      15,92 12/256390
+24) pbrain-swine2010.exe:  8-2      15,81  4/487974
+26) pbrain-swine2010.exe:  9-2      14,23 13/293734
+28) pbrain-swine2010.exe:  7-2      21,29 15/145259
+30) pbrain-swine2010.exe:  7-2      19,98 20/117251
+32) pbrain-swine2010.exe:  1-2       0,00  0/0
+34) pbrain-swine2010.exe:  5-2      11,43  2/25776
+36) pbrain-swine2010.exe:  5-1       9,36 14/23395
+38) pbrain-swine2010.exe:  2-1      11,87  3/28
+40) pbrain-swine2010.exe:  7-1      13,85  1/36667
+42) pbrain-swine2010.exe:  1-1       0,00  0/0
+44) pbrain-swine2010.exe:  5-1      18,73  9/21924
+46) pbrain-swine2010.exe:  5-1      13,91 18/18794
+48) pbrain-swine2010.exe:  5-1      20,48  1/14999
+50) pbrain-swine2010.exe:  5-1      16,09  6/19524
+52) pbrain-swine2010.exe:  5-1      12,70 12/12251
+54) pbrain-swine2010.exe: 10-1      -4,35 16/62559
+56) pbrain-swine2010.exe: 11-1   -1012,27 13/92059
+58) pbrain-swine2010.exe:  9-1   -1012,27  3/84526
+60) pbrain-swine2010.exe:  7-1   -1012,27  3/85459
+62) pbrain-swine2010.exe:  9-1     -19,26 12/121999
+64) pbrain-swine2010.exe: 12-1        :-[ 12/356697
+66) pbrain-swine2010.exe: 10-1        :-[  6/51451
+68) pbrain-swine2010.exe:  8-1        :-[  6/8027
+70) pbrain-swine2010.exe:  6-1        :-[  4/12485
+71) pbrain-OniX2010.exe: :)
+72) pbrain-swine2010.exe:  1-1       0,00  0/0
+74) pbrain-swine2010.exe:  1-1       0,00  0/0
+76) pbrain-swine2010.exe:  4-1        :-[  6/2002
+78) pbrain-swine2010.exe:  2-1        :-[  3/4
+80) pbrain-swine2010.exe:  1-1       0,00  0/0
+82) pbrain-swine2010.exe:  1-1       0,00  0/0
+84) pbrain-swine2010.exe:  1-1       0,00  0/0
+86) pbrain-swine2010.exe:  1-1       0,00  0/0
+88) pbrain-swine2010.exe:  1-1       0,00  0/0
+90) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x3-92(1).psq
+______________________________
+goro2010 x OniX2010
+25) pbrain-OniX2010.exe: :(
+-> F:\projekty\gomocup2010\freestyle1\7x3-33(1).psq
+______________________________
+OniX2010 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/403340
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/301961
+ 9) pbrain-swine2010.exe:  9-2      -6,42  5/349102
+11) pbrain-swine2010.exe:  9-2       8,78  1/176473
+13) pbrain-swine2010.exe:  9-2       8,40 11/336007
+15) pbrain-swine2010.exe:  9-2      11,82 20/229547
+16) pbrain-OniX2010.exe: :(
+17) pbrain-swine2010.exe:  1-2        :-]  0/0
+19) pbrain-swine2010.exe:  1-2        :-]  0/0
+21) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\3x5-26(2).psq
+______________________________
+pela x OniX2010
+87) pbrain-OniX2010.exe: :(
+88) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x3-109(1).psq
+______________________________
+hewer2010 x OniX2010
+pbrain-OniX2010.exe has exited unexpectedly !
+-> F:\projekty\gomocup2010\freestyle1\8x3-11(1).psq
+______________________________
+OniX2010 x hewer2010
+ 7) pbrain-hewer2010.exe: AB :-(
+ 9) pbrain-hewer2010.exe: AB :-(
+11) pbrain-hewer2010.exe: AB :-(
+13) pbrain-hewer2010.exe: AB :-(
+14) pbrain-OniX2010.exe: :)
+17) pbrain-hewer2010.exe: AB :-(
+19) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: AB :-(
+23) pbrain-hewer2010.exe: :-((
+27) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\3x8-29(1).psq
+______________________________
+OniX2010 x goro2010
+56) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x7-75(1).psq
+______________________________
+OniX2010 x pela
+16) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x4-37(1).psq
+______________________________
+Tito2010 x pela
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 6860875 speed= 572669n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 10795443 speed= 567593n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 14183545 speed= 551072n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 8821211 speed= 552068n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 8370286 speed= 768443n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 1279913 speed= 797313n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 2159326 speed= 826594n/s
+20) pbrain-Tito2010.exe: AB depth= 16 node= 7446014 speed= 828405n/s
+22) pbrain-Tito2010.exe: AB depth= 16 node= 8140027 speed= 819674n/s
+24) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x4-31(2).psq
+______________________________
+goro2010 x pela
+-> F:\projekty\gomocup2010\freestyle1\7x4-43(1).psq
+______________________________
+swine2010 x pela
+ 6) pbrain-swine2010.exe: 11-2       8,43  4/443179
+ 8) pbrain-swine2010.exe:  7-2      15,77  2/185222
+10) pbrain-swine2010.exe:  7-2      16,28 25/290326
+12) pbrain-swine2010.exe:  7-2      16,85 15/89800
+14) pbrain-swine2010.exe:  7-2      18,75 10110/152213
+16) pbrain-swine2010.exe:  8-2      29,68 15/334357
+18) pbrain-swine2010.exe:  7-2      28,26 14/218147
+20) pbrain-swine2010.exe:  7-2      26,84 14/218222
+22) pbrain-swine2010.exe:  7-2      26,05  4/156456
+24) pbrain-swine2010.exe:  7-2      22,89 25/142798
+26) pbrain-swine2010.exe:  7-2      23,03 16/119865
+28) pbrain-swine2010.exe:  7-2      21,46  1/104594
+30) pbrain-swine2010.exe:  7-1      18,14 23/77526
+32) pbrain-swine2010.exe:  6-1      16,32  3/58245
+34) pbrain-swine2010.exe:  7-1      18,64 13602/71493
+36) pbrain-swine2010.exe:  7-1      25,57 12/115522
+38) pbrain-swine2010.exe:  6-1        :-]  2/90831
+40) pbrain-swine2010.exe:  6-1        :-]  6/89815
+42) pbrain-swine2010.exe:  6-1      23,06  1/86983
+44) pbrain-swine2010.exe:  6-1      16,54  6/79105
+46) pbrain-swine2010.exe:  6-1      16,02  3/125939
+48) pbrain-swine2010.exe:  5-1      15,17  1/19619
+50) pbrain-swine2010.exe:  5-1      12,19  2/18599
+52) pbrain-swine2010.exe:  7-1      12,35  2/46254
+54) pbrain-swine2010.exe:  9-1       8,12  7/37220
+56) pbrain-swine2010.exe:  7-0      11,61  1/42084
+58) pbrain-swine2010.exe:  7-0       9,49  1/37028
+60) pbrain-swine2010.exe:  7-0       6,14  8/35424
+62) pbrain-swine2010.exe:  7-0       2,95 11/41559
+64) pbrain-swine2010.exe:  7-0       0,96  1/49766
+66) pbrain-swine2010.exe:  7-0      -5,43  3/38033
+68) pbrain-swine2010.exe:  6-0     -11,92  3/23342
+70) pbrain-swine2010.exe:  7-0     -18,93 14/83414
+72) pbrain-swine2010.exe:  8-0        :-[  1/1835
+74) pbrain-swine2010.exe:  6-0        :-[  2/392
+76) pbrain-swine2010.exe:  4-0        :-[  3/193
+78) pbrain-swine2010.exe:  2-0        :-[ 14/17
+80) pbrain-swine2010.exe:  1-0       0,00  0/0
+82) pbrain-swine2010.exe:  3-0        :-[  1/8
+84) pbrain-swine2010.exe:  2-0        :-[  2/6
+86) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x4-88(1).psq
+______________________________
+hewer2010 x Kanec
+12) pbrain-hewer2010.exe: AB :-)
+14) pbrain-hewer2010.exe: AB :-)
+18) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+46) pbrain-hewer2010.exe: AB :-)
+48) pbrain-hewer2010.exe: AB :-)
+50) pbrain-hewer2010.exe: AB :-)
+52) pbrain-hewer2010.exe: AB :-)
+54) pbrain-hewer2010.exe: :-))
+56) pbrain-hewer2010.exe: :-))
+58) pbrain-hewer2010.exe:    .-. 
+58) pbrain-hewer2010.exe:   o   \     .-. 
+58) pbrain-hewer2010.exe:       .----.'     \ 
+58) pbrain-hewer2010.exe:     .'o)   / `.    o 
+58) pbrain-hewer2010.exe:   /              | 
+58) pbrain-hewer2010.exe:   \_)          /
+58) pbrain-hewer2010.exe:     '__/   /   
+58) pbrain-hewer2010.exe:      `.      |  
+58) pbrain-hewer2010.exe:       |       \  
+58) pbrain-hewer2010.exe:   .--/`-.     / / 
+58) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x2-59(1).psq
+______________________________
+Kanec x hewer2010
+ 9) pbrain-hewer2010.exe: AB :-(
+37) pbrain-hewer2010.exe: AB :-)
+41) pbrain-hewer2010.exe: AB :-)
+43) pbrain-hewer2010.exe: AB :-)
+45) pbrain-hewer2010.exe: :-))
+47) pbrain-hewer2010.exe: :-))
+49) pbrain-hewer2010.exe:    .-. 
+49) pbrain-hewer2010.exe:   o   \     .-. 
+49) pbrain-hewer2010.exe:       .----.'     \ 
+49) pbrain-hewer2010.exe:     .'o)   / `.    o 
+49) pbrain-hewer2010.exe:   /              | 
+49) pbrain-hewer2010.exe:   \_)          /
+49) pbrain-hewer2010.exe:     '__/   /   
+49) pbrain-hewer2010.exe:      `.      |  
+49) pbrain-hewer2010.exe:       |       \  
+49) pbrain-hewer2010.exe:   .--/`-.     / / 
+49) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\2x8-50(1).psq
+______________________________
+pela x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 4108051 speed= 690171n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 10819923 speed= 594170n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 1877262 speed= 608930n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 3423977 speed= 791651n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 3486395 speed= 688412n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 2146927 speed= 661007n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 912047 speed= 656936n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 589506 speed= 742816n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 1144931 speed= 615824n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 3122500 speed= 563983n/s
+25) pbrain-Tito2010.exe: AB depth= 16 node= 6377450 speed= 565637n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 12868293 speed= 583013n/s
+29) pbrain-Tito2010.exe: AB depth= 16 node= 5558647 speed= 631831n/s
+31) pbrain-Tito2010.exe: AB depth= 16 node= 8238234 speed= 678338n/s
+33) pbrain-Tito2010.exe: AB depth= 16 node= 2279430 speed= 597682n/s
+35) pbrain-Tito2010.exe: AB depth= 16 node= 2270396 speed= 576457n/s
+37) pbrain-Tito2010.exe: AB depth= 16 node= 12968522 speed= 556680n/s
+39) pbrain-Tito2010.exe: AB depth= 16 node= 14524268 speed= 675147n/s
+41) pbrain-Tito2010.exe: AB depth= 16 node= 15165469 speed= 656991n/s
+43) pbrain-Tito2010.exe: AB depth= 16 node= 15246522 speed= 671468n/s
+45) pbrain-Tito2010.exe: AB depth= 16 node= 29502931 speed= 634824n/s
+47) pbrain-Tito2010.exe: AB depth= 16 node= 12140369 speed= 592772n/s
+49) pbrain-Tito2010.exe: AB depth= 16 node= 20300395 speed= 598235n/s
+51) pbrain-Tito2010.exe: AB depth= 16 node= 17488441 speed= 634977n/s
+53) pbrain-Tito2010.exe: AB depth= 16 node= 13763572 speed= 617465n/s
+55) pbrain-Tito2010.exe: AB depth= 16 node= 9475511 speed= 750886n/s
+57) pbrain-Tito2010.exe: AB depth= 16 node= 6580931 speed= 595155n/s
+59) pbrain-Tito2010.exe: AB depth= 16 node= 3770983 speed= 603490n/s
+61) pbrain-Tito2010.exe: AB depth= 16 node= 12174249 speed= 572770n/s
+65) pbrain-Tito2010.exe: AB depth= 16 node= 27927327 speed= 585829n/s
+67) pbrain-Tito2010.exe: AB depth= 16 node= 88943282 speed= 537014n/s
+69) pbrain-Tito2010.exe: AB depth= 14 node= 20839067 speed= 521852n/s
+77) pbrain-Tito2010.exe: AB depth= 14 node= 20817879 speed= 705823n/s
+79) pbrain-Tito2010.exe: AB depth= 14 node= 27684739 speed= 580188n/s
+81) pbrain-Tito2010.exe: AB depth= 14 node= 17000415 speed= 577507n/s
+83) pbrain-Tito2010.exe: AB depth= 14 node= 6673126 speed= 604878n/s
+85) pbrain-Tito2010.exe: AB depth= 14 node= 5888895 speed= 552481n/s
+87) pbrain-Tito2010.exe: AB depth= 14 node= 5190075 speed= 525001n/s
+89) pbrain-Tito2010.exe: AB depth= 14 node= 8247407 speed= 683281n/s
+93) pbrain-Tito2010.exe: AB depth= 14 node= 33259323 speed= 576850n/s
+95) pbrain-Tito2010.exe: AB depth= 14 node= 22618419 speed= 553971n/s
+97) pbrain-Tito2010.exe: AB depth= 14 node= 14710120 speed= 507436n/s
+99) pbrain-Tito2010.exe: AB depth= 12 node= 7869762 speed= 543417n/s
+101) pbrain-Tito2010.exe: AB depth= 12 node= 5632168 speed= 496690n/s
+103) pbrain-Tito2010.exe: AB depth= 12 node= 4484590 speed= 515043n/s
+105) pbrain-Tito2010.exe: AB depth= 12 node= 4458937 speed= 492824n/s
+107) pbrain-Tito2010.exe: AB depth= 12 node= 2943576 speed= 467498n/s
+115) pbrain-Tito2010.exe: AB depth= 12 node= 496696 speed= 530543n/s
+117) pbrain-Tito2010.exe: 6...
+119) pbrain-Tito2010.exe: 5...
+121) pbrain-Tito2010.exe: 4...
+123) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\4x6-130(1).psq
+______________________________
+Tito2010 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/402988
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 11968390 speed= 577910n/s
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/305977
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 7970784 speed= 572292n/s
+ 9) pbrain-swine2010.exe:  9-2      -6,42  5/341232
+10) pbrain-Tito2010.exe: AB depth= 16 node= 12700464 speed= 554375n/s
+11) pbrain-swine2010.exe: 10-2      -6,25  2/238832
+12) pbrain-Tito2010.exe: AB depth= 16 node= 2934905 speed= 510897n/s
+13) pbrain-swine2010.exe:  9-2      -7,60  3/445089
+14) pbrain-Tito2010.exe: AB depth= 16 node= 15791285 speed= 575395n/s
+15) pbrain-swine2010.exe:  8-2      -8,76 15/239672
+16) pbrain-Tito2010.exe: AB depth= 16 node= 11702038 speed= 794391n/s
+17) pbrain-swine2010.exe: 19-2      -7,22  2/218502
+19) pbrain-swine2010.exe:  3-2     -13,12  8/46
+21) pbrain-swine2010.exe:  2-2     -10,74  9/21
+22) pbrain-Tito2010.exe: AB depth= 16 node= 1619960 speed= 564674n/s
+23) pbrain-swine2010.exe:  2-2      -9,37  2/19
+24) pbrain-Tito2010.exe: AB depth= 16 node= 259755 speed= 552363n/s
+25) pbrain-swine2010.exe:  1-2       0,00  0/0
+26) pbrain-Tito2010.exe: AB depth= 16 node= 390721 speed= 762584n/s
+27) pbrain-swine2010.exe:  1-2       0,00  0/0
+28) pbrain-Tito2010.exe: AB depth= 16 node= 150729 speed= 703682n/s
+29) pbrain-swine2010.exe:  1-2       0,00  0/0
+30) pbrain-Tito2010.exe: AB depth= 16 node= 934891 speed= 924462n/s
+31) pbrain-swine2010.exe:  4-2        :-]  3/259
+33) pbrain-swine2010.exe:  2-2        :-]  4/147
+34) pbrain-Tito2010.exe: AB depth= 16 node= 159669 speed= 975744n/s
+35) pbrain-swine2010.exe:  1-2       0,00  0/0
+36) pbrain-Tito2010.exe: AB depth= 16 node= 17703 speed= 966709n/s
+37) pbrain-swine2010.exe:  1-2       0,00  0/0
+38) pbrain-Tito2010.exe: AB depth= 16 node= 3211 speed= 910858n/s
+39) pbrain-swine2010.exe:  1-2       0,00  0/0
+40) pbrain-Tito2010.exe: AB depth= 16 node= 1848 speed= 902689n/s
+41) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\6x5-50(1).psq
+______________________________
+pela x goro2010
+-> F:\projekty\gomocup2010\freestyle1\4x7-80(1).psq
+______________________________
+pela x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/402434
+ 7) pbrain-swine2010.exe: 10-2       2,50 14/247716
+ 9) pbrain-swine2010.exe: 11-2       3,40  1/175586
+11) pbrain-swine2010.exe: 10-2       2,93  3/530456
+13) pbrain-swine2010.exe:  9-2       2,02  1/229101
+15) pbrain-swine2010.exe:  9-2      -0,43  8/405478
+17) pbrain-swine2010.exe:  7-2       6,02  8/130323
+19) pbrain-swine2010.exe:  5-2       6,02 25/32950
+21) pbrain-swine2010.exe:  5-2      10,10  2/27302
+23) pbrain-swine2010.exe:  5-2       4,36 14/39163
+25) pbrain-swine2010.exe:  6-2       2,04 22/66781
+27) pbrain-swine2010.exe:  6-2       7,54 14/135957
+29) pbrain-swine2010.exe:  6-2       4,35  2/100789
+31) pbrain-swine2010.exe:  7-2       0,75  2/92287
+33) pbrain-swine2010.exe:  7-2      -2,20  7/107574
+35) pbrain-swine2010.exe:  8-2     -12,11  1/69356
+37) pbrain-swine2010.exe:  6-2      -2,00 17/68956
+39) pbrain-swine2010.exe:  9-2      -1,81  6/49040
+41) pbrain-swine2010.exe: 10-1      -1,42  3/98824
+43) pbrain-swine2010.exe:  1-1       0,00  0/0
+45) pbrain-swine2010.exe:  8-1       4,86  1/103383
+47) pbrain-swine2010.exe:  9-1       5,04 12/106222
+49) pbrain-swine2010.exe:  2-1       4,02  2/35
+51) pbrain-swine2010.exe:  1-1       0,00  0/0
+53) pbrain-swine2010.exe:  1-1       0,00  0/0
+55) pbrain-swine2010.exe:  7-1      14,37  8/164907
+57) pbrain-swine2010.exe:  6-1      12,18  2/195610
+59) pbrain-swine2010.exe:  7-1       8,94  8/189864
+61) pbrain-swine2010.exe:  7-1       3,25  1/171139
+63) pbrain-swine2010.exe:  7-1       3,35 20/134944
+65) pbrain-swine2010.exe:  6-1       2,63  2/98968
+67) pbrain-swine2010.exe:  7-1      -2,20  2/106427
+69) pbrain-swine2010.exe:  9-1      -6,67  4/317927
+71) pbrain-swine2010.exe:  7-1      -6,70 18/245482
+73) pbrain-swine2010.exe:  9-1      -6,28  3/179272
+75) pbrain-swine2010.exe:  9-0      -5,67  1/122703
+77) pbrain-swine2010.exe:  7-0     -11,40  1/75926
+79) pbrain-swine2010.exe:  7-0     -14,26  4/52770
+81) pbrain-swine2010.exe:  9-0      -9,65 11/128836
+83) pbrain-swine2010.exe:  9-0      -2,25  2/88531
+85) pbrain-swine2010.exe:  9-0      -3,19  3/117896
+87) pbrain-swine2010.exe:  8-0      -1,60  6/186491
+89) pbrain-swine2010.exe:  7-0      -2,94 11/69171
+91) pbrain-swine2010.exe:  7-0      -1,34 16/113618
+93) pbrain-swine2010.exe:  7-0      -2,80  8/102118
+95) pbrain-swine2010.exe:  9-0       5,56  8/72517
+97) pbrain-swine2010.exe:  8-0       6,44  3/147152
+99) pbrain-swine2010.exe:  7-0       6,80  7/109507
+101) pbrain-swine2010.exe:  7-0       3,54  2/96783
+103) pbrain-swine2010.exe:  7-0      -1,98  2/58874
+105) pbrain-swine2010.exe:  6-0      -5,07  8/94850
+107) pbrain-swine2010.exe:  7-0      -7,04 16/91768
+109) pbrain-swine2010.exe:  6-0      -5,75 16/81606
+111) pbrain-swine2010.exe:  7-0       1,59 12/71768
+113) pbrain-swine2010.exe:  7-0       1,41 19/75070
+115) pbrain-swine2010.exe:  7-0       5,14  2/52152
+117) pbrain-swine2010.exe:  7-0       3,92  3/10943
+119) pbrain-swine2010.exe:  5-0       3,92 16/16478
+121) pbrain-swine2010.exe:  5-0       5,96 15/8228
+123) pbrain-swine2010.exe:  1-0       0,00  0/0
+125) pbrain-swine2010.exe:  5-0      12,13 17/12747
+127) pbrain-swine2010.exe:  5-0       5,37  7/8817
+129) pbrain-swine2010.exe:  5-0       2,17  8/8171
+131) pbrain-swine2010.exe:  5-0      -7,18  5/6328
+133) pbrain-swine2010.exe:  6-0     -15,50  2/14342
+135) pbrain-swine2010.exe:  8-0     -31,93  3/15580
+137) pbrain-swine2010.exe:  6-0     -32,72 12/19132
+139) pbrain-swine2010.exe:  6-0     -31,08 15/24740
+141) pbrain-swine2010.exe:  7-0     -27,86 16/9460
+143) pbrain-swine2010.exe:  8-0        :-[ 17/40858
+145) pbrain-swine2010.exe:  6-0        :-[  3/17855
+147) pbrain-swine2010.exe:  2-0     -36,92  3/39
+149) pbrain-swine2010.exe:  1-0       0,00  0/0
+151) pbrain-swine2010.exe:  3-0        :-[  1/8
+152) pbrain-pela.exe:  I win !
+153) pbrain-swine2010.exe:  1-0       0,00  0/0
+155) pbrain-swine2010.exe:  1-0       0,00  0/0
+157) pbrain-swine2010.exe:  1-0       0,00  0/0
+159) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\4x5-161(1).psq
+______________________________
+hewer2010 x pela
+ 8) pbrain-hewer2010.exe: AB :-)
+10) pbrain-hewer2010.exe: AB :-)
+20) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+44) pbrain-hewer2010.exe: AB :-)
+70) pbrain-hewer2010.exe: AB :-)
+72) pbrain-hewer2010.exe: AB :-)
+74) pbrain-hewer2010.exe: AB :-)
+76) pbrain-hewer2010.exe: AB :-)
+78) pbrain-hewer2010.exe: AB :-)
+80) pbrain-hewer2010.exe: AB :-)
+82) pbrain-hewer2010.exe: AB :-)
+84) pbrain-hewer2010.exe: :-))
+86) pbrain-hewer2010.exe:    .-. 
+86) pbrain-hewer2010.exe:   o   \     .-. 
+86) pbrain-hewer2010.exe:       .----.'     \ 
+86) pbrain-hewer2010.exe:     .'o)   / `.    o 
+86) pbrain-hewer2010.exe:   /              | 
+86) pbrain-hewer2010.exe:   \_)          /
+86) pbrain-hewer2010.exe:     '__/   /   
+86) pbrain-hewer2010.exe:      `.      |  
+86) pbrain-hewer2010.exe:       |       \  
+86) pbrain-hewer2010.exe:   .--/`-.     / / 
+86) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x4-87(1).psq
+______________________________
+goro2010 x swine2010
+ 5) pbrain-swine2010.exe: 10-2      -5,01  2/144592
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/358853
+ 9) pbrain-swine2010.exe:  9-2      -6,33 12/214289
+11) pbrain-swine2010.exe: 10-2      -6,25  2/242423
+13) pbrain-swine2010.exe:  8-2      -6,25  3/168308
+15) pbrain-swine2010.exe:  7-2      -7,60  7/154874
+17) pbrain-swine2010.exe:  8-2     -12,66 31/128609
+19) pbrain-swine2010.exe:  7-2      -2,00 15/47312
+21) pbrain-swine2010.exe:  8-2      -6,16  3/38661
+23) pbrain-swine2010.exe:  8-2      -4,19  2/115677
+25) pbrain-swine2010.exe:  2-2      -4,91  3/41
+27) pbrain-swine2010.exe:  2-2     -12,83  9/15
+29) pbrain-swine2010.exe:  2-2        :-[  2/15
+31) pbrain-swine2010.exe:  1-2       0,00  0/0
+33) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\7x5-35(1).psq
+______________________________
+hewer2010 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -4,73  2/402390
+ 7) pbrain-swine2010.exe: 10-2      -5,42  3/308819
+ 9) pbrain-swine2010.exe: 10-2      -6,47  1/441685
+11) pbrain-swine2010.exe: 10-2      -4,79  4/218257
+13) pbrain-swine2010.exe:  9-2     -10,00  1/558500
+15) pbrain-swine2010.exe:  8-2      -8,84  8/160749
+17) pbrain-swine2010.exe:  8-2     -13,16  2/157100
+19) pbrain-swine2010.exe:  7-2      -5,76  1/75456
+21) pbrain-swine2010.exe:  8-2       1,08  3/46839
+23) pbrain-swine2010.exe:  9-2       6,87  2/58373
+25) pbrain-swine2010.exe:  8-2      10,97  3/166081
+27) pbrain-swine2010.exe:  7-2      11,73  2/39774
+29) pbrain-swine2010.exe:  6-2        :-]  6/2184
+30) pbrain-hewer2010.exe: AB :-(
+31) pbrain-swine2010.exe:  1-2       0,00  0/0
+32) pbrain-hewer2010.exe: AB :-(
+33) pbrain-swine2010.exe:  1-2       0,00  0/0
+35) pbrain-swine2010.exe:  1-2        :-]  0/0
+38) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\8x5-40(1).psq
+______________________________
+swine2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 5756899 speed= 722358n/s
+ 6) pbrain-swine2010.exe: 11-2       5,42  5/456003
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 3084751 speed= 647903n/s
+ 8) pbrain-swine2010.exe: 10-2       6,42 29/741011
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 7328508 speed= 601834n/s
+10) pbrain-swine2010.exe:  9-2       5,87 10/379033
+11) pbrain-Tito2010.exe: AB depth= 16 node= 10297284 speed= 623988n/s
+12) pbrain-swine2010.exe: 10-2      11,57  3/871351
+13) pbrain-Tito2010.exe: AB depth= 16 node= 8508674 speed= 604460n/s
+14) pbrain-swine2010.exe:  9-2      11,98 17/386987
+15) pbrain-Tito2010.exe: AB depth= 16 node= 29574124 speed= 592547n/s
+16) pbrain-swine2010.exe:  9-2      12,88 11/195056
+17) pbrain-Tito2010.exe: AB depth= 16 node= 29422984 speed= 554364n/s
+18) pbrain-swine2010.exe:  8-2      12,41 15/471550
+19) pbrain-Tito2010.exe: AB depth= 16 node= 111481272 speed= 593763n/s
+20) pbrain-swine2010.exe:  7-2      14,63 123305/250657
+21) pbrain-Tito2010.exe: AB depth= 16 node= 15397206 speed= 639888n/s
+22) pbrain-swine2010.exe:  9-2      12,05  9/333758
+23) pbrain-Tito2010.exe: AB depth= 16 node= 25380303 speed= 612063n/s
+24) pbrain-swine2010.exe:  8-2      12,63  2/561494
+26) pbrain-swine2010.exe:  8-2      11,11 10/481201
+27) pbrain-Tito2010.exe: AB depth= 16 node= 21900203 speed= 598668n/s
+28) pbrain-swine2010.exe:  8-2      11,74  2/444115
+30) pbrain-swine2010.exe:  8-2      10,87 20/440330
+31) pbrain-Tito2010.exe: AB depth= 16 node= 12834770 speed= 670603n/s
+32) pbrain-swine2010.exe:  7-2      12,87  1/101462
+34) pbrain-swine2010.exe:  8-2       9,33  9/559910
+35) pbrain-Tito2010.exe: AB depth= 16 node= 13616058 speed= 661802n/s
+36) pbrain-swine2010.exe:  7-2       7,18 14/218923
+37) pbrain-Tito2010.exe: AB depth= 16 node= 19243575 speed= 612197n/s
+38) pbrain-swine2010.exe:  7-2       2,67  3/122181
+40) pbrain-swine2010.exe:  8-1      -3,11  5/178040
+42) pbrain-swine2010.exe:  9-1      -9,36 12/217660
+43) pbrain-Tito2010.exe: AB depth= 16 node= 42369149 speed= 540067n/s
+44) pbrain-swine2010.exe:  7-1      -9,36  5/72415
+46) pbrain-swine2010.exe: 10-1        :-[  2/346347
+48) pbrain-swine2010.exe:  8-1        :-[  2/23064
+50) pbrain-swine2010.exe:  6-1        :-[  3/7098
+51) pbrain-Tito2010.exe: 5...
+52) pbrain-swine2010.exe:  2-1        :-[  2/4
+53) pbrain-Tito2010.exe: 4...
+54) pbrain-swine2010.exe:  2-1        :-[  3/4
+55) pbrain-Tito2010.exe: 3...
+56) pbrain-swine2010.exe:  2-1        :-[  2/3
+58) pbrain-swine2010.exe:  3-1        :-[  1/6
+60) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x6-62(1).psq
+______________________________
+goro2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 5365800 speed= 732123n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 3225740 speed= 645735n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 8298379 speed= 600338n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 10184352 speed= 554139n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 3276521 speed= 527514n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 93161 speed= 530294n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 54332 speed= 846878n/s
+19) pbrain-Tito2010.exe: 6...
+21) pbrain-Tito2010.exe: 5...
+23) pbrain-Tito2010.exe: 4...
+-> F:\projekty\gomocup2010\freestyle1\7x6-32(1).psq
+______________________________
+swine2010 x hewer2010
+ 6) pbrain-swine2010.exe: 10-2       6,87  8/789705
+ 7) pbrain-hewer2010.exe: AB :-(
+ 8) pbrain-swine2010.exe: 10-2       8,83  5/401999
+ 9) pbrain-hewer2010.exe: AB :-(
+10) pbrain-swine2010.exe:  9-2       9,92  2/182439
+11) pbrain-hewer2010.exe: AB :-(
+12) pbrain-swine2010.exe:  6-2        :-] 29/42473
+13) pbrain-hewer2010.exe: AB :-(
+14) pbrain-swine2010.exe:  4-2        :-]  5/3440
+15) pbrain-hewer2010.exe: AB :-(
+16) pbrain-swine2010.exe:  1-2        :-]  0/0
+18) pbrain-swine2010.exe:  1-2        :-]  0/0
+19) pbrain-hewer2010.exe: AB :-(
+20) pbrain-swine2010.exe:  1-2        :-]  0/0
+21) pbrain-hewer2010.exe: AB :-(
+22) pbrain-swine2010.exe:  1-2        :-]  0/0
+27) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\5x8-29(1).psq
+______________________________
+swine2010 x goro2010
+ 6) pbrain-swine2010.exe: 10-2       4,73  5/296249
+ 8) pbrain-swine2010.exe:  9-2       5,42 29/347379
+10) pbrain-swine2010.exe:  8-2       8,85  5/387066
+12) pbrain-swine2010.exe:  7-2       9,53 2553/149277
+14) pbrain-swine2010.exe:  7-2      13,64  1/59517
+16) pbrain-swine2010.exe:  7-2      10,90  1/48667
+18) pbrain-swine2010.exe:  8-2       5,91  9/189524
+20) pbrain-swine2010.exe:  9-2       4,10  7/70733
+22) pbrain-swine2010.exe: 11-2       4,99  2/81409
+24) pbrain-swine2010.exe:  2-2      -0,48  2/11
+26) pbrain-swine2010.exe:  7-2       4,99 16/72352
+28) pbrain-swine2010.exe:  1-2       0,00  0/0
+30) pbrain-swine2010.exe:  7-2    1004,28  1/47606
+32) pbrain-swine2010.exe:  7-2    1001,91  6/32343
+34) pbrain-swine2010.exe:  7-2    1007,35 17/64762
+36) pbrain-swine2010.exe:  1-2       0,00  0/0
+38) pbrain-swine2010.exe:  1-2       0,00  0/0
+40) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x7-63(1).psq
+______________________________
+hewer2010 x goro2010
+22) pbrain-hewer2010.exe: AB :-(
+28) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\8x7-30(1).psq
+______________________________
+pela x hewer2010
+15) pbrain-hewer2010.exe: AB :-)
+17) pbrain-hewer2010.exe: AB :-)
+19) pbrain-hewer2010.exe: AB :-)
+23) pbrain-hewer2010.exe: AB :-)
+25) pbrain-hewer2010.exe: AB :-)
+39) pbrain-hewer2010.exe: AB :-)
+41) pbrain-hewer2010.exe: AB :-)
+43) pbrain-hewer2010.exe: AB :-)
+45) pbrain-hewer2010.exe: AB :-)
+47) pbrain-hewer2010.exe: AB :-)
+73) pbrain-hewer2010.exe: AB :-(
+75) pbrain-hewer2010.exe: AB :-(
+77) pbrain-hewer2010.exe: AB :-(
+79) pbrain-hewer2010.exe: AB :-(
+81) pbrain-hewer2010.exe: AB :-(
+82) pbrain-pela.exe:  I win !
+109) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\4x8-111(1).psq
+______________________________
+hewer2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 6503627 speed= 694157n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 3415362 speed= 609009n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 6017238 speed= 553195n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 11023490 speed= 580921n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 36925949 speed= 556295n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 49498683 speed= 555112n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 15049810 speed= 542926n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 8656572 speed= 564944n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 7336292 speed= 575682n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 31469733 speed= 556139n/s
+25) pbrain-Tito2010.exe: AB depth= 16 node= 17195095 speed= 546552n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 7678647 speed= 562818n/s
+29) pbrain-Tito2010.exe: AB depth= 16 node= 3738161 speed= 495343n/s
+31) pbrain-Tito2010.exe: AB depth= 16 node= 807601 speed= 572010n/s
+33) pbrain-Tito2010.exe: AB depth= 16 node= 725862 speed= 529188n/s
+35) pbrain-Tito2010.exe: AB depth= 16 node= 1238777 speed= 570409n/s
+37) pbrain-Tito2010.exe: AB depth= 16 node= 872189 speed= 529328n/s
+41) pbrain-Tito2010.exe: AB depth= 16 node= 1242985 speed= 583828n/s
+43) pbrain-Tito2010.exe: AB depth= 16 node= 1261152 speed= 544895n/s
+45) pbrain-Tito2010.exe: AB depth= 16 node= 681803 speed= 566436n/s
+46) pbrain-hewer2010.exe: AB :-(
+47) pbrain-Tito2010.exe: 10...
+48) pbrain-hewer2010.exe: AB :-(
+50) pbrain-hewer2010.exe: AB :-(
+51) pbrain-Tito2010.exe: 5...
+53) pbrain-Tito2010.exe: 4...
+55) pbrain-Tito2010.exe: 3...
+60) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\8x6-62(1).psq
+______________________________
+Tito2010 x hewer2010
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 5544018 speed= 534228n/s
+ 7) pbrain-hewer2010.exe: AB :-(
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 4006588 speed= 550342n/s
+ 9) pbrain-hewer2010.exe: AB :-(
+10) pbrain-Tito2010.exe: AB depth= 16 node= 8279161 speed= 505019n/s
+11) pbrain-hewer2010.exe: AB :-(
+12) pbrain-Tito2010.exe: AB depth= 16 node= 8052380 speed= 617081n/s
+13) pbrain-hewer2010.exe: AB :-(
+14) pbrain-Tito2010.exe: 6...
+16) pbrain-Tito2010.exe: 5...
+17) pbrain-hewer2010.exe: AB :-(
+18) pbrain-Tito2010.exe: 4...
+19) pbrain-hewer2010.exe: AB :-(
+20) pbrain-Tito2010.exe: 3...
+21) pbrain-hewer2010.exe: :-((
+25) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\6x8-27(1).psq
+______________________________
+goro2010 x hewer2010
+19) pbrain-hewer2010.exe: AB :-(
+23) pbrain-hewer2010.exe: AB :-(
+25) pbrain-hewer2010.exe: AB :-(
+27) pbrain-hewer2010.exe: AB :-(
+29) pbrain-hewer2010.exe: AB :-(
+35) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\7x8-37(1).psq
+______________________________
+HfM2010 x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\0x1-41(1).psq
+______________________________
+Tito2010 x goro2010
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 6039405 speed= 569467n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 8764000 speed= 566375n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 19775258 speed= 557249n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 24070609 speed= 541989n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 19862090 speed= 653001n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 17975193 speed= 590772n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 13522761 speed= 601180n/s
+20) pbrain-Tito2010.exe: AB depth= 16 node= 9320875 speed= 612133n/s
+22) pbrain-Tito2010.exe: AB depth= 16 node= 5031597 speed= 708838n/s
+24) pbrain-Tito2010.exe: AB depth= 16 node= 23611484 speed= 519359n/s
+26) pbrain-Tito2010.exe: AB depth= 16 node= 18312094 speed= 502037n/s
+28) pbrain-Tito2010.exe: AB depth= 16 node= 26067214 speed= 458355n/s
+30) pbrain-Tito2010.exe: AB depth= 16 node= 11489768 speed= 569766n/s
+34) pbrain-Tito2010.exe: AB depth= 14 node= 15737133 speed= 510545n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 12075226 speed= 493221n/s
+38) pbrain-Tito2010.exe: AB depth= 14 node= 11776436 speed= 607636n/s
+40) pbrain-Tito2010.exe: AB depth= 14 node= 15455161 speed= 664722n/s
+46) pbrain-Tito2010.exe: AB depth= 14 node= 426598 speed= 634912n/s
+48) pbrain-Tito2010.exe: AB depth= 14 node= 279888 speed= 615255n/s
+50) pbrain-Tito2010.exe: AB depth= 14 node= 50565 speed= 592259n/s
+52) pbrain-Tito2010.exe: AB depth= 14 node= 2974 speed= 776265n/s
+54) pbrain-Tito2010.exe: AB depth= 14 node= 2789137 speed= 998555n/s
+56) pbrain-Tito2010.exe: AB depth= 14 node= 2546506 speed= 999629n/s
+58) pbrain-Tito2010.exe: AB depth= 14 node= 1032286 speed= 921595n/s
+60) pbrain-Tito2010.exe: AB depth= 14 node= 2251 speed= 769472n/s
+-> F:\projekty\gomocup2010\freestyle1\6x7-68(1).psq
+______________________________
+HfM2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\0x2-45(1).psq
+______________________________
+Kanec x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\2x0-53(1).psq
+______________________________
+HfM2010 x swine2010
+ 5) pbrain-swine2010.exe: 10-2      -3,11  1/148846
+ 7) pbrain-swine2010.exe: 11-2       4,22  4/111153
+ 9) pbrain-swine2010.exe: 13-2      -0,14  3/131800
+11) pbrain-swine2010.exe:  1-2       0,00  0/0
+13) pbrain-swine2010.exe:  2-2     -19,37  3/27
+15) pbrain-swine2010.exe:  3-2        :-[  1/26
+17) pbrain-swine2010.exe:  2-2        :-[  3/4
+19) pbrain-swine2010.exe:  1-2       0,00  0/0
+21) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\0x5-23(1).psq
+______________________________
+HGarden07 x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\1x0-51(1).psq
+______________________________
+swine2010 x HfM2010
+ 6) pbrain-swine2010.exe: 10-2       5,39 13/345907
+ 8) pbrain-swine2010.exe: 10-2       7,75  1/300475
+10) pbrain-swine2010.exe:  9-2       8,04 15/284642
+12) pbrain-swine2010.exe: 11-2      14,76  1/271273
+14) pbrain-swine2010.exe:  9-2      16,86  1/118722
+16) pbrain-swine2010.exe:  8-2        :-] 19/126905
+18) pbrain-swine2010.exe:  1-2        :-]  0/0
+20) pbrain-swine2010.exe:  1-2        :-]  0/0
+22) pbrain-swine2010.exe:  1-2       0,00  0/0
+24) pbrain-swine2010.exe:  1-2       0,00  0/0
+26) pbrain-swine2010.exe:  1-2       0,00  0/0
+28) pbrain-swine2010.exe:  1-2        :-]  0/0
+30) pbrain-swine2010.exe:  1-2        :-]  0/0
+32) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x0-37(1).psq
+______________________________
+HfM2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1884864 speed= 251636n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 3801562 speed= 297529n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 306980 speed= 205969n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 883859 speed= 215057n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 2631972 speed= 217639n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 3775298 speed= 227372n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 695401 speed= 239380n/s
+19) pbrain-Tito2010.exe: 7...
+21) pbrain-Tito2010.exe: 6...
+23) pbrain-Tito2010.exe: 5...
+25) pbrain-Tito2010.exe: 4...
+27) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\0x6-34(1).psq
+______________________________
+Tito2010 x HfM2010
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 1699531 speed= 227415n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1639957 speed= 265883n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 3173704 speed= 246140n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1823328 speed= 233940n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 6422150 speed= 222721n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 3479943 speed= 224104n/s
+20) pbrain-Tito2010.exe: 14...
+22) pbrain-Tito2010.exe: 10...
+24) pbrain-Tito2010.exe: 9...
+26) pbrain-Tito2010.exe: 8...
+30) pbrain-Tito2010.exe: 6...
+36) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x0-43(1).psq
+______________________________
+HfM2010 x pela
+-> F:\projekty\gomocup2010\freestyle1\0x4-85(1).psq
+______________________________
+HfM2010 x goro2010
+-> F:\projekty\gomocup2010\freestyle1\0x7-62(1).psq
+______________________________
+goro2010 x HfM2010
+-> F:\projekty\gomocup2010\freestyle1\7x0-51(2).psq
+______________________________
+HfM2010 x hewer2010
+59) pbrain-hewer2010.exe: AB :-)
+61) pbrain-hewer2010.exe: AB :-)
+63) pbrain-hewer2010.exe: AB :-)
+65) pbrain-hewer2010.exe: AB :-)
+71) pbrain-hewer2010.exe: :-))
+73) pbrain-hewer2010.exe: :-))
+75) pbrain-hewer2010.exe:    .-. 
+75) pbrain-hewer2010.exe:   o   \     .-. 
+75) pbrain-hewer2010.exe:       .----.'     \ 
+75) pbrain-hewer2010.exe:     .'o)   / `.    o 
+75) pbrain-hewer2010.exe:   /              | 
+75) pbrain-hewer2010.exe:   \_)          /
+75) pbrain-hewer2010.exe:     '__/   /   
+75) pbrain-hewer2010.exe:      `.      |  
+75) pbrain-hewer2010.exe:       |       \  
+75) pbrain-hewer2010.exe:   .--/`-.     / / 
+75) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\0x8-76(1).psq
+______________________________
+HGarden07 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\1x2-56(1).psq
+______________________________
+hewer2010 x HfM2010
+16) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+32) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+40) pbrain-hewer2010.exe: AB :-)
+44) pbrain-hewer2010.exe: :-))
+46) pbrain-hewer2010.exe:    .-. 
+46) pbrain-hewer2010.exe:   o   \     .-. 
+46) pbrain-hewer2010.exe:       .----.'     \ 
+46) pbrain-hewer2010.exe:     .'o)   / `.    o 
+46) pbrain-hewer2010.exe:   /              | 
+46) pbrain-hewer2010.exe:   \_)          /
+46) pbrain-hewer2010.exe:     '__/   /   
+46) pbrain-hewer2010.exe:      `.      |  
+46) pbrain-hewer2010.exe:       |       \  
+46) pbrain-hewer2010.exe:   .--/`-.     / / 
+46) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x0-47(1).psq
+______________________________
+pela x HfM2010
+78) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\4x0-85(1).psq
+______________________________
+Kanec x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\2x1-74(1).psq
+______________________________
+HGarden07 x OniX2010
+15) pbrain-OniX2010.exe: :(
+-> F:\projekty\gomocup2010\freestyle1\1x3-25(1).psq
+______________________________
+HGarden07 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -5,39  1/404027
+ 7) pbrain-swine2010.exe: 11-2      -3,50  1/315345
+ 9) pbrain-swine2010.exe:  9-2      -1,60  9/129979
+11) pbrain-swine2010.exe:  9-2      -2,95  7/184877
+13) pbrain-swine2010.exe:  8-2      -3,07  2/137623
+15) pbrain-swine2010.exe:  8-2      -1,80  7/116182
+17) pbrain-swine2010.exe:  6-2        :-]  9/21967
+19) pbrain-swine2010.exe:  1-2        :-]  0/0
+21) pbrain-swine2010.exe:  1-2        :-]  0/0
+23) pbrain-swine2010.exe:  1-2        :-]  0/0
+25) pbrain-swine2010.exe:  1-2        :-]  0/0
+27) pbrain-swine2010.exe:  1-2        :-]  0/0
+29) pbrain-swine2010.exe:  1-2        :-]  0/0
+31) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\1x5-36(1).psq
+______________________________
+HGarden07 x pela
+-> F:\projekty\gomocup2010\freestyle1\1x4-49(1).psq
+______________________________
+swine2010 x HGarden07
+ 6) pbrain-swine2010.exe: 10-2       5,39 13/345315
+ 8) pbrain-swine2010.exe: 10-2       8,52  1/268879
+10) pbrain-swine2010.exe:  9-2      10,01 13/332109
+12) pbrain-swine2010.exe:  9-2       9,90 10/366867
+14) pbrain-swine2010.exe:  9-2      10,90  8/427832
+16) pbrain-swine2010.exe:  9-2      10,95  9/275037
+18) pbrain-swine2010.exe:  9-2      12,75  3/357413
+20) pbrain-swine2010.exe:  8-2      14,69  5/267387
+22) pbrain-swine2010.exe:  7-2      16,73 28/146533
+24) pbrain-swine2010.exe:  6-2        :-] 21/147904
+26) pbrain-swine2010.exe:  1-2       0,00  0/0
+28) pbrain-swine2010.exe:  4-2        :-]  3/1189
+30) pbrain-swine2010.exe:  1-2        :-]  0/0
+32) pbrain-swine2010.exe:  1-2        :-]  0/0
+34) pbrain-swine2010.exe:  1-2        :-]  0/0
+36) pbrain-swine2010.exe:  1-2       0,00  0/0
+38) pbrain-swine2010.exe:  1-2       0,00  0/0
+40) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x1-45(1).psq
+______________________________
+HGarden07 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 4786460 speed= 593826n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 10895372 speed= 601478n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 11164293 speed= 646875n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 20771530 speed= 658668n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 162226762 speed= 584366n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 3979456 speed= 638582n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 3023601 speed= 598397n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 4203591 speed= 638652n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 2396476 speed= 491657n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 1420307 speed= 661647n/s
+25) pbrain-Tito2010.exe: AB depth= 16 node= 306890 speed= 857593n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 18949 speed= 673250n/s
+31) pbrain-Tito2010.exe: AB depth= 16 node= 36363 speed= 408247n/s
+33) pbrain-Tito2010.exe: AB depth= 16 node= 1546 speed= 634812n/s
+-> F:\projekty\gomocup2010\freestyle1\1x6-41(1).psq
+______________________________
+OniX2010 x HGarden07
+14) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x1-33(1).psq
+______________________________
+pela x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\4x1-52(1).psq
+______________________________
+HGarden07 x hewer2010
+15) pbrain-hewer2010.exe: AB :-(
+17) pbrain-hewer2010.exe: AB :-(
+19) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: AB :-(
+25) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\1x8-27(1).psq
+______________________________
+Tito2010 x HGarden07
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 5904796 speed= 538395n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 20899234 speed= 564871n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 3576947 speed= 547057n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 3456772 speed= 524167n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 2806756 speed= 696676n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 5189659 speed= 700417n/s
+20) pbrain-Tito2010.exe: AB depth= 16 node= 2386772 speed= 655882n/s
+22) pbrain-Tito2010.exe: AB depth= 16 node= 9624127 speed= 625183n/s
+24) pbrain-Tito2010.exe: AB depth= 16 node= 19157665 speed= 591451n/s
+26) pbrain-Tito2010.exe: AB depth= 16 node= 21217302 speed= 611948n/s
+28) pbrain-Tito2010.exe: AB depth= 16 node= 23512660 speed= 572109n/s
+32) pbrain-Tito2010.exe: AB depth= 16 node= 12004965 speed= 518653n/s
+34) pbrain-Tito2010.exe: 10...
+38) pbrain-Tito2010.exe: 8...
+44) pbrain-Tito2010.exe: 5...
+46) pbrain-Tito2010.exe: 4...
+-> F:\projekty\gomocup2010\freestyle1\6x1-53(1).psq
+______________________________
+HGarden07 x goro2010
+-> F:\projekty\gomocup2010\freestyle1\1x7-40(1).psq
+______________________________
+Kanec x OniX2010
+pbrain-OniX2010.exe has exited unexpectedly !
+-> F:\projekty\gomocup2010\freestyle1\2x3-7(1).psq
+______________________________
+OniX2010 x Kanec
+30) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x2-51(1).psq
+______________________________
+HfM2010 x OniX2010
+43) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\0x3-62(1).psq
+______________________________
+hewer2010 x HGarden07
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-(
+40) pbrain-hewer2010.exe: AB :-(
+42) pbrain-hewer2010.exe: AB :-(
+44) pbrain-hewer2010.exe: AB :-(
+52) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\8x1-54(1).psq
+______________________________
+Kanec x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -5,39  1/404027
+ 7) pbrain-swine2010.exe: 11-2       4,22  4/111196
+ 9) pbrain-swine2010.exe: 13-2      -0,14  3/136816
+11) pbrain-swine2010.exe:  1-2       0,00  0/0
+13) pbrain-swine2010.exe:  2-2     -19,37  3/27
+15) pbrain-swine2010.exe:  1-2       0,00  0/0
+17) pbrain-swine2010.exe:  3-2        :-[  1/8
+19) pbrain-swine2010.exe:  1-2       0,00  0/0
+21) pbrain-swine2010.exe:  1-2       0,00  0/0
+23) pbrain-swine2010.exe:  3-2        :-[  1/16
+25) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\2x5-27(1).psq
+______________________________
+goro2010 x HGarden07
+-> F:\projekty\gomocup2010\freestyle1\7x1-61(1).psq
+______________________________
+Kanec x pela
+-> F:\projekty\gomocup2010\freestyle1\2x4-63(1).psq
+______________________________
+OniX2010 x HfM2010
+30) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x0-55(1).psq
+______________________________
+Kanec x goro2010
+-> F:\projekty\gomocup2010\freestyle1\2x7-38(1).psq
+______________________________
+pela x Kanec
+pbrain-Kanec.exe has not returned coordinates x,y
+Exception EAccessViolation in module pbrain-Kanec.exe at 0001BFAC.
+-> F:\projekty\gomocup2010\freestyle1\4x2-25(1).psq
+______________________________
+swine2010 x Kanec
+ 6) pbrain-swine2010.exe: 10-2       5,39 13/370515
+ 8) pbrain-swine2010.exe: 10-2       8,52  2/268429
+10) pbrain-swine2010.exe: 10-2      10,95  7/452063
+12) pbrain-swine2010.exe:  9-2      14,73  3/120418
+14) pbrain-swine2010.exe:  8-2      15,73  4/456255
+16) pbrain-swine2010.exe:  8-2      12,52  7/523589
+18) pbrain-swine2010.exe:  9-2      -0,68  6/371666
+20) pbrain-swine2010.exe:  1-2       0,00  0/0
+22) pbrain-swine2010.exe:  6-2      29,34 12/263524
+24) pbrain-swine2010.exe:  6-2        :-]  2/208664
+26) pbrain-swine2010.exe:  4-2        :-] 14/16663
+28) pbrain-swine2010.exe:  2-2        :-]  6/521
+30) pbrain-swine2010.exe:  1-2       0,00  0/0
+32) pbrain-swine2010.exe:  8-2      13,08  1/99841
+34) pbrain-swine2010.exe:  7-2      13,75  9/118060
+36) pbrain-swine2010.exe:  7-2      16,89  6/186714
+38) pbrain-swine2010.exe:  6-2      15,50 12/143463
+40) pbrain-swine2010.exe:  6-2      13,92  1/382008
+42) pbrain-swine2010.exe:  5-2       8,08 11/47230
+44) pbrain-swine2010.exe:  6-2       5,78  6/121658
+46) pbrain-swine2010.exe:  6-1       0,71  1/39393
+48) pbrain-swine2010.exe:  6-1      -5,42 11/50219
+50) pbrain-swine2010.exe:  8-1      -8,78  2/56415
+52) pbrain-swine2010.exe:  1-1       0,00  0/0
+54) pbrain-swine2010.exe:  7-1       0,20  6/136312
+56) pbrain-swine2010.exe:  6-1      -1,53 10/64615
+58) pbrain-swine2010.exe:  1-1       0,00  0/0
+60) pbrain-swine2010.exe:  7-1     -13,30  3/96893
+62) pbrain-swine2010.exe: 10-1     -15,91  3/133982
+64) pbrain-swine2010.exe:  1-1       0,00  0/0
+66) pbrain-swine2010.exe:  1-1       0,00  0/0
+68) pbrain-swine2010.exe:  2-1      -8,58  2/41
+70) pbrain-swine2010.exe:  8-1     -21,88  5/104449
+72) pbrain-swine2010.exe: 10-1    -998,81  1/203661
+74) pbrain-swine2010.exe:  1-1       0,00  0/0
+76) pbrain-swine2010.exe:  8-1        :-[  7/6459
+78) pbrain-swine2010.exe:  1-1       0,00  0/0
+80) pbrain-swine2010.exe:  1-1       0,00  0/0
+82) pbrain-swine2010.exe:  2-1        :-[  2/3
+84) pbrain-swine2010.exe:  1-1       0,00  0/0
+86) pbrain-swine2010.exe:  1-1       0,00  0/0
+88) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x2-90(1).psq
+______________________________
+goro2010 x Kanec
+-> F:\projekty\gomocup2010\freestyle1\7x2-35(1).psq
+______________________________
+Kanec x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1669928 speed= 253811n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 3456972 speed= 300842n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 186710 speed= 231647n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 566415 speed= 224548n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 7249775 speed= 222342n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 9977690 speed= 228964n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 4639142 speed= 238698n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 3979240 speed= 228230n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 1561376 speed= 230603n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 352302 speed= 281889n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 118751 speed= 280998n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 112997 speed= 285144n/s
+35) pbrain-Tito2010.exe: AB depth= 14 node= 90394 speed= 252337n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 240333 speed= 234823n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 676745 speed= 238911n/s
+43) pbrain-Tito2010.exe: AB depth= 14 node= 1003754 speed= 225139n/s
+45) pbrain-Tito2010.exe: AB depth= 14 node= 1093660 speed= 231502n/s
+51) pbrain-Tito2010.exe: AB depth= 14 node= 2405397 speed= 343726n/s
+55) pbrain-Tito2010.exe: AB depth= 14 node= 2968028 speed= 312899n/s
+59) pbrain-Tito2010.exe: 10...
+61) pbrain-Tito2010.exe: 9...
+63) pbrain-Tito2010.exe: 8...
+65) pbrain-Tito2010.exe: 7...
+67) pbrain-Tito2010.exe: 4...
+69) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\2x6-76(1).psq
+______________________________
+Kanec x hewer2010
+39) pbrain-hewer2010.exe: AB :-)
+41) pbrain-hewer2010.exe: AB :-)
+43) pbrain-hewer2010.exe: AB :-)
+45) pbrain-hewer2010.exe: AB :-)
+49) pbrain-hewer2010.exe: AB :-)
+51) pbrain-hewer2010.exe: :-))
+53) pbrain-hewer2010.exe: :-))
+55) pbrain-hewer2010.exe:    .-. 
+55) pbrain-hewer2010.exe:   o   \     .-. 
+55) pbrain-hewer2010.exe:       .----.'     \ 
+55) pbrain-hewer2010.exe:     .'o)   / `.    o 
+55) pbrain-hewer2010.exe:   /              | 
+55) pbrain-hewer2010.exe:   \_)          /
+55) pbrain-hewer2010.exe:     '__/   /   
+55) pbrain-hewer2010.exe:      `.      |  
+55) pbrain-hewer2010.exe:       |       \  
+55) pbrain-hewer2010.exe:   .--/`-.     / / 
+55) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\2x8-56(1).psq
+______________________________
+Tito2010 x Kanec
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 1869664 speed= 225249n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1588643 speed= 255172n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 3185922 speed= 245330n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 1541069 speed= 235095n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 4886728 speed= 225878n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 13238746 speed= 229845n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 2879289 speed= 257942n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 4027444 speed= 242012n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 3196637 speed= 240134n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 5571924 speed= 234613n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 1691101 speed= 221578n/s
+28) pbrain-Tito2010.exe: 9...
+30) pbrain-Tito2010.exe: 8...
+32) pbrain-Tito2010.exe: 7...
+34) pbrain-Tito2010.exe: 6...
+36) pbrain-Tito2010.exe: 4...
+38) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x2-45(1).psq
+______________________________
+hewer2010 x Kanec
+32) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+40) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+44) pbrain-hewer2010.exe: AB :-)
+46) pbrain-hewer2010.exe: AB :-)
+48) pbrain-hewer2010.exe: AB :-)
+50) pbrain-hewer2010.exe: AB :-)
+52) pbrain-hewer2010.exe: AB :-)
+56) pbrain-hewer2010.exe: :-))
+58) pbrain-hewer2010.exe: :-))
+60) pbrain-hewer2010.exe:    .-. 
+60) pbrain-hewer2010.exe:   o   \     .-. 
+60) pbrain-hewer2010.exe:       .----.'     \ 
+60) pbrain-hewer2010.exe:     .'o)   / `.    o 
+60) pbrain-hewer2010.exe:   /              | 
+60) pbrain-hewer2010.exe:   \_)          /
+60) pbrain-hewer2010.exe:     '__/   /   
+60) pbrain-hewer2010.exe:      `.      |  
+60) pbrain-hewer2010.exe:       |       \  
+60) pbrain-hewer2010.exe:   .--/`-.     / / 
+60) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x2-61(1).psq
+______________________________
+OniX2010 x pela
+14) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\3x4-43(1).psq
+______________________________
+OniX2010 x goro2010
+pbrain-OniX2010.exe has not returned coordinates x,y
+Exception EAccessViolation in module pbrain-OniX2010.exe at 0000227B.
+-> F:\projekty\gomocup2010\freestyle1\3x7-16(1).psq
+______________________________
+goro2010 x OniX2010
+pbrain-OniX2010.exe has exited unexpectedly !
+-> F:\projekty\gomocup2010\freestyle1\7x3-9(1).psq
+______________________________
+OniX2010 x hewer2010
+17) pbrain-hewer2010.exe: AB :-(
+19) pbrain-hewer2010.exe: AB :-(
+21) pbrain-hewer2010.exe: AB :-(
+22) pbrain-OniX2010.exe: :)
+25) pbrain-hewer2010.exe: :-((
+29) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\3x8-31(2).psq
+______________________________
+pela x OniX2010
+11) pbrain-OniX2010.exe: :)
+-> F:\projekty\gomocup2010\freestyle1\4x3-36(1).psq
+______________________________
+hewer2010 x OniX2010
+19) pbrain-OniX2010.exe: :(
+20) pbrain-hewer2010.exe: AB :-)
+22) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: :-))
+32) pbrain-hewer2010.exe: :-))
+34) pbrain-hewer2010.exe:    .-. 
+34) pbrain-hewer2010.exe:   o   \     .-. 
+34) pbrain-hewer2010.exe:       .----.'     \ 
+34) pbrain-hewer2010.exe:     .'o)   / `.    o 
+34) pbrain-hewer2010.exe:   /              | 
+34) pbrain-hewer2010.exe:   \_)          /
+34) pbrain-hewer2010.exe:     '__/   /   
+34) pbrain-hewer2010.exe:      `.      |  
+34) pbrain-hewer2010.exe:       |       \  
+34) pbrain-hewer2010.exe:   .--/`-.     / / 
+34) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x3-35(1).psq
+______________________________
+OniX2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1629712 speed= 268001n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 3121026 speed= 282093n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 6172945 speed= 309430n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 4265398 speed= 318939n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 4559203 speed= 302217n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 4403813 speed= 284476n/s
+17) pbrain-Tito2010.exe: AB depth= 14 node= 1345390 speed= 277657n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 8442217 speed= 296833n/s
+21) pbrain-Tito2010.exe: AB depth= 14 node= 4130578 speed= 264819n/s
+23) pbrain-Tito2010.exe: AB depth= 14 node= 7223797 speed= 300898n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 3633476 speed= 279111n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 3728762 speed= 239616n/s
+29) pbrain-Tito2010.exe: AB depth= 14 node= 1739698 speed= 220538n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 21548032 speed= 220259n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 13128383 speed= 222320n/s
+35) pbrain-Tito2010.exe: AB depth= 14 node= 12111674 speed= 225051n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 4792623 speed= 234942n/s
+39) pbrain-Tito2010.exe: AB depth= 14 node= 3295858 speed= 256405n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 4001430 speed= 296612n/s
+43) pbrain-Tito2010.exe: AB depth= 14 node= 5467887 speed= 258288n/s
+45) pbrain-Tito2010.exe: AB depth= 14 node= 9318354 speed= 255982n/s
+47) pbrain-Tito2010.exe: AB depth= 14 node= 14131140 speed= 223363n/s
+49) pbrain-Tito2010.exe: AB depth= 14 node= 14956256 speed= 233949n/s
+51) pbrain-Tito2010.exe: AB depth= 14 node= 9023745 speed= 245282n/s
+52) pbrain-OniX2010.exe: :)
+53) pbrain-Tito2010.exe: AB depth= 14 node= 2681186 speed= 294427n/s
+55) pbrain-Tito2010.exe: AB depth= 14 node= 208717 speed= 387189n/s
+57) pbrain-Tito2010.exe: AB depth= 14 node= 66979 speed= 408536n/s
+67) pbrain-Tito2010.exe: AB depth= 14 node= 6341 speed= 402941n/s
+69) pbrain-Tito2010.exe: AB depth= 14 node= 2170 speed= 316006n/s
+71) pbrain-Tito2010.exe: AB depth= 14 node= 1553 speed= 301540n/s
+73) pbrain-Tito2010.exe: AB depth= 14 node= 1442 speed= 279988n/s
+-> F:\projekty\gomocup2010\freestyle1\3x6-81(1).psq
+______________________________
+pela x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 4755973 speed= 581506n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 9870437 speed= 608037n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 13570179 speed= 562616n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 18922884 speed= 570912n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 9747184 speed= 545016n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 4743815 speed= 544696n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 14729326 speed= 527214n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 9095935 speed= 582960n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 21618030 speed= 608060n/s
+23) pbrain-Tito2010.exe: AB depth= 16 node= 13811632 speed= 624629n/s
+25) pbrain-Tito2010.exe: AB depth= 16 node= 9636628 speed= 650434n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 3481586 speed= 598043n/s
+29) pbrain-Tito2010.exe: AB depth= 16 node= 10870779 speed= 558984n/s
+31) pbrain-Tito2010.exe: AB depth= 16 node= 15607909 speed= 670761n/s
+33) pbrain-Tito2010.exe: 12...
+35) pbrain-Tito2010.exe: 11...
+37) pbrain-Tito2010.exe: 10...
+39) pbrain-Tito2010.exe: 9...
+41) pbrain-Tito2010.exe: 8...
+43) pbrain-Tito2010.exe: 7...
+45) pbrain-Tito2010.exe: 6...
+49) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\4x6-56(1).psq
+______________________________
+pela x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -5,39  1/404078
+ 7) pbrain-swine2010.exe: 10-2       3,01 11/284094
+ 9) pbrain-swine2010.exe:  9-2      12,79  1/66119
+11) pbrain-swine2010.exe:  7-2      12,79  9/66772
+13) pbrain-swine2010.exe:  5-2      12,79  8/29060
+15) pbrain-swine2010.exe:  5-2      15,34  6/13170
+17) pbrain-swine2010.exe:  5-2      23,86 16/18758
+19) pbrain-swine2010.exe:  6-2      16,44 13/37911
+21) pbrain-swine2010.exe:  4-2      20,17 20/23050
+23) pbrain-swine2010.exe:  4-2      21,78 23/21337
+25) pbrain-swine2010.exe:  4-2      21,27 18/26508
+27) pbrain-swine2010.exe:  5-2      19,69 10/13320
+29) pbrain-swine2010.exe:  1-2       0,00  0/0
+31) pbrain-swine2010.exe:  5-2      17,62 26/26353
+33) pbrain-swine2010.exe:  5-2      19,53 14/14962
+35) pbrain-swine2010.exe:  7-2      21,92  1/13523
+37) pbrain-swine2010.exe:  5-2      21,92 17/19971
+39) pbrain-swine2010.exe:  5-2      19,36 18/18373
+41) pbrain-swine2010.exe:  5-1      18,30  8/19438
+43) pbrain-swine2010.exe:  5-1      14,09 30/15520
+45) pbrain-swine2010.exe:  4-1      18,50 35/9484
+47) pbrain-swine2010.exe:  4-1      19,80 13/10562
+49) pbrain-swine2010.exe:  4-1      19,27  1/8706
+51) pbrain-swine2010.exe:  4-1      18,55  2/7998
+53) pbrain-swine2010.exe:  7-1      15,28  1/7977
+55) pbrain-swine2010.exe:  5-1      13,91 27/12381
+57) pbrain-swine2010.exe:  3-1      15,63  3/1983
+59) pbrain-swine2010.exe:  3-1       9,90  9/2293
+61) pbrain-swine2010.exe:  3-1       3,94 10/1910
+63) pbrain-swine2010.exe:  4-1      -6,59  7/3912
+65) pbrain-swine2010.exe:  4-1     -12,49 24/3892
+67) pbrain-swine2010.exe:  8-0        :-[ 14/3681
+69) pbrain-swine2010.exe:  6-0        :-[  7/4179
+71) pbrain-swine2010.exe:  2-0     -27,76  3/47
+73) pbrain-swine2010.exe:  2-0   -1028,25  5/7
+75) pbrain-swine2010.exe:  3-0        :-[  1/6
+76) pbrain-pela.exe:  I win !
+77) pbrain-swine2010.exe:  1-0       0,00  0/0
+79) pbrain-swine2010.exe:  1-0        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\4x5-81(1).psq
+______________________________
+Tito2010 x OniX2010
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 1844507 speed= 226504n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1998725 speed= 243330n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 3024999 speed= 305993n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 321579 speed= 265137n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 194138 speed= 232606n/s
+16) pbrain-Tito2010.exe: AB depth= 14 node= 2230089 speed= 365768n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 5447363 speed= 257159n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 5792617 speed= 267062n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 8180594 speed= 259886n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 6156942 speed= 298213n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 8239482 speed= 239799n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 9011040 speed= 235857n/s
+30) pbrain-Tito2010.exe: AB depth= 14 node= 4428334 speed= 280020n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 5429707 speed= 237174n/s
+34) pbrain-Tito2010.exe: AB depth= 14 node= 6249326 speed= 243703n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 3235307 speed= 276478n/s
+38) pbrain-Tito2010.exe: AB depth= 14 node= 3927240 speed= 274201n/s
+40) pbrain-Tito2010.exe: AB depth= 14 node= 3176517 speed= 293166n/s
+42) pbrain-Tito2010.exe: AB depth= 14 node= 3595963 speed= 274924n/s
+44) pbrain-Tito2010.exe: AB depth= 14 node= 2284217 speed= 238322n/s
+46) pbrain-Tito2010.exe: AB depth= 14 node= 7630259 speed= 198106n/s
+48) pbrain-Tito2010.exe: AB depth= 14 node= 10347133 speed= 216256n/s
+50) pbrain-Tito2010.exe: AB depth= 14 node= 2766099 speed= 216454n/s
+52) pbrain-Tito2010.exe: AB depth= 14 node= 6467710 speed= 256660n/s
+54) pbrain-Tito2010.exe: AB depth= 14 node= 6943656 speed= 230509n/s
+57) pbrain-OniX2010.exe: :(
+58) pbrain-Tito2010.exe: AB depth= 14 node= 7856804 speed= 261631n/s
+60) pbrain-Tito2010.exe: AB depth= 14 node= 2974647 speed= 303908n/s
+62) pbrain-Tito2010.exe: AB depth= 14 node= 203003 speed= 238165n/s
+64) pbrain-Tito2010.exe: 4...
+66) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x3-73(1).psq
+______________________________
+Tito2010 x pela
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 4373574 speed= 540625n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 9843492 speed= 551925n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 8860146 speed= 479424n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 2917736 speed= 549205n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 12138349 speed= 625942n/s
+16) pbrain-Tito2010.exe: AB depth= 16 node= 8498549 speed= 667993n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 7569578 speed= 778347n/s
+20) pbrain-Tito2010.exe: AB depth= 16 node= 3958414 speed= 599044n/s
+22) pbrain-Tito2010.exe: AB depth= 16 node= 4230657 speed= 744749n/s
+24) pbrain-Tito2010.exe: AB depth= 16 node= 8695400 speed= 676741n/s
+26) pbrain-Tito2010.exe: AB depth= 16 node= 2408555 speed= 776616n/s
+28) pbrain-Tito2010.exe: AB depth= 16 node= 9527912 speed= 698027n/s
+30) pbrain-Tito2010.exe: AB depth= 16 node= 6228201 speed= 685421n/s
+32) pbrain-Tito2010.exe: AB depth= 16 node= 8297433 speed= 647418n/s
+34) pbrain-Tito2010.exe: AB depth= 16 node= 3208385 speed= 589737n/s
+36) pbrain-Tito2010.exe: AB depth= 16 node= 550637 speed= 552346n/s
+38) pbrain-Tito2010.exe: AB depth= 16 node= 48109 speed= 487628n/s
+40) pbrain-Tito2010.exe: AB depth= 16 node= 5307075 speed= 489688n/s
+42) pbrain-Tito2010.exe: AB depth= 16 node= 12179664 speed= 598438n/s
+44) pbrain-Tito2010.exe: AB depth= 16 node= 11358133 speed= 592071n/s
+46) pbrain-Tito2010.exe: AB depth= 16 node= 21145761 speed= 621632n/s
+48) pbrain-Tito2010.exe: AB depth= 16 node= 16504883 speed= 508250n/s
+50) pbrain-Tito2010.exe: AB depth= 16 node= 113364 speed= 846469n/s
+52) pbrain-Tito2010.exe: AB depth= 16 node= 105637 speed= 759042n/s
+54) pbrain-Tito2010.exe: AB depth= 16 node= 40062 speed= 789931n/s
+55) pbrain-pela.exe:  I win !
+-> F:\projekty\gomocup2010\freestyle1\6x4-74(1).psq
+______________________________
+pela x goro2010
+-> F:\projekty\gomocup2010\freestyle1\4x7-32(1).psq
+______________________________
+swine2010 x pela
+ 6) pbrain-swine2010.exe: 10-2      15,24  1/510849
+ 8) pbrain-swine2010.exe:  9-2      17,08  1/206012
+10) pbrain-swine2010.exe: 10-2      21,38  2/505846
+12) pbrain-swine2010.exe:  8-2      23,57 17/487607
+14) pbrain-swine2010.exe:  7-2      23,63 10/331091
+16) pbrain-swine2010.exe:  6-2      22,94 19/195899
+18) pbrain-swine2010.exe:  6-2        :-] 16/186291
+20) pbrain-swine2010.exe:  2-2        :-] 23/531
+22) pbrain-swine2010.exe:  1-2       0,00  0/0
+24) pbrain-swine2010.exe:  1-2        :-]  0/0
+26) pbrain-swine2010.exe:  1-2        :-]  0/0
+28) pbrain-swine2010.exe:  1-2        :-]  0/0
+30) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x4-35(1).psq
+______________________________
+OniX2010 x swine2010
+ 5) pbrain-swine2010.exe:  9-2      -2,93  1/94219
+ 7) pbrain-swine2010.exe: 10-2      -3,57  1/213318
+ 9) pbrain-swine2010.exe:  9-2       2,82  1/82533
+11) pbrain-swine2010.exe: 11-2      -1,79  3/134997
+13) pbrain-swine2010.exe: 11-2      -1,89  2/80093
+15) pbrain-swine2010.exe: 11-2      -4,75  6/197853
+17) pbrain-swine2010.exe: 10-2      -5,35  1/138551
+19) pbrain-swine2010.exe:  9-2      -3,53  3/145052
+21) pbrain-swine2010.exe:  7-2       1,50 11/38814
+23) pbrain-swine2010.exe:  8-2       0,43 11/61980
+25) pbrain-swine2010.exe:  7-2      -0,49  2/41425
+27) pbrain-swine2010.exe:  8-2      -4,82  8/87367
+29) pbrain-swine2010.exe:  7-2      -3,38  3/109237
+31) pbrain-swine2010.exe:  7-2      -5,17 11/20555
+33) pbrain-swine2010.exe:  7-2      -7,08 15/16661
+35) pbrain-swine2010.exe:  6-2      -6,53  2/11686
+37) pbrain-swine2010.exe:  7-1      -6,26  5/13069
+39) pbrain-swine2010.exe:  7-1      -9,00  6/17257
+41) pbrain-swine2010.exe:  7-1     -12,54  4/23293
+43) pbrain-swine2010.exe:  7-1     -13,25  7/14427
+45) pbrain-swine2010.exe:  7-1     -16,91 11/21357
+47) pbrain-swine2010.exe:  7-1     -25,15  3/32085
+49) pbrain-swine2010.exe:  5-1     -29,54 15/1805
+51) pbrain-swine2010.exe:  3-1     -29,91 13/228
+53) pbrain-swine2010.exe:  2-1     -34,12  4/33
+54) pbrain-OniX2010.exe: :)
+55) pbrain-swine2010.exe:  1-1       0,00  0/0
+57) pbrain-swine2010.exe:  3-1        :-[  1/6
+59) pbrain-swine2010.exe:  1-1       0,00  0/0
+61) pbrain-swine2010.exe:  1-1       0,00  0/0
+63) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\3x5-65(1).psq
+______________________________
+pela x hewer2010
+13) pbrain-hewer2010.exe: AB :-)
+15) pbrain-hewer2010.exe: AB :-)
+17) pbrain-hewer2010.exe: AB :-)
+19) pbrain-hewer2010.exe: AB :-)
+21) pbrain-hewer2010.exe: AB :-)
+23) pbrain-hewer2010.exe: AB :-)
+25) pbrain-hewer2010.exe: AB :-)
+27) pbrain-hewer2010.exe: AB :-)
+29) pbrain-hewer2010.exe: :-))
+31) pbrain-hewer2010.exe: :-))
+33) pbrain-hewer2010.exe:    .-. 
+33) pbrain-hewer2010.exe:   o   \     .-. 
+33) pbrain-hewer2010.exe:       .----.'     \ 
+33) pbrain-hewer2010.exe:     .'o)   / `.    o 
+33) pbrain-hewer2010.exe:   /              | 
+33) pbrain-hewer2010.exe:   \_)          /
+33) pbrain-hewer2010.exe:     '__/   /   
+33) pbrain-hewer2010.exe:      `.      |  
+33) pbrain-hewer2010.exe:       |       \  
+33) pbrain-hewer2010.exe:   .--/`-.     / / 
+33) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\4x8-34(1).psq
+______________________________
+swine2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 5321630 speed= 593216n/s
+ 6) pbrain-swine2010.exe: 10-2       5,39 13/345892
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 9248442 speed= 573186n/s
+ 8) pbrain-swine2010.exe: 10-2       8,52  1/268340
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 5518006 speed= 600516n/s
+10) pbrain-swine2010.exe: 10-2      10,84  3/491092
+11) pbrain-Tito2010.exe: AB depth= 16 node= 7051235 speed= 577522n/s
+12) pbrain-swine2010.exe:  9-2      13,82  3/607338
+13) pbrain-Tito2010.exe: AB depth= 16 node= 17764350 speed= 586421n/s
+14) pbrain-swine2010.exe:  7-2      13,37 11/127430
+15) pbrain-Tito2010.exe: AB depth= 16 node= 15724636 speed= 588977n/s
+16) pbrain-swine2010.exe:  7-2      12,51 13/192102
+17) pbrain-Tito2010.exe: AB depth= 16 node= 17808258 speed= 575489n/s
+18) pbrain-swine2010.exe:  7-2      14,90 30/249966
+19) pbrain-Tito2010.exe: AB depth= 16 node= 27732454 speed= 613645n/s
+20) pbrain-swine2010.exe:  7-2      17,04 26/140377
+21) pbrain-Tito2010.exe: AB depth= 16 node= 18726017 speed= 697851n/s
+22) pbrain-swine2010.exe:  7-2      14,49  1/189432
+24) pbrain-swine2010.exe:  5-2      14,35 11/51126
+25) pbrain-Tito2010.exe: AB depth= 16 node= 58049774 speed= 602985n/s
+26) pbrain-swine2010.exe:  5-2      19,53 13/17424
+27) pbrain-Tito2010.exe: AB depth= 16 node= 1060398 speed= 733183n/s
+28) pbrain-swine2010.exe:  1-2       0,00  0/0
+29) pbrain-Tito2010.exe: AB depth= 16 node= 940155 speed= 837166n/s
+30) pbrain-swine2010.exe:  1-2       0,00  0/0
+31) pbrain-Tito2010.exe: AB depth= 16 node= 167462 speed= 671420n/s
+32) pbrain-swine2010.exe:  1-2       0,00  0/0
+33) pbrain-Tito2010.exe: AB depth= 16 node= 29121 speed= 933041n/s
+34) pbrain-swine2010.exe:  1-2        :-]  0/0
+35) pbrain-Tito2010.exe: AB depth= 16 node= 2103 speed= 704979n/s
+36) pbrain-swine2010.exe:  1-2        :-]  0/0
+37) pbrain-Tito2010.exe: AB depth= 16 node= 1503 speed= 580169n/s
+38) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x6-45(1).psq
+______________________________
+goro2010 x pela
+-> F:\projekty\gomocup2010\freestyle1\7x4-39(1).psq
+______________________________
+swine2010 x goro2010
+ 6) pbrain-swine2010.exe:  9-2       3,11 13/115452
+ 8) pbrain-swine2010.exe:  9-2       7,66  2/123814
+10) pbrain-swine2010.exe:  9-2      14,43  1/113453
+12) pbrain-swine2010.exe:  8-2      15,42 13/154889
+14) pbrain-swine2010.exe:  8-2      18,84  4/93508
+16) pbrain-swine2010.exe:  7-2      22,21  9/78970
+18) pbrain-swine2010.exe:  4-2        :-]  3/1129
+20) pbrain-swine2010.exe:  1-2       0,00  0/0
+22) pbrain-swine2010.exe:  1-2        :-]  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x7-35(1).psq
+______________________________
+hewer2010 x pela
+ 8) pbrain-hewer2010.exe: AB :-)
+10) pbrain-hewer2010.exe: AB :-)
+12) pbrain-hewer2010.exe: AB :-)
+14) pbrain-hewer2010.exe: AB :-)
+16) pbrain-hewer2010.exe: AB :-)
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+32) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+42) pbrain-hewer2010.exe: AB :-)
+48) pbrain-hewer2010.exe: AB :-)
+50) pbrain-hewer2010.exe: :-))
+52) pbrain-hewer2010.exe:    .-. 
+52) pbrain-hewer2010.exe:   o   \     .-. 
+52) pbrain-hewer2010.exe:       .----.'     \ 
+52) pbrain-hewer2010.exe:     .'o)   / `.    o 
+52) pbrain-hewer2010.exe:   /              | 
+52) pbrain-hewer2010.exe:   \_)          /
+52) pbrain-hewer2010.exe:     '__/   /   
+52) pbrain-hewer2010.exe:      `.      |  
+52) pbrain-hewer2010.exe:       |       \  
+52) pbrain-hewer2010.exe:   .--/`-.     / / 
+52) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x4-53(1).psq
+______________________________
+Tito2010 x swine2010
+ 5) pbrain-swine2010.exe: 11-2      -5,39  1/404079
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 7570189 speed= 543618n/s
+ 7) pbrain-swine2010.exe: 11-2      -3,50  1/314828
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 16850301 speed= 560811n/s
+ 9) pbrain-swine2010.exe: 11-2       1,04  1/356430
+10) pbrain-Tito2010.exe: AB depth= 16 node= 4047991 speed= 546325n/s
+11) pbrain-swine2010.exe: 12-2      -1,45  3/321482
+13) pbrain-swine2010.exe: 13-2      -4,75  2/314302
+14) pbrain-Tito2010.exe: AB depth= 16 node= 2808021 speed= 540963n/s
+15) pbrain-swine2010.exe: 12-2      -5,35  6/378734
+16) pbrain-Tito2010.exe: AB depth= 16 node= 3309310 speed= 741036n/s
+17) pbrain-swine2010.exe: 11-2      -5,88  1/556450
+18) pbrain-Tito2010.exe: AB depth= 16 node= 5571284 speed= 716205n/s
+19) pbrain-swine2010.exe: 12-2      -3,42  1/154458
+20) pbrain-Tito2010.exe: AB depth= 16 node= 2786754 speed= 656080n/s
+21) pbrain-swine2010.exe: 10-2      -3,42  3/162024
+22) pbrain-Tito2010.exe: AB depth= 16 node= 9774533 speed= 622321n/s
+23) pbrain-swine2010.exe:  3-2      -2,37  3/1296
+24) pbrain-Tito2010.exe: AB depth= 16 node= 19076693 speed= 588180n/s
+25) pbrain-swine2010.exe:  7-2       1,20  8/127423
+26) pbrain-Tito2010.exe: AB depth= 16 node= 18671106 speed= 625633n/s
+27) pbrain-swine2010.exe:  6-2      -0,21 24/94972
+28) pbrain-Tito2010.exe: 17...
+29) pbrain-swine2010.exe:  1-2       0,00  0/0
+30) pbrain-Tito2010.exe: 16...
+31) pbrain-swine2010.exe:  9-2    -998,85  4/413052
+33) pbrain-swine2010.exe:  2-2       5,60  2/46
+34) pbrain-Tito2010.exe: 14...
+35) pbrain-swine2010.exe:  1-2       0,00  0/0
+36) pbrain-Tito2010.exe: 13...
+37) pbrain-swine2010.exe:  8-2        :-[  3/205712
+38) pbrain-Tito2010.exe: 9...
+39) pbrain-swine2010.exe:  2-2    -995,25  6/7
+41) pbrain-swine2010.exe:  2-2       5,28  2/7
+42) pbrain-Tito2010.exe: 7...
+43) pbrain-swine2010.exe:  1-2       0,00  0/0
+44) pbrain-Tito2010.exe: 6...
+45) pbrain-swine2010.exe:  3-2        :-[  1/6
+47) pbrain-swine2010.exe:  1-2       0,00  0/0
+49) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\6x5-51(1).psq
+______________________________
+swine2010 x hewer2010
+ 6) pbrain-swine2010.exe: 10-2       5,39 13/345100
+ 8) pbrain-swine2010.exe: 12-2      10,84  3/758015
+10) pbrain-swine2010.exe:  8-2        :-]  5/29495
+11) pbrain-hewer2010.exe: AB :-(
+12) pbrain-swine2010.exe:  4-2        :-]  1/8245
+13) pbrain-hewer2010.exe: AB :-(
+14) pbrain-swine2010.exe:  1-2        :-]  0/0
+16) pbrain-swine2010.exe:  1-2        :-]  0/0
+18) pbrain-swine2010.exe:  1-2        :-]  0/0
+19) pbrain-hewer2010.exe: AB :-(
+20) pbrain-swine2010.exe:  1-2        :-]  0/0
+21) pbrain-hewer2010.exe: AB :-(
+22) pbrain-swine2010.exe:  1-2        :-]  0/0
+27) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\5x8-29(2).psq
+______________________________
+Tito2010 x goro2010
+ 6) pbrain-Tito2010.exe: AB depth= 16 node= 5832783 speed= 541502n/s
+ 8) pbrain-Tito2010.exe: AB depth= 16 node= 2054357 speed= 687099n/s
+10) pbrain-Tito2010.exe: AB depth= 16 node= 12141714 speed= 588878n/s
+12) pbrain-Tito2010.exe: AB depth= 16 node= 1943977 speed= 548227n/s
+14) pbrain-Tito2010.exe: AB depth= 16 node= 1349234 speed= 740143n/s
+18) pbrain-Tito2010.exe: AB depth= 16 node= 10212181 speed= 660740n/s
+20) pbrain-Tito2010.exe: 11...
+22) pbrain-Tito2010.exe: 10...
+24) pbrain-Tito2010.exe: 9...
+26) pbrain-Tito2010.exe: 8...
+28) pbrain-Tito2010.exe: 7...
+34) pbrain-Tito2010.exe: 4...
+36) pbrain-Tito2010.exe: 3...
+-> F:\projekty\gomocup2010\freestyle1\6x7-43(1).psq
+______________________________
+goro2010 x swine2010
+ 5) pbrain-swine2010.exe:  9-2      -2,85  1/95343
+ 7) pbrain-swine2010.exe: 10-2      -1,99  2/82764
+ 9) pbrain-swine2010.exe:  8-2      -1,99  3/83274
+11) pbrain-swine2010.exe:  7-2      -3,13  3/86246
+13) pbrain-swine2010.exe:  8-2      -2,83  1/38926
+15) pbrain-swine2010.exe:  7-2      -5,03  7/86949
+17) pbrain-swine2010.exe:  6-2      -3,26  3/30137
+19) pbrain-swine2010.exe:  2-2      -1,07  3/4
+21) pbrain-swine2010.exe:  8-2        :-[  7/75994
+23) pbrain-swine2010.exe:  3-2      -5,15  3/1824
+25) pbrain-swine2010.exe:  6-2        :-[  6/10221
+27) pbrain-swine2010.exe:  2-2     -14,64 10/12
+29) pbrain-swine2010.exe:  2-2        :-[  2/9
+31) pbrain-swine2010.exe:  1-2       0,00  0/0
+33) pbrain-swine2010.exe:  1-2       0,00  0/0
+35) pbrain-swine2010.exe:  1-2        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\7x5-37(1).psq
+______________________________
+goro2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 16 node= 4856906 speed= 589730n/s
+ 7) pbrain-Tito2010.exe: AB depth= 16 node= 5438772 speed= 585546n/s
+ 9) pbrain-Tito2010.exe: AB depth= 16 node= 6875503 speed= 653184n/s
+11) pbrain-Tito2010.exe: AB depth= 16 node= 12779964 speed= 581714n/s
+13) pbrain-Tito2010.exe: AB depth= 16 node= 1764100 speed= 587307n/s
+15) pbrain-Tito2010.exe: AB depth= 16 node= 3633244 speed= 588062n/s
+17) pbrain-Tito2010.exe: AB depth= 16 node= 112782 speed= 526172n/s
+19) pbrain-Tito2010.exe: AB depth= 16 node= 6927 speed= 936549n/s
+21) pbrain-Tito2010.exe: AB depth= 16 node= 2672 speed= 635775n/s
+27) pbrain-Tito2010.exe: AB depth= 16 node= 1537 speed= 675273n/s
+-> F:\projekty\gomocup2010\freestyle1\7x6-35(1).psq
+______________________________
+swine2010 x OniX2010
+ 6) pbrain-swine2010.exe:  9-2       3,19 13/117154
+ 8) pbrain-swine2010.exe:  9-2       5,96  1/156185
+10) pbrain-swine2010.exe:  9-2       8,04 15/287952
+12) pbrain-swine2010.exe: 11-2      10,58  3/223261
+14) pbrain-swine2010.exe:  8-2      15,01  8/380405
+16) pbrain-swine2010.exe:  6-2      17,07 19/206625
+18) pbrain-swine2010.exe:  6-2      21,57 20/293402
+20) pbrain-swine2010.exe:  7-2      19,81 15/180778
+22) pbrain-swine2010.exe:  7-2      18,83  1/197732
+24) pbrain-swine2010.exe:  6-2      18,79 17/88455
+26) pbrain-swine2010.exe:  6-2      22,55 26/285039
+28) pbrain-swine2010.exe:  6-2      21,73  1/251417
+30) pbrain-swine2010.exe:  5-2      20,14 14/35313
+32) pbrain-swine2010.exe:  5-2      17,04  2/17840
+34) pbrain-swine2010.exe:  5-2      10,92 24/41611
+36) pbrain-swine2010.exe:  4-1      11,03  5/15501
+38) pbrain-swine2010.exe:  5-1       7,06 21/9317
+40) pbrain-swine2010.exe:  5-1       4,20 29/17616
+42) pbrain-swine2010.exe:  7-1     -10,81  2/65227
+43) pbrain-OniX2010.exe: :)
+44) pbrain-swine2010.exe:  2-1       1,50  2/47
+46) pbrain-swine2010.exe:  1-1       0,00  0/0
+48) pbrain-swine2010.exe:  2-1       3,71  2/47
+50) pbrain-swine2010.exe:  1-1       0,00  0/0
+52) pbrain-swine2010.exe:  3-1        :-[  3/8
+54) pbrain-swine2010.exe:  1-1       0,00  0/0
+56) pbrain-swine2010.exe:  1-1       0,00  0/0
+58) pbrain-swine2010.exe:  1-1       0,00  0/0
+60) pbrain-swine2010.exe:  1-1        :-[  0/0
+-> F:\projekty\gomocup2010\freestyle1\5x3-62(1).psq
+______________________________
+hewer2010 x swine2010
+ 5) pbrain-swine2010.exe: 10-2      -3,11  1/148846
+ 7) pbrain-swine2010.exe: 11-2      -3,02  2/235937
+ 9) pbrain-swine2010.exe:  9-2      -3,11  3/225317
+11) pbrain-swine2010.exe:  8-2      -4,44  3/172621
+13) pbrain-swine2010.exe:  8-2      -6,28 15/143890
+15) pbrain-swine2010.exe:  7-2      -8,12  3/45436
+16) pbrain-hewer2010.exe: AB :-)
+17) pbrain-swine2010.exe:  8-2        :-[  3/42657
+18) pbrain-hewer2010.exe: AB :-)
+19) pbrain-swine2010.exe:  6-2        :-[  3/1215
+20) pbrain-hewer2010.exe: AB :-)
+21) pbrain-swine2010.exe:  2-2      -6,03  6/50
+22) pbrain-hewer2010.exe: AB :-)
+23) pbrain-swine2010.exe:  1-2       0,00  0/0
+24) pbrain-hewer2010.exe: AB :-)
+25) pbrain-swine2010.exe:  2-2        :-[  2/3
+26) pbrain-hewer2010.exe: AB :-)
+27) pbrain-swine2010.exe:  2-2        :-[  3/4
+28) pbrain-hewer2010.exe: :-))
+29) pbrain-swine2010.exe:  1-2       0,00  0/0
+30) pbrain-hewer2010.exe: :-))
+31) pbrain-swine2010.exe:  1-2        :-[  0/0
+32) pbrain-hewer2010.exe:    .-. 
+32) pbrain-hewer2010.exe:   o   \     .-. 
+32) pbrain-hewer2010.exe:       .----.'     \ 
+32) pbrain-hewer2010.exe:     .'o)   / `.    o 
+32) pbrain-hewer2010.exe:   /              | 
+32) pbrain-hewer2010.exe:   \_)          /
+32) pbrain-hewer2010.exe:     '__/   /   
+32) pbrain-hewer2010.exe:      `.      |  
+32) pbrain-hewer2010.exe:       |       \  
+32) pbrain-hewer2010.exe:   .--/`-.     / / 
+32) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x5-33(1).psq
+______________________________
+goro2010 x hewer2010
+27) pbrain-hewer2010.exe: AB :-(
+29) pbrain-hewer2010.exe: AB :-(
+35) pbrain-hewer2010.exe: :-((
+39) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\7x8-41(1).psq
+______________________________
+hewer2010 x goro2010
+24) pbrain-hewer2010.exe: AB :-)
+26) pbrain-hewer2010.exe: AB :-)
+28) pbrain-hewer2010.exe: AB :-)
+30) pbrain-hewer2010.exe: AB :-)
+34) pbrain-hewer2010.exe: AB :-)
+36) pbrain-hewer2010.exe: AB :-)
+38) pbrain-hewer2010.exe: AB :-)
+46) pbrain-hewer2010.exe: :-))
+48) pbrain-hewer2010.exe:    .-. 
+48) pbrain-hewer2010.exe:   o   \     .-. 
+48) pbrain-hewer2010.exe:       .----.'     \ 
+48) pbrain-hewer2010.exe:     .'o)   / `.    o 
+48) pbrain-hewer2010.exe:   /              | 
+48) pbrain-hewer2010.exe:   \_)          /
+48) pbrain-hewer2010.exe:     '__/   /   
+48) pbrain-hewer2010.exe:      `.      |  
+48) pbrain-hewer2010.exe:       |       \  
+48) pbrain-hewer2010.exe:   .--/`-.     / / 
+48) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\8x7-49(1).psq
+______________________________
+Tito2010 x hewer2010
+ 6) pbrain-Tito2010.exe: AB depth= 14 node= 1892205 speed= 230218n/s
+ 8) pbrain-Tito2010.exe: AB depth= 14 node= 1543981 speed= 272508n/s
+10) pbrain-Tito2010.exe: AB depth= 14 node= 969615 speed= 226040n/s
+12) pbrain-Tito2010.exe: AB depth= 14 node= 3712075 speed= 231136n/s
+14) pbrain-Tito2010.exe: AB depth= 14 node= 5614971 speed= 239367n/s
+15) pbrain-hewer2010.exe: AB :-(
+16) pbrain-Tito2010.exe: AB depth= 14 node= 3632836 speed= 227459n/s
+18) pbrain-Tito2010.exe: AB depth= 14 node= 5594549 speed= 264243n/s
+20) pbrain-Tito2010.exe: AB depth= 14 node= 6118972 speed= 319367n/s
+22) pbrain-Tito2010.exe: AB depth= 14 node= 6378647 speed= 301820n/s
+24) pbrain-Tito2010.exe: AB depth= 14 node= 5920193 speed= 275998n/s
+26) pbrain-Tito2010.exe: AB depth= 14 node= 4568089 speed= 261219n/s
+28) pbrain-Tito2010.exe: AB depth= 14 node= 3493493 speed= 275671n/s
+30) pbrain-Tito2010.exe: AB depth= 14 node= 6132179 speed= 228429n/s
+32) pbrain-Tito2010.exe: AB depth= 14 node= 2725269 speed= 264438n/s
+34) pbrain-Tito2010.exe: AB depth= 14 node= 6182530 speed= 247292n/s
+36) pbrain-Tito2010.exe: AB depth= 14 node= 6590898 speed= 249506n/s
+38) pbrain-Tito2010.exe: AB depth= 14 node= 7182152 speed= 238579n/s
+40) pbrain-Tito2010.exe: AB depth= 14 node= 5410925 speed= 293078n/s
+42) pbrain-Tito2010.exe: AB depth= 14 node= 3644964 speed= 288647n/s
+44) pbrain-Tito2010.exe: AB depth= 14 node= 2819790 speed= 258631n/s
+46) pbrain-Tito2010.exe: AB depth= 14 node= 2172973 speed= 279797n/s
+48) pbrain-Tito2010.exe: AB depth= 14 node= 1163980 speed= 241689n/s
+52) pbrain-Tito2010.exe: AB depth= 14 node= 410099 speed= 343551n/s
+54) pbrain-Tito2010.exe: AB depth= 14 node= 294384 speed= 333507n/s
+56) pbrain-Tito2010.exe: AB depth= 14 node= 88220 speed= 365751n/s
+57) pbrain-hewer2010.exe: AB :-)
+58) pbrain-Tito2010.exe: AB depth= 14 node= 2419 speed= 291531n/s
+60) pbrain-Tito2010.exe: AB depth= 14 node= 2154 speed= 278823n/s
+62) pbrain-Tito2010.exe: AB depth= 14 node= 1930 speed= 269814n/s
+64) pbrain-Tito2010.exe: AB depth= 14 node= 1541 speed= 269289n/s
+65) pbrain-hewer2010.exe: AB :-)
+67) pbrain-hewer2010.exe: AB :-)
+71) pbrain-hewer2010.exe: :-))
+73) pbrain-hewer2010.exe:    .-. 
+73) pbrain-hewer2010.exe:   o   \     .-. 
+73) pbrain-hewer2010.exe:       .----.'     \ 
+73) pbrain-hewer2010.exe:     .'o)   / `.    o 
+73) pbrain-hewer2010.exe:   /              | 
+73) pbrain-hewer2010.exe:   \_)          /
+73) pbrain-hewer2010.exe:     '__/   /   
+73) pbrain-hewer2010.exe:      `.      |  
+73) pbrain-hewer2010.exe:       |       \  
+73) pbrain-hewer2010.exe:   .--/`-.     / / 
+73) pbrain-hewer2010.exe: .'.-/`-. `.  .\| 
+-> F:\projekty\gomocup2010\freestyle1\6x8-74(1).psq
+______________________________
+hewer2010 x Tito2010
+ 5) pbrain-Tito2010.exe: AB depth= 14 node= 1342464 speed= 273437n/s
+ 7) pbrain-Tito2010.exe: AB depth= 14 node= 1760722 speed= 285714n/s
+ 9) pbrain-Tito2010.exe: AB depth= 14 node= 4753027 speed= 284385n/s
+11) pbrain-Tito2010.exe: AB depth= 14 node= 1060323 speed= 301900n/s
+13) pbrain-Tito2010.exe: AB depth= 14 node= 902830 speed= 273786n/s
+15) pbrain-Tito2010.exe: AB depth= 14 node= 2048337 speed= 306540n/s
+19) pbrain-Tito2010.exe: AB depth= 14 node= 1879428 speed= 260689n/s
+25) pbrain-Tito2010.exe: AB depth= 14 node= 389549 speed= 285663n/s
+27) pbrain-Tito2010.exe: AB depth= 14 node= 333137 speed= 313493n/s
+29) pbrain-Tito2010.exe: AB depth= 14 node= 1116875 speed= 335091n/s
+31) pbrain-Tito2010.exe: AB depth= 14 node= 760373 speed= 315805n/s
+33) pbrain-Tito2010.exe: AB depth= 14 node= 545463 speed= 307631n/s
+35) pbrain-Tito2010.exe: AB depth= 14 node= 1583609 speed= 321954n/s
+37) pbrain-Tito2010.exe: AB depth= 14 node= 999402 speed= 329085n/s
+39) pbrain-Tito2010.exe: AB depth= 14 node= 1179151 speed= 349426n/s
+41) pbrain-Tito2010.exe: AB depth= 14 node= 1782887 speed= 376962n/s
+42) pbrain-hewer2010.exe: AB :-(
+44) pbrain-hewer2010.exe: AB :-(
+45) pbrain-Tito2010.exe: 4...
+48) pbrain-hewer2010.exe: :-((
+50) pbrain-hewer2010.exe: :-((
+-> F:\projekty\gomocup2010\freestyle1\8x6-52(1).psq

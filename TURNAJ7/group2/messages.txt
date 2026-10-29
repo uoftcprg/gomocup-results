@@ -1,0 +1,288 @@
+______________________________
+pisq7 x Benjamin
+-> H:\gomocup-online\group2\0x1-65(1).rec
+______________________________
+Benjamin x pisq7
+-> H:\gomocup-online\group2\1x0-124(1).rec
+______________________________
+pisq7 x Noesis
+-> H:\gomocup-online\group2\0x2-52(1).rec
+______________________________
+Noesis x pisq7
+-> H:\gomocup-online\group2\2x0-19(1).rec
+______________________________
+pisq7 x g_motor
+-> H:\gomocup-online\group2\0x3-28(1).rec
+______________________________
+g_motor x pisq7
+-> H:\gomocup-online\group2\3x0-19(1).rec
+______________________________
+pisq7 x HGarden
+-> H:\gomocup-online\group2\0x4-22(1).rec
+______________________________
+HGarden x pisq7
+-> H:\gomocup-online\group2\4x0-19(1).rec
+______________________________
+pisq7 x pela
+27) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\0x5-34(1).rec
+______________________________
+pela x pisq7
+40) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x0-45(1).rec
+______________________________
+Benjamin x Noesis
+-> H:\gomocup-online\group2\1x2-84(1).rec
+______________________________
+Noesis x Benjamin
+-> H:\gomocup-online\group2\2x1-29(1).rec
+______________________________
+Benjamin x HGarden
+-> H:\gomocup-online\group2\1x4-54(1).rec
+______________________________
+HGarden x Benjamin
+-> H:\gomocup-online\group2\4x1-23(1).rec
+______________________________
+Benjamin x g_motor
+-> H:\gomocup-online\group2\1x3-131(1).rec
+______________________________
+Noesis x g_motor
+-> H:\gomocup-online\group2\2x3-25(1).rec
+______________________________
+Benjamin x pela
+51) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\1x5-60(1).rec
+______________________________
+g_motor x Noesis
+-> H:\gomocup-online\group2\3x2-31(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\group2\2x4-36(1).rec
+______________________________
+pela x Benjamin
+34) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x1-45(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\group2\4x2-23(1).rec
+______________________________
+g_motor x Benjamin
+pbrain-g_motor.exe se neoèekávanì ukonèil !
+-> H:\gomocup-online\group2\3x1-136(1).rec
+______________________________
+g_motor x HGarden
+-> H:\gomocup-online\group2\3x4-26(1).rec
+______________________________
+Noesis x pela
+43) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\2x5-48(1).rec
+______________________________
+HGarden x g_motor
+-> H:\gomocup-online\group2\4x3-25(1).rec
+______________________________
+pela x Noesis
+-> H:\gomocup-online\group2\5x2-37(1).rec
+______________________________
+Benjamin x pisq7
+-> H:\gomocup-online\group2\1x0-128(1).rec
+______________________________
+pisq7 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\group2\0x1-397(1).rec
+______________________________
+Noesis x pisq7
+-> H:\gomocup-online\group2\2x0-19(2).rec
+______________________________
+pisq7 x Noesis
+-> H:\gomocup-online\group2\0x2-24(1).rec
+______________________________
+g_motor x pisq7
+-> H:\gomocup-online\group2\3x0-23(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\group2\4x5-25(1).rec
+______________________________
+g_motor x pela
+37) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\3x5-46(1).rec
+______________________________
+pisq7 x g_motor
+-> H:\gomocup-online\group2\0x3-22(1).rec
+______________________________
+HGarden x pisq7
+-> H:\gomocup-online\group2\4x0-17(1).rec
+______________________________
+pisq7 x HGarden
+-> H:\gomocup-online\group2\0x4-24(1).rec
+______________________________
+pela x pisq7
+12) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x0-17(1).rec
+______________________________
+pisq7 x pela
+27) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\0x5-32(1).rec
+______________________________
+Noesis x Benjamin
+-> H:\gomocup-online\group2\2x1-21(1).rec
+______________________________
+pela x g_motor
+-> H:\gomocup-online\group2\5x3-39(1).rec
+______________________________
+g_motor x Benjamin
+-> H:\gomocup-online\group2\3x1-43(1).rec
+______________________________
+pela x HGarden
+-> H:\gomocup-online\group2\5x4-76(1).rec
+______________________________
+HGarden x Benjamin
+-> H:\gomocup-online\group2\4x1-27(1).rec
+______________________________
+Benjamin x Noesis
+-> H:\gomocup-online\group2\1x2-274(1).rec
+______________________________
+Benjamin x HGarden
+-> H:\gomocup-online\group2\1x4-52(1).rec
+______________________________
+g_motor x Noesis
+-> H:\gomocup-online\group2\3x2-25(1).rec
+______________________________
+Benjamin x g_motor
+-> H:\gomocup-online\group2\1x3-133(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\group2\4x2-17(1).rec
+______________________________
+pela x Benjamin
+34) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x1-39(1).rec
+______________________________
+Noesis x g_motor
+-> H:\gomocup-online\group2\2x3-21(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\group2\2x4-44(1).rec
+______________________________
+pela x Noesis
+26) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x2-31(1).rec
+______________________________
+Benjamin x pela
+-> H:\gomocup-online\group2\1x5-44(1).rec
+______________________________
+HGarden x g_motor
+-> H:\gomocup-online\group2\4x3-27(1).rec
+______________________________
+pela x g_motor
+26) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x3-31(1).rec
+______________________________
+Noesis x pela
+-> H:\gomocup-online\group2\2x5-62(1).rec
+______________________________
+g_motor x HGarden
+-> H:\gomocup-online\group2\3x4-42(1).rec
+______________________________
+pisq7 x Benjamin
+Benjamin.exe vrátilo chybné souøadnice [0,0]
+-> H:\gomocup-online\group2\0x1-387(1).rec
+______________________________
+Benjamin x pisq7
+-> H:\gomocup-online\group2\1x0-142(1).rec
+______________________________
+pisq7 x Noesis
+-> H:\gomocup-online\group2\0x2-34(1).rec
+______________________________
+Noesis x pisq7
+-> H:\gomocup-online\group2\2x0-31(1).rec
+______________________________
+g_motor x pela
+49) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\3x5-56(1).rec
+______________________________
+pisq7 x HGarden
+-> H:\gomocup-online\group2\0x4-32(1).rec
+______________________________
+pisq7 x g_motor
+-> H:\gomocup-online\group2\0x3-28(2).rec
+______________________________
+HGarden x pisq7
+-> H:\gomocup-online\group2\4x0-21(1).rec
+______________________________
+pela x HGarden
+-> H:\gomocup-online\group2\5x4-56(1).rec
+______________________________
+g_motor x pisq7
+-> H:\gomocup-online\group2\3x0-23(2).rec
+______________________________
+pisq7 x pela
+23) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\0x5-28(1).rec
+______________________________
+Benjamin x Noesis
+-> H:\gomocup-online\group2\1x2-117(1).rec
+______________________________
+Noesis x Benjamin
+-> H:\gomocup-online\group2\2x1-23(1).rec
+______________________________
+pela x pisq7
+-> H:\gomocup-online\group2\5x0-29(1).rec
+______________________________
+Benjamin x HGarden
+-> H:\gomocup-online\group2\1x4-32(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\group2\4x5-43(1).rec
+______________________________
+HGarden x Benjamin
+-> H:\gomocup-online\group2\4x1-29(1).rec
+______________________________
+Noesis x g_motor
+-> H:\gomocup-online\group2\2x3-21(2).rec
+______________________________
+Benjamin x g_motor
+-> H:\gomocup-online\group2\1x3-137(1).rec
+______________________________
+Noesis x HGarden
+-> H:\gomocup-online\group2\2x4-38(1).rec
+______________________________
+Benjamin x pela
+-> H:\gomocup-online\group2\1x5-188(1).rec
+______________________________
+g_motor x Noesis
+-> H:\gomocup-online\group2\3x2-26(1).rec
+______________________________
+HGarden x Noesis
+-> H:\gomocup-online\group2\4x2-25(1).rec
+______________________________
+pela x Benjamin
+-> H:\gomocup-online\group2\5x1-43(1).rec
+______________________________
+Noesis x pela
+-> H:\gomocup-online\group2\2x5-38(1).rec
+______________________________
+g_motor x Benjamin
+-> H:\gomocup-online\group2\3x1-130(1).rec
+______________________________
+g_motor x HGarden
+-> H:\gomocup-online\group2\3x4-38(1).rec
+______________________________
+pela x Noesis
+26) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x2-45(1).rec
+______________________________
+g_motor x pela
+-> H:\gomocup-online\group2\3x5-32(1).rec
+______________________________
+HGarden x g_motor
+-> H:\gomocup-online\group2\4x3-36(1).rec
+______________________________
+HGarden x pela
+-> H:\gomocup-online\group2\4x5-29(1).rec
+______________________________
+pela x g_motor
+28) pbrain-pela.exe:  I win !
+-> H:\gomocup-online\group2\5x3-37(1).rec
+______________________________
+pela x HGarden
+-> H:\gomocup-online\group2\5x4-56(2).rec

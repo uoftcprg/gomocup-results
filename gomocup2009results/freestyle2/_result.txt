@@ -1,0 +1,53 @@
+-------------------------------------
+4.4.2009  11:59 - 14:36
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Games played: 216
+-------------------------------------
+
+pela
+wins: 44=22+15+7,   losses: 4=0+4
+time/turn: 4608 ms (max: 25.7 s),  time/game: 105 s
+moves/game: 22,  CRC: dd888743,   memory: 1.88 MB
+
+Kanec
+wins: 35=20+14+1,   losses: 13=3+9+1,  1 errors
+time/turn: 3058 ms (max: 11.3 s),  time/game: 65 s
+moves/game: 21,  CRC: 572ea92,   memory: 248.18 MB
+
+goro2009
+wins: 35=21+11+3,   losses: 13=2+11
+time/turn: 2945 ms (max: 27.9 s),  time/game: 59 s
+moves/game: 20,  CRC: 4c497f92,   memory: 1.77 MB
+
+gmotor
+wins: 24=11+9+4,   losses: 24=12+12
+time/turn: 3604 ms (max: 8.6 s),  time/game: 74 s
+moves/game: 20,  CRC: a2d2a41,   memory: 9.63 MB
+
+amoeba
+wins: 22=12+8+2,   losses: 26=11+14+1,  1 errors
+time/turn: 2492 ms (max: 12.1 s),  time/game: 48 s
+moves/game: 19,  CRC: 623872b5,   memory: 345.53 MB
+
+bestmove
+wins: 17=8+9,   losses: 31=4+11+16
+time/turn: 7634 ms (max: 30.0 s),  time/game: 121 s
+moves/game: 15,  CRC: 7554f3d4,   memory: 80.29 MB
+
+Pecuchet
+wins: 19=9+10,   losses: 29=15+14
+time/turn: 3267 ms (max: 15.2 s),  time/game: 57 s
+moves/game: 17,  CRC: a81e076b,   memory: 199.88 MB
+
+jude
+wins: 12=6+5+1,   losses: 36=18+18
+time/turn: 1459 ms (max: 28.3 s),  time/game: 26 s
+moves/game: 17,  CRC: 96fded42,   memory: 26.48 MB
+
+Noesis
+wins: 8=4+4,   losses: 40=20+20
+time/turn: 592 ms (max: 4.9 s),  time/game: 9 s
+moves/game: 15,  CRC: 8c55963c,   memory: 7.61 MB
+

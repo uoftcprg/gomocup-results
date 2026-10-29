@@ -1,0 +1,37 @@
+-------------------------------------
+28.4.2006  9:01 - 9:42
+Èas na tah: 30 s,   Èas na partii: 180 s
+Tolerance: 200 ms,   Pamì: 350 MB,   Zahájení: 1
+Poèet her: 90
+-------------------------------------
+
+kanec
+vıhry: 28=14+12+2,  prohry: 2=1+0+1
+èas/tah: 830 ms (max: 20.0 s),  èas/partii: 12 s
+tahù/partii: 15,  CRC: ff2ede8c,   pamì: 38.64 MB
+
+swine
+vıhry: 26=12+10+4,  prohry: 4=2+2
+èas/tah: 947 ms (max: 11.3 s),  èas/partii: 16 s
+tahù/partii: 17,  CRC: d5615e8e,   pamì: 65.29 MB
+
+bestmove
+vıhry: 17=9+8,  prohry: 13=1+7+5
+èas/tah: 6807 ms (max: 30.1 s),  èas/partii: 98 s
+tahù/partii: 14,  CRC: 7554f3d4,   pamì: 74.85 MB
+
+trunkat
+vıhry: 9=4+5,  prohry: 21=11+10
+èas/tah: 206 ms (max: 9.6 s),  èas/partii: 2 s
+tahù/partii: 13,  CRC: 78aa5afe,   pamì: 2.89 MB
+
+BRUTEFOR
+vıhry: 6=4+2,  prohry: 24=10+11+3
+èas/tah: 5687 ms (max: 14.5 s),  èas/partii: 92 s
+tahù/partii: 16,  CRC: 287e32f4,   pamì: 2.23 MB
+
+AI1000
+vıhry: 4=0+1+3,  prohry: 26=13+13
+èas/tah: 72 ms (max: 0.2 s),  èas/partii: 1 s
+tahù/partii: 17,  CRC: 90fb8ea7,   pamì: 2.18 MB
+

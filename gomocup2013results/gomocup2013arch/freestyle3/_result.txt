@@ -1,0 +1,60 @@
+-------------------------------------
+5.4.2013  21:55 - 23:00
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: 0
+Games played: 270
+-------------------------------------
+
+SlowRenju
+wins: 54=27+27,   losses: 0=0+0
+time/turn: 4158 ms (max: 13.9 s),  time/game: 63 s
+moves/game: 15,  CRC: 999858d3,   memory: 22.45 MB
+
+jude
+wins: 42=22+18+2,   losses: 12=4+8
+time/turn: 2492 ms (max: 29.3 s),  time/game: 43 s
+moves/game: 17,  CRC: 73f7c3eb,   memory: 38.86 MB
+
+QMENTAT6
+wins: 37=20+15+2,   losses: 17=7+10
+time/turn: 843 ms (max: 10.5 s),  time/game: 26 s
+moves/game: 31,  CRC: 4509490a,   memory: 2.40 MB
+
+nabamoku
+wins: 29=12+12+5,   losses: 25=12+13
+time/turn: 3708 ms (max: 16.5 s),  time/game: 89 s
+moves/game: 24,  CRC: 474d2d7d,   memory: 3.13 MB
+
+puskvorec
+wins: 31=15+12+4,   losses: 23=10+13
+time/turn: 865 ms (max: 14.1 s),  time/game: 13 s
+moves/game: 15,  CRC: e7c4429f,   memory: 4.38 MB
+
+pisq7
+wins: 20=7+10+3,   losses: 34=18+16
+time/turn: 86 ms (max: 7.0 s),  time/game: 1 s
+moves/game: 19,  CRC: da9c561,   memory: 1.69 MB
+
+LEONARDO
+wins: 15=6+7+2,   losses: 39=20+19
+time/turn: 230 ms (max: 10.2 s),  time/game: 6 s
+moves/game: 26,  CRC: 96a303fe,   memory: 3.96 MB
+
+fiverow
+wins: 14=5+5+4,   losses: 40=19+20+1
+time/turn: 462 ms (max: 21.8 s),  time/game: 5 s
+moves/game: 11,  CRC: e4047021,   memory: 1.43 MB
+
+TRUNKAT
+wins: 17=10+7,   losses: 37=8+12+17,  16 errors
+time/turn: 594 ms (max: 22.0 s),  time/game: 9 s
+moves/game: 16,  CRC: 3ea9cbbe,   memory: 4.70 MB
+
+PureGM13
+wins: 11=7+4,   losses: 43=19+20+4
+time/turn: 3826 ms (max: 27.2 s),  time/game: 78 s
+moves/game: 20,  CRC: 942dfe9c,   memory: 3.96 MB
+

@@ -1,0 +1,1505 @@
+______________________________
+YiXin2011 x pisq7
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 26 | 8 | 794ms | 2.4 | 252 | 4 | 9999988 :-)
+12) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 13.0 | 27 | 4 | 9999996 :-)
+14) pbrain-YiXin2011.exe: 8 | 2 | 0ms | 2.9 | 407 | 4 | 9999998 :-)
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x1-19(1).psq
+______________________________
+pisq7 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 11122ms | 2.9 | 376 | 4 | -12 
+11) pbrain-YiXin2011.exe: 30 | 9 | 9219ms | 2.9 | 422 | 4 | 143 
+13) pbrain-YiXin2011.exe: 30 | 8 | 19953ms | 3.5 | 411 | 4 | -164 
+15) pbrain-YiXin2011.exe: 8 | 8 | 19953ms | 0.0 | 0 | 4 | -164 
+17) pbrain-YiXin2011.exe: 32 | 8 | 4968ms | 2.2 | 396 | 4 | 49 
+19) pbrain-YiXin2011.exe: 40 | 7 | 16828ms | 2.2 | 378 | 4 | 193 
+21) pbrain-YiXin2011.exe: 31 | 7 | 7438ms | 4.1 | 410 | 4 | 465 
+23) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 8.5 | 290 | 4 | 9999994 :-)
+25) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 9.5 | 314 | 4 | 9999996 :-)
+27) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 9.5 | 292 | 4 | 9999998 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\1x0-32(1).psq
+______________________________
+YiXin2011 x Puskvorec
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 31 | 9 | 14700ms | 3.0 | 401 | 4 | 606 
+12) pbrain-YiXin2011.exe: 32 | 8 | 6641ms | 2.4 | 406 | 4 | 343 
+14) pbrain-YiXin2011.exe: 10 | 4 | 31ms | 2.0 | 253 | 4 | 9999992 :-)
+16) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 6.2 | 586 | 4 | 9999998 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x2-21(1).psq
+______________________________
+Puskvorec x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 10262ms | 2.9 | 408 | 4 | -12 
+11) pbrain-YiXin2011.exe: 33 | 9 | 13016ms | 2.9 | 418 | 4 | 189 
+13) pbrain-YiXin2011.exe: 34 | 9 | 19594ms | 3.1 | 414 | 4 | 294 
+15) pbrain-YiXin2011.exe: 34 | 9 | 15531ms | 3.1 | 408 | 4 | 277 
+17) pbrain-YiXin2011.exe: 39 | 9 | 13953ms | 3.1 | 396 | 4 | 284 
+19) pbrain-YiXin2011.exe: 32 | 8 | 5375ms | 2.4 | 399 | 4 | 306 
+21) pbrain-YiXin2011.exe: 36 | 8 | 12781ms | 3.1 | 393 | 4 | 467 
+23) pbrain-YiXin2011.exe: 39 | 7 | 4172ms | 3.7 | 378 | 4 | 987 
+25) pbrain-YiXin2011.exe: 36 | 6 | 5094ms | 2.0 | 396 | 4 | 9999974 :-)
+27) pbrain-YiXin2011.exe: 9 | 1 | 16ms | 8.1 | 351 | 4 | 9999988 :-)
+29) pbrain-YiXin2011.exe: 9 | 1 | 16ms | 15.0 | 417 | 4 | 9999990 :-)
+31) pbrain-YiXin2011.exe: 9 | 1 | 15ms | 12.0 | 435 | 4 | 9999992 :-)
+33) pbrain-YiXin2011.exe: 9 | 1 | 15ms | 14.3 | 426 | 4 | 9999994 :-)
+35) pbrain-YiXin2011.exe: 11 | 1 | 62ms | 12.0 | 396 | 4 | 9999998 :-)
+37) pbrain-YiXin2011.exe: 16 | 1 | 47ms | 3.7 | 278 | 4 | 9999998 :-)
+39) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+41) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\2x0-42(1).psq
+______________________________
+YiXin2011 x AI1000
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 31 | 9 | 14153ms | 3.8 | 423 | 4 | 689 
+12) pbrain-YiXin2011.exe: 33 | 8 | 6734ms | 2.7 | 400 | 4 | 168 
+14) pbrain-YiXin2011.exe: 31 | 9 | 12594ms | 4.4 | 412 | 4 | 1500 
+16) pbrain-YiXin2011.exe: 30 | 8 | 18312ms | 3.9 | 413 | 4 | 453 
+18) pbrain-YiXin2011.exe: 31 | 8 | 3203ms | 2.6 | 410 | 4 | 9999986 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 6.3 | 39 | 4 | 9999988 :-)
+22) pbrain-YiXin2011.exe: 2 | 1 | 0ms | 10.3 | 57 | 4 | 9999990 :-)
+24) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999990 :-)
+26) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 6.6 | 67 | 4 | 9999994 :-)
+28) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 2.0 | 36 | 4 | 9999998 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x3-33(1).psq
+______________________________
+AI1000 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 10293ms | 2.9 | 407 | 4 | -12 
+11) pbrain-YiXin2011.exe: 38 | 10 | 21219ms | 2.9 | 412 | 4 | -117 
+13) pbrain-YiXin2011.exe: 43 | 9 | 18562ms | 2.5 | 404 | 4 | 331 
+15) pbrain-YiXin2011.exe: 9 | 9 | 18562ms | 0.0 | 0 | 4 | 331 
+17) pbrain-YiXin2011.exe: 23 | 7 | 4313ms | 5.5 | 442 | 4 | 1133 
+19) pbrain-YiXin2011.exe: 35 | 8 | 4968ms | 2.4 | 414 | 4 | 730 
+21) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 7.5 | 46 | 4 | 9999988 :-)
+23) pbrain-YiXin2011.exe: 19 | 4 | 31ms | 2.9 | 506 | 4 | 9999990 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 12.5 | 51 | 4 | 9999992 :-)
+27) pbrain-YiXin2011.exe: 10 | 1 | 0ms | 6.8 | 205 | 4 | 9999996 :-)
+29) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 6.9 | 272 | 4 | 9999998 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+33) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\3x0-34(1).psq
+______________________________
+YiXin2011 x Benjamin
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 30 | 8 | 8465ms | 2.6 | 398 | 4 | 173 
+12) pbrain-YiXin2011.exe: 24 | 8 | 6375ms | 3.0 | 408 | 4 | 288 
+14) pbrain-YiXin2011.exe: 33 | 8 | 6766ms | 2.6 | 418 | 4 | 446 
+16) pbrain-YiXin2011.exe: 44 | 8 | 12062ms | 2.4 | 409 | 4 | 722 
+18) pbrain-YiXin2011.exe: 1 | 1 | 16ms | 14.5 | 1 | 4 | 9999980 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 8.3 | 35 | 4 | 9999988 :-)
+22) pbrain-YiXin2011.exe: 16 | 1 | 15ms | 4.8 | 12 | 4 | 9999992 :-)
+24) pbrain-YiXin2011.exe: 16 | 1 | 0ms | 1.9 | 211 | 4 | 9999994 :-)
+26) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 1.9 | 48 | 4 | 9999996 :-)
+28) pbrain-YiXin2011.exe: 13 | 1 | 0ms | 1.9 | 61 | 4 | 9999998 :-)
+30) pbrain-YiXin2011.exe: 13 | 1 | 0ms | 2.0 | 52 | 4 | 9999998 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+34) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x4-35(1).psq
+______________________________
+Benjamin x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 10293ms | 2.9 | 407 | 4 | -12 
+11) pbrain-YiXin2011.exe: 25 | 9 | 8922ms | 3.6 | 429 | 4 | 294 
+13) pbrain-YiXin2011.exe: 29 | 9 | 8937ms | 2.9 | 431 | 4 | 327 
+15) pbrain-YiXin2011.exe: 34 | 8 | 9625ms | 2.8 | 406 | 4 | -107 
+17) pbrain-YiXin2011.exe: 41 | 7 | 17766ms | 3.0 | 400 | 4 | 386 
+19) pbrain-YiXin2011.exe: 38 | 8 | 4594ms | 2.6 | 391 | 4 | 371 
+21) pbrain-YiXin2011.exe: 14 | 6 | 0ms | 3.7 | 2217 | 4 | 9999990 :-)
+23) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 24.0 | 49 | 4 | 9999992 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\4x0-28(1).psq
+______________________________
+YiXin2011 x brain-Crusher2010
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 31 | 9 | 14763ms | 3.8 | 406 | 4 | 689 
+12) pbrain-YiXin2011.exe: 33 | 8 | 5172ms | 2.6 | 407 | 4 | 339 
+14) pbrain-YiXin2011.exe: 29 | 9 | 7000ms | 4.6 | 414 | 4 | 692 
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 7.3 | 54 | 4 | 9999998 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x5-21(1).psq
+______________________________
+brain-Crusher2010 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 10621ms | 2.9 | 394 | 4 | -12 
+11) pbrain-YiXin2011.exe: 30 | 8 | 21172ms | 2.0 | 408 | 4 | -492 
+13) pbrain-YiXin2011.exe: 8 | 8 | 21172ms | 0.0 | 0 | 4 | -492 
+15) pbrain-YiXin2011.exe: 33 | 10 | 8672ms | 2.2 | 406 | 4 | 611 
+17) pbrain-YiXin2011.exe: 33 | 8 | 2125ms | 2.4 | 415 | 4 | 9999988 :-)
+19) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 1.6 | 12 | 4 | 9999990 :-)
+21) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999990 :-)
+23) pbrain-YiXin2011.exe: 8 | 3 | 15ms | 6.1 | 255 | 4 | 9999994 :-)
+25) pbrain-YiXin2011.exe: 8 | 2 | 16ms | 2.9 | 33 | 4 | 9999996 :-)
+27) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 9.3 | 116 | 4 | 9999998 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\5x0-32(1).psq
+______________________________
+YiXin2011 x CURNPIS
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 30 | 8 | 8747ms | 2.6 | 385 | 4 | 173 
+12) pbrain-YiXin2011.exe: 24 | 8 | 6406ms | 3.0 | 406 | 4 | 288 
+14) pbrain-YiXin2011.exe: 33 | 8 | 7234ms | 2.6 | 391 | 4 | 446 
+16) pbrain-YiXin2011.exe: 44 | 8 | 12375ms | 2.4 | 398 | 4 | 722 
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 14.5 | 30 | 4 | 9999980 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 8.3 | 35 | 4 | 9999988 :-)
+22) pbrain-YiXin2011.exe: 12 | 1 | 0ms | 4.7 | 197 | 4 | 9999990 :-)
+24) pbrain-YiXin2011.exe: 10 | 1 | 0ms | 1.8 | 93 | 4 | 9999994 :-)
+26) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 1.9 | 47 | 4 | 9999996 :-)
+28) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 2.0 | 36 | 4 | 9999998 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x6-33(1).psq
+______________________________
+YiXin2011 x LEONARDO
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 31 | 9 | 17559ms | 3.8 | 341 | 4 | 689 
+12) pbrain-YiXin2011.exe: 33 | 8 | 7687ms | 2.7 | 351 | 4 | 168 
+14) pbrain-YiXin2011.exe: 31 | 9 | 14516ms | 4.4 | 358 | 4 | 1500 
+16) pbrain-YiXin2011.exe: 29 | 8 | 4391ms | 1.8 | 380 | 4 | 453 
+18) pbrain-YiXin2011.exe: 30 | 8 | 5297ms | 2.7 | 320 | 4 | 506 
+20) pbrain-YiXin2011.exe: 36 | 7 | 7985ms | 5.3 | 344 | 4 | 1345 
+22) pbrain-YiXin2011.exe: 30 | 6 | 1875ms | 2.1 | 380 | 4 | 9999982 :-)
+24) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 11.5 | 47 | 4 | 9999992 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 16ms | 11.8 | 2 | 4 | 9999996 :-)
+28) pbrain-YiXin2011.exe: 2 | 1 | 0ms | 12.3 | 96 | 4 | 9999998 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x7-33(1).psq
+______________________________
+CURNPIS x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 11059ms | 2.9 | 379 | 4 | -12 
+11) pbrain-YiXin2011.exe: 30 | 8 | 21109ms | 2.0 | 395 | 4 | -492 
+13) pbrain-YiXin2011.exe: 30 | 9 | 9282ms | 2.7 | 385 | 4 | 944 
+15) pbrain-YiXin2011.exe: 36 | 8 | 17313ms | 3.1 | 377 | 4 | 612 
+17) pbrain-YiXin2011.exe: 26 | 8 | 906ms | 1.6 | 399 | 4 | 9999990 :-)
+19) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 7.5 | 46 | 4 | 9999992 :-)
+21) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 5.6 | 196 | 4 | 9999992 :-)
+23) pbrain-YiXin2011.exe: 18 | 4 | 15ms | 2.1 | 578 | 4 | 9999994 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 12.0 | 49 | 4 | 9999996 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\6x0-30(1).psq
+______________________________
+YiXin2011 x mushroom
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 31 | 9 | 14231ms | 4.5 | 401 | 4 | 1849 :-)
+12) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x8-13(1).psq
+______________________________
+mushroom x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 11138ms | 2.9 | 376 | 4 | -12 
+11) pbrain-YiXin2011.exe: 30 | 8 | 21110ms | 2.0 | 390 | 4 | -492 
+13) pbrain-YiXin2011.exe: 8 | 8 | 21110ms | 0.0 | 0 | 4 | -492 
+15) pbrain-YiXin2011.exe: 12 | 4 | 16ms | 2.7 | 369 | 4 | 9999996 :-)
+17) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+19) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\8x0-20(1).psq
+______________________________
+LEONARDO x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 20 | 8 | 5841ms | 3.9 | 336 | 4 | -677 
+11) pbrain-YiXin2011.exe: 38 | 10 | 7453ms | 2.8 | 285 | 4 | -117 
+13) pbrain-YiXin2011.exe: 32 | 9 | 6375ms | 2.9 | 333 | 4 | 331 
+15) pbrain-YiXin2011.exe: 9 | 9 | 6375ms | 0.0 | 0 | 4 | 331 
+17) pbrain-YiXin2011.exe: 44 | 9 | 18672ms | 3.5 | 312 | 4 | 868 
+19) pbrain-YiXin2011.exe: 9 | 9 | 18672ms | 0.0 | 0 | 4 | 868 
+21) pbrain-YiXin2011.exe: 41 | 9 | 17656ms | 2.2 | 331 | 4 | 1506 :-)
+23) pbrain-YiXin2011.exe: 39 | 8 | 15422ms | 3.8 | 326 | 4 | 5197 :-)
+25) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 7.0 | 73 | 4 | 9999982 :-)
+27) pbrain-YiXin2011.exe: 29 | 4 | 109ms | 2.4 | 369 | 4 | 9999984 :-)
+29) pbrain-YiXin2011.exe: 4 | 4 | 109ms | 0.0 | 0 | 4 | 9999984 :-)
+31) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 7.3 | 218 | 4 | 9999998 :-)
+33) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+35) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\7x0-36(1).psq
+______________________________
+pisq7 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\1x2-34(1).psq
+______________________________
+Puskvorec x pisq7
+-> F:\projekty\gomocup2011\freestyle4\2x1-19(1).psq
+______________________________
+pisq7 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\1x3-33(1).psq
+______________________________
+AI1000 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\3x1-21(1).psq
+______________________________
+YiXin2011 x PureGM_2011
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 31 | 9 | 15013ms | 3.8 | 399 | 4 | 689 
+12) pbrain-YiXin2011.exe: 33 | 8 | 7750ms | 2.7 | 348 | 4 | 168 
+14) pbrain-YiXin2011.exe: 34 | 8 | 19641ms | 4.2 | 315 | 4 | 784 
+16) pbrain-YiXin2011.exe: 22 | 4 | 63ms | 2.1 | 335 | 4 | 9999988 :-)
+18) pbrain-YiXin2011.exe: 4 | 4 | 63ms | 0.0 | 0 | 4 | 9999988 :-)
+20) pbrain-YiXin2011.exe: 4 | 4 | 63ms | 0.0 | 0 | 4 | 9999988 :-)
+22) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 1.8 | 65 | 4 | 9999996 :-)
+24) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 1.8 | 29 | 4 | 9999998 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+28) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x9-29(1).psq
+______________________________
+pisq7 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\1x4-145(1).psq
+______________________________
+Benjamin x pisq7
+-> F:\projekty\gomocup2011\freestyle4\4x1-19(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\1x5-20(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\5x1-70(1).psq
+______________________________
+pisq7 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\1x6-23(1).psq
+______________________________
+CURNPIS x pisq7
+-> F:\projekty\gomocup2011\freestyle4\6x1-21(1).psq
+______________________________
+pisq7 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\1x7-87(1).psq
+______________________________
+LEONARDO x pisq7
+-> F:\projekty\gomocup2011\freestyle4\7x1-21(1).psq
+______________________________
+pisq7 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\1x8-15(1).psq
+______________________________
+mushroom x pisq7
+-> F:\projekty\gomocup2011\freestyle4\8x1-18(1).psq
+______________________________
+PureGM_2011 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 31 | 9 | 11075ms | 2.9 | 378 | 4 | -12 
+11) pbrain-YiXin2011.exe: 28 | 10 | 7078ms | 3.3 | 409 | 4 | -425 
+13) pbrain-YiXin2011.exe: 26 | 8 | 19969ms | 2.6 | 377 | 4 | -425 
+15) pbrain-YiXin2011.exe: 34 | 7 | 17469ms | 3.4 | 391 | 4 | 110 
+17) pbrain-YiXin2011.exe: 7 | 7 | 17469ms | 0.0 | 0 | 4 | 110 
+19) pbrain-YiXin2011.exe: 34 | 7 | 5313ms | 5.8 | 395 | 4 | 583 
+21) pbrain-YiXin2011.exe: 32 | 8 | 14469ms | 4.3 | 399 | 4 | 67 
+23) pbrain-YiXin2011.exe: 38 | 8 | 3250ms | 2.6 | 397 | 4 | 779 
+25) pbrain-YiXin2011.exe: 33 | 8 | 3891ms | 2.4 | 412 | 4 | 9999990 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 11.0 | 45 | 4 | 9999992 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999992 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999992 :-)
+33) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 2.3 | 20 | 4 | 9999998 :-)
+35) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+37) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\9x0-38(1).psq
+______________________________
+Puskvorec x AI1000
+-> F:\projekty\gomocup2011\freestyle4\2x3-33(1).psq
+______________________________
+pisq7 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\1x9-36(1).psq
+______________________________
+AI1000 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\3x2-48(1).psq
+______________________________
+PureGM_2011 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\9x1-19(1).psq
+______________________________
+Puskvorec x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\2x5-75(1).psq
+______________________________
+brain-Crusher2010 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\5x2-36(1).psq
+______________________________
+Puskvorec x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\2x4-125(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\2x6-39(1).psq
+______________________________
+Benjamin x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\4x2-40(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\6x2-21(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\2x7-22(1).psq
+______________________________
+Puskvorec x mushroom
+-> F:\projekty\gomocup2011\freestyle4\2x8-17(1).psq
+______________________________
+mushroom x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\8x2-16(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\7x2-54(1).psq
+______________________________
+Puskvorec x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\2x9-26(1).psq
+______________________________
+AI1000 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\3x4-195(1).psq
+______________________________
+PureGM_2011 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\9x2-38(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\3x5-107(1).psq
+______________________________
+Benjamin x AI1000
+Benjamin.exe returned invalid move [0,0]
+-> F:\projekty\gomocup2011\freestyle4\4x3-398(1).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\5x3-52(1).psq
+______________________________
+AI1000 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\3x6-71(1).psq
+______________________________
+AI1000 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\3x7-39(1).psq
+______________________________
+CURNPIS x AI1000
+-> F:\projekty\gomocup2011\freestyle4\6x3-74(1).psq
+______________________________
+AI1000 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\3x8-13(1).psq
+______________________________
+mushroom x AI1000
+-> F:\projekty\gomocup2011\freestyle4\8x3-24(1).psq
+______________________________
+LEONARDO x AI1000
+-> F:\projekty\gomocup2011\freestyle4\7x3-114(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\4x5-129(1).psq
+______________________________
+AI1000 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\3x9-32(1).psq
+______________________________
+PureGM_2011 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\9x3-41(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+brain-Crusher2010.exe: Timeout
+-> F:\projekty\gomocup2011\freestyle4\5x4-234(1).psq
+______________________________
+Benjamin x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\4x7-65(1).psq
+______________________________
+Benjamin x CURNPIS
+CURNPIS.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\4x6-289(1).psq
+______________________________
+LEONARDO x Benjamin
+LEONARDO.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\7x4-226(1).psq
+______________________________
+Benjamin x mushroom
+-> F:\projekty\gomocup2011\freestyle4\4x8-19(1).psq
+______________________________
+mushroom x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\8x4-18(1).psq
+______________________________
+CURNPIS x Benjamin
+CURNPIS.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\6x4-378(1).psq
+______________________________
+Benjamin x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\4x9-315(1).psq
+______________________________
+PureGM_2011 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\9x4-43(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+CURNPIS.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\5x6-359(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\5x7-40(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\6x5-89(1).psq
+______________________________
+brain-Crusher2010 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\5x8-13(1).psq
+______________________________
+mushroom x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\8x5-42(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\7x5-109(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\6x7-46(1).psq
+______________________________
+brain-Crusher2010 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\5x9-66(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\7x6-99(1).psq
+______________________________
+CURNPIS x mushroom
+-> F:\projekty\gomocup2011\freestyle4\6x8-13(1).psq
+______________________________
+mushroom x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\8x6-18(1).psq
+______________________________
+PureGM_2011 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\9x5-69(1).psq
+______________________________
+LEONARDO x mushroom
+-> F:\projekty\gomocup2011\freestyle4\7x8-13(1).psq
+______________________________
+mushroom x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\8x7-25(1).psq
+______________________________
+CURNPIS x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\6x9-54(1).psq
+______________________________
+LEONARDO x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\7x9-52(1).psq
+______________________________
+PureGM_2011 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\9x6-43(1).psq
+______________________________
+mushroom x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\8x9-20(1).psq
+______________________________
+PureGM_2011 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\9x8-17(1).psq
+______________________________
+PureGM_2011 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\9x7-35(1).psq
+______________________________
+pisq7 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 13388ms | 3.3 | 272 | 4 | -405 
+11) pbrain-YiXin2011.exe: 28 | 8 | 10813ms | 2.9 | 367 | 4 | -400 
+13) pbrain-YiXin2011.exe: 39 | 7 | 14062ms | 3.1 | 256 | 4 | 72 
+15) pbrain-YiXin2011.exe: 36 | 8 | 7406ms | 2.9 | 342 | 4 | -447 
+17) pbrain-YiXin2011.exe: 37 | 8 | 4203ms | 3.5 | 372 | 4 | -452 
+19) pbrain-YiXin2011.exe: 36 | 8 | 4843ms | 3.7 | 368 | 4 | -713 
+21) pbrain-YiXin2011.exe: 16 | 2 | 31ms | 3.2 | 228 | 4 | 9999990 :-)
+23) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 6.9 | 457 | 4 | 9999996 :-)
+25) pbrain-YiXin2011.exe: 7 | 1 | 0ms | 4.8 | 1028 | 4 | 9999998 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\1x0-30(1).psq
+______________________________
+YiXin2011 x pisq7
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 34 | 8 | 9200ms | 2.9 | 290 | 4 | -75 
+12) pbrain-YiXin2011.exe: 35 | 9 | 5531ms | 3.2 | 280 | 4 | 520 
+14) pbrain-YiXin2011.exe: 37 | 9 | 6407ms | 2.8 | 331 | 4 | 268 
+16) pbrain-YiXin2011.exe: 44 | 8 | 10500ms | 2.1 | 365 | 4 | -121 
+18) pbrain-YiXin2011.exe: 34 | 8 | 12000ms | 2.3 | 210 | 4 | -39 
+20) pbrain-YiXin2011.exe: 44 | 8 | 1421ms | 3.1 | 374 | 4 | 9999988 :-)
+22) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 12.0 | 49 | 4 | 9999990 :-)
+24) pbrain-YiXin2011.exe: 13 | 4 | 79ms | 3.6 | 445 | 4 | 9999994 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+28) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x1-29(1).psq
+______________________________
+Puskvorec x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 9091ms | 3.3 | 400 | 4 | -405 
+11) pbrain-YiXin2011.exe: 32 | 8 | 5578ms | 3.3 | 409 | 4 | -202 
+13) pbrain-YiXin2011.exe: 33 | 9 | 12297ms | 2.8 | 401 | 4 | 362 
+15) pbrain-YiXin2011.exe: 37 | 9 | 15516ms | 3.0 | 388 | 4 | 521 
+17) pbrain-YiXin2011.exe: 37 | 9 | 14703ms | 3.0 | 377 | 4 | 625 
+19) pbrain-YiXin2011.exe: 38 | 8 | 15328ms | 2.5 | 375 | 4 | 416 
+21) pbrain-YiXin2011.exe: 30 | 7 | 13406ms | 1.9 | 379 | 4 | 711 
+23) pbrain-YiXin2011.exe: 30 | 7 | 5578ms | 3.1 | 381 | 4 | 786 
+25) pbrain-YiXin2011.exe: 26 | 6 | 10110ms | 2.0 | 396 | 4 | 435 
+27) pbrain-YiXin2011.exe: 30 | 6 | 7094ms | 2.0 | 386 | 4 | 609 
+29) pbrain-YiXin2011.exe: 28 | 6 | 8390ms | 1.9 | 387 | 4 | 607 
+31) pbrain-YiXin2011.exe: 16 | 1 | 0ms | 4.6 | 1249 | 4 | 9999986 :-)
+33) pbrain-YiXin2011.exe: 11 | 1 | 0ms | 5.1 | 397 | 4 | 9999988 :-)
+35) pbrain-YiXin2011.exe: 11 | 1 | 0ms | 6.1 | 410 | 4 | 9999990 :-)
+37) pbrain-YiXin2011.exe: 11 | 1 | 0ms | 8.1 | 443 | 4 | 9999992 :-)
+39) pbrain-YiXin2011.exe: 11 | 1 | 16ms | 11.6 | 27 | 4 | 9999994 :-)
+41) pbrain-YiXin2011.exe: 11 | 1 | 0ms | 12.2 | 487 | 4 | 9999996 :-)
+43) pbrain-YiXin2011.exe: 11 | 1 | 0ms | 14.8 | 479 | 4 | 9999998 :-)
+45) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+47) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\2x0-48(1).psq
+______________________________
+YiXin2011 x Puskvorec
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 28 | 8 | 16794ms | 2.8 | 397 | 4 | 26 
+12) pbrain-YiXin2011.exe: 40 | 8 | 20391ms | 3.8 | 391 | 4 | 148 
+14) pbrain-YiXin2011.exe: 12 | 4 | 16ms | 2.5 | 508 | 4 | 9999992 :-)
+16) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 5.1 | 237 | 4 | 9999996 :-)
+18) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 7.7 | 230 | 4 | 9999998 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+22) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x2-23(1).psq
+______________________________
+AI1000 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 11669ms | 3.3 | 312 | 4 | -405 
+11) pbrain-YiXin2011.exe: 30 | 8 | 20313ms | 3.4 | 317 | 4 | -354 
+13) pbrain-YiXin2011.exe: 27 | 7 | 4672ms | 2.7 | 371 | 4 | 146 
+15) pbrain-YiXin2011.exe: 7 | 7 | 4672ms | 0.0 | 0 | 4 | 146 
+17) pbrain-YiXin2011.exe: 36 | 7 | 6516ms | 4.5 | 303 | 4 | 812 
+19) pbrain-YiXin2011.exe: 31 | 7 | 5438ms | 5.7 | 386 | 4 | 1200 
+21) pbrain-YiXin2011.exe: 4 | 2 | 0ms | 2.9 | 233 | 4 | 9999998 :-)
+23) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\3x0-26(1).psq
+______________________________
+Benjamin x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 9091ms | 3.3 | 400 | 4 | -405 
+11) pbrain-YiXin2011.exe: 24 | 8 | 11750ms | 3.2 | 421 | 4 | -359 
+13) pbrain-YiXin2011.exe: 28 | 8 | 5172ms | 2.6 | 416 | 4 | -301 
+15) pbrain-YiXin2011.exe: 36 | 9 | 6422ms | 3.4 | 416 | 4 | 178 
+17) pbrain-YiXin2011.exe: 34 | 10 | 8422ms | 3.1 | 421 | 4 | -92 
+19) pbrain-YiXin2011.exe: 23 | 7 | 8547ms | 6.4 | 427 | 4 | 770 
+21) pbrain-YiXin2011.exe: 32 | 7 | 8438ms | 5.9 | 438 | 4 | 668 
+23) pbrain-YiXin2011.exe: 24 | 6 | 781ms | 3.0 | 467 | 4 | 9999986 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 10.6 | 60 | 4 | 9999994 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 28.0 | 60 | 4 | 9999996 :-)
+29) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 2.0 | 51 | 4 | 9999998 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+33) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\4x0-34(1).psq
+______________________________
+YiXin2011 x AI1000
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 21 | 7 | 6388ms | 3.2 | 367 | 4 | 405 
+12) pbrain-YiXin2011.exe: 34 | 8 | 8594ms | 3.1 | 287 | 4 | -101 
+14) pbrain-YiXin2011.exe: 26 | 7 | 8093ms | 3.8 | 352 | 4 | 511 
+16) pbrain-YiXin2011.exe: 32 | 7 | 7532ms | 3.6 | 316 | 4 | 618 
+18) pbrain-YiXin2011.exe: 33 | 8 | 7282ms | 2.3 | 287 | 4 | 219 
+20) pbrain-YiXin2011.exe: 32 | 8 | 10687ms | 2.4 | 278 | 4 | 487 
+22) pbrain-YiXin2011.exe: 39 | 8 | 7641ms | 2.1 | 370 | 4 | 1043 
+24) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 20.0 | 41 | 4 | 9999988 :-)
+26) pbrain-YiXin2011.exe: 2 | 1 | 0ms | 8.2 | 51 | 4 | 9999994 :-)
+28) pbrain-YiXin2011.exe: 3 | 1 | 16ms | 8.2 | 14 | 4 | 9999998 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x3-33(2).psq
+______________________________
+YiXin2011 x Benjamin
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 21 | 7 | 5872ms | 3.2 | 399 | 4 | 405 
+12) pbrain-YiXin2011.exe: 34 | 8 | 6110ms | 3.1 | 404 | 4 | -101 
+14) pbrain-YiXin2011.exe: 26 | 7 | 7125ms | 3.8 | 400 | 4 | 511 
+16) pbrain-YiXin2011.exe: 27 | 7 | 5562ms | 3.6 | 397 | 4 | 618 
+18) pbrain-YiXin2011.exe: 39 | 9 | 17922ms | 4.0 | 398 | 4 | 846 
+20) pbrain-YiXin2011.exe: 35 | 8 | 5016ms | 2.2 | 408 | 4 | 566 
+22) pbrain-YiXin2011.exe: 32 | 7 | 8328ms | 6.2 | 391 | 4 | 1027 
+24) pbrain-YiXin2011.exe: 40 | 7 | 6344ms | 5.9 | 395 | 4 | 1357 
+26) pbrain-YiXin2011.exe: 31 | 7 | 8407ms | 4.6 | 406 | 4 | 1219 
+28) pbrain-YiXin2011.exe: 33 | 7 | 4734ms | 4.0 | 401 | 4 | 1536 :-)
+30) pbrain-YiXin2011.exe: 41 | 7 | 9453ms | 5.0 | 416 | 4 | 1709 :-)
+32) pbrain-YiXin2011.exe: 32 | 6 | 468ms | 1.8 | 351 | 4 | 9999990 :-)
+34) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 28.5 | 58 | 4 | 9999992 :-)
+36) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 28.0 | 57 | 4 | 9999994 :-)
+38) pbrain-YiXin2011.exe: 14 | 1 | 0ms | 2.5 | 798 | 4 | 9999998 :-)
+40) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+42) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x4-43(1).psq
+______________________________
+brain-Crusher2010 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 9435ms | 3.3 | 385 | 4 | -405 
+11) pbrain-YiXin2011.exe: 23 | 8 | 13672ms | 3.2 | 254 | 4 | -312 
+13) pbrain-YiXin2011.exe: 32 | 8 | 5328ms | 2.7 | 410 | 4 | -188 
+15) pbrain-YiXin2011.exe: 35 | 9 | 18578ms | 5.4 | 361 | 4 | 1269 
+17) pbrain-YiXin2011.exe: 37 | 8 | 3891ms | 2.5 | 406 | 4 | 9999986 :-)
+19) pbrain-YiXin2011.exe: 18 | 6 | 31ms | 2.6 | 308 | 4 | 9999994 :-)
+21) pbrain-YiXin2011.exe: 6 | 6 | 31ms | 0.0 | 0 | 4 | 9999994 :-)
+23) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 9.3 | 113 | 4 | 9999998 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\5x0-28(1).psq
+______________________________
+CURNPIS x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 8919ms | 3.3 | 408 | 4 | -405 
+11) pbrain-YiXin2011.exe: 30 | 8 | 15938ms | 3.4 | 404 | 4 | -354 
+13) pbrain-YiXin2011.exe: 28 | 7 | 19391ms | 3.6 | 403 | 4 | 146 
+15) pbrain-YiXin2011.exe: 30 | 8 | 10703ms | 2.8 | 407 | 4 | -42 
+17) pbrain-YiXin2011.exe: 31 | 7 | 6172ms | 3.7 | 405 | 4 | 616 
+19) pbrain-YiXin2011.exe: 31 | 7 | 3953ms | 3.0 | 401 | 4 | 616 
+21) pbrain-YiXin2011.exe: 24 | 6 | 156ms | 2.1 | 413 | 4 | 9999990 :-)
+23) pbrain-YiXin2011.exe: 1 | 1 | 16ms | 10.3 | 2 | 4 | 9999992 :-)
+25) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 2.3 | 68 | 4 | 9999998 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\6x0-30(2).psq
+______________________________
+YiXin2011 x brain-Crusher2010
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 21 | 7 | 5935ms | 3.2 | 395 | 4 | 405 
+12) pbrain-YiXin2011.exe: 28 | 8 | 12313ms | 2.7 | 352 | 4 | -118 
+14) pbrain-YiXin2011.exe: 31 | 9 | 6813ms | 4.2 | 409 | 4 | 1124 
+16) pbrain-YiXin2011.exe: 36 | 8 | 9094ms | 2.7 | 381 | 4 | 624 
+18) pbrain-YiXin2011.exe: 30 | 7 | 6218ms | 7.0 | 419 | 4 | 1358 
+20) pbrain-YiXin2011.exe: 33 | 7 | 6422ms | 3.9 | 405 | 4 | 1265 
+22) pbrain-YiXin2011.exe: 37 | 8 | 8172ms | 2.5 | 408 | 4 | 9999980 :-)
+24) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 13.3 | 54 | 4 | 9999982 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999982 :-)
+28) pbrain-YiXin2011.exe: 14 | 1 | 0ms | 6.3 | 186 | 4 | 9999990 :-)
+30) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 9.0 | 103 | 4 | 9999992 :-)
+32) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 7.1 | 2159 | 4 | 9999994 :-)
+34) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 7.2 | 344 | 4 | 9999996 :-)
+36) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 7.8 | 244 | 4 | 9999998 :-)
+38) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+40) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x5-41(1).psq
+______________________________
+YiXin2011 x CURNPIS
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 21 | 7 | 6215ms | 3.2 | 377 | 4 | 405 
+12) pbrain-YiXin2011.exe: 34 | 8 | 13500ms | 3.1 | 387 | 4 | -232 
+14) pbrain-YiXin2011.exe: 33 | 7 | 9672ms | 3.6 | 395 | 4 | 427 
+16) pbrain-YiXin2011.exe: 7 | 7 | 9672ms | 0.0 | 0 | 4 | 427 
+18) pbrain-YiXin2011.exe: 30 | 7 | 4766ms | 6.1 | 407 | 4 | 2283 :-)
+20) pbrain-YiXin2011.exe: 22 | 6 | 454ms | 2.4 | 405 | 4 | 9999980 :-)
+22) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 12.3 | 50 | 4 | 9999982 :-)
+24) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 6.9 | 56 | 4 | 9999992 :-)
+26) pbrain-YiXin2011.exe: 7 | 1 | 0ms | 2.5 | 49 | 4 | 9999998 :-)
+28) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x6-31(1).psq
+______________________________
+mushroom x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 8872ms | 3.3 | 410 | 4 | -405 
+11) pbrain-YiXin2011.exe: 35 | 9 | 15828ms | 3.1 | 403 | 4 | 268 
+13) pbrain-YiXin2011.exe: 41 | 8 | 6844ms | 2.8 | 404 | 4 | -164 
+15) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+17) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\8x0-18(1).psq
+______________________________
+YiXin2011 x mushroom
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 36 | 8 | 7668ms | 3.0 | 387 | 4 | -4 
+12) pbrain-YiXin2011.exe: 30 | 8 | 9625ms | 2.7 | 415 | 4 | 379 
+14) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x8-17(1).psq
+______________________________
+LEONARDO x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 13310ms | 3.3 | 273 | 4 | -405 
+11) pbrain-YiXin2011.exe: 29 | 7 | 20750ms | 3.4 | 302 | 4 | 142 
+13) pbrain-YiXin2011.exe: 7 | 7 | 20750ms | 0.0 | 0 | 4 | 142 
+15) pbrain-YiXin2011.exe: 32 | 8 | 16391ms | 2.4 | 235 | 4 | 270 
+17) pbrain-YiXin2011.exe: 29 | 7 | 5422ms | 6.7 | 386 | 4 | 1022 
+19) pbrain-YiXin2011.exe: 35 | 7 | 4109ms | 3.5 | 240 | 4 | 1382 
+21) pbrain-YiXin2011.exe: 38 | 6 | 14812ms | 2.8 | 226 | 4 | 1714 :-)
+23) pbrain-YiXin2011.exe: 9 | 1 | 16ms | 5.4 | 353 | 4 | 9999994 :-)
+25) pbrain-YiXin2011.exe: 9 | 1 | 32ms | 8.0 | 204 | 4 | 9999996 :-)
+27) pbrain-YiXin2011.exe: 9 | 1 | 31ms | 12.5 | 245 | 4 | 9999998 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\7x0-32(1).psq
+______________________________
+YiXin2011 x LEONARDO
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 21 | 7 | 8575ms | 3.2 | 273 | 4 | 405 
+12) pbrain-YiXin2011.exe: 34 | 8 | 20203ms | 3.1 | 258 | 4 | -232 
+14) pbrain-YiXin2011.exe: 8 | 8 | 20203ms | 0.0 | 0 | 4 | -232 
+16) pbrain-YiXin2011.exe: 29 | 7 | 12406ms | 4.3 | 231 | 4 | 597 
+18) pbrain-YiXin2011.exe: 34 | 8 | 16500ms | 2.7 | 275 | 4 | -35 
+20) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 1.9 | 30 | 4 | 9999994 :-)
+22) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 1.9 | 30 | 4 | 9999996 :-)
+24) pbrain-YiXin2011.exe: 3 | 1 | 0ms | 2.0 | 19 | 4 | 9999998 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+28) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x7-29(1).psq
+______________________________
+PureGM_2011 x YiXin2011
+ 9) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 9) pbrain-YiXin2011.exe: 22 | 8 | 9278ms | 3.3 | 392 | 4 | -405 
+11) pbrain-YiXin2011.exe: 27 | 8 | 8875ms | 2.9 | 412 | 4 | -65 
+13) pbrain-YiXin2011.exe: 35 | 7 | 11062ms | 4.0 | 390 | 4 | 733 
+15) pbrain-YiXin2011.exe: 7 | 7 | 11062ms | 0.0 | 0 | 4 | 733 
+17) pbrain-YiXin2011.exe: 35 | 7 | 5016ms | 3.9 | 380 | 4 | 3098 :-)
+19) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 11.3 | 46 | 4 | 9999986 :-)
+21) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 25.0 | 51 | 4 | 9999988 :-)
+23) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 2.0 | 124 | 4 | 9999994 :-)
+25) pbrain-YiXin2011.exe: 12 | 1 | 0ms | 2.4 | 340 | 4 | 9999996 :-)
+27) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 3.5 | 29 | 4 | 9999998 :-)
+29) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\9x0-32(1).psq
+______________________________
+Puskvorec x pisq7
+-> F:\projekty\gomocup2011\freestyle4\2x1-33(1).psq
+______________________________
+pisq7 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\1x2-30(1).psq
+______________________________
+AI1000 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\3x1-31(1).psq
+______________________________
+YiXin2011 x PureGM_2011
+10) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+10) pbrain-YiXin2011.exe: 23 | 7 | 6653ms | 5.0 | 366 | 4 | 726 
+12) pbrain-YiXin2011.exe: 30 | 8 | 9062ms | 2.7 | 410 | 4 | 721 
+14) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 10.5 | 43 | 4 | 9999984 :-)
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 7.2 | 44 | 4 | 9999986 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999986 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 9999986 :-)
+22) pbrain-YiXin2011.exe: 22 | 1 | 0ms | 5.6 | 364 | 4 | 9999996 :-)
+24) pbrain-YiXin2011.exe: 17 | 1 | 0ms | 6.0 | 258 | 4 | 9999998 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+28) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x9-29(2).psq
+______________________________
+pisq7 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\1x3-45(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\5x1-25(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\1x5-35(1).psq
+______________________________
+Benjamin x pisq7
+-> F:\projekty\gomocup2011\freestyle4\4x1-108(1).psq
+______________________________
+CURNPIS x pisq7
+-> F:\projekty\gomocup2011\freestyle4\6x1-72(1).psq
+______________________________
+pisq7 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\1x4-133(1).psq
+______________________________
+LEONARDO x pisq7
+-> F:\projekty\gomocup2011\freestyle4\7x1-25(1).psq
+______________________________
+pisq7 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\1x6-47(1).psq
+______________________________
+mushroom x pisq7
+-> F:\projekty\gomocup2011\freestyle4\8x1-22(1).psq
+______________________________
+pisq7 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\1x8-17(1).psq
+______________________________
+pisq7 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\1x7-101(1).psq
+______________________________
+AI1000 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\3x2-28(1).psq
+______________________________
+Puskvorec x AI1000
+-> F:\projekty\gomocup2011\freestyle4\2x3-33(2).psq
+______________________________
+Benjamin x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\4x2-58(1).psq
+______________________________
+Puskvorec x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\2x4-67(1).psq
+______________________________
+brain-Crusher2010 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\5x2-30(1).psq
+______________________________
+PureGM_2011 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\9x1-74(1).psq
+______________________________
+Puskvorec x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\2x5-75(2).psq
+______________________________
+CURNPIS x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\6x2-26(1).psq
+______________________________
+pisq7 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\1x9-22(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\7x2-36(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\2x6-78(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\2x7-28(1).psq
+______________________________
+mushroom x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\8x2-22(1).psq
+______________________________
+Puskvorec x mushroom
+-> F:\projekty\gomocup2011\freestyle4\2x8-19(1).psq
+______________________________
+PureGM_2011 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\9x2-68(1).psq
+______________________________
+Benjamin x AI1000
+AI1000.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\4x3-393(1).psq
+______________________________
+Puskvorec x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\2x9-45(1).psq
+______________________________
+brain-Crusher2010 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\5x3-52(2).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\3x5-57(1).psq
+______________________________
+AI1000 x Benjamin
+AI1000.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\3x4-308(1).psq
+______________________________
+CURNPIS x AI1000
+-> F:\projekty\gomocup2011\freestyle4\6x3-130(1).psq
+______________________________
+AI1000 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\3x6-103(1).psq
+______________________________
+mushroom x AI1000
+-> F:\projekty\gomocup2011\freestyle4\8x3-20(1).psq
+______________________________
+AI1000 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\3x8-15(1).psq
+______________________________
+LEONARDO x AI1000
+AI1000.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\7x3-365(1).psq
+______________________________
+PureGM_2011 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\9x3-65(1).psq
+______________________________
+AI1000 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\3x7-153(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\5x4-56(1).psq
+______________________________
+AI1000 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\3x9-42(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\4x5-149(1).psq
+______________________________
+LEONARDO x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\7x4-126(1).psq
+______________________________
+CURNPIS x Benjamin
+Benjamin.exe has not returned coordinates x,y
+-> F:\projekty\gomocup2011\freestyle4\6x4-241(1).psq
+______________________________
+Benjamin x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\4x6-83(1).psq
+______________________________
+mushroom x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\8x4-32(1).psq
+______________________________
+Benjamin x mushroom
+-> F:\projekty\gomocup2011\freestyle4\4x8-15(1).psq
+______________________________
+Benjamin x LEONARDO
+LEONARDO.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\4x7-287(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\6x5-106(1).psq
+______________________________
+PureGM_2011 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\9x4-140(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\5x6-303(1).psq
+______________________________
+Benjamin x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\4x9-63(1).psq
+______________________________
+mushroom x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\8x5-24(1).psq
+______________________________
+brain-Crusher2010 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\5x8-15(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\7x5-87(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\5x7-52(1).psq
+______________________________
+PureGM_2011 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\9x5-35(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\7x6-161(1).psq
+______________________________
+brain-Crusher2010 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\5x9-38(1).psq
+______________________________
+mushroom x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\8x6-18(2).psq
+______________________________
+CURNPIS x mushroom
+-> F:\projekty\gomocup2011\freestyle4\6x8-15(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\6x7-178(1).psq
+______________________________
+mushroom x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\8x7-18(1).psq
+______________________________
+LEONARDO x mushroom
+-> F:\projekty\gomocup2011\freestyle4\7x8-15(1).psq
+______________________________
+PureGM_2011 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\9x6-31(1).psq
+______________________________
+PureGM_2011 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\9x7-33(1).psq
+______________________________
+LEONARDO x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\7x9-34(1).psq
+______________________________
+PureGM_2011 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\9x8-15(1).psq
+______________________________
+CURNPIS x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\6x9-72(1).psq
+______________________________
+mushroom x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\8x9-22(1).psq
+______________________________
+YiXin2011 x pisq7
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22513ms | 3.0 | 270 | 4 | -172 
+10) pbrain-YiXin2011.exe: 27 | 9 | 6297ms | 3.2 | 219 | 4 | 762 
+12) pbrain-YiXin2011.exe: 37 | 10 | 7828ms | 2.4 | 271 | 4 | 4308 :-)
+14) pbrain-YiXin2011.exe: 14 | 6 | 63ms | 2.6 | 296 | 4 | 9999992 :-)
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 16.5 | 34 | 4 | 9999996 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x1-21(1).psq
+______________________________
+YiXin2011 x Puskvorec
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 35 | 10 | 5997ms | 2.2 | 366 | 4 | 744 
+10) pbrain-YiXin2011.exe: 35 | 9 | 6594ms | 4.9 | 384 | 4 | 2827 :-)
+12) pbrain-YiXin2011.exe: 16 | 4 | 31ms | 2.7 | 376 | 4 | 9999994 :-)
+14) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 9.5 | 39 | 4 | 9999996 :-)
+16) pbrain-YiXin2011.exe: 10 | 1 | 0ms | 1.9 | 71 | 4 | 9999998 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+20) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x2-21(2).psq
+______________________________
+Puskvorec x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 8075ms | 2.9 | 379 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 39 | 10 | 20234ms | 3.0 | 402 | 4 | -471 
+11) pbrain-YiXin2011.exe: 30 | 8 | 1641ms | 2.7 | 411 | 4 | 9999988 :-)
+13) pbrain-YiXin2011.exe: 16 | 6 | 63ms | 3.0 | 424 | 4 | 9999992 :-)
+15) pbrain-YiXin2011.exe: 2 | 1 | 0ms | 2.5 | 24 | 4 | 9999996 :-)
+17) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 3.5 | 15 | 4 | 9999998 :-)
+19) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+21) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\2x0-22(1).psq
+______________________________
+pisq7 x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 10669ms | 2.9 | 287 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 31 | 10 | 8218ms | 2.3 | 379 | 4 | 282 
+11) pbrain-YiXin2011.exe: 34 | 10 | 12422ms | 2.2 | 355 | 4 | 255 
+13) pbrain-YiXin2011.exe: 42 | 10 | 18422ms | 3.0 | 296 | 4 | 129 
+15) pbrain-YiXin2011.exe: 36 | 8 | 16094ms | 2.8 | 251 | 4 | 319 
+17) pbrain-YiXin2011.exe: 39 | 7 | 14062ms | 2.4 | 286 | 4 | 698 
+19) pbrain-YiXin2011.exe: 34 | 6 | 12266ms | 4.0 | 359 | 4 | 260 
+21) pbrain-YiXin2011.exe: 9 | 1 | 16ms | 5.2 | 226 | 4 | 9999996 :-)
+23) pbrain-YiXin2011.exe: 11 | 1 | 32ms | 8.2 | 452 | 4 | 9999998 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+27) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\1x0-28(1).psq
+______________________________
+YiXin2011 x AI1000
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22216ms | 3.0 | 393 | 4 | -172 
+10) pbrain-YiXin2011.exe: 10 | 10 | 22216ms | 0.0 | 0 | 4 | -172 
+12) pbrain-YiXin2011.exe: 35 | 10 | 14813ms | 2.9 | 408 | 4 | -32 
+14) pbrain-YiXin2011.exe: 29 | 9 | 13313ms | 4.4 | 418 | 4 | 835 
+16) pbrain-YiXin2011.exe: 41 | 8 | 15937ms | 5.6 | 412 | 4 | 325 
+18) pbrain-YiXin2011.exe: 26 | 8 | 13937ms | 5.4 | 426 | 4 | 459 
+20) pbrain-YiXin2011.exe: 31 | 8 | 10562ms | 1.9 | 402 | 4 | 502 
+22) pbrain-YiXin2011.exe: 28 | 7 | 7016ms | 6.3 | 418 | 4 | 1055 
+24) pbrain-YiXin2011.exe: 34 | 7 | 5766ms | 5.5 | 405 | 4 | 1459 
+26) pbrain-YiXin2011.exe: 7 | 7 | 5766ms | 0.0 | 0 | 4 | 1459 
+28) pbrain-YiXin2011.exe: 23 | 4 | 62ms | 2.6 | 469 | 4 | 9999984 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 8.7 | 53 | 4 | 9999990 :-)
+32) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 6.2 | 427 | 4 | 9999994 :-)
+34) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 9.7 | 489 | 4 | 9999996 :-)
+36) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 9.5 | 482 | 4 | 9999998 :-)
+38) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+40) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x3-41(1).psq
+______________________________
+YiXin2011 x Benjamin
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22465ms | 3.0 | 294 | 4 | -172 
+10) pbrain-YiXin2011.exe: 29 | 9 | 19672ms | 2.6 | 309 | 4 | 487 
+12) pbrain-YiXin2011.exe: 32 | 8 | 17203ms | 4.6 | 312 | 4 | -50 
+14) pbrain-YiXin2011.exe: 19 | 7 | 8188ms | 5.0 | 285 | 4 | 695 
+16) pbrain-YiXin2011.exe: 27 | 7 | 6172ms | 5.7 | 353 | 4 | 728 
+18) pbrain-YiXin2011.exe: 23 | 7 | 3610ms | 4.9 | 365 | 4 | 972 
+20) pbrain-YiXin2011.exe: 44 | 7 | 10313ms | 8.5 | 279 | 4 | 1614 :-)
+22) pbrain-YiXin2011.exe: 33 | 7 | 8360ms | 4.7 | 270 | 4 | 1710 :-)
+24) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 6.7 | 100 | 4 | 9999994 :-)
+26) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 7.7 | 92 | 4 | 9999996 :-)
+28) pbrain-YiXin2011.exe: 6 | 1 | 16ms | 8.0 | 6 | 4 | 9999998 :-)
+30) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x4-33(1).psq
+______________________________
+Benjamin x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 11325ms | 2.9 | 270 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 38 | 9 | 21063ms | 3.0 | 266 | 4 | 172 
+11) pbrain-YiXin2011.exe: 33 | 10 | 9453ms | 3.1 | 257 | 4 | -521 
+13) pbrain-YiXin2011.exe: 32 | 9 | 11375ms | 3.1 | 264 | 4 | 32 
+15) pbrain-YiXin2011.exe: 29 | 9 | 7515ms | 3.5 | 353 | 4 | 28 
+17) pbrain-YiXin2011.exe: 26 | 7 | 4203ms | 3.2 | 231 | 4 | 169 
+19) pbrain-YiXin2011.exe: 30 | 8 | 7188ms | 3.0 | 291 | 4 | 199 
+21) pbrain-YiXin2011.exe: 31 | 8 | 4750ms | 2.6 | 313 | 4 | 9999990 :-)
+23) pbrain-YiXin2011.exe: 1 | 1 | 16ms | 9.0 | 2 | 4 | 9999992 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 20.0 | 46 | 4 | 9999994 :-)
+27) pbrain-YiXin2011.exe: 12 | 2 | 0ms | 3.0 | 1392 | 4 | 9999996 :-)
+29) pbrain-YiXin2011.exe: 4 | 1 | 0ms | 8.0 | 100 | 4 | 9999998 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+33) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\4x0-34(2).psq
+______________________________
+YiXin2011 x brain-Crusher2010
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22419ms | 3.0 | 311 | 4 | -172 
+10) pbrain-YiXin2011.exe: 10 | 10 | 22419ms | 0.0 | 0 | 4 | -172 
+12) pbrain-YiXin2011.exe: 33 | 11 | 14500ms | 3.8 | 309 | 4 | 1172 
+14) pbrain-YiXin2011.exe: 22 | 8 | 1422ms | 2.3 | 238 | 4 | 9999986 :-)
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 17.5 | 36 | 4 | 9999988 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 17.5 | 36 | 4 | 9999990 :-)
+20) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 6.1 | 157 | 4 | 9999994 :-)
+22) pbrain-YiXin2011.exe: 5 | 1 | 16ms | 7.1 | 11 | 4 | 9999996 :-)
+24) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 11.5 | 182 | 4 | 9999998 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+28) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x5-29(1).psq
+______________________________
+AI1000 x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 7950ms | 2.9 | 385 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 39 | 10 | 20687ms | 3.0 | 394 | 4 | -471 
+11) pbrain-YiXin2011.exe: 30 | 10 | 6282ms | 3.0 | 402 | 4 | -444 
+13) pbrain-YiXin2011.exe: 32 | 9 | 9313ms | 3.0 | 394 | 4 | 3 
+15) pbrain-YiXin2011.exe: 31 | 8 | 5203ms | 3.1 | 416 | 4 | -511 
+17) pbrain-YiXin2011.exe: 35 | 9 | 11969ms | 3.0 | 406 | 4 | -33 
+19) pbrain-YiXin2011.exe: 41 | 9 | 14609ms | 2.8 | 386 | 4 | -132 
+21) pbrain-YiXin2011.exe: 32 | 7 | 12953ms | 3.8 | 418 | 4 | -132 
+23) pbrain-YiXin2011.exe: 30 | 8 | 2937ms | 3.2 | 426 | 4 | -626 
+25) pbrain-YiXin2011.exe: 35 | 8 | 7359ms | 3.3 | 406 | 4 | -636 
+27) pbrain-YiXin2011.exe: 33 | 6 | 10015ms | 2.8 | 399 | 4 | -583 
+29) pbrain-YiXin2011.exe: 6 | 6 | 10015ms | 0.0 | 0 | 4 | -583 
+31) pbrain-YiXin2011.exe: 33 | 6 | 8766ms | 3.9 | 412 | 4 | -345 
+33) pbrain-YiXin2011.exe: 31 | 6 | 3000ms | 3.8 | 468 | 4 | -525 
+35) pbrain-YiXin2011.exe: 39 | 6 | 7281ms | 4.1 | 420 | 4 | -215 
+37) pbrain-YiXin2011.exe: 52 | 6 | 6375ms | 2.7 | 418 | 4 | -222 
+39) pbrain-YiXin2011.exe: 38 | 7 | 1421ms | 4.3 | 471 | 4 | 372 
+41) pbrain-YiXin2011.exe: 32 | 6 | 5391ms | 7.1 | 469 | 4 | -56 
+43) pbrain-YiXin2011.exe: 39 | 7 | 3094ms | 5.9 | 483 | 4 | 64 
+45) pbrain-YiXin2011.exe: 29 | 5 | 4250ms | 2.5 | 438 | 4 | 64 
+47) pbrain-YiXin2011.exe: 27 | 5 | 3640ms | 2.7 | 422 | 4 | 197 
+49) pbrain-YiXin2011.exe: 21 | 5 | 1016ms | 5.7 | 463 | 4 | 43 
+51) pbrain-YiXin2011.exe: 36 | 6 | 2703ms | 2.6 | 464 | 4 | 418 
+53) pbrain-YiXin2011.exe: 30 | 6 | 1766ms | 2.6 | 507 | 4 | 642 
+55) pbrain-YiXin2011.exe: 29 | 5 | 1000ms | 6.8 | 495 | 4 | 838 
+57) pbrain-YiXin2011.exe: 29 | 5 | 1047ms | 4.7 | 503 | 4 | 962 
+59) pbrain-YiXin2011.exe: 34 | 4 | 2203ms | 2.1 | 427 | 4 | 736 
+61) pbrain-YiXin2011.exe: 34 | 4 | 1922ms | 2.3 | 426 | 4 | 736 
+63) pbrain-YiXin2011.exe: 25 | 5 | 781ms | 2.3 | 460 | 4 | 1534 :-)
+65) pbrain-YiXin2011.exe: 31 | 4 | 47ms | 7.5 | 490 | 4 | 9999976 :-)
+67) pbrain-YiXin2011.exe: 20 | 1 | 0ms | 5.9 | 3160 | 4 | 9999982 :-)
+69) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 7.3 | 1438 | 4 | 9999984 :-)
+71) pbrain-YiXin2011.exe: 10 | 1 | 0ms | 6.8 | 524 | 4 | 9999986 :-)
+73) pbrain-YiXin2011.exe: 9 | 1 | 0ms | 9.1 | 3793 | 4 | 9999988 :-)
+75) pbrain-YiXin2011.exe: 23 | 1 | 94ms | 8.3 | 356 | 4 | 9999990 :-)
+77) pbrain-YiXin2011.exe: 14 | 1 | 16ms | 7.9 | 279 | 4 | 9999994 :-)
+79) pbrain-YiXin2011.exe: 12 | 1 | 15ms | 7.8 | 398 | 4 | 9999996 :-)
+81) pbrain-YiXin2011.exe: 19 | 1 | 109ms | 7.8 | 497 | 4 | 9999998 :-)
+83) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+85) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\3x0-86(1).psq
+______________________________
+brain-Crusher2010 x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 9465ms | 2.9 | 323 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 38 | 9 | 21172ms | 3.0 | 356 | 4 | 172 
+11) pbrain-YiXin2011.exe: 33 | 10 | 7984ms | 3.1 | 304 | 4 | -521 
+13) pbrain-YiXin2011.exe: 33 | 8 | 4563ms | 2.9 | 332 | 4 | -250 
+15) pbrain-YiXin2011.exe: 34 | 8 | 10031ms | 2.8 | 316 | 4 | -300 
+17) pbrain-YiXin2011.exe: 8 | 8 | 10031ms | 0.0 | 0 | 4 | -300 
+19) pbrain-YiXin2011.exe: 31 | 7 | 15594ms | 2.7 | 212 | 4 | 94 
+21) pbrain-YiXin2011.exe: 31 | 8 | 13640ms | 3.3 | 318 | 4 | 1809 :-)
+23) pbrain-YiXin2011.exe: 34 | 8 | 3406ms | 1.7 | 234 | 4 | 9999976 :-)
+25) pbrain-YiXin2011.exe: 21 | 4 | 93ms | 2.0 | 209 | 4 | 9999984 :-)
+27) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 5.2 | 823 | 4 | 9999994 :-)
+29) pbrain-YiXin2011.exe: 5 | 1 | 15ms | 6.8 | 55 | 4 | 9999996 :-)
+31) pbrain-YiXin2011.exe: 14 | 1 | 32ms | 9.3 | 30 | 4 | 9999998 :-)
+33) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+35) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\5x0-36(1).psq
+______________________________
+YiXin2011 x CURNPIS
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22434ms | 3.0 | 392 | 4 | -172 
+10) pbrain-YiXin2011.exe: 30 | 10 | 18765ms | 2.6 | 403 | 4 | -50 
+12) pbrain-YiXin2011.exe: 29 | 9 | 15500ms | 4.4 | 432 | 4 | 952 
+14) pbrain-YiXin2011.exe: 31 | 8 | 4016ms | 2.4 | 377 | 4 | 535 
+16) pbrain-YiXin2011.exe: 36 | 8 | 7156ms | 2.3 | 377 | 4 | 1118 
+18) pbrain-YiXin2011.exe: 38 | 8 | 3593ms | 3.4 | 380 | 4 | 3062 :-)
+20) pbrain-YiXin2011.exe: 18 | 4 | 47ms | 2.2 | 448 | 4 | 9999992 :-)
+22) pbrain-YiXin2011.exe: 5 | 1 | 0ms | 7.0 | 672 | 4 | 9999998 :-)
+24) pbrain-YiXin2011.exe: 1 | 1 | 16ms | 0.0 | 0 | 4 | 10000000 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 16ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x6-27(1).psq
+______________________________
+CURNPIS x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 7950ms | 2.9 | 385 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 39 | 10 | 20453ms | 3.0 | 398 | 4 | -471 
+11) pbrain-YiXin2011.exe: 34 | 10 | 14343ms | 2.8 | 373 | 4 | -700 
+13) pbrain-YiXin2011.exe: 34 | 8 | 4422ms | 2.6 | 374 | 4 | -194 
+15) pbrain-YiXin2011.exe: 37 | 7 | 6891ms | 2.9 | 375 | 4 | 300 
+17) pbrain-YiXin2011.exe: 29 | 6 | 5672ms | 3.2 | 366 | 4 | -248 
+19) pbrain-YiXin2011.exe: 34 | 8 | 4828ms | 3.0 | 380 | 4 | 281 
+21) pbrain-YiXin2011.exe: 6 | 1 | 0ms | 5.4 | 664 | 4 | 9999998 :-)
+23) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+25) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\6x0-26(1).psq
+______________________________
+YiXin2011 x mushroom
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22466ms | 3.0 | 389 | 4 | -172 
+10) pbrain-YiXin2011.exe: 10 | 10 | 22466ms | 0.0 | 0 | 4 | -172 
+12) pbrain-YiXin2011.exe: 33 | 8 | 5515ms | 2.5 | 418 | 4 | 406 
+14) pbrain-YiXin2011.exe: 29 | 6 | 797ms | 2.9 | 437 | 4 | 9999992 :-)
+16) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+18) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x8-19(1).psq
+______________________________
+mushroom x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 8075ms | 2.9 | 379 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+11) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\8x0-12(1).psq
+______________________________
+YiXin2011 x LEONARDO
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22466ms | 3.0 | 347 | 4 | -172 
+10) pbrain-YiXin2011.exe: 10 | 10 | 22466ms | 0.0 | 0 | 4 | -172 
+12) pbrain-YiXin2011.exe: 28 | 8 | 6468ms | 2.4 | 274 | 4 | 209 
+14) pbrain-YiXin2011.exe: 30 | 8 | 11875ms | 2.9 | 247 | 4 | 272 
+16) pbrain-YiXin2011.exe: 29 | 7 | 7531ms | 4.9 | 225 | 4 | 729 
+18) pbrain-YiXin2011.exe: 30 | 6 | 16344ms | 5.4 | 348 | 4 | 570 
+20) pbrain-YiXin2011.exe: 30 | 6 | 14281ms | 4.0 | 275 | 4 | 734 
+22) pbrain-YiXin2011.exe: 32 | 6 | 12390ms | 4.3 | 325 | 4 | 776 
+24) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 18.5 | 38 | 4 | 9999988 :-)
+26) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 10.0 | 42 | 4 | 9999994 :-)
+28) pbrain-YiXin2011.exe: 4 | 1 | 16ms | 10.5 | 4 | 4 | 9999996 :-)
+30) pbrain-YiXin2011.exe: 2 | 1 | 0ms | 11.8 | 92 | 4 | 9999998 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 15ms | 0.0 | 0 | 4 | 10000000 :-)
+34) pbrain-YiXin2011.exe: 1 | 1 | 15ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x7-35(1).psq
+______________________________
+LEONARDO x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 14606ms | 2.9 | 209 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 38 | 9 | 20390ms | 3.0 | 261 | 4 | 172 
+11) pbrain-YiXin2011.exe: 33 | 10 | 8531ms | 3.1 | 284 | 4 | -521 
+13) pbrain-YiXin2011.exe: 32 | 9 | 8172ms | 3.1 | 367 | 4 | 32 
+15) pbrain-YiXin2011.exe: 29 | 9 | 10250ms | 3.5 | 259 | 4 | 28 
+17) pbrain-YiXin2011.exe: 27 | 7 | 14328ms | 3.8 | 302 | 4 | 169 
+19) pbrain-YiXin2011.exe: 32 | 8 | 3360ms | 3.5 | 419 | 4 | -431 
+21) pbrain-YiXin2011.exe: 8 | 8 | 3360ms | 0.0 | 0 | 4 | -431 
+23) pbrain-YiXin2011.exe: 33 | 7 | 4968ms | 4.6 | 414 | 4 | 1263 
+25) pbrain-YiXin2011.exe: 7 | 7 | 4968ms | 0.0 | 0 | 4 | 1263 
+27) pbrain-YiXin2011.exe: 18 | 4 | 0ms | 2.2 | 4447 | 4 | 9999996 :-)
+29) pbrain-YiXin2011.exe: 8 | 2 | 0ms | 2.9 | 320 | 4 | 9999998 :-)
+31) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+33) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\7x0-34(1).psq
+______________________________
+pisq7 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\1x2-34(2).psq
+______________________________
+Puskvorec x pisq7
+-> F:\projekty\gomocup2011\freestyle4\2x1-50(1).psq
+______________________________
+YiXin2011 x PureGM_2011
+ 8) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 8) pbrain-YiXin2011.exe: 39 | 10 | 22434ms | 3.0 | 394 | 4 | -172 
+10) pbrain-YiXin2011.exe: 30 | 10 | 18984ms | 2.6 | 398 | 4 | -50 
+12) pbrain-YiXin2011.exe: 38 | 10 | 15109ms | 2.9 | 393 | 4 | 133 
+14) pbrain-YiXin2011.exe: 36 | 9 | 11375ms | 3.4 | 405 | 4 | 641 
+16) pbrain-YiXin2011.exe: 43 | 7 | 13953ms | 2.6 | 392 | 4 | 847 
+18) pbrain-YiXin2011.exe: 36 | 8 | 8578ms | 2.3 | 390 | 4 | 633 
+20) pbrain-YiXin2011.exe: 8 | 8 | 8578ms | 0.0 | 0 | 4 | 633 
+22) pbrain-YiXin2011.exe: 32 | 8 | 1718ms | 2.2 | 419 | 4 | 9999988 :-)
+24) pbrain-YiXin2011.exe: 30 | 6 | 265ms | 2.1 | 259 | 4 | 9999992 :-)
+26) pbrain-YiXin2011.exe: 6 | 6 | 265ms | 0.0 | 0 | 4 | 9999992 :-)
+28) pbrain-YiXin2011.exe: 8 | 2 | 16ms | 2.9 | 32 | 4 | 9999996 :-)
+30) pbrain-YiXin2011.exe: 8 | 1 | 0ms | 6.1 | 157 | 4 | 9999998 :-)
+32) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+34) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\0x9-35(1).psq
+______________________________
+pisq7 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\1x3-59(1).psq
+______________________________
+AI1000 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\3x1-72(1).psq
+______________________________
+PureGM_2011 x YiXin2011
+ 7) pbrain-YiXin2011.exe: YiXin 2011 Kernal 0.2.7 :-) Welcome to China!
+ 7) pbrain-YiXin2011.exe: 36 | 11 | 7997ms | 2.9 | 382 | 4 | 172 
+ 9) pbrain-YiXin2011.exe: 39 | 10 | 20735ms | 3.0 | 393 | 4 | -471 
+11) pbrain-YiXin2011.exe: 34 | 10 | 14640ms | 2.8 | 365 | 4 | -700 
+13) pbrain-YiXin2011.exe: 44 | 8 | 17047ms | 2.4 | 363 | 4 | -377 
+15) pbrain-YiXin2011.exe: 36 | 8 | 12938ms | 3.4 | 368 | 4 | -493 
+17) pbrain-YiXin2011.exe: 8 | 8 | 12938ms | 0.0 | 0 | 4 | -493 
+19) pbrain-YiXin2011.exe: 49 | 7 | 4468ms | 3.1 | 375 | 4 | 151 
+21) pbrain-YiXin2011.exe: 42 | 8 | 7547ms | 3.2 | 386 | 4 | -244 
+23) pbrain-YiXin2011.exe: 40 | 8 | 9266ms | 3.0 | 352 | 4 | -1 
+25) pbrain-YiXin2011.exe: 8 | 8 | 9266ms | 0.0 | 0 | 4 | -1 
+27) pbrain-YiXin2011.exe: 8 | 8 | 9266ms | 0.0 | 0 | 4 | -1 
+29) pbrain-YiXin2011.exe: 47 | 7 | 10469ms | 2.6 | 391 | 4 | 1075 
+31) pbrain-YiXin2011.exe: 31 | 6 | 2812ms | 2.1 | 380 | 4 | 9999990 :-)
+33) pbrain-YiXin2011.exe: 26 | 4 | 125ms | 2.2 | 420 | 4 | 9999992 :-)
+35) pbrain-YiXin2011.exe: 4 | 4 | 125ms | 0.0 | 0 | 4 | 9999992 :-)
+37) pbrain-YiXin2011.exe: 4 | 4 | 125ms | 0.0 | 0 | 4 | 9999992 :-)
+39) pbrain-YiXin2011.exe: 14 | 1 | 0ms | 7.3 | 410 | 4 | 9999998 :-)
+41) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 1 | 4 | 10000000 :-)
+43) pbrain-YiXin2011.exe: 1 | 1 | 0ms | 0.0 | 0 | 4 | 10000000 :-)
+-> F:\projekty\gomocup2011\freestyle4\9x0-44(1).psq
+______________________________
+pisq7 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\1x4-93(1).psq
+______________________________
+pisq7 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\1x5-41(1).psq
+______________________________
+brain-Crusher2010 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\5x1-54(1).psq
+______________________________
+pisq7 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\1x6-77(1).psq
+______________________________
+Benjamin x pisq7
+Benjamin.exe returned invalid move [0,0]
+-> F:\projekty\gomocup2011\freestyle4\4x1-392(1).psq
+______________________________
+CURNPIS x pisq7
+-> F:\projekty\gomocup2011\freestyle4\6x1-88(1).psq
+______________________________
+pisq7 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\1x8-40(1).psq
+______________________________
+mushroom x pisq7
+-> F:\projekty\gomocup2011\freestyle4\8x1-12(1).psq
+______________________________
+pisq7 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\1x7-97(1).psq
+______________________________
+LEONARDO x pisq7
+-> F:\projekty\gomocup2011\freestyle4\7x1-60(1).psq
+______________________________
+pisq7 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\1x9-74(1).psq
+______________________________
+Puskvorec x AI1000
+-> F:\projekty\gomocup2011\freestyle4\2x3-35(1).psq
+______________________________
+PureGM_2011 x pisq7
+-> F:\projekty\gomocup2011\freestyle4\9x1-25(1).psq
+______________________________
+AI1000 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\3x2-23(1).psq
+______________________________
+Puskvorec x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\2x5-41(1).psq
+______________________________
+brain-Crusher2010 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\5x2-23(1).psq
+______________________________
+Puskvorec x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\2x4-64(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\2x6-20(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\6x2-28(1).psq
+______________________________
+Benjamin x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\4x2-108(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\2x7-37(1).psq
+______________________________
+Puskvorec x mushroom
+-> F:\projekty\gomocup2011\freestyle4\2x8-19(2).psq
+______________________________
+mushroom x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\8x2-12(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\7x2-33(1).psq
+______________________________
+Puskvorec x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\2x9-42(1).psq
+______________________________
+AI1000 x Benjamin
+AI1000.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\3x4-166(1).psq
+______________________________
+PureGM_2011 x Puskvorec
+-> F:\projekty\gomocup2011\freestyle4\9x2-47(1).psq
+______________________________
+AI1000 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\3x5-83(1).psq
+______________________________
+brain-Crusher2010 x AI1000
+brain-Crusher2010.exe: Timeout
+-> F:\projekty\gomocup2011\freestyle4\5x3-20(1).psq
+______________________________
+Benjamin x AI1000
+-> F:\projekty\gomocup2011\freestyle4\4x3-221(1).psq
+______________________________
+AI1000 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\3x6-61(1).psq
+______________________________
+AI1000 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\3x7-90(1).psq
+______________________________
+CURNPIS x AI1000
+-> F:\projekty\gomocup2011\freestyle4\6x3-144(1).psq
+______________________________
+AI1000 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\3x8-17(1).psq
+______________________________
+mushroom x AI1000
+-> F:\projekty\gomocup2011\freestyle4\8x3-12(1).psq
+______________________________
+AI1000 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\3x9-88(1).psq
+______________________________
+LEONARDO x AI1000
+AI1000.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\7x3-205(1).psq
+______________________________
+Benjamin x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\4x5-63(1).psq
+______________________________
+PureGM_2011 x AI1000
+-> F:\projekty\gomocup2011\freestyle4\9x3-73(1).psq
+______________________________
+brain-Crusher2010 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\5x4-280(1).psq
+______________________________
+Benjamin x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\4x6-165(1).psq
+______________________________
+Benjamin x LEONARDO
+LEONARDO.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\4x7-229(1).psq
+______________________________
+CURNPIS x Benjamin
+CURNPIS.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\6x4-230(1).psq
+______________________________
+Benjamin x mushroom
+-> F:\projekty\gomocup2011\freestyle4\4x8-17(1).psq
+______________________________
+mushroom x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\8x4-12(1).psq
+______________________________
+Benjamin x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\4x9-28(1).psq
+______________________________
+LEONARDO x Benjamin
+LEONARDO.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\7x4-164(1).psq
+______________________________
+PureGM_2011 x Benjamin
+-> F:\projekty\gomocup2011\freestyle4\9x4-90(1).psq
+______________________________
+brain-Crusher2010 x CURNPIS
+The board cannot be written to D:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\psqp5460\Plocha.dat
+-> F:\projekty\gomocup2011\freestyle4\5x6-110(1).psq
+______________________________
+brain-Crusher2010 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\5x7-78(1).psq
+______________________________
+LEONARDO x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\7x5-31(1).psq
+______________________________
+brain-Crusher2010 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\5x8-17(1).psq
+______________________________
+mushroom x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\8x5-12(1).psq
+______________________________
+brain-Crusher2010 x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\5x9-38(2).psq
+______________________________
+PureGM_2011 x brain-Crusher2010
+-> F:\projekty\gomocup2011\freestyle4\9x5-25(1).psq
+______________________________
+CURNPIS x brain-Crusher2010
+CURNPIS.EXE: Timeout
+-> F:\projekty\gomocup2011\freestyle4\6x5-180(1).psq
+______________________________
+CURNPIS x mushroom
+-> F:\projekty\gomocup2011\freestyle4\6x8-17(1).psq
+______________________________
+mushroom x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\8x6-12(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\6x7-132(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\7x6-42(1).psq
+______________________________
+LEONARDO x mushroom
+-> F:\projekty\gomocup2011\freestyle4\7x8-17(1).psq
+______________________________
+mushroom x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\8x7-12(1).psq
+______________________________
+CURNPIS x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\6x9-40(1).psq
+______________________________
+PureGM_2011 x CURNPIS
+-> F:\projekty\gomocup2011\freestyle4\9x6-39(1).psq
+______________________________
+mushroom x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\8x9-12(1).psq
+______________________________
+LEONARDO x PureGM_2011
+-> F:\projekty\gomocup2011\freestyle4\7x9-52(2).psq
+______________________________
+PureGM_2011 x mushroom
+-> F:\projekty\gomocup2011\freestyle4\9x8-19(1).psq
+______________________________
+PureGM_2011 x LEONARDO
+-> F:\projekty\gomocup2011\freestyle4\9x7-43(1).psq

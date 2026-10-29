@@ -1,0 +1,20 @@
+-------------------------------------
+5/3/2015  9:03 AM - 9:09 AM
+Time for turn: 5 s,   Time for match: 120 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 4, available 4
+Rule: five or more stones wins
+Opening CRC: 31ed7d22
+Games played: 8
+-------------------------------------
+
+pela
+wins: 8=4+4,   losses: 0=0+0
+time/turn: 1594 ms (max: 5.0 s),  time/game: 44 s
+moves/game: 28,  CRC: dd888743,   memory: 6.21 MB
+
+imro15
+wins: 0=0+0,   losses: 8=4+4
+time/turn: 17 ms (max: 0.1 s),  time/game: 0 s
+moves/game: 27,  CRC: 4c9e306e,   memory: 5.27 MB
+

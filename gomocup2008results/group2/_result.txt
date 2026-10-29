@@ -1,0 +1,53 @@
+-------------------------------------
+20.4.2008  19:51 - 21:23
+Èas na tah: 30 s,   Èas na partii: 180 s
+Tolerance: 1 s,   Pamì: 350 MB
+Zahájení: zaèíná se od 1., pouito 3, celkem 3 
+Poèet her: 215  (99%)
+-------------------------------------
+
+swine
+vıhry: 44=23+21,  prohry: 4=1+3
+èas/tah: 2249 ms (max: 25.0 s),  èas/partii: 40 s
+tahù/partii: 18,  CRC: 8270b013,   pamì: 66.86 MB
+
+Onix
+vıhry: 41=23+18,  prohry: 7=1+6
+èas/tah: 1542 ms (max: 21.9 s),  èas/partii: 25 s
+tahù/partii: 16,  CRC: 2090209,   pamì: 169.15 MB
+
+JUDE
+vıhry: 29=17+12,  prohry: 19=6+10+3
+èas/tah: 2403 ms (max: 25.8 s),  èas/partii: 47 s
+tahù/partii: 19,  CRC: 73f7c3eb,   pamì: 37.03 MB
+
+PECUCHET
+vıhry: 29=16+13,  prohry: 18=7+11
+èas/tah: 3940 ms (max: 15.3 s),  èas/partii: 73 s
+tahù/partii: 18,  CRC: 5bf9da1e,   pamì: 200.08 MB
+
+TRUNKAT
+vıhry: 23=14+8+1,  prohry: 25=10+15
+èas/tah: 335 ms (max: 7.0 s),  èas/partii: 5 s
+tahù/partii: 15,  CRC: 3ea9cbbe,   pamì: 3.11 MB
+
+BENJAMIN
+vıhry: 16=9+6+1,  prohry: 31=14+17
+èas/tah: 34 ms (max: 1.2 s),  èas/partii: 1 s
+tahù/partii: 32,  CRC: e1f6170d,   pamì: 1.52 MB
+
+fiverow
+vıhry: 16=9+6+1,  prohry: 32=14+18
+èas/tah: 229 ms (max: 16.3 s),  èas/partii: 3 s
+tahù/partii: 15,  CRC: b23845a0,   pamì: 1.10 MB
+
+nabamoku_java-client
+vıhry: 13=7+6,  prohry: 35=17+18
+èas/tah: 2087 ms (max: 8.5 s),  èas/partii: 53 s
+tahù/partii: 25,  CRC: f57b5c12,   pamì: 2.20 MB
+
+PureGM
+vıhry: 4=2+2,  prohry: 44=22+22
+èas/tah: 271 ms (max: 15.0 s),  èas/partii: 3 s
+tahù/partii: 13,  CRC: db8b5a98,   pamì: 0.90 MB
+

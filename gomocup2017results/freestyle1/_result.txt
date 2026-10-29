@@ -1,0 +1,80 @@
+1. YIXIN17 2234
+    wins: 178+173, losses: 2+7, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 238s, time/turn: 10986ms, move/game: 22
+
+2. RENJUSOLVER.F 1801
+    wins: 138+125, losses: 42+55, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 208s, time/turn: 8758ms, move/game: 24
+
+3. GORO17 1789
+    wins: 134+125, losses: 46+55, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 268s, time/turn: 12921ms, move/game: 21
+
+4. SLOWRENJU17 1727
+    wins: 116+120, losses: 64+60, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 472s, time/turn: 21035ms, move/game: 22
+
+5. TITO14 1715
+    wins: 120+111, losses: 60+69, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 180s, time/turn: 8195ms, move/game: 22
+
+6. HEWER15 1692
+    wins: 113+109, losses: 67+71, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 329s, time/turn: 13468ms, move/game: 24
+
+7. ONIX16 1672
+    wins: 111+103, losses: 69+77, draws: 0+0
+    timeouts: 0, errors: 1, total games: 360
+    time/game: 254s, time/turn: 11286ms, move/game: 23
+
+8. SWINE17 1653
+    wins: 100+106, losses: 80+74, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 400s, time/turn: 17205ms, move/game: 23
+
+9. CARBON17 1636
+    wins: 104+95, losses: 76+85, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 583s, time/turn: 25262ms, move/game: 23
+
+10. WINE 1552
+    wins: 81+83, losses: 99+97, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 487s, time/turn: 23830ms, move/game: 20
+
+11. EMBRYO 1483
+    wins: 65+71, losses: 115+109, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 570s, time/turn: 28320ms, move/game: 20
+
+12. WHOSE 1395
+    wins: 55+47, losses: 125+133, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 295s, time/turn: 13300ms, move/game: 22
+
+13. PELA17 1353
+    wins: 46+41, losses: 134+139, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 684s, time/turn: 28685ms, move/game: 24
+
+14. GMOTOR11 1338
+    wins: 40+42, losses: 140+138, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 314s, time/turn: 16423ms, move/game: 19
+
+15. CHIS17 1291
+    wins: 34+33, losses: 146+147, draws: 0+0
+    timeouts: 0, errors: 0, total games: 360
+    time/game: 70s, time/turn: 3536ms, move/game: 20
+
+16. ZETOR17 1271
+    wins: 21+40, losses: 159+140, draws: 0+0
+    timeouts: 0, errors: 2, total games: 360
+    time/game: 397s, time/turn: 18789ms, move/game: 21
+

@@ -1,0 +1,140 @@
+-------------------------------------
+17.4.2012  19:18 - 19:57
+Time for turn: 5 s,   Time for match: 120 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: ca63eaee
+Games played: 132  (6%)
+-------------------------------------
+
+sWINe11
+wins: 40=19+20+1,   losses: 6=3+3
+time/turn: 1467 ms (max: 5.7 s),  time/game: 23 s
+moves/game: 15,  CRC: df8ce010,   memory: 241.98 MB
+
+Tito10
+wins: 42=18+24,   losses: 8=7+1
+time/turn: 460 ms (max: 4.9 s),  time/game: 6 s
+moves/game: 14,  CRC: 8b105cab,   memory: 130.86 MB
+
+renjusolver
+wins: 31=13+18,   losses: 9=1+1+7
+time/turn: 1535 ms (max: 6.2 s),  time/game: 21 s
+moves/game: 13,  CRC: 4dab2a2d,   memory: 52.30 MB
+
+hewer12
+wins: 4=1+1+2,   losses: 2=1+1
+time/turn: 1610 ms (max: 5.3 s),  time/game: 30 s
+moves/game: 19,  CRC: 4f7d0fe2,   memory: 338.95 MB
+
+HGarden07
+wins: 4=2+1+1,   losses: 2=1+1
+time/turn: 2188 ms (max: 4.8 s),  time/game: 46 s
+moves/game: 21,  CRC: f883b408,   memory: 31.55 MB
+
+Yixin12
+wins: 2=0+1+1,   losses: 2=2+0
+time/turn: 1445 ms (max: 5.1 s),  time/game: 17 s
+moves/game: 12,  CRC: 754a58b5,   memory: 167.27 MB
+
+gmotor11
+wins: 3=0+2+1,   losses: 3=3+0
+time/turn: 1155 ms (max: 5.6 s),  time/game: 15 s
+moves/game: 13,  CRC: 56498af1,   memory: 33.61 MB
+
+jude
+wins: 1=0+1,   losses: 5=3+2
+time/turn: 1076 ms (max: 4.6 s),  time/game: 17 s
+moves/game: 16,  CRC: 96fded42,   memory: 20.83 MB
+
+pela
+wins: 1=1+0,   losses: 5=2+3
+time/turn: 1559 ms (max: 5.1 s),  time/game: 30 s
+moves/game: 19,  CRC: dd888743,   memory: 2.89 MB
+
+Kanec
+wins: 1=0+1,   losses: 5=3+2
+time/turn: 2226 ms (max: 5.2 s),  time/game: 47 s
+moves/game: 21,  CRC: 572ea92,   memory: 245.75 MB
+
+amoeba10
+wins: 1=0+0+1,   losses: 5=3+2
+time/turn: 1306 ms (max: 4.9 s),  time/game: 15 s
+moves/game: 11,  CRC: 74e05c52,   memory: 185.64 MB
+
+Pecuchet
+wins: 1=0+1,   losses: 5=3+1+1
+time/turn: 1405 ms (max: 5.4 s),  time/game: 17 s
+moves/game: 12,  CRC: a81e076b,   memory: 200.01 MB
+
+QMENTAT6
+wins: 1=0+0+1,   losses: 5=3+2
+time/turn: 918 ms (max: 3.6 s),  time/game: 11 s
+moves/game: 12,  CRC: 7825efaf,   memory: 2.10 MB
+
+mushroom
+wins: 0=0+0,   losses: 4=2+2
+time/turn: 353 ms (max: 1.0 s),  time/game: 1 s
+moves/game: 5,  CRC: 2c542fb8,   memory: 50.33 MB
+
+Crusher10
+wins: 0=0+0,   losses: 4=2+2
+time/turn: 238 ms (max: 0.8 s),  time/game: 2 s
+moves/game: 11,  CRC: ecd8392,   memory: 3.50 MB
+
+CURNPIS
+wins: 0=0+0,   losses: 4=2+2
+time/turn: 312 ms (max: 1.4 s),  time/game: 4 s
+moves/game: 13,  CRC: f2623dd9,   memory: 2.79 MB
+
+LEONARDO
+wins: 0=0+0,   losses: 4=2+2
+time/turn: 331 ms (max: 1.4 s),  time/game: 3 s
+moves/game: 12,  CRC: 96a303fe,   memory: 2.74 MB
+
+Benjamin
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 164 ms (max: 1.4 s),  time/game: 2 s
+moves/game: 14,  CRC: 1c74aee4,   memory: 2.11 MB
+
+PureGM12
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 1003 ms (max: 4.0 s),  time/game: 12 s
+moves/game: 12,  CRC: f4c5d725,   memory: 3.23 MB
+
+pisq7
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 132 ms (max: 0.5 s),  time/game: 1 s
+moves/game: 9,  CRC: da9c561,   memory: 1.82 MB
+
+AI1000
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 258 ms (max: 0.6 s),  time/game: 2 s
+moves/game: 11,  CRC: 90fb8ea7,   memory: 2.75 MB
+
+Puskvorec
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 327 ms (max: 1.3 s),  time/game: 3 s
+moves/game: 10,  CRC: b89a06e8,   memory: 3.42 MB
+
+fiverow
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 150 ms (max: 1.5 s),  time/game: 1 s
+moves/game: 13,  CRC: 4b2b1e96,   memory: 2.19 MB
+
+TRUNKAT
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 567 ms (max: 5.1 s),  time/game: 7 s
+moves/game: 12,  CRC: 3ea9cbbe,   memory: 3.48 MB
+
+goro2012
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 2406 ms (max: 4.9 s),  time/game: 53 s
+moves/game: 22,  CRC: 8fef2f1f,   memory: 2.79 MB
+
+nabamoku
+wins: 0=0+0,   losses: 6=3+3
+time/turn: 2772 ms (max: 6.5 s),  time/game: 40 s
+moves/game: 14,  CRC: bb4c2405,   memory: 2.75 MB
+

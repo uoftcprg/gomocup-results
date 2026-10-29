@@ -1,0 +1,663 @@
+______________________________
+Puskvorec x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\0x1-28(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\1x0-25(1).psq
+______________________________
+Puskvorec x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\0x2-64(1).psq
+______________________________
+Benjamin x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\2x0-24(1).psq
+______________________________
+Puskvorec x pisq7
+-> f:\projekty\gomocup2012\freestyle4\0x3-25(1).psq
+______________________________
+pisq7 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\3x0-26(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\0x4-26(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\4x0-22(1).psq
+______________________________
+Puskvorec x AI1000
+-> f:\projekty\gomocup2012\freestyle4\0x5-24(1).psq
+______________________________
+AI1000 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\5x0-20(1).psq
+______________________________
+Puskvorec x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\0x6-25(1).psq
+______________________________
+Crusher10 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\6x0-32(1).psq
+______________________________
+Puskvorec x mushroom
+-> f:\projekty\gomocup2012\freestyle4\0x7-17(1).psq
+______________________________
+mushroom x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\7x0-14(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\0x8-27(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\8x0-22(1).psq
+______________________________
+BRUTEFOR x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\1x2-33(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> f:\projekty\gomocup2012\freestyle4\1x3-23(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\3x1-44(1).psq
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\2x1-69(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\1x4-34(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> f:\projekty\gomocup2012\freestyle4\1x5-50(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\4x1-61(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\5x1-37(1).psq
+______________________________
+BRUTEFOR x mushroom
+-> f:\projekty\gomocup2012\freestyle4\1x7-13(1).psq
+______________________________
+BRUTEFOR x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\1x6-31(1).psq
+______________________________
+mushroom x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\7x1-14(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\1x8-20(1).psq
+______________________________
+Crusher10 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\6x1-34(1).psq
+______________________________
+Benjamin x pisq7
+-> f:\projekty\gomocup2012\freestyle4\2x3-70(1).psq
+______________________________
+pisq7 x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\3x2-114(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\8x1-63(1).psq
+______________________________
+Benjamin x LEONARDO
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\2x4-398(1).psq
+______________________________
+Benjamin x AI1000
+-> f:\projekty\gomocup2012\freestyle4\2x5-129(1).psq
+______________________________
+LEONARDO x Benjamin
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\4x2-393(1).psq
+______________________________
+Benjamin x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\2x6-121(1).psq
+______________________________
+AI1000 x Benjamin
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\5x2-399(1).psq
+______________________________
+Benjamin x mushroom
+-> f:\projekty\gomocup2012\freestyle4\2x7-17(1).psq
+______________________________
+mushroom x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\7x2-12(1).psq
+______________________________
+Benjamin x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\2x8-169(1).psq
+______________________________
+pisq7 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\3x4-79(1).psq
+______________________________
+CURNPIS x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\8x2-242(1).psq
+______________________________
+LEONARDO x pisq7
+-> f:\projekty\gomocup2012\freestyle4\4x3-21(1).psq
+______________________________
+pisq7 x AI1000
+-> f:\projekty\gomocup2012\freestyle4\3x5-65(1).psq
+______________________________
+Crusher10 x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\6x2-224(1).psq
+______________________________
+AI1000 x pisq7
+-> f:\projekty\gomocup2012\freestyle4\5x3-25(1).psq
+______________________________
+pisq7 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\3x7-13(1).psq
+______________________________
+pisq7 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\3x8-17(1).psq
+______________________________
+mushroom x pisq7
+-> f:\projekty\gomocup2012\freestyle4\7x3-10(1).psq
+______________________________
+pisq7 x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\3x6-39(1).psq
+______________________________
+CURNPIS x pisq7
+-> f:\projekty\gomocup2012\freestyle4\8x3-27(1).psq
+______________________________
+LEONARDO x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\4x6-75(1).psq
+______________________________
+Crusher10 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\6x4-22(1).psq
+______________________________
+Crusher10 x pisq7
+-> f:\projekty\gomocup2012\freestyle4\6x3-50(1).psq
+______________________________
+LEONARDO x AI1000
+-> f:\projekty\gomocup2012\freestyle4\4x5-35(1).psq
+______________________________
+LEONARDO x mushroom
+-> f:\projekty\gomocup2012\freestyle4\4x7-13(1).psq
+______________________________
+mushroom x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\7x4-10(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\4x8-55(1).psq
+______________________________
+AI1000 x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\5x6-37(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\8x4-22(1).psq
+______________________________
+AI1000 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\5x7-13(1).psq
+______________________________
+mushroom x AI1000
+-> f:\projekty\gomocup2012\freestyle4\7x5-12(1).psq
+______________________________
+AI1000 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\5x4-98(1).psq
+______________________________
+Crusher10 x AI1000
+-> f:\projekty\gomocup2012\freestyle4\6x5-35(1).psq
+______________________________
+Crusher10 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\6x7-13(1).psq
+______________________________
+mushroom x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\7x6-10(1).psq
+______________________________
+Crusher10 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\6x8-51(1).psq
+______________________________
+mushroom x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\7x8-10(1).psq
+______________________________
+CURNPIS x mushroom
+-> f:\projekty\gomocup2012\freestyle4\8x7-13(1).psq
+______________________________
+CURNPIS x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\8x6-63(1).psq
+______________________________
+Benjamin x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\2x0-26(1).psq
+______________________________
+AI1000 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\5x8-129(1).psq
+______________________________
+pisq7 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\3x0-25(1).psq
+______________________________
+Puskvorec x pisq7
+-> f:\projekty\gomocup2012\freestyle4\0x3-19(1).psq
+______________________________
+CURNPIS x AI1000
+-> f:\projekty\gomocup2012\freestyle4\8x5-58(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\4x0-29(1).psq
+______________________________
+AI1000 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\5x0-30(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\0x4-27(1).psq
+______________________________
+Crusher10 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\6x0-16(1).psq
+______________________________
+Puskvorec x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\0x6-17(1).psq
+______________________________
+mushroom x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\7x0-16(1).psq
+______________________________
+Puskvorec x AI1000
+-> f:\projekty\gomocup2012\freestyle4\0x5-57(1).psq
+______________________________
+Puskvorec x mushroom
+-> f:\projekty\gomocup2012\freestyle4\0x7-13(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\8x0-14(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\0x8-17(1).psq
+______________________________
+Puskvorec x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\0x2-113(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\1x0-54(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\0x1-34(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\3x1-51(1).psq
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\2x1-59(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\4x1-51(1).psq
+______________________________
+BRUTEFOR x pisq7
+-> f:\projekty\gomocup2012\freestyle4\1x3-25(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\5x1-39(1).psq
+______________________________
+BRUTEFOR x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\1x2-41(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\1x4-33(1).psq
+______________________________
+Crusher10 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\6x1-54(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> f:\projekty\gomocup2012\freestyle4\1x5-39(1).psq
+______________________________
+mushroom x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\7x1-18(1).psq
+______________________________
+BRUTEFOR x mushroom
+-> f:\projekty\gomocup2012\freestyle4\1x7-15(1).psq
+______________________________
+pisq7 x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\3x2-171(1).psq
+______________________________
+Benjamin x pisq7
+-> f:\projekty\gomocup2012\freestyle4\2x3-53(1).psq
+______________________________
+BRUTEFOR x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\1x6-30(1).psq
+______________________________
+AI1000 x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\5x2-54(1).psq
+______________________________
+LEONARDO x Benjamin
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\4x2-387(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\8x1-38(1).psq
+______________________________
+Crusher10 x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\6x2-100(1).psq
+______________________________
+Benjamin x LEONARDO
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\2x4-390(1).psq
+______________________________
+mushroom x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\7x2-22(1).psq
+______________________________
+Benjamin x mushroom
+-> f:\projekty\gomocup2012\freestyle4\2x7-13(1).psq
+______________________________
+CURNPIS x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\8x2-252(1).psq
+______________________________
+Benjamin x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\2x8-53(1).psq
+______________________________
+LEONARDO x pisq7
+-> f:\projekty\gomocup2012\freestyle4\4x3-95(1).psq
+______________________________
+Benjamin x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\2x6-177(1).psq
+______________________________
+pisq7 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\3x4-29(1).psq
+______________________________
+Crusher10 x pisq7
+-> f:\projekty\gomocup2012\freestyle4\6x3-44(1).psq
+______________________________
+pisq7 x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\3x6-35(1).psq
+______________________________
+mushroom x pisq7
+-> f:\projekty\gomocup2012\freestyle4\7x3-16(1).psq
+______________________________
+pisq7 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\3x7-11(1).psq
+______________________________
+CURNPIS x pisq7
+-> f:\projekty\gomocup2012\freestyle4\8x3-94(1).psq
+______________________________
+pisq7 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\3x8-57(1).psq
+______________________________
+AI1000 x pisq7
+-> f:\projekty\gomocup2012\freestyle4\5x3-94(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\1x8-43(1).psq
+______________________________
+AI1000 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\5x4-138(1).psq
+______________________________
+Crusher10 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\6x4-80(1).psq
+______________________________
+pisq7 x AI1000
+-> f:\projekty\gomocup2012\freestyle4\3x5-39(1).psq
+______________________________
+LEONARDO x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\4x6-19(1).psq
+______________________________
+LEONARDO x AI1000
+-> f:\projekty\gomocup2012\freestyle4\4x5-31(1).psq
+______________________________
+mushroom x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\7x4-12(1).psq
+______________________________
+LEONARDO x mushroom
+-> f:\projekty\gomocup2012\freestyle4\4x7-11(1).psq
+______________________________
+Crusher10 x AI1000
+-> f:\projekty\gomocup2012\freestyle4\6x5-55(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\8x4-33(1).psq
+______________________________
+AI1000 x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\5x6-59(1).psq
+______________________________
+mushroom x AI1000
+-> f:\projekty\gomocup2012\freestyle4\7x5-20(1).psq
+______________________________
+AI1000 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\5x7-11(1).psq
+______________________________
+Benjamin x AI1000
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\2x5-390(1).psq
+______________________________
+mushroom x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\7x6-16(1).psq
+______________________________
+Crusher10 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\6x7-11(1).psq
+______________________________
+LEONARDO x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\4x8-88(1).psq
+______________________________
+CURNPIS x mushroom
+-> f:\projekty\gomocup2012\freestyle4\8x7-11(1).psq
+______________________________
+CURNPIS x AI1000
+-> f:\projekty\gomocup2012\freestyle4\8x5-78(1).psq
+______________________________
+AI1000 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\5x8-45(1).psq
+______________________________
+mushroom x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\7x8-22(1).psq
+______________________________
+Puskvorec x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\0x2-31(1).psq
+______________________________
+CURNPIS x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\8x6-114(1).psq
+______________________________
+Puskvorec x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\0x1-21(1).psq
+______________________________
+Crusher10 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\6x8-89(1).psq
+______________________________
+Puskvorec x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\0x4-23(1).psq
+______________________________
+LEONARDO x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\4x0-26(1).psq
+______________________________
+Puskvorec x AI1000
+-> f:\projekty\gomocup2012\freestyle4\0x5-83(1).psq
+______________________________
+AI1000 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\5x0-26(1).psq
+______________________________
+Puskvorec x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\0x6-21(1).psq
+______________________________
+BRUTEFOR x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\1x0-21(1).psq
+______________________________
+Puskvorec x mushroom
+-> f:\projekty\gomocup2012\freestyle4\0x7-11(1).psq
+______________________________
+mushroom x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\7x0-10(1).psq
+______________________________
+Crusher10 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\6x0-46(1).psq
+______________________________
+Puskvorec x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\0x8-51(1).psq
+______________________________
+CURNPIS x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\8x0-24(1).psq
+______________________________
+Benjamin x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\2x0-177(1).psq
+______________________________
+BRUTEFOR x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\1x4-17(1).psq
+______________________________
+BRUTEFOR x Benjamin
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\1x2-82(1).psq
+______________________________
+LEONARDO x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\4x1-25(1).psq
+______________________________
+BRUTEFOR x pisq7
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\1x3-56(1).psq
+______________________________
+pisq7 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\3x1-17(1).psq
+______________________________
+BRUTEFOR x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\1x6-17(1).psq
+______________________________
+BRUTEFOR x AI1000
+-> f:\projekty\gomocup2012\freestyle4\1x5-40(1).psq
+______________________________
+Benjamin x BRUTEFOR
+BRUTEFOR.ZIP: Timeout
+-> f:\projekty\gomocup2012\freestyle4\2x1-77(1).psq
+______________________________
+BRUTEFOR x mushroom
+-> f:\projekty\gomocup2012\freestyle4\1x7-15(2).psq
+______________________________
+Crusher10 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\6x1-34(2).psq
+______________________________
+mushroom x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\7x1-14(2).psq
+______________________________
+Benjamin x pisq7
+-> f:\projekty\gomocup2012\freestyle4\2x3-42(1).psq
+______________________________
+AI1000 x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\5x1-47(1).psq
+______________________________
+Benjamin x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\2x4-67(1).psq
+______________________________
+LEONARDO x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\4x2-89(1).psq
+______________________________
+Benjamin x AI1000
+-> f:\projekty\gomocup2012\freestyle4\2x5-65(1).psq
+______________________________
+BRUTEFOR x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\1x8-38(1).psq
+______________________________
+pisq7 x Benjamin
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\3x2-399(1).psq
+______________________________
+AI1000 x Benjamin
+Benjamin.exe returned invalid move [0,0]
+-> f:\projekty\gomocup2012\freestyle4\5x2-393(1).psq
+______________________________
+Benjamin x mushroom
+-> f:\projekty\gomocup2012\freestyle4\2x7-11(1).psq
+______________________________
+mushroom x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\7x2-20(1).psq
+______________________________
+Benjamin x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\2x6-89(1).psq
+______________________________
+CURNPIS x BRUTEFOR
+-> f:\projekty\gomocup2012\freestyle4\8x1-27(1).psq
+______________________________
+pisq7 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\3x4-59(1).psq
+______________________________
+LEONARDO x pisq7
+-> f:\projekty\gomocup2012\freestyle4\4x3-25(1).psq
+______________________________
+pisq7 x AI1000
+-> f:\projekty\gomocup2012\freestyle4\3x5-42(1).psq
+______________________________
+Crusher10 x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\6x2-192(1).psq
+______________________________
+AI1000 x pisq7
+-> f:\projekty\gomocup2012\freestyle4\5x3-25(2).psq
+______________________________
+pisq7 x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\3x6-39(2).psq
+______________________________
+pisq7 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\3x7-17(1).psq
+______________________________
+mushroom x pisq7
+-> f:\projekty\gomocup2012\freestyle4\7x3-12(1).psq
+______________________________
+Crusher10 x pisq7
+-> f:\projekty\gomocup2012\freestyle4\6x3-27(1).psq
+______________________________
+pisq7 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\3x8-27(1).psq
+______________________________
+CURNPIS x pisq7
+-> f:\projekty\gomocup2012\freestyle4\8x3-56(1).psq
+______________________________
+LEONARDO x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\4x6-39(1).psq
+______________________________
+Crusher10 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\6x4-38(1).psq
+______________________________
+Puskvorec x pisq7
+-> f:\projekty\gomocup2012\freestyle4\0x3-17(1).psq
+______________________________
+LEONARDO x mushroom
+-> f:\projekty\gomocup2012\freestyle4\4x7-11(2).psq
+______________________________
+mushroom x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\7x4-10(2).psq
+______________________________
+pisq7 x Puskvorec
+-> f:\projekty\gomocup2012\freestyle4\3x0-22(1).psq
+______________________________
+Benjamin x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\2x8-400(1).psq
+______________________________
+LEONARDO x AI1000
+-> f:\projekty\gomocup2012\freestyle4\4x5-121(1).psq
+______________________________
+CURNPIS x Benjamin
+-> f:\projekty\gomocup2012\freestyle4\8x2-124(1).psq
+______________________________
+AI1000 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\5x7-11(2).psq
+______________________________
+LEONARDO x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\4x8-89(1).psq
+______________________________
+AI1000 x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\5x4-27(1).psq
+______________________________
+mushroom x AI1000
+-> f:\projekty\gomocup2012\freestyle4\7x5-10(1).psq
+______________________________
+CURNPIS x LEONARDO
+-> f:\projekty\gomocup2012\freestyle4\8x4-31(1).psq
+______________________________
+Crusher10 x mushroom
+-> f:\projekty\gomocup2012\freestyle4\6x7-11(2).psq
+______________________________
+mushroom x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\7x6-10(2).psq
+______________________________
+mushroom x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\7x8-10(2).psq
+______________________________
+CURNPIS x mushroom
+-> f:\projekty\gomocup2012\freestyle4\8x7-11(2).psq
+______________________________
+Crusher10 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\6x8-114(1).psq
+______________________________
+CURNPIS x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\8x6-145(1).psq
+______________________________
+AI1000 x Crusher10
+-> f:\projekty\gomocup2012\freestyle4\5x6-195(1).psq
+______________________________
+Crusher10 x AI1000
+-> f:\projekty\gomocup2012\freestyle4\6x5-38(1).psq
+______________________________
+AI1000 x CURNPIS
+-> f:\projekty\gomocup2012\freestyle4\5x8-189(1).psq
+______________________________
+CURNPIS x AI1000
+-> f:\projekty\gomocup2012\freestyle4\8x5-88(1).psq

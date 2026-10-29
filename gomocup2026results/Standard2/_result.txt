@@ -1,0 +1,70 @@
+1. CHLORIS 2621
+    wins: 156+156, losses: 0+0, draws: 0+0
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 69s, time/turn: 3668ms, move/game: 19
+
+2. XOXO21.S 2004
+    wins: 99+106, losses: 28+24, draws: 5+2
+    timeouts: 1, errors: 0, total games: 264
+    time/game: 67s, time/turn: 2886ms, move/game: 23
+
+3. SLOWRENJU20 1889
+    wins: 95+107, losses: 46+32, draws: 3+5
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 88s, time/turn: 3655ms, move/game: 24
+
+4. TITO14 1878
+    wins: 94+105, losses: 45+35, draws: 5+4
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 27s, time/turn: 1114ms, move/game: 25
+
+5. DEEPFIRE19 1802
+    wins: 99+102, losses: 53+50, draws: 4+4
+    timeouts: 0, errors: 1, total games: 312
+    time/game: 82s, time/turn: 3545ms, move/game: 23
+
+6. HEWER18 1788
+    wins: 77+95, losses: 60+44, draws: 7+5
+    timeouts: 0, errors: 0, total games: 288
+    time/game: 60s, time/turn: 2307ms, move/game: 26
+
+7. GOFIVE 1708
+    wins: 91+83, losses: 60+68, draws: 5+5
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 89s, time/turn: 3666ms, move/game: 24
+
+8. CARBON17 1613
+    wins: 77+73, losses: 78+80, draws: 1+3
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 98s, time/turn: 4529ms, move/game: 22
+
+9. GMOTOR11 1473
+    wins: 56+57, losses: 99+97, draws: 1+2
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 58s, time/turn: 2956ms, move/game: 20
+
+10. PELA23 1452
+    wins: 46+49, losses: 102+96, draws: 8+11
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 119s, time/turn: 4478ms, move/game: 27
+
+11. ZETOR17 1394
+    wins: 49+46, losses: 95+98, draws: 0+0
+    timeouts: 1, errors: 0, total games: 288
+    time/game: 74s, time/turn: 3541ms, move/game: 21
+
+12. SQUIRREL24 1341
+    wins: 36+43, losses: 70+65, draws: 2+0
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 80s, time/turn: 3878ms, move/game: 21
+
+13. TKGOMOKU 858
+    wins: 11+12, losses: 145+144, draws: 0+0
+    timeouts: 0, errors: 0, total games: 312
+    time/game: 22s, time/turn: 2051ms, move/game: 11
+
+14. MONAS 580
+    wins: 1+2, losses: 155+154, draws: 0+0
+    timeouts: 11, errors: 0, total games: 312
+    time/game: 88s, time/turn: 10206ms, move/game: 9
+

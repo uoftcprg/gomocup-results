@@ -1,0 +1,11232 @@
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "0#VALKYRIE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "0#VALKYRIE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "0#VALKYRIE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "0#VALKYRIE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "1#CRUSHER"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "1#CRUSHER"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "1#CRUSHER"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "1#CRUSHER"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "2#FIVEROW"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "2#FIVEROW"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "2#FIVEROW"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "2#FIVEROW"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "3#PROLOG"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "5#BENJAMIN"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "3#PROLOG"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "3#PROLOG"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "3#PROLOG"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "4#MUSHROOM"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "4#MUSHROOM"]
+[Black "12#WHATATEAM"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "12#WHATATEAM"]
+[Black "4#MUSHROOM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "5#BENJAMIN"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "5#BENJAMIN"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "5#BENJAMIN"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "11#RAPFI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "11#RAPFI"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "6#ALPHAGOMOKU.KOZARZEWSKI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "7#DEEPFIRE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "7#DEEPFIRE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "7#DEEPFIRE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "7#DEEPFIRE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "8#EGO"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "8#EGO"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "8#EGO"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "8#EGO"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "9#GOFIVE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "9#GOFIVE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "9#GOFIVE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "9#GOFIVE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "10#LIGHTBLUE"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "10#LIGHTBLUE"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "10#LIGHTBLUE"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "10#LIGHTBLUE"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+
+[White "11#RAPFI"]
+[Black "12#WHATATEAM"]
+[Result "1-0"]
+
+1. d4 d5 1-0
+
+[White "12#WHATATEAM"]
+[Black "11#RAPFI"]
+[Result "0-1"]
+
+1. d4 d5 0-1
+

@@ -1,0 +1,70 @@
+-------------------------------------
+11. 4. 2014  6:03 - 19:54
+Time for turn: 30 s,   Time for match: 180 s
+Tolerance: 1 s,   Memory: 350 MB
+Openings: start from 1, used 3, available 3
+Rule: five or more stones wins
+Opening CRC: fe0d1f89
+Games played: 396
+-------------------------------------
+
+gmotor11
+wins: 52=25+26+1,   losses: 14=7+7
+time/turn: 2390 ms (max: 8.1 s),  time/game: 55 s
+moves/game: 23,  CRC: 56498af1,   memory: 36.02 MB
+
+pela
+wins: 53=29+23+1,   losses: 13=4+9
+time/turn: 3757 ms (max: 25.7 s),  time/game: 121 s
+moves/game: 32,  CRC: dd888743,   memory: 3.52 MB
+
+SlowRenju2014
+wins: 46=23+21+2,   losses: 20=9+11
+time/turn: 3032 ms (max: 12.1 s),  time/game: 77 s
+moves/game: 25,  CRC: 6c76255d,   memory: 259.47 MB
+
+Kanec
+wins: 49=21+22+6,   losses: 17=9+7+1
+time/turn: 3729 ms (max: 11.2 s),  time/game: 105 s
+moves/game: 28,  CRC: 572ea92,   memory: 250.27 MB
+
+HighFive
+wins: 48=25+22+1,   losses: 18=8+10
+time/turn: 3451 ms (max: 9.7 s),  time/game: 85 s
+moves/game: 24,  CRC: 88e25150,   memory: 3.23 MB
+
+jude
+wins: 29=11+16+2,   losses: 37=21+16
+time/turn: 1603 ms (max: 29.1 s),  time/game: 39 s
+moves/game: 24,  CRC: 96fded42,   memory: 63.38 MB
+
+amoeba10
+wins: 26=15+10+1,   losses: 40=12+16+12,  12 errors
+time/turn: 3014 ms (max: 11.4 s),  time/game: 72 s
+moves/game: 23,  CRC: 74e05c52,   memory: 356.41 MB
+
+zetor
+wins: 25=11+14,   losses: 41=18+17+6
+time/turn: 3475 ms (max: 29.2 s),  time/game: 84 s
+moves/game: 24,  CRC: 5d038d25,   memory: 5.68 MB
+
+QMENTAT6
+wins: 20=10+8+2,   losses: 46=22+24
+time/turn: 497 ms (max: 6.5 s),  time/game: 14 s
+moves/game: 28,  CRC: 7825efaf,   memory: 3.44 MB
+
+Pecuchet
+wins: 22=10+11+1,   losses: 44=22+22
+time/turn: 3338 ms (max: 13.3 s),  time/game: 74 s
+moves/game: 22,  CRC: a81e076b,   memory: 202.19 MB
+
+Noesis
+wins: 17=8+8+1,   losses: 49=24+25
+time/turn: 596 ms (max: 5.0 s),  time/game: 13 s
+moves/game: 21,  CRC: 8c55963c,   memory: 9.52 MB
+
+nabamoku
+wins: 9=6+2+1,   losses: 57=27+30
+time/turn: 3585 ms (max: 10.1 s),  time/game: 83 s
+moves/game: 23,  CRC: bb4c2405,   memory: 4.27 MB
+
